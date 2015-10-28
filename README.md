@@ -20,12 +20,15 @@ Finished
 
 TODO
 
-| No   | YouTube | Korean | Note |
+| No   | YouTube | Korean YouTube | Note |
 | ---- |:-------:|:------:|:----:|
 | [239](239) | Son's pessimistic attitude. | [link](https://www.youtube.com/watch?v=CskTJVmwVy4) |  |
 | [676](676) | Fairy tale author | [link](https://www.youtube.com/watch?v=EdbtYBtNHRA) |  |
 | [997](997) | Negative Thinking | [link](https://www.youtube.com/watch?v=jdKgA928x08) |  |
 | [1081](997) | Buddhism | [link](https://www.youtube.com/watch?v=afD0MeWHHZs) |  |
+| [906](906) | Depression | [link](https://www.youtube.com/watch?v=hZolBTemeGY) | |
+
+https://www.youtube.com/watch?v=hZolBTemeGY
 
 Abbreviation
 * ko: Korean
