@@ -17,7 +17,7 @@ Finished
 | No   | YouTube | Korean | Late Update |
 | ---- |:-------:|:------:|:----:|
 | [655](655) | [How can I become a great athlete?](https://www.youtube.com/watch?v=4GjfwfJxv9Q) | [link](https://www.youtube.com/watch?v=iVSjK141nao) | 2015.09.16 |
-| [1081](1081) | [Buddhism](https://www.youtube.com/watch?v=0owIgSNjhCU) | [link](https://www.youtube.com/watch?v=afD0MeWHHZs) | 2015.10.30 |
+| [1081](1081) | [I'd like to learn more about Buddhism](https://www.youtube.com/watch?v=0owIgSNjhCU) | [link](https://www.youtube.com/watch?v=afD0MeWHHZs) | 2015.10.30 |
 
 
 TODO
