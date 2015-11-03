@@ -10,7 +10,7 @@ You can report errors and problems to [issues](https://github.com/jungtosociety/
 
 * Role: converts transcript to subtitle (.sbv)
 
-Please contact [muae](muae.jungto@gmail.com) if you want to contribute your time and effort for this job.
+Please contact [muae](mailto:muae.jungto@gmail.com) if you want to contribute your time and effort for this job.
 
 ## Translation
 
