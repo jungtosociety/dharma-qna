@@ -1,14 +1,9 @@
 # Ven. Pomnyun's Dharma Q&amp;A Subtitling Project (법륜스님 즉문즉설 자막화)
 
-## What We Do
-* Transcript Korean Dharma Talk
-* Translate Korean Transcript into Multiple Languages (currently English and French)
-* Subtitle on Youtube
-
-## 하는일
-* 한글 즉문즉설 대본만들기 (타이핑)
-* 한글 대본 번역 (영어, 불어)
-* 대본 자막화 (유튜브)
+## What We Do 하는일
+* Transcript Korean Dharma Talk  한글 즉문즉설 대본만들기 (타이핑)
+* Translation (currently English and French) 한글 대본 번역 (영어, 불어)
+* Set timings 대본 자막화 (자막 동기화?)
 
 
 ## Finished
