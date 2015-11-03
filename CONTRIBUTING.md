@@ -6,15 +6,8 @@ Please check Dharma Talk's [issue tracker](https://github.com/jungtosociety/dhar
 
 You can report errors and problems to [issues](https://github.com/jungtosociety/dharma-qna/issues).
 
-## Subtitling
+## Set Timing
 
 * Role: converts transcript to subtitle (.sbv)
 
 Please contact [muae](mailto:muae.jungto@gmail.com) if you want to contribute your time and effort for this job.
-
-## Translation
-
-Now we have two active translation teams.
-
-* English Translation Team
-* French Translation Team
