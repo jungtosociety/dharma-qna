@@ -1,4 +1,4 @@
-# Dharma Q&amp;A 즉문즉설 Subtitling Project
+# Ven. Pomnyun's Dharma Q&amp;A Subtitling Project (법륜스님 즉문즉설 자막화)
 
 ## What We Do
 * Transcript Korean Dharma Talk
@@ -38,5 +38,7 @@
 * [language]-[no]-[title].sbv
 * ex) ko-655-good-athelete.sbv
 
+
+
 ## Contributing
-Anyone can participate in the [법륜스님 즉문즉설](https://www.youtube.com/user/jungtosociety/) subtitling project. Please see the [Contributing Guide](CONTRIBUTING.md) for more details.
+Anyone can participate in [Ven. Pomnyun's Dharma Q&A](https://www.youtube.com/playlist?list=PLZKHecEKSBgZZ_draQ8jwyqehn26yG2lM) subtitling project. Please see the [Contributing Guide](CONTRIBUTING.md) for more details.
