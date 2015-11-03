@@ -39,4 +39,4 @@
 * ex) ko-655-good-athelete.sbv
 
 ## Contributing
-Anyone can participate in [법륜스님 즉문즉설](https://www.youtube.com/user/jungtosociety/) subtitling. Please see the [Contributing Guide](CONTRIBUTING.md) for more details.
+Anyone can participate in the [법륜스님 즉문즉설](https://www.youtube.com/user/jungtosociety/) subtitling project. Please see the [Contributing Guide](CONTRIBUTING.md) for more details.
