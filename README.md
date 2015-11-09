@@ -23,6 +23,7 @@
 | [997](997) | Negative Thinking | [link](https://www.youtube.com/watch?v=jdKgA928x08) |  |
 | [906](906) | Depression | [link](https://www.youtube.com/watch?v=hZolBTemeGY) | |
 | [984](984) | Crush | [짝사랑 중인 상대가 저를 멀리해요](https://www.youtube.com/watch?v=q1BMwtjyQmU) | |
+| [900](900) | Perfectionism | [완벽하려고 하는 성격 때문에 스트레스 받아요](https://www.youtube.com/watch?v=WXLF1qBHiWg) | |
 
 ## Abbreviation
 * ko: Korean
