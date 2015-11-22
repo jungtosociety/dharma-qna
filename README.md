@@ -10,15 +10,15 @@
 
 | No   | YouTube | Korean | Late Update |
 | ---- |:-------:|:------:|:----:|
-| [655](655) | [How can I become a great athlete?](https://www.youtube.com/watch?v=4GjfwfJxv9Q) | [link](https://www.youtube.com/watch?v=iVSjK141nao) | 2015.09.16 |
-| [1081](1081) | [I'd like to learn more about Buddhism](https://www.youtube.com/watch?v=0owIgSNjhCU) | [link](https://www.youtube.com/watch?v=afD0MeWHHZs) | 2015.10.30 |
+| [655](655) | [How can I become a great athlete?](https://www.youtube.com/watch?v=4GjfwfJxv9Q) | [제655회 우수한 선수가 될 수 있을 것이라는 스님의 응원메세지가 듣고 싶습니다](https://www.youtube.com/watch?v=iVSjK141nao) | 2015.09.16 |
+| [1081](1081) | [I'd like to learn more about Buddhism](https://www.youtube.com/watch?v=0owIgSNjhCU) | [제1081회 불교가 무엇인지 공부해 보고 싶은데 어떻게 해야 할까요?](https://www.youtube.com/watch?v=afD0MeWHHZs) | 2015.10.30 |
+| [239](239) | [I worry about my son's pessimistic attitude](https://www.youtube.com/watch?v=IswBL6uZVF0) | [제239회 29세 아들의 부정적 시선이 염려됩니다](https://www.youtube.com/watch?v=CskTJVmwVy4) | 2015.11.21 |
 
 
 ## TODO
 
 | No   | YouTube | Korean YouTube | Note |
 | ---- |:-------:|:------:|:----:|
-| [239](239) | Son's pessimistic attitude. | [link](https://www.youtube.com/watch?v=CskTJVmwVy4) |  |
 | [676](676) | Fairy tale author | [link](https://www.youtube.com/watch?v=EdbtYBtNHRA) |  |
 | [997](997) | Negative Thinking | [link](https://www.youtube.com/watch?v=jdKgA928x08) |  |
 | [906](906) | Depression | [link](https://www.youtube.com/watch?v=hZolBTemeGY) | |
