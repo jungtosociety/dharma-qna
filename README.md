@@ -20,8 +20,8 @@
 | No   | YouTube | Korean YouTube | Note |
 | ---- |:-------:|:------:|:----:|
 | [676](676) | Desire to Write | [동화작가가 꿈인데 생계를 위해 다른 글을 쓰고 있습니다](https://www.youtube.com/watch?v=EdbtYBtNHRA) |  |
-| [997](997) | Negative Thinking | [link](https://www.youtube.com/watch?v=jdKgA928x08) |  |
-| [906](906) | Depression | [link](https://www.youtube.com/watch?v=hZolBTemeGY) | |
+| [997](997) | Negative Thinking | [부정적 사고와 긍정적 사고](https://www.youtube.com/watch?v=jdKgA928x08) |  |
+| [906](906) | Depression | [우울함에 빠질 때 마인드 컨트롤 하는 방법](https://www.youtube.com/watch?v=hZolBTemeGY) | |
 | [984](984) | Crush | [짝사랑 중인 상대가 저를 멀리해요](https://www.youtube.com/watch?v=q1BMwtjyQmU) | |
 | [900](900) | Perfectionism | [완벽하려고 하는 성격 때문에 스트레스 받아요](https://www.youtube.com/watch?v=WXLF1qBHiWg) | |
 | [488](488) | If you understand other people, you'll feel better | [상대를 이해하면 내 마음이 편하다](https://www.youtube.com/watch?v=e7yGY_u3H6s) | |
