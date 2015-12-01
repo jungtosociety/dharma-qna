@@ -19,7 +19,7 @@
 
 | No   | YouTube | Korean YouTube | Note |
 | ---- |:-------:|:------:|:----:|
-| [676](676) | Fairy tale author | [link](https://www.youtube.com/watch?v=EdbtYBtNHRA) |  |
+| [676](676) | Desire to Write | [동화작가가 꿈인데 생계를 위해 다른 글을 쓰고 있습니다](https://www.youtube.com/watch?v=EdbtYBtNHRA) |  |
 | [997](997) | Negative Thinking | [link](https://www.youtube.com/watch?v=jdKgA928x08) |  |
 | [906](906) | Depression | [link](https://www.youtube.com/watch?v=hZolBTemeGY) | |
 | [984](984) | Crush | [짝사랑 중인 상대가 저를 멀리해요](https://www.youtube.com/watch?v=q1BMwtjyQmU) | |
