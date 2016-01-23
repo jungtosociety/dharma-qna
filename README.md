@@ -15,9 +15,9 @@
 * [900](900) My Perfectionism Stresses Me
 
 ## Work in Progress
-* [488](488)
-* [906](906)
-* [640](640)
+* [906](906) How to Control Your Mind When You Feel Depressed
+* [488](488) If You Understand Other People, You'll Feel Better
+* [640](640) Suicidal Impulse
 * [489](489)
 * [742](742)
 * [573](573)
