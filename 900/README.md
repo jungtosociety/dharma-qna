@@ -5,4 +5,3 @@
 * Published on Jan 16, 2016
 * Jungto Overseas Video: https://www.youtube.com/watch?v=PlTQBj-hS6k
 * Korean Jungto Link: https://www.youtube.com/watch?v=WXLF1qBHiWg
-* 
