@@ -18,11 +18,11 @@
 * [906](906) How to Control Your Mind When You Feel Depressed
 * [488](488) If You Understand Other People, You'll Feel Better
 * [640](640) Suicidal Impulse
-* [489](489)
-* [742](742)
-* [573](573)
-* [712](712)
-* [854](854)
+* [489](489) Don't Look at Others, Look Within Yourself
+* [742](742) 아들이 여자가 되겠다고 합니다
+* [573](573) 아름답게 사는 중용의 삶을 살자니 너무 어렵습니다
+* [712](712) 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요
+* [854](854) 인간관계가 잘 안되고 게으름이 있는데, 어떻게 극복
 
 ## Abbreviation
 * ko: Korean
