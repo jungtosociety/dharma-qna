@@ -3,5 +3,5 @@
 * French Title: 
 * Play Time: 0:12:13
 * Published on 
-* Jungto Overseas Video: 
+* Jungto Overseas Video: https://www.youtube.com/watch?v=oNXvGFYtlaQ
 * Korean Jungto Link: https://www.youtube.com/watch?v=e7yGY_u3H6s
