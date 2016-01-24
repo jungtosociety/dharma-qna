@@ -4,4 +4,4 @@
 * Play Time: 
 * Published on 
 * Jungto Overseas Video: 
-* Korean Jungto Link: 
+* Korean Jungto Link: https://www.youtube.com/watch?v=hZolBTemeGY
