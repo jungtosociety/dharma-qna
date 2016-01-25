@@ -7,16 +7,23 @@
 
 ## [Project Status](PROJECTS.md)
 
-## Rules
+## Guidelines
 
-### Abbreviation
-* ko: Korean
-* en: English
-* fr: French
+### Subtitling
+* Line legnth
+ * 42 latin characters per line
+ * 25 Korean characters per line
+ * recommend less than or equal to 2 lines per subtitle
+* Reading speed: recommend less than 25 characters/sec
 
 ### Subtitle File Name Convention
 * [language]-[no]-[title].sbv
 * ex) ko-655-good-athelete.sbv
+
+#### Abbreviation
+* ko: Korean
+* en: English
+* fr: French
 
 ### [Youtube Upload Convension](YouTube.md)
 
