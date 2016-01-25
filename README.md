@@ -7,14 +7,18 @@
 
 ## [Project Status](PROJECTS.md)
 
-## Abbreviation
+## Rules
+
+### Abbreviation
 * ko: Korean
 * en: English
 * fr: French
 
-## Subtitle File Name Convention
+### Subtitle File Name Convention
 * [language]-[no]-[title].sbv
 * ex) ko-655-good-athelete.sbv
+
+### [Youtube Upload Convension](YouTube.md)
 
 ## Contributing
 Anyone can participate in [Ven. Pomnyun's Dharma Q&A](https://www.youtube.com/playlist?list=PLZKHecEKSBgZZ_draQ8jwyqehn26yG2lM) subtitling project. Please see the [Contributing Guide](CONTRIBUTING.md) for more details.
