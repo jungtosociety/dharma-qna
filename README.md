@@ -10,7 +10,7 @@
 ## Guidelines
 
 ### Subtitling
-* Line legnth
+* Line length
  * 42 latin characters per line
  * 25 Korean characters per line
  * recommend less than or equal to 2 lines per subtitle
