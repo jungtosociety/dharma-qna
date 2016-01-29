@@ -5,3 +5,6 @@
 * Published on 2015-09-16
 * Jungto Overseas Video Link: https://www.youtube.com/watch?v=4GjfwfJxv9Q
 * Korean Channel Link: https://www.youtube.com/watch?v=iVSjK141nao
+* https://youtu.be/NzMGrgklWyA
+* Index: 655
+* Dimensions: 654x480

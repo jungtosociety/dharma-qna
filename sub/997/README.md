@@ -5,3 +5,5 @@
 * Published on Dec 19, 2015
 * Jungto Overseas Video: https://www.youtube.com/watch?v=ScaKEct3C5c
 * Korean Jungto Link: https://www.youtube.com/watch?v=jdKgA928x08
+* Dimensions: 1920x1080
+* Index: 997

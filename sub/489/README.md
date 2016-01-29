@@ -5,3 +5,5 @@
 * Published on 
 * Jungto Overseas Video: 
 * Korean Jungto Link: https://www.youtube.com/watch?v=Sr_YcScNORY
+* Dimensions: 654x480
+* Index: 489
