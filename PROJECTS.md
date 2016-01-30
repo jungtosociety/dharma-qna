@@ -6,10 +6,10 @@
 * [997](sub/997) Negative and Positive Thinking
 * [984](sub/984) The Person I Have a Crush on Is Distancing Herself From Me
 * [900](sub/900) My Perfectionism Stresses Me
+* [488](sub/488) If You Understand Other People, You'll Feel Better
 
 ## Work in Progress
 * [906](sub/906) How to Control Your Mind When You Feel Depressed
-* [488](sub/488) If You Understand Other People, You'll Feel Better
 * [640](sub/640) Suicidal Impulse
 * [489](sub/489) Don't Look at Others, Look Within Yourself
 * [742](sub/742) 아들이 여자가 되겠다고 합니다
