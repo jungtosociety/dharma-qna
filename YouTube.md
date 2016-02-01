@@ -29,5 +29,17 @@ Le Maître Zen, le Vénérable Pomnyun snim est le fondateur de la communauté b
 
 법륜스님은 사람의 목숨을 살리고 생명을 보호하는 일이 정파적인 이해나 이념적인 견해에 우선이라는 것을 현실에서 직접 몸으로 보여주고 실천해왔다. 남북한의 긴장관계 속에서의 이러한 실천은 어느 때는 친북적인 인사로 오해받아 감시를 받고, 또 다른 때는 반북적인 인사로 활동을 제한받기도 하였다. 법륜스님은 먹을 것이 없어 사람이 죽어가는 비참한 현실과 그보다 더 냉정한 분단의 장벽을 녹이는 일은 사람의 생명을 살리는 인도적인 지원을 꾸준히 해 나가는 것이라 생각하면서 대북 지원과 탈북자 돕기 활동을 해왔고, 현재는 우리민족의 미래에 대한 장기전략을 연구하는 평화재단을 설립하여 활동하기 시작했다.
 
+## German Title and Description Rule
+
+### Titel 
+
+[Titel auf Deutsch] Ven. Pomnyuns Dharma Q&A
+
+### Beschreibung 
+
+Untertitel verfügbar in folgenden Sprachen: Koreanisch, Englisch, Französisch und Deutsch.
+
+Ven. Pomnyun Sunim ist der Gründer und leitende Zen-Meister der Jungto Society. Er ist nicht nur ein buddhistischer Mönch und Zen-Meister, sondern auch ein sozialer Aktivist, der verschiedene Bewegungen leitet wie Kampagnen zum Umweltbewusstsein, zur Förderung der Menschenrechte und des Friedens in der Welt, zur Beseitigung von Hungersnot,  Krankheit und Analphabetismus. Für weitere Informationen über Ven. Pomnyun Sunim unddie Jungto Society besuchen Sie bitte unsere Webseite http://www.jungtosociety.org/
+
 ## Tagging
 Engaged Buddhism, Dharma talk, Buddha's teaching, Lecture, Counselling, Mental agony, Buddhist monk, Zen Master, Practice, Meditation, Suffering, Freedom, Happiness, Transcender, Religion, Nirvana, FAQ, Enlightment, Daily life
