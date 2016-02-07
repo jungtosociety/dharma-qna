@@ -24,6 +24,7 @@
 * ko: Korean
 * en: English
 * fr: French
+* de: German
 
 ### [Youtube Upload Convension](YouTube.md)
 
