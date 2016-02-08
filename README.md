@@ -7,6 +7,13 @@
 
 ## [Project Status](PROJECTS.md)
 
+## YouTube Playlists
+* [English Playlist](https://www.youtube.com/playlist?list=PLZKHecEKSBgZZ_draQ8jwyqehn26yG2lM)
+ * Some videos do not have subtitles in this playlist
+* [Korean Subtitles Playlist](https://www.youtube.com/playlist?list=PLZKHecEKSBgYy9a435BdwNFfcmezqKHJo)
+* [French Subtitles Playlist](https://www.youtube.com/playlist?list=PLZKHecEKSBgbHZibutScCyk78-Wamvkut)
+* [German Subtitles Playlist](https://www.youtube.com/playlist?list=PLZKHecEKSBgbfPlwNdm3LiTFDVvkecd_V)
+
 ## Guidelines
 
 ### Subtitling
