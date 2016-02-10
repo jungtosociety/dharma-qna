@@ -3,8 +3,7 @@
 * French Title: 
 * Play Time: Suicidal impulse
 * Published on 
-* Jungto Overseas Video: 
+* Jungto Overseas Video: https://youtu.be/z6lxOZF2Wgk
 * Korean Jungto Link: https://www.youtube.com/watch?v=GpJ0gq-TlXE
-* https://youtu.be/z6lxOZF2Wgk
 * Dimensions: 654x480
 * Index: 640

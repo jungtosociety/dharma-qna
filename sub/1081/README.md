@@ -3,8 +3,8 @@
 * French Title: J'aimerais étudier le Bouddhisme
 * Play Time: 0:08:19
 * Published on Oct 30 2015
-* Jungto Overseas Video: https://www.youtube.com/watch?v=0owIgSNjhCU
+* Jungto Overseas Video: https://youtu.be/yp_X0KQPqyg
+  * https://www.youtube.com/watch?v=0owIgSNjhCU
 * Korean Jungto Link: https://www.youtube.com/watch?v=afD0MeWHHZs
-* https://youtu.be/yp_X0KQPqyg
 * Index: 1081
 * Dimensions: 1920x1080

@@ -3,8 +3,7 @@
 * French Title: 
 * Play Time: 
 * Published on 
-* Jungto Overseas Video: 
+* Jungto Overseas Video: https://youtu.be/wg14Pbqy7b8
 * Korean Jungto Link: https://www.youtube.com/watch?v=hZolBTemeGY
-* https://youtu.be/wg14Pbqy7b8
 * Dimensions: 1920x1080
 * Index: 906

@@ -3,8 +3,8 @@
 * French subtible is not provided
 * Play Time: 0:11:17
 * Published on Nov 21, 2015
-* Jungto Overseas Video: https://www.youtube.com/watch?v=IswBL6uZVF0
+* Jungto Overseas Video: https://youtu.be/PdiVY7Y9KNk
+  * https://www.youtube.com/watch?v=IswBL6uZVF0
 * Korean Jungto Link: https://www.youtube.com/watch?v=CskTJVmwVy4
-* https://youtu.be/PdiVY7Y9KNk
 * Index: 239
 * Dimensions: 640x480
