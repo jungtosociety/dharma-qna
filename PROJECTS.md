@@ -5,7 +5,7 @@
 * [239](sub/239) I Worry About My Son's Pessimistic Attitude [ko] [en]
 * [676](sub/676) Desire to Write [ko] [en] [fr]
 * [997](sub/997) Negative and Positive Thinking [ko] [en] [fr]
-* [984](sub/984) The Person I Have a Crush on Is Distancing Herself From Me [ko] [en] [fr]
+* [984](sub/984) The Person I Have a Crush on Is Distancing Herself From Me [ko] [en] [fr] [de]
 * [900](sub/900) My Perfectionism Stresses Me [ko] [en] [fr] [de]
 * [488](sub/488) If You Understand Other People, You'll Feel Better [ko] [en]
 
