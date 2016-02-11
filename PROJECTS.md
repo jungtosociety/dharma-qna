@@ -1,12 +1,13 @@
 ## Published
-* [655](sub/655) How Can I Become a Great Athlete?
-* [1081](sub/1081) I'd Like to Learn More About Buddhism 
-* [239](sub/239) I Worry About My Son's Pessimistic Attitude | Ven. Pomnyun's Dharma Q&A 
-* [676](sub/676) Desire to Write
-* [997](sub/997) Negative and Positive Thinking
-* [984](sub/984) The Person I Have a Crush on Is Distancing Herself From Me
-* [900](sub/900) My Perfectionism Stresses Me
-* [488](sub/488) If You Understand Other People, You'll Feel Better
+
+* [655](sub/655) How Can I Become a Great Athlete? [ko] [en] [fr]
+* [1081](sub/1081) I'd Like to Learn More About Buddhism [ko] [en] [fr]
+* [239](sub/239) I Worry About My Son's Pessimistic Attitude [ko] [en]
+* [676](sub/676) Desire to Write [ko] [en] [fr]
+* [997](sub/997) Negative and Positive Thinking [ko] [en] [fr]
+* [984](sub/984) The Person I Have a Crush on Is Distancing Herself From Me [ko] [en] [fr]
+* [900](sub/900) My Perfectionism Stresses Me [ko] [en] [fr] [de]
+* [488](sub/488) If You Understand Other People, You'll Feel Better [ko] [en]
 
 ## Work in Progress
 * [906](sub/906) How to Control Your Mind When You Feel Depressed
