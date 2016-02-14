@@ -8,7 +8,7 @@
 * [984](sub/984) The Person I Have a Crush on Is Distancing Herself From Me [ko] [en] [fr] [de]
 * [900](sub/900) My Perfectionism Stresses Me [ko] [en] [fr] [de]
 * [488](sub/488) If You Understand Other People, You'll Feel Better [ko] [en]
-* [906](sub/906) How to Control Your Mind When You Feel Depressed [en]
+* [906](sub/906) How to Control Your Mind When You Feel Depressed [ko] [en]
 
 ## Work in Progress
 
