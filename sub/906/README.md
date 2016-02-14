@@ -8,4 +8,4 @@
 * Korean Jungto Link: https://youtu.be/hZolBTemeGY
 * Dimensions: 1920x1080
 * Index: 906
-* Subtitling: Jung Lee (reviewed by Muae)
+* 류창민, 이예선, 이혜진, 김완준, 이정화, 김재명
