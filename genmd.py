@@ -1,11 +1,16 @@
-import sqlite3
+# -*- coding: utf_8 -*-
 
-f = open('PROJECTS.md', 'w')
+import sqlite3
+import sys  
+
+# sys.setdefaultencoding('utf_8')
+
 c = sqlite3.connect('dharmaqna.db')
 
+f = open('PROJECTS.md', 'w')
 f.write('## Published\n\n');
-f.write('| NO | TITLE         | XLS | PUBDATA | EN | FR | DE |\n')
-f.write('|----| ------------- |-----|---------|----|----|----|\n')
+f.write('| NO | TITLE         | XLS | PUBLISHED | EN | FR | DE |\n')
+f.write('|----| ------------- |-----|-----------|----|----|----|\n')
 
 for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,en.fn,fr.fn,de.fn \
                         FROM video v \
@@ -29,7 +34,5 @@ for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,en.fn,fr.fn,de.fn 
     frlink = "[fr](sub/%s/%s)" % (vid,fn_fr) if fn_fr is not None else ''
     delink = "[de](sub/%s/%s)" % (vid,fn_de) if fn_de is not None else ''
     f.write("| %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, title, xlslink, pubdate, enlink, frlink, delink ))
-
-
-# print ' ![excel logo](/img/excel.png)'
+f.close()
 

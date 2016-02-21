@@ -1,7 +1,7 @@
 ## Published
 
-| NO | TITLE         | XLS | PUBDATA | EN | FR | DE |
-|----| ------------- |-----|---------|----|----|----|
+| NO | TITLE         | XLS | PUBLISHED | EN | FR | DE |
+|----| ------------- |-----|-----------|----|----|----|
 | [906](sub/906) | How to Control Your Mind When You Feel Depressed | [![](img/excel.png)](sub/906/en-906-depression.xlsx) | 2016-02-13 | [en](sub/906/en-906-depression.sbv) |  |  |
 | [488](sub/488) | If You Understand Other People, You'll Feel Better | [![](img/excel.png)](sub/488/en-488-understand.xlsx) | 2016-01-30 | [en](sub/488/en-488-understand.sbv) |  |  |
 | [900](sub/900) | My Perfectionism Stresses Me | [![](img/excel.png)](sub/900/en-900-perfectionism.xlsx) | 2016-01-16 | [en](sub/900/en-900-perfectionism.sbv) | [fr](sub/900/fr-900-perfectionism.sbv) | [de](sub/900/de-900-perfectionism.sbv) |
