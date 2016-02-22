@@ -7,8 +7,8 @@ import sys
 
 
 def gen_table(f,predicate,orderby):
-    f.write('| NO | TITLE         | YT | AM | XLS | PUBLISHED | EN | FR | DE |\n')
-    f.write('|----| ------------- |----|----|-----|-----------|----|----|----|\n')
+    f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE |\n')
+    f.write('|----| ------------- |----|----|-----|---------|----|----|----|\n')
 
     for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,v.youtube,v.amara,en.fn,fr.fn,de.fn \
                             FROM video v \
