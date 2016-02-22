@@ -36,9 +36,12 @@ for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,v.youtube,v.amara,
     xlslink = "[![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/%s/%s)" % (vid,xlsfn)
     utubelink = "[<img src=img/youtube.png width=25>](https://youtu.be/%s)" % (youtube)
     amaralink = "[<img src=img/amara.png width=25>](http://amara.org/en/videos/%s)" % (amara) if amara is not None else ''
-    enlink  = "[en](sub/%s/%s)" % (vid,fn_en) if fn_en is not None else ''
-    frlink = "[fr](sub/%s/%s)" % (vid,fn_fr) if fn_fr is not None else ''
-    delink = "[de](sub/%s/%s)" % (vid,fn_de) if fn_de is not None else ''
+    # enlink  = "[en](sub/%s/%s)" % (vid,fn_en) if fn_en is not None else ''
+    # frlink = "[fr](sub/%s/%s)" % (vid,fn_fr) if fn_fr is not None else ''
+    # delink = "[de](sub/%s/%s)" % (vid,fn_de) if fn_de is not None else ''
+    enlink = "[en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/%s/%s)" % (vid,fn_en) if fn_en is not None else ''
+    frlink = "[fr](https://github.com/jungtosociety/dharma-qna/raw/master/sub/%s/%s)" % (vid,fn_fr) if fn_fr is not None else ''
+    delink = "[de](https://github.com/jungtosociety/dharma-qna/raw/master/sub/%s/%s)" % (vid,fn_de) if fn_de is not None else ''
     f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, pubdate, enlink, frlink, delink ))
 f.close()
 
