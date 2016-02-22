@@ -32,7 +32,8 @@ for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,v.youtube,v.amara,
     # titlelink = "[%s](https://youtu.be/%s)" % (vid, title, youtube)
     titlelink = title
     nolink = "[%s](sub/%s)" % (vid,vid)
-    xlslink = "[![](img/excel.png)](sub/%s/%s)" % (vid,xlsfn)
+    # xlslink = "[![](img/excel.png)](sub/%s/%s)" % (vid,xlsfn)
+    xlslink = "[![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/%s/%s)" % (vid,xlsfn)
     utubelink = "[<img src=img/youtube.png width=25>](https://youtu.be/%s)" % (youtube)
     amaralink = "[<img src=img/amara.png width=25>](http://amara.org/en/videos/%s)" % (amara) if amara is not None else ''
     enlink  = "[en](sub/%s/%s)" % (vid,fn_en) if fn_en is not None else ''
