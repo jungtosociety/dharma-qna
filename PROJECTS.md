@@ -15,9 +15,9 @@
 
 | NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE |
 |----| ------------- |----|----|-----|---------|----|----|----|
-| [640](sub/640) | Suicidal impulse | [<img src=img/youtube.png width=25>](https://youtu.be/z6lxOZF2Wgk) | [<img src=img/amara.png width=25>](http://amara.org/en/videos/w8ymWLXzTcyF) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.xlsx) | 2016-02-27 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.sbv) |  |  |
+| [640](sub/640) | Suicidal Impulse | [<img src=img/youtube.png width=25>](https://youtu.be/z6lxOZF2Wgk) | [<img src=img/amara.png width=25>](http://amara.org/en/videos/w8ymWLXzTcyF) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.xlsx) | 2016-02-27 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.sbv) |  |  |
 | [489](sub/489) | Don't Look at Others, Look Within Yourself | [<img src=img/youtube.png width=25>](https://youtu.be/IOk5cZ9psBs) | [<img src=img/amara.png width=25>](http://amara.org/en/videos/FvWS4splyJkN) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/en-489-look-within-yourself.xlsx) | None |  |  |  |
 | [573](sub/573) | None | [<img src=img/youtube.png width=25>](https://youtu.be/None) |  |  | None |  |  |  |
 | [102](sub/102) | None | [<img src=img/youtube.png width=25>](https://youtu.be/None) |  |  | None |  |  |  |
-| [883](sub/883) | None | [<img src=img/youtube.png width=25>](https://youtu.be/None) |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/883-exam.xlsx) | None |  |  |  |
+| [883](sub/883) | I Didn't Do Well on An Exam. How Can I Calm My Parent's Anger?  | [<img src=img/youtube.png width=25>](https://youtu.be/None) |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/883-exam.xlsx) | None |  |  |  |
 | [742](sub/742) | None | [<img src=img/youtube.png width=25>](https://youtu.be/YHuR4TIUL7U) |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) | None |  |  |  |
