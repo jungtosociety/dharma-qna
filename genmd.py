@@ -5,6 +5,12 @@ import sys
 
 # sys.setdefaultencoding('utf_8')
 
+def githublink(vid,fn,text):
+    baseurl = "https://github.com/jungtosociety/dharma-qna/raw/master/sub"
+    if fn is not None and fn != '' :
+        return "[%s](%s/%s/%s)" % (text,baseurl,vid,fn) 
+    else:
+        return ''
 
 def gen_table(f,predicate,orderby):
     f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE |\n')
@@ -30,16 +36,12 @@ def gen_table(f,predicate,orderby):
         # titlelink = "[%s](https://youtu.be/%s)" % (vid, title, youtube)
         titlelink = title
         nolink = "[%s](sub/%s)" % (vid,vid)
-        # xlslink = "[![](img/excel.png)](sub/%s/%s)" % (vid,xlsfn)
-        xlslink = "[![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/%s/%s)" % (vid,xlsfn)
+        xlslink = githublink(vid,xlsfn,'![](img/excel.png)')
         utubelink = "[<img src=img/youtube.png width=25>](https://youtu.be/%s)" % (youtube)
         amaralink = "[<img src=img/amara.png width=25>](http://amara.org/en/videos/%s)" % (amara) if amara is not None else ''
-        # enlink  = "[en](sub/%s/%s)" % (vid,fn_en) if fn_en is not None else ''
-        # frlink = "[fr](sub/%s/%s)" % (vid,fn_fr) if fn_fr is not None else ''
-        # delink = "[de](sub/%s/%s)" % (vid,fn_de) if fn_de is not None else ''
-        enlink = "[en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/%s/%s)" % (vid,fn_en) if fn_en is not None else ''
-        frlink = "[fr](https://github.com/jungtosociety/dharma-qna/raw/master/sub/%s/%s)" % (vid,fn_fr) if fn_fr is not None else ''
-        delink = "[de](https://github.com/jungtosociety/dharma-qna/raw/master/sub/%s/%s)" % (vid,fn_de) if fn_de is not None else ''
+        enlink = githublink(vid,fn_en,'en')
+        frlink = githublink(vid,fn_fr,'fr')
+        delink = githublink(vid,fn_de,'de')
         f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, pubdate, enlink, frlink, delink ))
 
 c = sqlite3.connect('dharmaqna.db')
