@@ -2,6 +2,7 @@
 
 | NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE |
 |----| ------------- |----|----|-----|---------|----|----|----|
+| [640](sub/640) | Suicidal Impulse | [<img src=img/youtube.png width=25>](https://youtu.be/z6lxOZF2Wgk) | [<img src=img/amara.png width=25>](http://amara.org/en/videos/w8ymWLXzTcyF) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.xlsx) | 2016-02-27 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.sbv) |  |  |
 | [906](sub/906) | How to Control Your Mind When You Feel Depressed | [<img src=img/youtube.png width=25>](https://youtu.be/PQomKbgB45w) | [<img src=img/amara.png width=25>](http://amara.org/en/videos/hjbgLzfe8XBV) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/en-906-depression.xlsx) | 2016-02-13 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/en-906-depression.sbv) |  |  |
 | [488](sub/488) | If You Understand Other People, You'll Feel Better | [<img src=img/youtube.png width=25>](https://youtu.be/AUg_2sNt5qc) | [<img src=img/amara.png width=25>](http://amara.org/en/videos/3t6ocMUzw4YG) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/488/en-488-understand.xlsx) | 2016-01-30 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/488/en-488-understand.sbv) |  |  |
 | [900](sub/900) | My Perfectionism Stresses Me | [<img src=img/youtube.png width=25>](https://youtu.be/utumcS1iGvM) | [<img src=img/amara.png width=25>](http://amara.org/en/videos/EkaeX3zDKXeC) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.xlsx) | 2016-01-16 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.sbv) | [fr](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/fr-900-perfectionism.sbv) | [de](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/de-900-perfectionism.sbv) |
@@ -15,9 +16,8 @@
 
 | NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE |
 |----| ------------- |----|----|-----|---------|----|----|----|
-| [640](sub/640) | Suicidal Impulse | [<img src=img/youtube.png width=25>](https://youtu.be/z6lxOZF2Wgk) | [<img src=img/amara.png width=25>](http://amara.org/en/videos/w8ymWLXzTcyF) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.xlsx) | 2016-02-27 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.sbv) |  |  |
 | [489](sub/489) | Don't Look at Others, Look Within Yourself | [<img src=img/youtube.png width=25>](https://youtu.be/IOk5cZ9psBs) | [<img src=img/amara.png width=25>](http://amara.org/en/videos/FvWS4splyJkN) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/en-489-look-within-yourself.xlsx) | None |  |  |  |
-| [573](sub/573) | None | [<img src=img/youtube.png width=25>](https://youtu.be/None) |  |  | None |  |  |  |
-| [102](sub/102) | None | [<img src=img/youtube.png width=25>](https://youtu.be/None) |  |  | None |  |  |  |
+| [573](sub/573) | None | [<img src=img/youtube.png width=25>](https://youtu.be/giNoXr2pAfQ) |  |  | None |  |  |  |
 | [883](sub/883) | I Didn't Do Well on An Exam. How Can I Calm My Parent's Anger?  | [<img src=img/youtube.png width=25>](https://youtu.be/None) |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/883-exam.xlsx) | None |  |  |  |
+| [102](sub/102) | None | [<img src=img/youtube.png width=25>](https://youtu.be/None) |  |  | None |  |  |  |
 | [742](sub/742) | None | [<img src=img/youtube.png width=25>](https://youtu.be/YHuR4TIUL7U) |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) | None |  |  |  |
