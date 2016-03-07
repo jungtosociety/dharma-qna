@@ -57,7 +57,7 @@ def gentab_subtitling(f,wip=True):
       whereorderby = 'WHERE status=\'published\' ORDER BY puborder ASC'
 
     for row in c.execute('SELECT vid,title,xlsfn,pubdate,youtube,amara, \
-                                 subworker,subbegin,subend,subfinal,memo \
+                                 subworker,subbegin,subend,subfinal,memo,playtime \
                             FROM video %s ' % whereorderby ):
         vid     = row[0]
         title   = utf8(row[1])
@@ -70,11 +70,12 @@ def gentab_subtitling(f,wip=True):
         end     = utf8(row[8])
         final   = utf8(row[9])
         memo    = utf8(row[10])
+        playtime    = utf8(row[11])
         nolink = utf8("[%s](sub/%s)" % (vid,vid))
         xlslink = utf8(githublink(vid,xlsfn,'![](img/excel.png)'))
         utubelink = utf8("[<img src=img/youtube.png width=25>](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
         amaralink = utf8("[<img src=img/amara.png width=25>](http://amara.org/en/videos/%s)" % (amara) if amara is not None else '')
-        f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, title, utubelink, amaralink, xlslink, pubdate, worker, begin, end, final, memo ))
+        f.write("| %s | %s | %s %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, title, utubelink, playtime, amaralink, xlslink, pubdate, worker, begin, end, final, memo ))
 
 c = sqlite3.connect('dharmaqna.db')
 
