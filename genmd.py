@@ -12,17 +12,18 @@ def githublink(vid,fn,text):
     else:
         return ''
 
-def gen_table(f,predicate,orderby):
+def gentab_published(f):
     f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE |\n')
     f.write('|----| ------------- |----|----|-----|---------|----|----|----|\n')
 
-    for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,v.youtube,v.amara,en.fn,fr.fn,de.fn \
+    for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,v.youtube,v.amara, \
+                                 en.fn,fr.fn,de.fn \
                             FROM video v \
                             LEFT OUTER JOIN en ON v.vid = en.vid \
                             LEFT OUTER JOIN fr ON v.vid = fr.vid \
                             LEFT OUTER JOIN de ON v.vid = de.vid \
-                           WHERE '+predicate+' \
-                           ORDER BY '+orderby+' \
+                           WHERE status=\'published\' \
+                           ORDER BY v.puborder DESC \
                              ' ):
         vid     = row[0]
         title   = row[1] #.encode('utf8')
@@ -33,7 +34,6 @@ def gen_table(f,predicate,orderby):
         fn_en   = row[6]
         fn_fr   = row[7]
         fn_de   = row[8]
-        # titlelink = "[%s](https://youtu.be/%s)" % (vid, title, youtube)
         titlelink = title
         nolink = "[%s](sub/%s)" % (vid,vid)
         xlslink = githublink(vid,xlsfn,'![](img/excel.png)')
@@ -44,13 +44,48 @@ def gen_table(f,predicate,orderby):
         delink = githublink(vid,fn_de,'de')
         f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, pubdate, enlink, frlink, delink ))
 
+def utf8(str):
+    return unicode(str if str is not None else '').encode('utf8')    
+
+def gentab_subtitling(f,wip=True):
+    f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | WORKER | BEGIN | END | REVIEW | NOTE |\n')
+    f.write('|----| ------------- |----|----|-----|---------|--------|-------|-----|--------|------|\n')
+             
+    if wip:
+      whereorderby = 'WHERE status IS NULL ORDER BY puborder ASC'
+    else:
+      whereorderby = 'WHERE status=\'published\' ORDER BY puborder ASC'
+
+    for row in c.execute('SELECT vid,title,xlsfn,pubdate,youtube,amara, \
+                                 subworker,subbegin,subend,subfinal,memo \
+                            FROM video %s ' % whereorderby ):
+        vid     = row[0]
+        title   = utf8(row[1])
+        xlsfn   = row[2]
+        pubdate = utf8(row[3])
+        youtube = row[4]
+        amara   = row[5]
+        worker  = utf8(row[6])
+        begin   = utf8(row[7])
+        end     = utf8(row[8])
+        final   = utf8(row[9])
+        memo    = utf8(row[10])
+        nolink = utf8("[%s](sub/%s)" % (vid,vid))
+        xlslink = utf8(githublink(vid,xlsfn,'![](img/excel.png)'))
+        utubelink = utf8("[<img src=img/youtube.png width=25>](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
+        amaralink = utf8("[<img src=img/amara.png width=25>](http://amara.org/en/videos/%s)" % (amara) if amara is not None else '')
+        f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, title, utubelink, amaralink, xlslink, pubdate, worker, begin, end, final, memo ))
+
 c = sqlite3.connect('dharmaqna.db')
 
 f = open('PROJECTS.md', 'w')
-f.write('## Published\n\n');
-gen_table(f,'status=\'published\'','v.puborder DESC')
-
-f.write('## Work In Progress\n\n');
-gen_table(f,'status IS NULL','v.puborder ASC')
+# f.write('## Published\n\n');
+gentab_published(f)
 f.close()
 
+f = open('SUBTITLING.md', 'w')
+f.write('## Work In Progress\n\n');
+gentab_subtitling(f)
+f.write('## Published\n\n');
+gentab_subtitling(f,False)
+f.close()
