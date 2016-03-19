@@ -4,7 +4,6 @@
 [Title in English] | Ven. Pomnyun's Dharma Q&A
 
 ### Description
-Subtitles available in Korean, English and French.
 
 The Guiding Zen Master of Jungto Society Ven. Pomnyun Sunim is the founder and Guiding Zen Master of Jungto Society. He is not only a Buddhist monk and Zen master but also a social activist who leads various movements such as ecological awareness campaign; promotion of human rights and world peace; and eradication of famine, disease, and illiteracy. For more information about Ven. Pomnyun Sunim and Jungto Society, please visit http://www.jungtosociety.org/
 
@@ -36,8 +35,6 @@ Le Maître Zen, le Vénérable Pomnyun snim est le fondateur de la communauté b
 [Titel auf Deutsch] Ven. Pomnyuns Dharma Q&A
 
 ### Beschreibung 
-
-Untertitel verfügbar in folgenden Sprachen: Koreanisch, Englisch, Französisch und Deutsch.
 
 Ven. Pomnyun Sunim ist der Gründer und leitende Zen-Meister der Jungto Society. Er ist nicht nur ein buddhistischer Mönch und Zen-Meister, sondern auch ein sozialer Aktivist, der verschiedene Bewegungen leitet wie Kampagnen zum Umweltbewusstsein, zur Förderung der Menschenrechte und des Friedens in der Welt, zur Beseitigung von Hungersnot,  Krankheit und Analphabetismus. Für weitere Informationen über Ven. Pomnyun Sunim unddie Jungto Society besuchen Sie bitte unsere Webseite http://www.jungtosociety.org/
 
