@@ -5,6 +5,7 @@
 | [573](sub/573) | 아름답게 사는 중용의 삶을 살자니 너무 어렵습니다 | [<img src=img/youtube.png width=25>](https://youtu.be/giNoXr2pAfQ) 0:07:12 |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/573-moderation.xlsx) |  | JH | 2016-02-20 | 한글 완료 / 영문 시작해야 함 |  | 한영대본 |
 | [883](sub/883) | 시험을 못봤어요, 엄마 아빠의 분노를 잠재우려면? | [<img src=img/youtube.png width=25>](https://youtu.be/5OZ-v8lwumo) 0:07:01 |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/883-exam.xlsx) |  | MK | 2016-03-07 | 3/28 예정 |  | 한영대본 |
 | [851](sub/851) | 카드빚 갚아달라며 계속 요구하는 아들, 어떡하죠? | [<img src=img/youtube.png width=25>](https://youtu.be/1tMErMTUwks) 0:08:40 | [<img src=img/amara.png width=25>](http://amara.org/en/videos/uQOxVi7aLYXT) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/851-card-debt.xlsx) |  | DY |  |  |  | 한영대본 |
+| [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요 |  0:05:15 |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) |  |  |  |  |  |  |
 | [742](sub/742) | 아들이 여자가 되겠다고 합니다 | [<img src=img/youtube.png width=25>](https://youtu.be/YHuR4TIUL7U) 0:10:11 |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) |  |  |  |  |  |  |
 | [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다 |  0:10:46 |  |  |  |  |  |  |  |  |
 ## Published
