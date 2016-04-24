@@ -56,9 +56,12 @@ def gentab_subtitling(f,wip=True):
     else:
       whereorderby = 'WHERE status=\'published\' ORDER BY puborder ASC'
 
-    for row in c.execute('SELECT vid,title,xlsfn,pubdate,youtube,amara, \
-                                 subworker,subbegin,subend,subfinal,memo,playtime \
-                            FROM video %s ' % whereorderby ):
+    for row in c.execute('SELECT v.vid, v.title, v.xlsfn, v.pubdate, v.youtube, v.amara, \
+                                 v.subworker, v.subbegin, v.subend, v.subfinal, v.memo, \
+                                 v.playtime, en.title \
+                            FROM video v \
+                            LEFT OUTER JOIN en ON v.vid = en.vid \
+                            '+whereorderby ):
         vid     = row[0]
         title   = utf8(row[1])
         xlsfn   = row[2]
@@ -70,7 +73,9 @@ def gentab_subtitling(f,wip=True):
         end     = utf8(row[8])
         final   = utf8(row[9])
         memo    = utf8(row[10])
-        playtime    = utf8(row[11])
+        playtime  = utf8(row[11])
+        entitle   = row[12]
+        title    += utf8("<br>%s" % (entitle) if entitle is not None else '') 
         nolink = utf8("[%s](sub/%s)" % (vid,vid))
         xlslink = utf8(githublink(vid,xlsfn,'![](img/excel.png)'))
         utubelink = utf8("[<img src=img/youtube.png width=25>](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
