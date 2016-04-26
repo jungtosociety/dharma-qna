@@ -1,11 +1,24 @@
-* English Title: How to Control Your Mind When You Feel Depressed
-* Korean Title: 우울함에 빠질 때 마인드 컨트롤 하는 방법
-* French Title: 
-* German Title: 
-* Play Time: 7:12
-* Published: 2016-2-13
-* Jungto Overseas Video: https://youtu.be/PQomKbgB45w
-* Korean Jungto Link: https://youtu.be/hZolBTemeGY
-* Dimensions: 1920x1080
-* Index: 906
-* 류창민, 이예선, 이혜진, 김완준, 이정화, 김재명
+|  key  |  value  |
+|-------|---------|
+| ID            | 906 |
+| Title         | 우울함에 빠질 때 마인드 컨트롤 하는 방법 |
+| Korean Subtitle | [ko-906-depression.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/ko-906-depression.sbv) |
+| English Title | How to Control Your Mind When You Feel Depressed |
+| English Subtitle | [en-906-depression.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/en-906-depression.sbv) |
+| Korean/English Published     | 2016-02-13 |
+| Transcript Contributor(s)   | 류창민 |
+| Translation Contributor(s)   | 이예선, 이혜진, 김완준 |
+| Subtitling Contributor(s)   | 이정화 |
+| French Title |  |
+| French Subtitle |  |
+| French Subtitle Published |  |
+| French Subtitle Contributor(s) |  |
+| German Title |  |
+| German Subtitle |  |
+| German Subtitle Published |  |
+| German Subtitle Contributor(s) |  |
+| YouTube Link  | [https://youtu.be/PQomKbgB45w](https://youtu.be/PQomKbgB45w) |
+| Amara Link    | [http://amara.org/en/videos/hjbgLzfe8XBV](http://amara.org/en/videos/hjbgLzfe8XBV) |
+| Transcript(ko/en) | [en-906-depression.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/en-906-depression.xlsx) |
+| Playtime | 0:07:12 |
+| Resolution | 1920x1080|

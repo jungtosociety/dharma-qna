@@ -5,8 +5,13 @@ import sys
 
 # sys.setdefaultencoding('utf_8')
 
-def githublink(vid,fn,text):
+def utf8(str):
+    return unicode(str if str is not None else '').encode('utf8')    
+
+def githublink(vid,fn,text=None):
     baseurl = "https://github.com/jungtosociety/dharma-qna/raw/master/sub"
+    if text is None:
+        text = fn
     if fn is not None and fn != '' :
         return "[%s](%s/%s/%s)" % (text,baseurl,vid,fn) 
     else:
@@ -51,10 +56,6 @@ def gentab_published(f):
         delink = githublink(vid,fn_de,'de')
         f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, pubdate, enlink, frlink, delink ))
 
-    
-def utf8(str):
-    return unicode(str if str is not None else '').encode('utf8')    
-
 def gentab_subtitling(f,wip=True):
     f.write('| NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |\n')
     f.write('|----| ------------- |-------|-------------|----------|--------|\n')
@@ -91,16 +92,16 @@ def gentab_subtitling(f,wip=True):
         f.write("| %s | %s   | %s %s      | %s | %s      | %s |\n" % ( nolink, title, utubelink, playtime, xlslink, worker, final ))
         f.write("|    | %s   | %s amara   | %s | %s ~ %s | %s |\n" % ( entitle, amaralink, pubdate, begin, end, memo ))
 
-c = sqlite3.connect('dharmaqna.db')
+if __name__ == "__main__":
+    c = sqlite3.connect('dharmaqna.db')
 
-f = open('PROJECTS.md', 'w')
-# f.write('## Published\n\n');
-gentab_published(f)
-f.close()
+    f = open('PROJECTS.md', 'w')
+    gentab_published(f)
+    f.close()
 
-f = open('SUBTITLING.md', 'w')
-f.write('## Work In Progress\n\n');
-gentab_subtitling(f)
-f.write('## Published\n\n');
-gentab_subtitling(f,False)
-f.close()
+    f = open('SUBTITLING.md', 'w')
+    f.write('## Work In Progress\n\n');
+    gentab_subtitling(f)
+    f.write('## Published\n\n');
+    gentab_subtitling(f,False)
+    f.close()
