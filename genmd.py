@@ -13,6 +13,13 @@ def githublink(vid,fn,text):
         return ''
 
 def gentab_published(f):
+#     f.write('---\n\
+# layout: page\n\
+# title: Project List\n\
+# permalink: /project.html\n\
+# ---\n\
+# \n\n');
+
     f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE |\n')
     f.write('|----| ------------- |----|----|-----|---------|----|----|----|\n')
 
@@ -35,21 +42,22 @@ def gentab_published(f):
         fn_fr   = row[7]
         fn_de   = row[8]
         titlelink = title
-        nolink = "[%s](sub/%s)" % (vid,vid)
+        nolink = "[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid)
         xlslink = githublink(vid,xlsfn,'![](img/excel.png)')
-        utubelink = "[<img src=img/youtube.png width=25>](https://youtu.be/%s)" % (youtube)
-        amaralink = "[<img src=img/amara.png width=25>](http://amara.org/en/videos/%s)" % (amara) if amara is not None else ''
+        utubelink = "[![](img/youtube.png)](https://youtu.be/%s)" % (youtube)
+        amaralink = "[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else ''
         enlink = githublink(vid,fn_en,'en')
         frlink = githublink(vid,fn_fr,'fr')
         delink = githublink(vid,fn_de,'de')
         f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, pubdate, enlink, frlink, delink ))
 
+    
 def utf8(str):
     return unicode(str if str is not None else '').encode('utf8')    
 
 def gentab_subtitling(f,wip=True):
-    f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | WORKER | BEGIN | END | REVIEW | NOTE |\n')
-    f.write('|----| ------------- |----|----|-----|---------|--------|-------|-----|--------|------|\n')
+    f.write('| NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |\n')
+    f.write('|----| ------------- |-------|-------------|----------|--------|\n')
              
     if wip:
       whereorderby = 'WHERE status IS NULL ORDER BY puborder ASC'
@@ -75,12 +83,13 @@ def gentab_subtitling(f,wip=True):
         memo    = utf8(row[10])
         playtime  = utf8(row[11])
         entitle   = row[12]
-        title    += utf8("<br>%s" % (entitle) if entitle is not None else '') 
+        entitle   = utf8("%s" % (entitle) if entitle is not None else '') 
         nolink = utf8("[%s](sub/%s)" % (vid,vid))
         xlslink = utf8(githublink(vid,xlsfn,'![](img/excel.png)'))
-        utubelink = utf8("[<img src=img/youtube.png width=25>](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
-        amaralink = utf8("[<img src=img/amara.png width=25>](http://amara.org/en/videos/%s)" % (amara) if amara is not None else '')
-        f.write("| %s | %s | %s %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, title, utubelink, playtime, amaralink, xlslink, pubdate, worker, begin, end, final, memo ))
+        utubelink = utf8("[![](img/youtube.png)](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
+        amaralink = utf8("[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else '')
+        f.write("| %s | %s\  | %s %s      | %s | %s      | %s |\n" % ( nolink, title, utubelink, playtime, xlslink, worker, final ))
+        f.write("|    | %s   | %s amara   | %s | %s ~ %s | %s |\n" % ( entitle, amaralink, pubdate, begin, end, memo ))
 
 c = sqlite3.connect('dharmaqna.db')
 
