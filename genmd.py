@@ -88,7 +88,7 @@ def gentab_subtitling(f,wip=True):
         xlslink = utf8(githublink(vid,xlsfn,'![](img/excel.png)'))
         utubelink = utf8("[![](img/youtube.png)](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
         amaralink = utf8("[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else '')
-        f.write("| %s | %s\  | %s %s      | %s | %s      | %s |\n" % ( nolink, title, utubelink, playtime, xlslink, worker, final ))
+        f.write("| %s | %s   | %s %s      | %s | %s      | %s |\n" % ( nolink, title, utubelink, playtime, xlslink, worker, final ))
         f.write("|    | %s   | %s amara   | %s | %s ~ %s | %s |\n" % ( entitle, amaralink, pubdate, begin, end, memo ))
 
 c = sqlite3.connect('dharmaqna.db')
