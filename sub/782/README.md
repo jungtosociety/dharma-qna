@@ -5,7 +5,7 @@
 | Korean Subtitle |  |
 | English Title | I Get Easily Hurt by Other People |
 | English Subtitle |  |
-| Korean/English Published     |  |
+| Korean/English Published     | 2016-07-01 |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   | 박빛나리, 이혜진, 김연우, 김미선 |
 | Subtitling Contributor(s)   | 김미경 |
