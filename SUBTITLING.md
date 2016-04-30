@@ -13,7 +13,7 @@
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) 0:13:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | 김미경      |  |
 |    | I Get Easily Hurt by Other People   | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) amara   | 2016-07-01 |  ~  | 영번역완 |
 | [853](sub/853) | 고3 딸이 입시에 대한 중압감이 너무 큽니다   | [![](img/youtube.png)](https://youtu.be/fH1yUn-dYBU) 0:04:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/853-pressure-entrance-exam.xlsx) | not assigned      |  |
-|    | My daughter is under too much pressure over the university entrance exam   |  amara   | 2016-07-15 |  ~  |  |
+|    | My daughter is under too much pressure over the university entrance exam   | [![](img/amara.png)](http://amara.org/en/videos/AcdVe1mvtsDJ) amara   | 2016-07-15 |  ~  |  |
 | [742](sub/742) | 아들이 여자가 되겠다고 합니다   | [![](img/youtube.png)](https://youtu.be/YHuR4TIUL7U) 0:10:11      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) |       |  |
 |    |    |  amara   |  |  ~  | 준비안됨 |
 ## Published

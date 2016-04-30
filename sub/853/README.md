@@ -18,7 +18,7 @@
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
 | YouTube Link  | [https://youtu.be/fH1yUn-dYBU](https://youtu.be/fH1yUn-dYBU) |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/AcdVe1mvtsDJ](http://amara.org/en/videos/AcdVe1mvtsDJ) |
 | Transcript(ko/en) | [853-pressure-entrance-exam.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/853-pressure-entrance-exam.xlsx) |
 | Playtime | 0:04:14 |
 | Resolution | 1920x1080|
