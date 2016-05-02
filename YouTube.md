@@ -28,17 +28,17 @@
 
 * 외국인강연
 
-그밖에 관리용 태그
-
-* nokocapinvideo: 영상에 한글자막 블러처리한 것
-* kocapinvideo: 영상에 한글자막이 박혀있는것
-
 불어 자막있는 영상에 대해 아래 태그 추가
 
 * pomnyun en français
 * français
 * frencais
 
+그밖에 관리용 태그 (deprecated)
+(초기에 블러(blur) 처리 안된 영상이 섞여 있어서 필요했으나 이제 사용안함)
+
+* nokocapinvideo: 영상에 한글자막 블러처리한 것
+* kocapinvideo: 영상에 한글자막이 박혀있는것
 
 ## Pomnyun Sunim Introduction
 
