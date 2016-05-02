@@ -2,8 +2,6 @@
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
 |----| ------------- |-------|-------------|----------|--------|
-| [883](sub/883) | 시험을 못봤어요, 엄마 아빠의 분노를 잠재우려면?   | [![](img/youtube.png)](https://youtu.be/5OZ-v8lwumo) 0:07:01      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/883-exam.xlsx) | 김미경      |  |
-|    | I Didn't Do Well on An Exam. How Can I Calm My Parent's Anger?    | [![](img/amara.png)](http://amara.org/en/videos/6ZgjwKD81l2a) amara   | 2016-05-01 | 2016-03-07 ~ 3/28 예정 | 영번역완 |
 | [573](sub/573) | 아름답게 사는 중용의 삶을 살자니 너무 어렵습니다   | [![](img/youtube.png)](https://youtu.be/Aaq1JUawHLM) 0:07:12      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/573-moderation.xlsx) | 이정화      |  |
 |    | Living Life in Moderation   | [![](img/amara.png)](http://amara.org/en/videos/6AuyYe0XovH0) amara   | 2016-05-15 | 2016-02-20 ~ 한글 완료 / 영문 시작해야 함 | 영번역완 |
 | [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | 이동엽      |  |
@@ -44,3 +42,5 @@
 |    | Don't Look at Others, Look Within Yourself   | [![](img/amara.png)](http://amara.org/en/videos/FvWS4splyJkN) amara   | 2016-03-19 | 2016-01-14 ~ 2016-03-15 |  |
 | [851](sub/851) | 카드빚 갚아달라며 계속 요구하는 아들, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/1tMErMTUwks) 0:08:40      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/851-card-debt.xlsx) | 이동엽      | JM 2016-04-19 |
 |    | My son demands that I pay off his credit card debt. What should I do?    | [![](img/amara.png)](http://amara.org/en/videos/uQOxVi7aLYXT) amara   | 2016-04-19 | 2016-03-22 ~ 2016-04-01 |  |
+| [883](sub/883) | 시험을 못봤어요, 엄마 아빠의 분노를 잠재우려면?   | [![](img/youtube.png)](https://youtu.be/5OZ-v8lwumo) 0:07:01      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/883-exam.xlsx) | 김미경      | JM 2016-5-2 |
+|    | I Didn't Do Well on An Exam. How Can I Calm My Parent's Anger?    | [![](img/amara.png)](http://amara.org/en/videos/6ZgjwKD81l2a) amara   | 2016-05-02 | 2016-03-07 ~  |  |

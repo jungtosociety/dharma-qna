@@ -2,11 +2,11 @@
 |-------|---------|
 | ID            | 883 |
 | Title         | 시험을 못봤어요, 엄마 아빠의 분노를 잠재우려면? |
-| Korean Subtitle |  |
+| Korean Subtitle | [ko-883-exam.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/ko-883-exam.sbv) |
 | English Title | I Didn't Do Well on An Exam. How Can I Calm My Parent's Anger?  |
-| English Subtitle |  |
-| Korean/English Published     | 2016-05-01 |
-| Transcript Contributor(s)   |  |
+| English Subtitle | [en-883-exam.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/en-883-exam.sbv) |
+| Korean/English Published     | 2016-05-02 |
+| Transcript Contributor(s)   | 류창민 |
 | Translation Contributor(s)   | 전은영, 이혜진, 김연우, 김미선 |
 | Subtitling Contributor(s)   | 김미경 |
 | French Title |  |
