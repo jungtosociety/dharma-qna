@@ -1,5 +1,5 @@
 ## Chnages
-* 2016/4/9 제목은 아래 규칙대로 하고, description은 질문자의 질문내용을 올리기로 정함. 아래 description은 각 언어별 스님 소개
+* 2016/4/9 제목은 아래 규칙대로 하고, description은 질문자의 질문내용을 올리기로 정함.
 
 ## Titling Rule
 
