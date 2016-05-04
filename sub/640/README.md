@@ -9,8 +9,8 @@
 | Transcript Contributor(s)   | Moon |
 | Translation Contributor(s)   | 김미선, 이혜진, 김완준, 김연우 |
 | Subtitling Contributor(s)   | 김미경 |
-| French Title |  |
-| French Subtitle |  |
+| French Title | L'impulsion suicidaire |
+| French Subtitle | [fr-640-suicidal-impulse.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/fr-640-suicidal-impulse.sbv) |
 | French Subtitle Published |  |
 | French Subtitle Contributor(s) |  |
 | German Title |  |
