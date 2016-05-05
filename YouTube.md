@@ -31,7 +31,7 @@
 
 불어 자막있는 영상에 대해 아래 태그 추가
 
-* pomnyun en français, français, francais, pomnyun en francais
+* Pomnyun en français, français, francais, Pomnyun en francais
 
 그밖에 관리용 태그 (deprecated)
 (초기에 블러(blur) 처리 안된 영상이 섞여 있어서 필요했으나 이제 사용안함)
