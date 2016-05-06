@@ -9,8 +9,8 @@
 | Transcript Contributor(s)   | 류창민 |
 | Translation Contributor(s)   | 전은영, 이혜진, 김연우, 김미선 |
 | Subtitling Contributor(s)   | 이동엽 |
-| French Title |  |
-| French Subtitle |  |
+| French Title | 851 french title needed |
+| French Subtitle | [fr-851-card-debt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/fr-851-card-debt.sbv) |
 | French Subtitle Published |  |
 | French Subtitle Contributor(s) |  |
 | German Title |  |

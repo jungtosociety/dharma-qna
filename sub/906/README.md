@@ -9,8 +9,8 @@
 | Transcript Contributor(s)   | 류창민 |
 | Translation Contributor(s)   | 이예선, 이혜진, 김완준 |
 | Subtitling Contributor(s)   | 이정화 |
-| French Title |  |
-| French Subtitle |  |
+| French Title | Comment se remonter le moral quand on se sent déprimé. |
+| French Subtitle | [fr-906-depression.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/fr-906-depression.sbv) |
 | French Subtitle Published |  |
 | French Subtitle Contributor(s) |  |
 | German Title |  |
