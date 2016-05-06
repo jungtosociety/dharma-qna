@@ -8,7 +8,7 @@
 | Korean/English Published     | 2016-07-15 |
 | Transcript Contributor(s)   | 허정연 |
 | Translation Contributor(s)   | 전은영, 이혜진, 김연우, 김미선 |
-| Subtitling Contributor(s)   | not assigned |
+| Subtitling Contributor(s)   | 이정화 |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |
