@@ -2,7 +2,7 @@
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
 |----| ------------- |-------|-------------|----------|--------|
-| [573](sub/573) | 아름답게 사는 중용의 삶을 살자니 너무 어렵습니다   | [![](img/youtube.png)](https://youtu.be/Aaq1JUawHLM) 0:07:12      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/573-moderation.xlsx) | 이정화      |  |
+| [573](sub/573) | 아름답게 사는 중용의 삶을 살자니 너무 어렵습니다   | [![](img/youtube.png)](https://youtu.be/Aaq1JUawHLM) 0:07:12      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/573-moderation.xlsx) | 이정화, 김재명      |  |
 |    | Living Life in Moderation   | [![](img/amara.png)](http://amara.org/en/videos/6AuyYe0XovH0) amara   | 2016-05-15 | 2016-02-20 ~ 한글 완료 / 영문 시작해야 함 | 영번역완 |
 | [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | 이동엽      |  |
 |    | Obsession over Physical Beauty    | [![](img/amara.png)](http://amara.org/en/videos/xVo0OdM6vxik) amara   | 2016-06-01 |  ~  | 영번역완 |
