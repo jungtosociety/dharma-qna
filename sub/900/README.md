@@ -12,7 +12,7 @@
 | French Title | Mon Caractère Perfectionniste Me Stresse |
 | French Subtitle | [fr-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/fr-900-perfectionism.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Subtitle Contributor(s) | 윤혜정, 김경진, 김선옥 |
 | German Title | Mein Perfektionismus belastet mich |
 | German Subtitle | [de-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/de-900-perfectionism.sbv) |
 | German Subtitle Published |  |

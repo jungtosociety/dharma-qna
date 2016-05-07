@@ -12,7 +12,7 @@
 | French Title | L'attitude négative de mon fils m'inquiète. |
 | French Subtitle | [fr-239-pessimistic-son.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/fr-239-pessimistic-son.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Subtitle Contributor(s) | 윤혜정, 김경진, 김선옥 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

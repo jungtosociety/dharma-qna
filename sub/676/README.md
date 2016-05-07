@@ -12,7 +12,7 @@
 | French Title | Soif d'écrire |
 | French Subtitle | [fr-676-fairy-tale-author.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/676/fr-676-fairy-tale-author.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Subtitle Contributor(s) | 윤혜정, 김경진, 김선옥 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

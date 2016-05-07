@@ -9,10 +9,10 @@
 | Transcript Contributor(s)   | 류창민 |
 | Translation Contributor(s)   | 전은영, 이혜진, 김연우, 김미선 |
 | Subtitling Contributor(s)   | 김미경 |
-| French Title |  |
-| French Subtitle |  |
+| French Title | Je viens de rater un examen. Comment faire pour calmer la colère de mes parents |
+| French Subtitle | [fr-883-exam.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/fr-883-exam.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Subtitle Contributor(s) | 윤혜정, 김경진, 박지현 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |
