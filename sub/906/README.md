@@ -11,7 +11,7 @@
 | Subtitling Contributor(s)   | 이정화 |
 | French Title | Comment se remonter le moral quand on se sent déprimé. |
 | French Subtitle | [fr-906-depression.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/fr-906-depression.sbv) |
-| French Subtitle Published |  |
+| French Subtitle Published | 2016-05-05 |
 | French Subtitle Contributor(s) | 윤혜정, 김경진, 박지현 |
 | German Title |  |
 | German Subtitle |  |

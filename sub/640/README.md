@@ -11,7 +11,7 @@
 | Subtitling Contributor(s)   | 김미경 |
 | French Title | L'impulsion suicidaire |
 | French Subtitle | [fr-640-suicidal-impulse.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/fr-640-suicidal-impulse.sbv) |
-| French Subtitle Published |  |
+| French Subtitle Published | 2016-05-05 |
 | French Subtitle Contributor(s) | 윤혜정, 김경진, 박지현 |
 | German Title |  |
 | German Subtitle |  |

@@ -20,8 +20,8 @@ def genReadme(subid=None):
                                  v.xdim, v.ydim, \
                                  ko.title as kotitle, ko.fn as kosub, ko.contributors as kocon, \
                                  en.title as entitle, en.fn as ensub, en.contributors as encon, \
-                                 fr.title as frtitle, fr.fn as frsub, fr.contributors as frcon, \
-                                 de.title as detitle, de.fn as desub, de.contributors as decon \
+                                 fr.title as frtitle, fr.fn as frsub, fr.contributors as frcon, fr.pubdate as frpubdate, \
+                                 de.title as detitle, de.fn as desub, de.contributors as decon, de.pubdate as depubdate \
                             FROM video v \
                  LEFT OUTER JOIN ko ON v.vid = ko.vid \
                  LEFT OUTER JOIN en ON v.vid = en.vid \
@@ -54,11 +54,11 @@ def genReadme(subid=None):
         f.write("| Subtitling Contributor(s)   | "+utf8(row["subworker"])+" |\n")
         f.write("| French Title | "+utf8(row["frtitle"])+" |\n")
         f.write("| French Subtitle | "+utf8(githublink(vid,row["frsub"]))+" |\n")
-        f.write("| French Subtitle Published | "+""+" |\n")
+        f.write("| French Subtitle Published | "+utf8(row["frpubdate"])+" |\n")
         f.write("| French Subtitle Contributor(s) | "+utf8(row["frcon"])+" |\n")
         f.write("| German Title | "+utf8(row["detitle"])+" |\n")
         f.write("| German Subtitle | "+utf8(githublink(vid,row["desub"]))+" |\n")
-        f.write("| German Subtitle Published | "+""+" |\n")
+        f.write("| German Subtitle Published | "+utf8(row["depubdate"])+" |\n")
         f.write("| German Subtitle Contributor(s) | "+utf8(row["decon"])+" |\n")
         f.write("| YouTube Link  | "+utubelink+" |\n")
         f.write("| Amara Link    | "+amaralink+" |\n")

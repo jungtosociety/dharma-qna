@@ -11,7 +11,7 @@
 | Subtitling Contributor(s)   | 이동엽 |
 | French Title | Mon fils me demande de rembourser l'encours de sa carte de crédit. Que dois-je faire? |
 | French Subtitle | [fr-851-card-debt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/fr-851-card-debt.sbv) |
-| French Subtitle Published |  |
+| French Subtitle Published | 2016-05-07 |
 | French Subtitle Contributor(s) | 윤혜정, 김경진, 박지현 |
 | German Title |  |
 | German Subtitle |  |

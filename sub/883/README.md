@@ -11,7 +11,7 @@
 | Subtitling Contributor(s)   | 김미경 |
 | French Title | Je viens de rater un examen. Comment faire pour calmer la colère de mes parents |
 | French Subtitle | [fr-883-exam.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/fr-883-exam.sbv) |
-| French Subtitle Published |  |
+| French Subtitle Published | 2016-05-07 |
 | French Subtitle Contributor(s) | 윤혜정, 김경진, 박지현 |
 | German Title |  |
 | German Subtitle |  |
