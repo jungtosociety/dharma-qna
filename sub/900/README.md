@@ -12,11 +12,11 @@
 | French Title | Mon Caractère Perfectionniste Me Stresse |
 | French Subtitle | [fr-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/fr-900-perfectionism.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) | 윤혜정, 김경진, 김선옥 |
+| French Subtitle Contributor(s) | translation:윤혜정; subtitling:김선옥 |
 | German Title | Mein Perfektionismus belastet mich |
 | German Subtitle | [de-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/de-900-perfectionism.sbv) |
 | German Subtitle Published |  |
-| German Subtitle Contributor(s) | 김민지,추희숙 |
+| German Subtitle Contributor(s) | 김민지,추희숙; subtitled by 김민지 |
 | YouTube Link  | [https://youtu.be/utumcS1iGvM](https://youtu.be/utumcS1iGvM) |
 | Amara Link    | [http://amara.org/en/videos/EkaeX3zDKXeC](http://amara.org/en/videos/EkaeX3zDKXeC) |
 | Transcript(ko/en) | [en-900-perfectionism.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.xlsx) |

@@ -8,11 +8,11 @@
 | Korean/English Published     | 2015-12-19 |
 | Transcript Contributor(s)   | Moon |
 | Translation Contributor(s)   | Moon, 이혜진, 김완준 |
-| Subtitling Contributor(s)   | 이수현 |
+| Subtitling Contributor(s)   | 이수현; review:김재명 |
 | French Title | La pensée négative et la pensée positive |
 | French Subtitle | [fr-997-negative-thinking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/997/fr-997-negative-thinking.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) | 윤혜정, 김경진, 김선옥 |
+| French Subtitle Contributor(s) | translation:윤혜정; subtitling:김선옥 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

@@ -8,11 +8,11 @@
 | Korean/English Published     | 2016-04-19 |
 | Transcript Contributor(s)   | 류창민 |
 | Translation Contributor(s)   | 전은영, 이혜진, 김연우, 김미선 |
-| Subtitling Contributor(s)   | 이동엽 |
+| Subtitling Contributor(s)   | 이동엽; review:김재명 |
 | French Title | Mon fils me demande de rembourser l'encours de sa carte de crédit. Que dois-je faire? |
 | French Subtitle | [fr-851-card-debt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/fr-851-card-debt.sbv) |
 | French Subtitle Published | 2016-05-07 |
-| French Subtitle Contributor(s) | 윤혜정, 김경진, 박지현 |
+| French Subtitle Contributor(s) | translation:윤혜정; subtitling:박지현 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

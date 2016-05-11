@@ -8,7 +8,7 @@
 | Korean/English Published     | 2016-05-15 |
 | Transcript Contributor(s)   | Moon |
 | Translation Contributor(s)   | Moon, 이예선, 김연우, 이혜진 |
-| Subtitling Contributor(s)   | 이정화, 김재명 |
+| Subtitling Contributor(s)   | 이정화, 김재명; review:김재명 |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |

@@ -8,11 +8,11 @@
 | Korean/English Published     | 2016-01-30 |
 | Transcript Contributor(s)   | 류창민 |
 | Translation Contributor(s)   | 이예선, 이혜진, 김완준 |
-| Subtitling Contributor(s)   | 이정화 |
+| Subtitling Contributor(s)   | 이정화; review:김재명 |
 | French Title | Vous vous sentez mieux si vous comprenez l'autre personne. |
 | French Subtitle | [fr-488-understand.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/488/fr-488-understand.sbv) |
 | French Subtitle Published | 2016-05-05 |
-| French Subtitle Contributor(s) | 윤혜정, 김경진, 박지현 |
+| French Subtitle Contributor(s) | translation:윤혜정; subtitling:박지현 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

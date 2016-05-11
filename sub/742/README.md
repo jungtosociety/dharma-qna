@@ -12,7 +12,7 @@
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Subtitle Contributor(s) | translation:김경진, review:윤혜정, subtitling: |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

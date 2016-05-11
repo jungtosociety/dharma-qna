@@ -8,7 +8,7 @@
 | Korean/English Published     | 2016-06-01 |
 | Transcript Contributor(s)   | 류창민 |
 | Translation Contributor(s)   | 신미라, 이혜진, 김연우, 김미선 |
-| Subtitling Contributor(s)   | 이동엽 |
+| Subtitling Contributor(s)   | 이동엽; review:김재명 |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |
