@@ -12,6 +12,8 @@
 |    | My daughter is under too much pressure over the university entrance exam   | [![](img/amara.png)](http://amara.org/en/videos/AcdVe1mvtsDJ) amara   | 2016-07-15 | 2016-05-06 ~  |  |
 | [456](sub/456) | 알콜중독 극복   | [![](img/youtube.png)](https://youtu.be/72PIwIEkUtc) 0:10:04      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) |       |  |
 |    | How to overcome addictions   | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) amara   | 2016-08-01 |  ~  |  |
+| [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) |       |  |
+|    | How can my husband quit smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-08-15 |  ~  |  |
 | [742](sub/742) | 아들이 여자가 되겠다고 합니다   | [![](img/youtube.png)](https://youtu.be/YHuR4TIUL7U) 0:10:11      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) |       |  |
 |    |    |  amara   |  |  ~  | 준비안됨 |
 ## Published
