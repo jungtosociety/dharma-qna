@@ -7,7 +7,7 @@
 | English Subtitle | [en-456-addictions.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/en-456-addictions.sbv) |
 | Korean/English Published     | 2016-08-01 |
 | Transcript Contributor(s)   | transcript:류창민 |
-| Translation Contributor(s)   | translation:이혜진,최예리;review:김연우 |
+| Translation Contributor(s)   | translation:이혜진,최예리,김연우 |
 | Subtitling Contributor(s)   |  |
 | French Title |  |
 | French Subtitle |  |

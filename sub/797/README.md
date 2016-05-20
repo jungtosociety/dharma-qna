@@ -7,7 +7,7 @@
 | English Subtitle | [en-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/en-797-husband-smoking.sbv) |
 | Korean/English Published     | 2016-08-15 |
 | Transcript Contributor(s)   | transcript:류창민 |
-| Translation Contributor(s)   | translation:전은영,이혜진;review:김연우 |
+| Translation Contributor(s)   | translation:전은영,이혜진,김연우 |
 | Subtitling Contributor(s)   |  |
 | French Title |  |
 | French Subtitle |  |
