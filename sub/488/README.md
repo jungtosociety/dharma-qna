@@ -12,7 +12,7 @@
 | French Title | Vous vous sentez mieux si vous comprenez l'autre personne. |
 | French Subtitle | [fr-488-understand.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/488/fr-488-understand.sbv) |
 | French Subtitle Published | 2016-05-05 |
-| French Subtitle Contributor(s) | translation:윤혜정; subtitling:박지현 |
+| French Subtitle Contributor(s) | translation:윤혜정; review:Franck VAUTIER; subtitling:박지현 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

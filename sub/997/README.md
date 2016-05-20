@@ -12,7 +12,7 @@
 | French Title | La pensée négative et la pensée positive |
 | French Subtitle | [fr-997-negative-thinking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/997/fr-997-negative-thinking.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) | translation:윤혜정; subtitling:김선옥 |
+| French Subtitle Contributor(s) | translation:윤혜정; review:Franck VAUTIER; subtitling:김선옥 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |
