@@ -9,8 +9,8 @@
 | Transcript Contributor(s)   | Moon |
 | Translation Contributor(s)   | Moon, 이예선, 김연우, 이혜진 |
 | Subtitling Contributor(s)   | 이정화, 김재명; review:김재명 |
-| French Title |  |
-| French Subtitle |  |
+| French Title | Vivre en gardant le beau juste-milieu |
+| French Subtitle | [fr-573-moderation.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/fr-573-moderation.sbv) |
 | French Subtitle Published |  |
 | French Subtitle Contributor(s) |  |
 | German Title |  |
