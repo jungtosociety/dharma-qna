@@ -2,6 +2,8 @@
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
 |----| ------------- |-------|-------------|----------|--------|
+| [sunim-intro](sub/sunim-intro) | 법륜스님 소개 영상   | [![](img/youtube.png)](https://youtu.be/2VUHNIjkE9g) 0:03:39      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/sunim-intro.docx) | 김재명;no reviewer      |  |
+|    | Ven. Pomnyun Sunim - Introduction   | [![](img/amara.png)](http://amara.org/en/videos/rMeq7FflJNMk) amara   | 2016-05-21 | 2016-05-21 ~ 2016-05-21 | 1h30m |
 | [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | 이동엽; review:김재명      |  |
 |    | Obsession over Physical Beauty    | [![](img/amara.png)](http://amara.org/en/videos/xVo0OdM6vxik) amara   | 2016-06-01 |  ~  | 영번역완 |
 | [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) 0:10:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | 이동엽; review:김재명      |  |
