@@ -12,7 +12,7 @@
 | French Title | Comment puis-je devenir un bon athlète |
 | French Subtitle | [fr-655-good-athelete.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/fr-655-good-athelete.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) | translation:윤혜정; review:Franck VAUTIER; subtitling:김선옥 |
+| French Subtitle Contributor(s) | translation:윤혜정; review:Franck Vautier; subtitling:김선옥 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

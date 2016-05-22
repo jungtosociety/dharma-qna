@@ -12,7 +12,7 @@
 | French Title | J'aimerais étudier le Bouddhisme |
 | French Subtitle | [fr-1081-buddhism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/fr-1081-buddhism.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) | translation:윤혜정; review:Franck VAUTIER; subtitling:김선옥 |
+| French Subtitle Contributor(s) | translation:윤혜정; review:Franck Vautier; subtitling:김선옥 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

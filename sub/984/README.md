@@ -12,7 +12,7 @@
 | French Title | La personne dont je suis amoureux en secret veut garder ses distances avec moi |
 | French Subtitle | [fr-984-crush.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/984/fr-984-crush.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) | translation:윤혜정; review:Franck VAUTIER; subtitling:김선옥 |
+| French Subtitle Contributor(s) | translation:윤혜정; review:Franck Vautier; subtitling:김선옥 |
 | German Title | Ich stehe auf eine Frau, die von mir Abstand nehmen möchte |
 | German Subtitle | [de-984-crush.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/984/de-984-crush.sbv) |
 | German Subtitle Published |  |

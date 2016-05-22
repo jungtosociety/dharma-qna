@@ -12,7 +12,7 @@
 | French Title | Vivre en gardant le beau juste-milieu |
 | French Subtitle | [fr-573-moderation.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/fr-573-moderation.sbv) |
 | French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Subtitle Contributor(s) | translation:윤혜정; review:Franck Vautier; subtitling:박지현 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |
