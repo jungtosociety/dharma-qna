@@ -9,10 +9,10 @@
 | Transcript Contributor(s)   | 김미선 |
 | Translation Contributor(s)   | 이혜진, 김완준, 김연우 |
 | Subtitling Contributor(s)   | 이동엽; review:김재명 |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Title | Regardez en vous-même avant de juger les autres |
+| French Subtitle | [fr-489-look-within-yourself.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/fr-489-look-within-yourself.sbv) |
+| French Subtitle Published | 2016-05-23 |
+| French Subtitle Contributor(s) | translation&subtitling:Franck Vautier; review:윤혜정 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |
