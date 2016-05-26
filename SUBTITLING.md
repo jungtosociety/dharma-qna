@@ -10,8 +10,8 @@
 |    | I Get Easily Hurt by Other People   | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) amara   | 2016-07-01 |  ~  | 영번역완 |
 | [853](sub/853) | 고3 딸이 입시에 대한 중압감이 너무 큽니다   | [![](img/youtube.png)](https://youtu.be/fH1yUn-dYBU) 0:04:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/853-pressure-entrance-exam.xlsx) | 이정화; review:김재명      |  |
 |    | My daughter is under too much pressure over the university entrance exam   | [![](img/amara.png)](http://amara.org/en/videos/AcdVe1mvtsDJ) amara   | 2016-07-15 | 2016-05-06 ~  | 1hr, draft done |
-| [456](sub/456) | 알콜중독 극복   | [![](img/youtube.png)](https://youtu.be/72PIwIEkUtc) 0:10:04      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) |       |  |
-|    | How to overcome addictions   | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) amara   | 2016-08-01 |  ~  |  |
+| [456](sub/456) | 알콜중독 극복   | [![](img/youtube.png)](https://youtu.be/72PIwIEkUtc) 0:10:04      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) | 류창민      |  |
+|    | How to overcome addictions   | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) amara   | 2016-08-01 | 2016-05-26 ~  |  |
 | [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) |       |  |
 |    | How can my husband quit smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-08-15 |  ~  |  |
 | [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) 0:23:57      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) |       |  |
