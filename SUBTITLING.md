@@ -21,7 +21,7 @@
 | [899](sub/899) | 교회, 성당, 절 어디를 가도 믿음이 안생겨요   | [![](img/youtube.png)](https://youtu.be/bocDnNgRhgE) 0:06:34      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) |       |  |
 |    | I can't hold on to religious beliefs    | [![](img/amara.png)](http://amara.org/en/videos/UF0Y1vOk3z46) amara   | 2016-09-15 |  ~  |  |
 | [742](sub/742) | 아들이 여자가 되겠다고 합니다   | [![](img/youtube.png)](https://youtu.be/YHuR4TIUL7U) 0:10:11      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) |       |  |
-|    |    |  amara   |  |  ~  | 준비안됨 |
+|    | My son wants to become a woman    | [![](img/amara.png)](http://amara.org/en/videos/M8NC9hnVtAGe) amara   | 2016-09-30 |  ~  |  |
 ## Published
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
