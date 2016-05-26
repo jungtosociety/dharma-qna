@@ -2,8 +2,6 @@
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
 |----| ------------- |-------|-------------|----------|--------|
-| [sunim-intro](sub/sunim-intro) | 법륜스님 소개 영상   | [![](img/youtube.png)](https://youtu.be/2VUHNIjkE9g) 0:03:39      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/sunim-intro.docx) | 김재명;no reviewer      |  |
-|    | Ven. Pomnyun Sunim - Introduction   | [![](img/amara.png)](http://amara.org/en/videos/rMeq7FflJNMk) amara   | 2016-05-21 | 2016-05-21 ~ 2016-05-21 | 1h30m |
 | [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | 이동엽; review:김재명      |  |
 |    | Obsession over Physical Beauty    | [![](img/amara.png)](http://amara.org/en/videos/xVo0OdM6vxik) amara   | 2016-06-01 |  ~  | 영번역완 |
 | [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) 0:10:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | 이동엽; review:김재명      |  |
@@ -54,3 +52,5 @@
 |    | I Didn't Do Well on An Exam. How Can I Calm My Parent's Anger?    | [![](img/amara.png)](http://amara.org/en/videos/6ZgjwKD81l2a) amara   | 2016-05-02 | 2016-03-07 ~ 2016-03-28 |  |
 | [573](sub/573) | 아름답게 사는 중용의 삶을 살자니 너무 어렵습니다   | [![](img/youtube.png)](https://youtu.be/Aaq1JUawHLM) 0:07:12      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/573-moderation.xlsx) | 이정화, 김재명; review:김재명      | JM 2016-05-06 |
 |    | Living Life in Moderation   | [![](img/amara.png)](http://amara.org/en/videos/6AuyYe0XovH0) amara   | 2016-05-15 | 2016-02-20 ~ 2016-05-06 | 공개준비 |
+| [sunim-intro](sub/sunim-intro) | 법륜스님 소개 영상   | [![](img/youtube.png)](https://youtu.be/2VUHNIjkE9g) 0:03:39      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/sunim-intro.docx) | 김재명;no reviewer      |  |
+|    | Ven. Pomnyun Sunim - Introduction   | [![](img/amara.png)](http://amara.org/en/videos/rMeq7FflJNMk) amara   | 2016-05-21 | 2016-05-21 ~ 2016-05-21 | 1h30m |
