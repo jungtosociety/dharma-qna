@@ -5,9 +5,9 @@
 | Korean Subtitle | [ko-742-sexual-identity.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/ko-742-sexual-identity.sbv) |
 | English Title | My son wants to become a woman  |
 | English Subtitle | [en-742-sexual-identity.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/en-742-sexual-identity.sbv) |
-| Korean/English Published     | 2016-09-30 |
-| Transcript Contributor(s)   |  |
-| Translation Contributor(s)   |  |
+| Korean/English Published     | 2016-10-01 |
+| Transcript Contributor(s)   | transcript:Moon |
+| Translation Contributor(s)   | translation:Moon,이혜진,김연우 |
 | Subtitling Contributor(s)   |  |
 | French Title |  |
 | French Subtitle |  |
