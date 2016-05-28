@@ -2,16 +2,14 @@
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
 |----| ------------- |-------|-------------|----------|--------|
-| [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | 이동엽; review:김재명      |  |
-|    | Obsession over Physical Beauty    | [![](img/amara.png)](http://amara.org/en/videos/xVo0OdM6vxik) amara   | 2016-06-01 |  ~  | 영번역완 |
 | [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) 0:10:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | 이동엽; review:김재명      |  |
 |    | If life is a meaningless dream, I want to awake from it   | [![](img/amara.png)](http://amara.org/en/videos/mMHw7twhBLlb) amara   | 2016-06-15 |  ~  | 영번역완 |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) 0:13:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | 김미경, review:김재명      |  |
 |    | I Get Easily Hurt by Other People   | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) amara   | 2016-07-01 |  ~  | 영번역완 |
 | [853](sub/853) | 고3 딸이 입시에 대한 중압감이 너무 큽니다   | [![](img/youtube.png)](https://youtu.be/fH1yUn-dYBU) 0:04:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/853-pressure-entrance-exam.xlsx) | 이정화; review:김재명      |  |
 |    | My daughter is under too much pressure over the university entrance exam   | [![](img/amara.png)](http://amara.org/en/videos/AcdVe1mvtsDJ) amara   | 2016-07-15 | 2016-05-06 ~  | 1hr, draft done |
-| [456](sub/456) | 알콜중독 극복   | [![](img/youtube.png)](https://youtu.be/72PIwIEkUtc) 0:10:04      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) | 류창민      |  |
-|    | How to overcome addictions   | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) amara   | 2016-08-01 | 2016-05-26 ~ 2016-05-27 |  |
+| [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | 이동엽; review:김재명      |  |
+|    | Obsession over Physical Beauty    | [![](img/amara.png)](http://amara.org/en/videos/xVo0OdM6vxik) amara   | 2016-08-01 |  ~  | 영번역완 |
 | [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) | 류창민      |  |
 |    | How can my husband quit smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-08-15 | 2016-05-27 ~  |  |
 | [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) 0:23:57      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) |       |  |
@@ -64,3 +62,5 @@
 |    | Living Life in Moderation   | [![](img/amara.png)](http://amara.org/en/videos/6AuyYe0XovH0) amara   | 2016-05-15 | 2016-02-20 ~ 2016-05-06 | 공개준비 |
 | [sunim-intro](sub/sunim-intro) | 법륜스님 소개 영상   | [![](img/youtube.png)](https://youtu.be/2VUHNIjkE9g) 0:03:39      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/sunim-intro.docx) | 김재명;no reviewer      |  |
 |    | Ven. Pomnyun Sunim - Introduction   | [![](img/amara.png)](http://amara.org/en/videos/rMeq7FflJNMk) amara   | 2016-05-21 | 2016-05-21 ~ 2016-05-21 | 1h30m |
+| [456](sub/456) | 알콜중독 극복   | [![](img/youtube.png)](https://youtu.be/72PIwIEkUtc) 0:10:04      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) | 류창민; review:김재명      |  |
+|    | How to overcome addictions   | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) amara   | 2016-06-01 | 2016-05-26 ~ 2016-05-27 | 2hr |
