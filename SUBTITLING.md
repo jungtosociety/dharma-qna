@@ -11,9 +11,9 @@
 | [853](sub/853) | 고3 딸이 입시에 대한 중압감이 너무 큽니다   | [![](img/youtube.png)](https://youtu.be/fH1yUn-dYBU) 0:04:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/853-pressure-entrance-exam.xlsx) | 이정화; review:김재명      |  |
 |    | My daughter is under too much pressure over the university entrance exam   | [![](img/amara.png)](http://amara.org/en/videos/AcdVe1mvtsDJ) amara   | 2016-07-15 | 2016-05-06 ~  | 1hr, draft done |
 | [456](sub/456) | 알콜중독 극복   | [![](img/youtube.png)](https://youtu.be/72PIwIEkUtc) 0:10:04      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) | 류창민      |  |
-|    | How to overcome addictions   | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) amara   | 2016-08-01 | 2016-05-26 ~  |  |
-| [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) |       |  |
-|    | How can my husband quit smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-08-15 |  ~  |  |
+|    | How to overcome addictions   | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) amara   | 2016-08-01 | 2016-05-26 ~ 2016-05-27 |  |
+| [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) | 류창민      |  |
+|    | How can my husband quit smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-08-15 | 2016-05-27 ~  |  |
 | [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) 0:23:57      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) |       |  |
 |    | On Reincarnation and Previous Lives    | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) amara   | 2016-09-01 |  ~  |  |
 | [899](sub/899) | 교회, 성당, 절 어디를 가도 믿음이 안생겨요   | [![](img/youtube.png)](https://youtu.be/bocDnNgRhgE) 0:06:34      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) |       |  |
@@ -22,6 +22,14 @@
 |    | My son wants to become a woman    | [![](img/amara.png)](http://amara.org/en/videos/M8NC9hnVtAGe) amara   | 2016-10-01 |  ~  |  |
 | [823](sub/823) | 돌아가신 엄마, 천국에 계시는 게 맞을까요?   | [![](img/youtube.png)](https://youtu.be/BeJ3IRV1_mw) 0:05:07      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) |       |  |
 |    | My mom passed away 10 years ago. Is she in heaven?    | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-10-15 |  ~  |  |
+| [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) 0:10:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) |       |  |
+|    | Should I attend a funeral of a friend I fell out with long ago?    | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) amara   | 2016-11-01 |  ~  |  |
+| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   |        |  |       |  |
+|    |    |  amara   |  |  ~  |  |
+| [751](sub/751) | 직장에서 일어나는 분노 조절   |        |  |       |  |
+|    |    |  amara   |  |  ~  |  |
+| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   |        |  |       |  |
+|    |    |  amara   |  |  ~  |  |
 ## Published
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
