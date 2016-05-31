@@ -35,7 +35,7 @@ def gentab_published(f):
                             LEFT OUTER JOIN fr ON v.vid = fr.vid \
                             LEFT OUTER JOIN de ON v.vid = de.vid \
                            WHERE status=\'published\' \
-                           ORDER BY v.puborder DESC \
+                           ORDER BY v.pubdate DESC \
                              ' ):
         vid     = row[0]
         title   = row[1] #.encode('utf8')
@@ -61,9 +61,9 @@ def gentab_subtitling(f,wip=True):
     f.write('|----| ------------- |-------|-------------|----------|--------|\n')
              
     if wip:
-      whereorderby = 'WHERE status IS NULL ORDER BY puborder ASC'
+      whereorderby = 'WHERE status IS NULL ORDER BY v.pubdate ASC'
     else:
-      whereorderby = 'WHERE status=\'published\' ORDER BY puborder ASC'
+      whereorderby = 'WHERE status=\'published\' ORDER BY v.pubdate ASC'
 
     for row in c.execute('SELECT v.vid, v.title, v.xlsfn, v.pubdate, v.youtube, v.amara, \
                                  v.subworker, v.subbegin, v.subend, v.subfinal, v.memo, \

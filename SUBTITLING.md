@@ -2,6 +2,12 @@
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
 |----| ------------- |-------|-------------|----------|--------|
+| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   |  0:16:42      |  |       |  |
+|    |    |  amara   |  |  ~  |  |
+| [751](sub/751) | 직장에서 일어나는 분노 조절   |  0:13:41      |  |       |  |
+|    |    |  amara   |  |  ~  |  |
+| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |       |  |
+|    | I'm in a daze as I have no dreams in life.    | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) amara   |  |  ~  |  |
 | [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) 0:10:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | 이동엽; review:김재명      |  |
 |    | If life is a meaningless dream, I want to awake from it   | [![](img/amara.png)](http://amara.org/en/videos/mMHw7twhBLlb) amara   | 2016-06-15 |  ~  | 영번역완 |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) 0:13:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | 김미경, review:김재명      |  |
@@ -22,21 +28,15 @@
 |    | My mom passed away 10 years ago. Is she in heaven?    | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-10-15 |  ~  |  |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) 0:10:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) |       |  |
 |    | Should I attend a funeral of a friend I fell out with long ago?    | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) amara   | 2016-11-01 |  ~  |  |
-| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   |  0:16:42      |  |       |  |
-|    |    |  amara   |  |  ~  |  |
-| [751](sub/751) | 직장에서 일어나는 분노 조절   |  0:13:41      |  |       |  |
-|    |    |  amara   |  |  ~  |  |
-| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |       |  |
-|    | I'm in a daze as I have no dreams in life.    | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) amara   |  |  ~  |  |
 ## Published
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
 |----| ------------- |-------|-------------|----------|--------|
-| [655](sub/655) | 우수한 선수가 될 수 있을 것이라는 스님의 응원메세지가 듣고 싶습니다   | [![](img/youtube.png)](https://youtu.be/NzMGrgklWyA) 0:11:12      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/en-655-good-athelete.xlsx) | 김재명      |  |
+| [655](sub/655) | 우수한 선수가 될 수 있을 것이라는 스님의 응원메세지가 듣고 싶습니다   | [![](img/youtube.png)](https://youtu.be/NzMGrgklWyA) 0:11:12      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/en-655-good-athelete.xlsx) | 김재명;no reviewer      |  |
 |    | How Can I Become a Great Athlete?   | [![](img/amara.png)](http://amara.org/en/videos/BwcgJu4Zj4rz) amara   | 2015-09-16 |  ~  |  |
-| [1081](sub/1081) | 불교가 무엇인지 공부해 보고 싶은데 어떻게 해야 할까요?   | [![](img/youtube.png)](https://youtu.be/yp_X0KQPqyg) 0:08:19      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/en-1081-buddhism.xlsx) | 김재명      |  |
+| [1081](sub/1081) | 불교가 무엇인지 공부해 보고 싶은데 어떻게 해야 할까요?   | [![](img/youtube.png)](https://youtu.be/yp_X0KQPqyg) 0:08:19      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/en-1081-buddhism.xlsx) | 김재명;no reviewer      |  |
 |    | I'd Like to Learn More About Buddhism   | [![](img/amara.png)](http://amara.org/en/videos/uiPC1tlJOjk6) amara   | 2015-10-30 |  ~  |  |
-| [239](sub/239) | 아들의 부정적 시선이 염려됩니다   | [![](img/youtube.png)](https://youtu.be/PdiVY7Y9KNk) 0:11:17      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/en-239-pessimistic-son.xlsx) | 김재명      |  |
+| [239](sub/239) | 아들의 부정적 시선이 염려됩니다   | [![](img/youtube.png)](https://youtu.be/PdiVY7Y9KNk) 0:11:17      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/en-239-pessimistic-son.xlsx) | 김재명;no reviewer      |  |
 |    | I Worry About My Son's Pessimistic Attitude   | [![](img/amara.png)](http://amara.org/en/videos/WrL0SB21tD0j) amara   | 2015-11-21 |  ~  |  |
 | [676](sub/676) | 동화작가가 꿈인데 생계를 위해 다른 글을 쓰고 있습니다   | [![](img/youtube.png)](https://youtu.be/y188f7eU1TU) 0:06:19      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/676/en-676-fairy-tale-author.xlsx) | 김미경, review:김재명      |  |
 |    | Desire to Write   | [![](img/amara.png)](http://amara.org/en/videos/EroiuPGgpght) amara   | 2015-12-05 |  ~  |  |
@@ -44,7 +44,7 @@
 |    | Negative and Positive Thinking   | [![](img/amara.png)](http://amara.org/en/videos/F8lxMlmZ92d4) amara   | 2015-12-19 |  ~  |  |
 | [984](sub/984) | 짝사랑 중인 상대가 저를 멀리해요   | [![](img/youtube.png)](https://youtu.be/dSGAi_avjss) 0:05:58      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/984/en-984-crush.xlsx) | 이정화; review:김재명      |  |
 |    | The Person I Have a Crush on Is Distancing Herself From Me   | [![](img/amara.png)](http://amara.org/en/videos/mGPueCA5DmIz) amara   | 2016-01-02 |  ~  |  |
-| [900](sub/900) | 완벽하려고 하는 성격 때문에 스트레스 받아요   | [![](img/youtube.png)](https://youtu.be/utumcS1iGvM) 0:04:40      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.xlsx) | 김재명      |  |
+| [900](sub/900) | 완벽하려고 하는 성격 때문에 스트레스 받아요   | [![](img/youtube.png)](https://youtu.be/utumcS1iGvM) 0:04:40      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.xlsx) | 김재명;no reviewer      |  |
 |    | My Perfectionism Stresses Me   | [![](img/amara.png)](http://amara.org/en/videos/EkaeX3zDKXeC) amara   | 2016-01-16 |  ~  |  |
 | [488](sub/488) | 상대를 이해하면 내 마음이 편하다   | [![](img/youtube.png)](https://youtu.be/AUg_2sNt5qc) 0:12:13      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/488/en-488-understand.xlsx) | 이정화; review:김재명      |  |
 |    | If You Understand Other People, You'll Feel Better   | [![](img/amara.png)](http://amara.org/en/videos/3t6ocMUzw4YG) amara   | 2016-01-30 |  ~  |  |

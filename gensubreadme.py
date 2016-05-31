@@ -4,8 +4,25 @@ import sqlite3
 import sys  
 from genmd import utf8
 from genmd import githublink
+import subprocess
+
 
 # sys.setdefaultencoding('utf_8')
+
+# cmd[0]   command alias to generate log file
+# cmd[1:]  command line program and its arguments 
+def run_cmd(cmd,raise_exception=True):
+    command = ' '.join(cmd[0:])
+    # print command
+    # command = 'php -r "echo gethostname();"'
+    p = subprocess.Popen(command, universal_newlines=True, shell=True, 
+    stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+    text = p.stdout.read()
+    retcode = p.wait()
+    if retcode != 0 and raise_exception:
+        raise Exception("failed to execute "+command)
+    return text
+    # return retcode
 
 def genReadme(subid=None):
     c = sqlite3.connect('dharmaqna.db')
@@ -28,7 +45,7 @@ def genReadme(subid=None):
                  LEFT OUTER JOIN fr ON v.vid = fr.vid \
                  LEFT OUTER JOIN de ON v.vid = de.vid \
                             '+whereclause+' \
-                           ORDER BY v.puborder ASC ' ):
+                           ORDER BY v.pubdate ASC ' ):
         vid     = row["vid"]
         nolink = utf8("[%s](sub/%s)" % (vid,vid))        
         xlslink = utf8(githublink(vid,row["xlsfn"]))
@@ -39,8 +56,9 @@ def genReadme(subid=None):
         final   = utf8(row["subfinal"])
         memo    = utf8(row["memo"])
         
-        print 'processing'+vid 
-        f = open('sub/'+vid+'/README.md', 'w')
+        
+        curr_fn = 'sub/'+vid+'/README.md'
+        f = open(curr_fn, 'w')
         f.write("|  key  |  value  |\n")
         f.write("|-------|---------|\n")
         f.write("| ID            | "+vid+" |\n")
@@ -66,6 +84,9 @@ def genReadme(subid=None):
         f.write("| Playtime | "+utf8(row["playtime"])+" |\n")
         f.write(utf8("| Resolution | %sx%s|\n" % (row["xdim"],row["ydim"])))
         f.close()
+
+        if run_cmd(['git','diff',curr_fn],raise_exception=False) != '':
+            print ' - updated '+curr_fn
 
 if __name__ == "__main__":
     if len(sys.argv) < 2 :
