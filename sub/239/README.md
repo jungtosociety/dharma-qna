@@ -8,7 +8,7 @@
 | Korean/English Published     | 2015-11-21 |
 | Transcript Contributor(s)   | Moon |
 | Translation Contributor(s)   | Moon, 이혜진, 김미선, 김완준 |
-| Subtitling Contributor(s)   | 김재명 |
+| Subtitling Contributor(s)   | 김재명;no reviewer |
 | French Title | L'attitude négative de mon fils m'inquiète. |
 | French Subtitle | [fr-239-pessimistic-son.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/fr-239-pessimistic-son.sbv) |
 | French Subtitle Published |  |

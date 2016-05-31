@@ -8,7 +8,7 @@
 | Korean/English Published     | 2015-09-16 |
 | Transcript Contributor(s)   | Moon |
 | Translation Contributor(s)   | 이혜진, 김완준 |
-| Subtitling Contributor(s)   | 김재명 |
+| Subtitling Contributor(s)   | 김재명;no reviewer |
 | French Title | Comment puis-je devenir un bon athlète |
 | French Subtitle | [fr-655-good-athelete.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/fr-655-good-athelete.sbv) |
 | French Subtitle Published |  |

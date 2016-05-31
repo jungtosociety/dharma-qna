@@ -8,7 +8,7 @@
 | Korean/English Published     | 2016-01-16 |
 | Transcript Contributor(s)   | 류창민 |
 | Translation Contributor(s)   | 이예선, 이혜진, 김완준, 김미선 |
-| Subtitling Contributor(s)   | 김재명 |
+| Subtitling Contributor(s)   | 김재명;no reviewer |
 | French Title | Mon Caractère Perfectionniste Me Stresse |
 | French Subtitle | [fr-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/fr-900-perfectionism.sbv) |
 | French Subtitle Published |  |

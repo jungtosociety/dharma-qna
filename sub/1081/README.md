@@ -8,7 +8,7 @@
 | Korean/English Published     | 2015-10-30 |
 | Transcript Contributor(s)   | 김미선 |
 | Translation Contributor(s)   | 김미선, 이혜진, 김완준 |
-| Subtitling Contributor(s)   | 김재명 |
+| Subtitling Contributor(s)   | 김재명;no reviewer |
 | French Title | J'aimerais étudier le Bouddhisme |
 | French Subtitle | [fr-1081-buddhism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/fr-1081-buddhism.sbv) |
 | French Subtitle Published |  |
