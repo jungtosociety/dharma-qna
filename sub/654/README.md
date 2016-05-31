@@ -20,5 +20,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) |  |
-| Playtime |  |
+| Playtime | 0:16:42 |
 | Resolution | NonexNone|

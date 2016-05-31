@@ -22,12 +22,12 @@
 |    | My mom passed away 10 years ago. Is she in heaven?    | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-10-15 |  ~  |  |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) 0:10:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) |       |  |
 |    | Should I attend a funeral of a friend I fell out with long ago?    | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) amara   | 2016-11-01 |  ~  |  |
-| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   |        |  |       |  |
+| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   |  0:16:42      |  |       |  |
 |    |    |  amara   |  |  ~  |  |
-| [751](sub/751) | 직장에서 일어나는 분노 조절   |        |  |       |  |
+| [751](sub/751) | 직장에서 일어나는 분노 조절   |  0:13:41      |  |       |  |
 |    |    |  amara   |  |  ~  |  |
-| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   |        |  |       |  |
-|    |    |  amara   |  |  ~  |  |
+| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |       |  |
+|    | I'm in a daze as I have no dreams in life.    | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) amara   |  |  ~  |  |
 ## Published
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
