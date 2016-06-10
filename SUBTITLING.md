@@ -8,8 +8,8 @@
 |    |    |  amara   |  |  ~  |  |
 | [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |       |  |
 |    | I'm in a daze as I have no dreams in life.    | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) amara   |  |  ~  |  |
-| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   |  0:10:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) |       |  |
-|    | My middle school daughter is forgetful and messy   |  amara   |  |  ~  |  |
+| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) 0:10:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) |       |  |
+|    | My middle school daughter is forgetful and messy   | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) amara   |  |  ~  |  |
 | [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) 0:10:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | 이동엽; review:김재명      |  |
 |    | If life is a meaningless dream, I want to awake from it   | [![](img/amara.png)](http://amara.org/en/videos/mMHw7twhBLlb) amara   | 2016-06-15 |  ~  | 영번역완 |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) 0:13:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | 김미경, review:김재명      |  |
