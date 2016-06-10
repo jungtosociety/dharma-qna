@@ -21,4 +21,4 @@
 | Amara Link    | [http://amara.org/en/videos/tW4OcBGfiBM9](http://amara.org/en/videos/tW4OcBGfiBM9) |
 | Transcript(ko/en) |  |
 | Playtime | 0:13:41 |
-| Resolution | NonexNone|
+| Resolution | 1920x1080|
