@@ -9,10 +9,10 @@
 | Transcript Contributor(s)   | transcript:류창민 |
 | Translation Contributor(s)   | translation:이혜진,최예리,김연우 |
 | Subtitling Contributor(s)   | 류창민; review:김재명 |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Title | Vaincre l'alcoolisme |
+| French Subtitle | [fr-456-addictions.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/fr-456-addictions.sbv) |
+| French Subtitle Published | 2016-06-08 |
+| French Subtitle Contributor(s) | translation:윤혜정; review:Franck Vautier |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |

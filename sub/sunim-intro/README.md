@@ -9,10 +9,10 @@
 | Transcript Contributor(s)   | transcript:unknown |
 | Translation Contributor(s)   | translation:unknown |
 | Subtitling Contributor(s)   | 김재명;no reviewer |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Title | Présentation de Vénérable Pomnyun |
+| French Subtitle | [fr-sunim-intro.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/fr-sunim-intro.sbv) |
+| French Subtitle Published | 2016-06-08 |
+| French Subtitle Contributor(s) | 윤혜정,Franck Vautier,박지현 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |
