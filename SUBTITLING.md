@@ -8,6 +8,8 @@
 |    |    |  amara   |  |  ~  |  |
 | [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |       |  |
 |    | I'm in a daze as I have no dreams in life.    | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) amara   |  |  ~  |  |
+| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   |  0:10:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) |       |  |
+|    | My middle school daughter is forgetful and messy   |  amara   |  |  ~  |  |
 | [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) 0:10:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | 이동엽; review:김재명      |  |
 |    | If life is a meaningless dream, I want to awake from it   | [![](img/amara.png)](http://amara.org/en/videos/mMHw7twhBLlb) amara   | 2016-06-15 |  ~  | 영번역완 |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) 0:13:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | 김미경, review:김재명      |  |
@@ -19,11 +21,11 @@
 | [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) | 류창민      |  |
 |    | How can my husband quit smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-08-15 | 2016-05-27 ~ 2016-05-29 |  |
 | [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) 0:23:57      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | 류창민      |  |
-|    | On Reincarnation and Previous Lives    | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) amara   | 2016-09-01 | 2016-05-29 ~  |  |
-| [899](sub/899) | 교회, 성당, 절 어디를 가도 믿음이 안생겨요   | [![](img/youtube.png)](https://youtu.be/bocDnNgRhgE) 0:06:34      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) |       |  |
-|    | I can't hold on to religious beliefs    | [![](img/amara.png)](http://amara.org/en/videos/UF0Y1vOk3z46) amara   | 2016-09-15 |  ~  |  |
-| [742](sub/742) | 아들이 여자가 되겠다고 합니다   | [![](img/youtube.png)](https://youtu.be/YHuR4TIUL7U) 0:10:11      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) |       |  |
-|    | My son wants to become a woman    | [![](img/amara.png)](http://amara.org/en/videos/M8NC9hnVtAGe) amara   | 2016-10-01 |  ~  |  |
+|    | On Reincarnation and Previous Lives    | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) amara   | 2016-09-01 | 2016-05-29 ~ 2016-06-03 |  |
+| [899](sub/899) | 교회, 성당, 절 어디를 가도 믿음이 안생겨요   | [![](img/youtube.png)](https://youtu.be/bocDnNgRhgE) 0:06:34      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) | 류창민      |  |
+|    | I can't hold on to religious beliefs    | [![](img/amara.png)](http://amara.org/en/videos/UF0Y1vOk3z46) amara   | 2016-09-15 | 2016-06-03 ~ 2016-06-08 |  |
+| [742](sub/742) | 아들이 여자가 되겠다고 합니다   | [![](img/youtube.png)](https://youtu.be/YHuR4TIUL7U) 0:10:11      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) | 류창민      |  |
+|    | My son wants to become a woman    | [![](img/amara.png)](http://amara.org/en/videos/M8NC9hnVtAGe) amara   | 2016-10-01 | 2016-06-08 ~  |  |
 | [823](sub/823) | 돌아가신 엄마, 천국에 계시는 게 맞을까요?   | [![](img/youtube.png)](https://youtu.be/BeJ3IRV1_mw) 0:05:07      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) |       |  |
 |    | My mom passed away 10 years ago. Is she in heaven?    | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-10-15 |  ~  |  |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) 0:10:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) |       |  |

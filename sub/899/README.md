@@ -8,7 +8,7 @@
 | Korean/English Published     | 2016-09-15 |
 | Transcript Contributor(s)   | transcript:김원태 |
 | Translation Contributor(s)   | translation:전은영,이혜진,김연우 |
-| Subtitling Contributor(s)   |  |
+| Subtitling Contributor(s)   | 류창민 |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |
