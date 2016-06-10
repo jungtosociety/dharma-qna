@@ -17,8 +17,8 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
-| YouTube Link  |  |
-| Amara Link    |  |
+| YouTube Link  | [https://youtu.be/6E3piBwAYrc](https://youtu.be/6E3piBwAYrc) |
+| Amara Link    | [http://amara.org/en/videos/tW4OcBGfiBM9](http://amara.org/en/videos/tW4OcBGfiBM9) |
 | Transcript(ko/en) |  |
 | Playtime | 0:13:41 |
 | Resolution | NonexNone|

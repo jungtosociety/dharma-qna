@@ -4,8 +4,8 @@
 |----| ------------- |-------|-------------|----------|--------|
 | [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   |  0:16:42      |  |       |  |
 |    |    |  amara   |  |  ~  |  |
-| [751](sub/751) | 직장에서 일어나는 분노 조절   |  0:13:41      |  |       |  |
-|    |    |  amara   |  |  ~  |  |
+| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) 0:13:41      |  |       |  |
+|    |    | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) amara   |  |  ~  |  |
 | [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |       |  |
 |    | I'm in a daze as I have no dreams in life.    | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) amara   |  |  ~  |  |
 | [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) 0:10:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) |       |  |
