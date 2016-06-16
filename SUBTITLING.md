@@ -28,8 +28,8 @@
 |    | My mom passed away 10 years ago. Is she in heaven?    | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-10-15 | 2016-06-13 ~ 2016-06-13 | 1h |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) 0:10:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | 류창민      |  |
 |    | Should I attend a funeral of a friend I fell out with long ago?    | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) amara   | 2016-11-01 | 2016-06-13 ~  |  |
-| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) |       |  |
-|    | Be the owner wherever you are    | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) amara   | 2016-11-15 |  ~  |  |
+| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 이동엽      |  |
+|    | Be the owner wherever you are    | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) amara   | 2016-11-15 | 2016-06-15 ~  |  |
 | [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) 0:13:41      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) |       |  |
 |    | Anger Management at Workplace   | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) amara   | 2016-12-01 |  ~  |  |
 ## Published
