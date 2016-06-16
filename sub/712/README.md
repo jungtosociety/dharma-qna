@@ -8,7 +8,7 @@
 | Korean/English Published     | 2016-11-01 |
 | Transcript Contributor(s)   | transcript:Moon |
 | Translation Contributor(s)   | translation:김미선,이혜진,김연우 |
-| Subtitling Contributor(s)   |  |
+| Subtitling Contributor(s)   | 류창민 |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |

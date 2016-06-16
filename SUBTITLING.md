@@ -2,10 +2,6 @@
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
 |----| ------------- |-------|-------------|----------|--------|
-| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      |  |       |  |
-|    |    | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) amara   |  |  ~  |  |
-| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) 0:13:41      |  |       |  |
-|    |    | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) amara   |  |  ~  |  |
 | [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |       |  |
 |    | I'm in a daze as I have no dreams in life.    | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) amara   |  |  ~  |  |
 | [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) 0:10:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) |       |  |
@@ -27,11 +23,15 @@
 | [899](sub/899) | 교회, 성당, 절 어디를 가도 믿음이 안생겨요   | [![](img/youtube.png)](https://youtu.be/bocDnNgRhgE) 0:06:34      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) | 류창민      |  |
 |    | I can't hold on to religious beliefs    | [![](img/amara.png)](http://amara.org/en/videos/UF0Y1vOk3z46) amara   | 2016-09-15 | 2016-06-03 ~ 2016-06-08 | 2h |
 | [742](sub/742) | 아들이 여자가 되겠다고 합니다   | [![](img/youtube.png)](https://youtu.be/YHuR4TIUL7U) 0:10:11      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) | 류창민      |  |
-|    | My son wants to become a woman    | [![](img/amara.png)](http://amara.org/en/videos/M8NC9hnVtAGe) amara   | 2016-10-01 | 2016-06-08 ~  |  |
-| [823](sub/823) | 돌아가신 엄마, 천국에 계시는 게 맞을까요?   | [![](img/youtube.png)](https://youtu.be/BeJ3IRV1_mw) 0:05:07      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) |       |  |
-|    | My mom passed away 10 years ago. Is she in heaven?    | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-10-15 |  ~  |  |
-| [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) 0:10:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) |       |  |
-|    | Should I attend a funeral of a friend I fell out with long ago?    | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) amara   | 2016-11-01 |  ~  |  |
+|    | My son wants to become a woman    | [![](img/amara.png)](http://amara.org/en/videos/M8NC9hnVtAGe) amara   | 2016-10-01 | 2016-06-08 ~ 2016-06-13 | 2h |
+| [823](sub/823) | 돌아가신 엄마, 천국에 계시는 게 맞을까요?   | [![](img/youtube.png)](https://youtu.be/BeJ3IRV1_mw) 0:05:07      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) | 류창민      |  |
+|    | My mom passed away 10 years ago. Is she in heaven?    | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-10-15 | 2016-06-13 ~ 2016-06-13 | 1h |
+| [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) 0:10:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | 류창민      |  |
+|    | Should I attend a funeral of a friend I fell out with long ago?    | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) amara   | 2016-11-01 | 2016-06-13 ~  |  |
+| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) |       |  |
+|    | Be the owner wherever you are    | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) amara   | 2016-11-15 |  ~  |  |
+| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) 0:13:41      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) |       |  |
+|    | Anger Management at Workplace   | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) amara   | 2016-12-01 |  ~  |  |
 ## Published
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
