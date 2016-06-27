@@ -5,10 +5,10 @@
 | Korean Subtitle | [ko-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/ko-797-husband-smoking.sbv) |
 | English Title | How can my husband quit smoking?  |
 | English Subtitle | [en-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/en-797-husband-smoking.sbv) |
-| Korean/English Published     | 2016-08-15 |
+| Korean/English Published     | 2016-07-01 |
 | Transcript Contributor(s)   | transcript:류창민 |
 | Translation Contributor(s)   | translation:전은영,이혜진,김연우 |
-| Subtitling Contributor(s)   | 류창민 |
+| Subtitling Contributor(s)   | 류창민;review:김재명 |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |

@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-899-religious-beliefs.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/ko-899-religious-beliefs.sbv) |
 | English Title | I can't hold on to religious beliefs  |
 | English Subtitle | [en-899-religious-beliefs.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/en-899-religious-beliefs.sbv) |
-| Korean/English Published     | 2016-09-15 |
+| Korean/English Published     | 2016-07-15 |
 | Transcript Contributor(s)   | transcript:김원태 |
 | Translation Contributor(s)   | translation:전은영,이혜진,김연우 |
 | Subtitling Contributor(s)   | 류창민 |
