@@ -3,7 +3,7 @@
 | ID            | 742 |
 | Title         | 아들이 여자가 되겠다고 합니다 |
 | Korean Subtitle | [ko-742-sexual-identity.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/ko-742-sexual-identity.sbv) |
-| English Title | My son wants to become a woman  |
+| English Title | My Son Wants to Become a Woman |
 | English Subtitle | [en-742-sexual-identity.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/en-742-sexual-identity.sbv) |
 | Korean/English Published     | 2016-10-01 |
 | Transcript Contributor(s)   | transcript:Moon |

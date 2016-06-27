@@ -3,7 +3,7 @@
 | ID            | 859 |
 | Title         | 중학생 딸이 건망증이 심하고 정리정돈을 못해요. |
 | Korean Subtitle | [ko-859-messy-daughter.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/ko-859-messy-daughter.sbv) |
-| English Title | My middle school daughter is forgetful and messy |
+| English Title | My Middle School Daughter Is Forgetful and Messy |
 | English Subtitle | [en-859-messy-daughter.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/en-859-messy-daughter.sbv) |
 | Korean/English Published     |  |
 | Transcript Contributor(s)   |  |

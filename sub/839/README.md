@@ -3,7 +3,7 @@
 | ID            | 839 |
 | Title         | 꿈이 없어서 생활이 멍한 것 같아요 |
 | Korean Subtitle | [ko-839-no-dreams.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/ko-839-no-dreams.sbv) |
-| English Title | I'm in a daze as I have no dreams in life.  |
+| English Title | I'm in a Daze as I Have No Dreams in Life |
 | English Subtitle | [en-839-no-dreams.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/en-839-no-dreams.sbv) |
 | Korean/English Published     |  |
 | Transcript Contributor(s)   | transcript:김혜진 |

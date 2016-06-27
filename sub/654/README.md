@@ -3,7 +3,7 @@
 | ID            | 654 |
 | Title         | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요 |
 | Korean Subtitle | [ko-654-owner.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/ko-654-owner.sbv) |
-| English Title | Be the owner wherever you are  |
+| English Title | Be the Owner Wherever You Are |
 | English Subtitle | [en-654-owner.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/en-654-owner.sbv) |
 | Korean/English Published     | 2016-11-15 |
 | Transcript Contributor(s)   |  |

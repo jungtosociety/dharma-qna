@@ -3,7 +3,7 @@
 | ID            | 712 |
 | Title         | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요? |
 | Korean Subtitle | [ko-712-funeral.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/ko-712-funeral.sbv) |
-| English Title | Should I attend a funeral of a friend I fell out with long ago?  |
+| English Title | Should I Attend a Funeral of a Friend I Fell out with Long Ago? |
 | English Subtitle | [en-712-funeral.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/en-712-funeral.sbv) |
 | Korean/English Published     | 2016-11-01 |
 | Transcript Contributor(s)   | transcript:Moon |

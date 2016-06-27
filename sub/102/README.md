@@ -3,7 +3,7 @@
 | ID            | 102 |
 | Title         | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다 |
 | Korean Subtitle |  |
-| English Title | If life is a meaningless dream, I want to awake from it |
+| English Title | If Life Is a Meaningless Dream, I Want to Awake from It |
 | English Subtitle |  |
 | Korean/English Published     | 2016-06-15 |
 | Transcript Contributor(s)   |  |

@@ -3,7 +3,7 @@
 | ID            | 853 |
 | Title         | 고3 딸이 입시에 대한 중압감이 너무 큽니다 |
 | Korean Subtitle |  |
-| English Title | My daughter is under too much pressure over the university entrance exam |
+| English Title | My Daughter Is under Too Much Pressure over the University Entrance Exam |
 | English Subtitle |  |
 | Korean/English Published     | 2016-09-15 |
 | Transcript Contributor(s)   | 허정연 |

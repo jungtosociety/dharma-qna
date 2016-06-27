@@ -3,7 +3,7 @@
 | ID            | 456 |
 | Title         | 알콜중독 극복 |
 | Korean Subtitle | [ko-456-addictions.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/ko-456-addictions.sbv) |
-| English Title | How to overcome addictions |
+| English Title | How to Overcome Addictions |
 | English Subtitle | [en-456-addictions.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/en-456-addictions.sbv) |
 | Korean/English Published     | 2016-06-01 |
 | Transcript Contributor(s)   | transcript:류창민 |

@@ -3,7 +3,7 @@
 | ID            | 851 |
 | Title         | 카드빚 갚아달라며 계속 요구하는 아들, 어떡하죠? |
 | Korean Subtitle | [ko-851-card-debt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/ko-851-card-debt.sbv) |
-| English Title | My son demands that I pay off his credit card debt. What should I do?  |
+| English Title | My Son Demands That I Pay off His Credit Card Debt. What Should I Do? |
 | English Subtitle | [en-851-card-debt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/en-851-card-debt.sbv) |
 | Korean/English Published     | 2016-04-19 |
 | Transcript Contributor(s)   | 류창민 |

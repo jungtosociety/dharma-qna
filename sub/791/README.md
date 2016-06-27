@@ -3,7 +3,7 @@
 | ID            | 791 |
 | Title         | 내가 내 인생의 희망이 되어 행복하게 살겠습니다. |
 | Korean Subtitle | [ko-791-own-hope-and-happy.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/ko-791-own-hope-and-happy.sbv) |
-| English Title | I'll become my own hope and live a happy life  |
+| English Title | I'll Become My Own Hope and Live a Happy Life |
 | English Subtitle | [en-791-own-hope-and-happy.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/en-791-own-hope-and-happy.sbv) |
 | Korean/English Published     |  |
 | Transcript Contributor(s)   |  |

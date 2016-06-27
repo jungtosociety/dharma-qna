@@ -3,7 +3,7 @@
 | ID            | 797 |
 | Title         | 담배를 끊지 못하는 남편, 금연에 성공하려면? |
 | Korean Subtitle | [ko-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/ko-797-husband-smoking.sbv) |
-| English Title | How can my husband quit smoking?  |
+| English Title | How Can My Husband Quit Smoking?  |
 | English Subtitle | [en-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/en-797-husband-smoking.sbv) |
 | Korean/English Published     | 2016-07-01 |
 | Transcript Contributor(s)   | transcript:류창민 |
