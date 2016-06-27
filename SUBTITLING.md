@@ -8,10 +8,6 @@
 |    | My middle school daughter is forgetful and messy   | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) amara   |  |  ~  |  |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) 0:24:48      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) |       |  |
 |    | I'll become my own hope and live a happy life    | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) amara   |  |  ~  |  |
-| [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) 0:10:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | 이동엽; review:김재명      |  |
-|    | If life is a meaningless dream, I want to awake from it   | [![](img/amara.png)](http://amara.org/en/videos/mMHw7twhBLlb) amara   | 2016-06-15 |  ~  | 영번역완 |
-| [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) | 류창민;review:김재명      |  |
-|    | How can my husband quit smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-07-01 | 2016-05-27 ~ 2016-05-29 | subtitling:unknown; review |
 | [899](sub/899) | 교회, 성당, 절 어디를 가도 믿음이 안생겨요   | [![](img/youtube.png)](https://youtu.be/bocDnNgRhgE) 0:06:34      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) | 류창민      |  |
 |    | I can't hold on to religious beliefs    | [![](img/amara.png)](http://amara.org/en/videos/UF0Y1vOk3z46) amara   | 2016-07-15 | 2016-06-03 ~ 2016-06-08 | 2h |
 | [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | 이동엽; review:김재명      |  |
@@ -68,3 +64,7 @@
 |    | Ven. Pomnyun Sunim - Introduction   | [![](img/amara.png)](http://amara.org/en/videos/rMeq7FflJNMk) amara   | 2016-05-21 | 2016-05-21 ~ 2016-05-21 | 1h30m |
 | [456](sub/456) | 알콜중독 극복   | [![](img/youtube.png)](https://youtu.be/72PIwIEkUtc) 0:10:04      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) | 류창민; review:김재명      |  |
 |    | How to overcome addictions   | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) amara   | 2016-06-01 | 2016-05-26 ~ 2016-05-27 | 2hr |
+| [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) 0:10:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | 이동엽; review:김재명      |  |
+|    | If life is a meaningless dream, I want to awake from it   | [![](img/amara.png)](http://amara.org/en/videos/mMHw7twhBLlb) amara   | 2016-06-15 |  ~  | 영번역완 |
+| [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) | 류창민;review:김재명      |  |
+|    | How can my husband quit smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-07-01 | 2016-05-27 ~ 2016-05-29 | subtitling:unknown; review |
