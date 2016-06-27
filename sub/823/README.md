@@ -3,7 +3,7 @@
 | ID            | 823 |
 | Title         | 돌아가신 엄마, 천국에 계시는 게 맞을까요? |
 | Korean Subtitle | [ko-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/ko-823-heaven.sbv) |
-| English Title | My mom passed away 10 years ago. Is she in heaven?  |
+| English Title | My Mom Passed Away 10 Years Ago. Is She in Heaven? |
 | English Subtitle | [en-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/en-823-heaven.sbv) |
 | Korean/English Published     | 2016-10-15 |
 | Transcript Contributor(s)   | transcript:류창민 |

@@ -21,7 +21,7 @@
 | [742](sub/742) | 아들이 여자가 되겠다고 합니다   | [![](img/youtube.png)](https://youtu.be/YHuR4TIUL7U) 0:10:11      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) | 류창민      |  |
 |    | My Son Wants to Become a Woman   | [![](img/amara.png)](http://amara.org/en/videos/M8NC9hnVtAGe) amara   | 2016-10-01 | 2016-06-08 ~ 2016-06-13 | 2h |
 | [823](sub/823) | 돌아가신 엄마, 천국에 계시는 게 맞을까요?   | [![](img/youtube.png)](https://youtu.be/BeJ3IRV1_mw) 0:05:07      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) | 류창민      |  |
-|    | My mom passed away 10 years ago. Is she in heaven?    | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-10-15 | 2016-06-13 ~ 2016-06-13 | 1h |
+|    | My Mom Passed Away 10 Years Ago. Is She in Heaven?   | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-10-15 | 2016-06-13 ~ 2016-06-13 | 1h |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) 0:10:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | 류창민      |  |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) amara   | 2016-11-01 | 2016-06-13 ~  |  |
 | [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 이동엽      |  |
