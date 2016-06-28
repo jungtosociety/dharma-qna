@@ -25,7 +25,7 @@
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) 0:10:14      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | 류창민      |  |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) amara   | 2016-11-01 | 2016-06-13 ~  |  |
 | [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 이동엽      |  |
-|    | Be the Owner Wherever You Are   | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) amara   | 2016-11-15 | 2016-06-15 ~  |  |
+|    | Be the Owner Wherever You Are   | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) amara   | 2016-11-15 | 2016-06-15 ~ 2016-06-27 | subtitling:4h |
 | [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) 0:13:41      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) |       |  |
 |    | Anger Management at Workplace   | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) amara   | 2016-12-01 |  ~  |  |
 ## Published
@@ -67,4 +67,4 @@
 | [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) 0:10:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | 이동엽; review:김재명      |  |
 |    | If Life Is a Meaningless Dream, I Want to Awake from It   | [![](img/amara.png)](http://amara.org/en/videos/mMHw7twhBLlb) amara   | 2016-06-15 |  ~  | 영번역완 |
 | [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) | 류창민;review:김재명      |  |
-|    | How Can My Husband Quit Smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-07-01 | 2016-05-27 ~ 2016-05-29 | subtitling:unknown; review |
+|    | How Can My Husband Quit Smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-07-01 | 2016-05-27 ~ 2016-05-29 | subtitling:2h; review:30m |
