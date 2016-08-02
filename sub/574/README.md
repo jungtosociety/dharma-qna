@@ -2,9 +2,9 @@
 |-------|---------|
 | ID            | 574 |
 | Title         | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요 |
-| Korean Subtitle |  |
+| Korean Subtitle | [ko-574-obsession-beauty.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/ko-574-obsession-beauty.sbv) |
 | English Title | Obsession over Physical Beauty  |
-| English Subtitle |  |
+| English Subtitle | [en-574-obsession-beauty.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/en-574-obsession-beauty.sbv) |
 | Korean/English Published     | 2016-08-01 |
 | Transcript Contributor(s)   | 류창민 |
 | Translation Contributor(s)   | 신미라, 이혜진, 김연우, 김미선 |
