@@ -8,10 +8,6 @@
 |    | My Middle School Daughter Is Forgetful and Messy   | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) amara   |  |  ~  |  |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) 0:24:48      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) |       |  |
 |    | I'll Become My Own Hope and Live a Happy Life   | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) amara   |  |  ~  |  |
-| [899](sub/899) | 교회, 성당, 절 어디를 가도 믿음이 안생겨요   | [![](img/youtube.png)](https://youtu.be/bocDnNgRhgE) 0:06:34      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) | 류창민      |  |
-|    | I Cannot Hold on to Religious Beliefs    | [![](img/amara.png)](http://amara.org/en/videos/UF0Y1vOk3z46) amara   | 2016-07-15 | 2016-06-03 ~ 2016-06-08 | 2h |
-| [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | 이동엽; review:김재명      |  |
-|    | Obsession over Physical Beauty    | [![](img/amara.png)](http://amara.org/en/videos/xVo0OdM6vxik) amara   | 2016-08-01 |  ~  | 영번역완 |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) 0:13:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | 김미경, review:김재명      |  |
 |    | I Get Easily Hurt by Other People   | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) amara   | 2016-08-15 |  ~  | 영번역완 |
 | [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) 0:23:57      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | 류창민      |  |
@@ -68,3 +64,7 @@
 |    | If Life Is a Meaningless Dream, I Want to Awake from It   | [![](img/amara.png)](http://amara.org/en/videos/mMHw7twhBLlb) amara   | 2016-06-15 |  ~  | 영번역완 |
 | [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) 0:09:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) | 류창민;review:김재명      |  |
 |    | How Can My Husband Quit Smoking?    | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) amara   | 2016-07-01 | 2016-05-27 ~ 2016-05-29 | subtitling:2h; review:30m |
+| [899](sub/899) | 교회, 성당, 절 어디를 가도 믿음이 안생겨요   | [![](img/youtube.png)](https://youtu.be/bocDnNgRhgE) 0:06:34      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) | 류창민      |  |
+|    | I Cannot Hold on to Religious Beliefs    | [![](img/amara.png)](http://amara.org/en/videos/UF0Y1vOk3z46) amara   | 2016-07-15 | 2016-06-03 ~ 2016-06-08 | 2h |
+| [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | 이동엽; review:김재명      |  |
+|    | Obsession over Physical Beauty    | [![](img/amara.png)](http://amara.org/en/videos/xVo0OdM6vxik) amara   | 2016-08-01 |  ~  | 영번역완 |
