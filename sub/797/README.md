@@ -9,10 +9,10 @@
 | Transcript Contributor(s)   | transcript:류창민 |
 | Translation Contributor(s)   | translation:전은영,이혜진,김연우 |
 | Subtitling Contributor(s)   | 류창민;review:김재명 |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
+| French Title | Comment faire pour que mon mari arrête de fumer |
+| French Subtitle | [fr-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/fr-797-husband-smoking.sbv) |
+| French Subtitle Published | 2016-08-02 |
+| French Subtitle Contributor(s) | 박지현 |
 | German Title |  |
 | German Subtitle |  |
 | German Subtitle Published |  |
