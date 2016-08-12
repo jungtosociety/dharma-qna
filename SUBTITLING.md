@@ -8,8 +8,8 @@
 |    | My Middle School Daughter Is Forgetful and Messy   | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) amara   |  |  ~  |  |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) 0:24:48      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) |       |  |
 |    | I'll Become My Own Hope and Live a Happy Life   | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) amara   |  |  ~  |  |
-| [463](sub/463) | 가볍게 거절하기   |  0:04:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) |       |  |
-|    | Refusing Without Guilt   |  amara   |  |  ~  |  |
+| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) 0:04:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) |       |  |
+|    | Refusing Without Guilt   | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) amara   |  |  ~  |  |
 | [479](sub/479) | 분별심을 내는 나를 보기   |  0:06:40      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) |       |  |
 |    | Acknowledging Judgements Within You   |  amara   |  |  ~  |  |
 | [907](sub/907) | 자녀가 종교를 선택할 때 무엇을 지침으로 삼도록 해야 하나요?   |  0:16:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/907-childern-religion.xlsx) |       |  |
@@ -33,7 +33,7 @@
 | [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 이동엽      |  |
 |    | Be the Owner Wherever You Are   | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) amara   | 2016-11-15 | 2016-06-15 ~ 2016-06-27 | subtitling:4h  (reported) |
 | [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) 0:13:41      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | 이동엽      |  |
-|    | Anger Management at Workplace   | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) amara   | 2016-12-01 | 2016-06-27 ~ 2016-07-17 |  |
+|    | Anger Management at Workplace   | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) amara   | 2016-12-01 | 2016-06-27 ~ 2016-07-17 | subtitling:4h  (reported) |
 ## Published
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
