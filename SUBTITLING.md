@@ -2,13 +2,13 @@
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
 |----| ------------- |-------|-------------|----------|--------|
-| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |       |  |
+| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | 송명석      |  |
 |    | I'm in a Daze as I Have No Dreams in Life   | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) amara   |  |  ~  |  |
-| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) 0:10:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) |       |  |
+| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) 0:10:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) | 이동엽      |  |
 |    | My Middle School Daughter Is Forgetful and Messy   | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) amara   |  |  ~  |  |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) 0:24:48      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) |       |  |
 |    | I'll Become My Own Hope and Live a Happy Life   | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) amara   |  |  ~  |  |
-| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) 0:04:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) |       |  |
+| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) 0:04:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | 우종란      |  |
 |    | Refusing Without Guilt   | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) amara   |  |  ~  |  |
 | [479](sub/479) | 분별심을 내는 나를 보기   |  0:06:40      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) |       |  |
 |    | Acknowledging Judgements Within You   |  amara   |  |  ~  |  |

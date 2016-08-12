@@ -8,7 +8,7 @@
 | Korean/English Published     |  |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   |  |
+| Subtitling Contributor(s)   | 우종란 |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |

@@ -8,7 +8,7 @@
 | Korean/English Published     |  |
 | Transcript Contributor(s)   | transcript:김혜진 |
 | Translation Contributor(s)   | translation:전은영,이혜진,김연우 |
-| Subtitling Contributor(s)   |  |
+| Subtitling Contributor(s)   | 송명석 |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |
