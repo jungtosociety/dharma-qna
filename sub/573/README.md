@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/ER0B0kIFvJw](https://youtu.be/ER0B0kIFvJw) |
 | YouTube Link  | [https://youtu.be/Aaq1JUawHLM](https://youtu.be/Aaq1JUawHLM) |
 | Amara Link    | [http://amara.org/en/videos/6AuyYe0XovH0](http://amara.org/en/videos/6AuyYe0XovH0) |
 | Transcript(ko/en) | [573-moderation.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/573-moderation.xlsx) |

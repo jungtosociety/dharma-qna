@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/avClxqJxSoE](https://youtu.be/avClxqJxSoE) |
 | YouTube Link  | [https://youtu.be/3sGvGaE3KOM](https://youtu.be/3sGvGaE3KOM) |
 | Amara Link    | [http://amara.org/en/videos/1ODXjGX5Rtm2](http://amara.org/en/videos/1ODXjGX5Rtm2) |
 | Transcript(ko/en) | [839-no-dreams.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |

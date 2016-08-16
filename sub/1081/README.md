@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/afD0MeWHHZs](https://youtu.be/afD0MeWHHZs) |
 | YouTube Link  | [https://youtu.be/yp_X0KQPqyg](https://youtu.be/yp_X0KQPqyg) |
 | Amara Link    | [http://amara.org/en/videos/uiPC1tlJOjk6](http://amara.org/en/videos/uiPC1tlJOjk6) |
 | Transcript(ko/en) | [en-1081-buddhism.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/en-1081-buddhism.xlsx) |

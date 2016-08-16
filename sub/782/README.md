@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/r-_gGBbmYIQ](https://youtu.be/r-_gGBbmYIQ) |
 | YouTube Link  | [https://youtu.be/8Pvu-oiUwA0](https://youtu.be/8Pvu-oiUwA0) |
 | Amara Link    | [http://amara.org/en/videos/Ft1mYh9nvhY5](http://amara.org/en/videos/Ft1mYh9nvhY5) |
 | Transcript(ko/en) | [782-easily-hurt.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) |

@@ -17,6 +17,7 @@
 | German Subtitle | [de-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/de-900-perfectionism.sbv) |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) | 김민지,추희숙; subtitled by 김민지 |
+| Original YouTube Link  | [https://youtu.be/WXLF1qBHiWg](https://youtu.be/WXLF1qBHiWg) |
 | YouTube Link  | [https://youtu.be/utumcS1iGvM](https://youtu.be/utumcS1iGvM) |
 | Amara Link    | [http://amara.org/en/videos/EkaeX3zDKXeC](http://amara.org/en/videos/EkaeX3zDKXeC) |
 | Transcript(ko/en) | [en-900-perfectionism.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.xlsx) |

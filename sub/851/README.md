@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/Gw55vg6KhCY](https://youtu.be/Gw55vg6KhCY) |
 | YouTube Link  | [https://youtu.be/1tMErMTUwks](https://youtu.be/1tMErMTUwks) |
 | Amara Link    | [http://amara.org/en/videos/uQOxVi7aLYXT](http://amara.org/en/videos/uQOxVi7aLYXT) |
 | Transcript(ko/en) | [851-card-debt.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/851-card-debt.xlsx) |

@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/GpJ0gq-TlXE](https://youtu.be/GpJ0gq-TlXE) |
 | YouTube Link  | [https://youtu.be/z6lxOZF2Wgk](https://youtu.be/z6lxOZF2Wgk) |
 | Amara Link    | [http://amara.org/en/videos/w8ymWLXzTcyF](http://amara.org/en/videos/w8ymWLXzTcyF) |
 | Transcript(ko/en) | [en-640-suicidal-impulse.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.xlsx) |

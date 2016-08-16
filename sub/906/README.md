@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/hZolBTemeGY](https://youtu.be/hZolBTemeGY) |
 | YouTube Link  | [https://youtu.be/PQomKbgB45w](https://youtu.be/PQomKbgB45w) |
 | Amara Link    | [http://amara.org/en/videos/hjbgLzfe8XBV](http://amara.org/en/videos/hjbgLzfe8XBV) |
 | Transcript(ko/en) | [en-906-depression.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/en-906-depression.xlsx) |

@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/Cz006vpY2LY](https://youtu.be/Cz006vpY2LY) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [377-anguishes.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) |

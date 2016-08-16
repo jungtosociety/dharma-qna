@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/s8IW117so4o](https://youtu.be/s8IW117so4o) |
 | YouTube Link  | [https://youtu.be/YHuR4TIUL7U](https://youtu.be/YHuR4TIUL7U) |
 | Amara Link    | [http://amara.org/en/videos/M8NC9hnVtAGe](http://amara.org/en/videos/M8NC9hnVtAGe) |
 | Transcript(ko/en) | [742-sexual-identity.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) |

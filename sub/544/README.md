@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/I6OVbqzy_JA](https://youtu.be/I6OVbqzy_JA) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [544-foreign-fiance.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) |

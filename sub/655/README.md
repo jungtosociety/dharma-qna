@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/iVSjK141nao](https://youtu.be/iVSjK141nao) |
 | YouTube Link  | [https://youtu.be/NzMGrgklWyA](https://youtu.be/NzMGrgklWyA) |
 | Amara Link    | [http://amara.org/en/videos/BwcgJu4Zj4rz](http://amara.org/en/videos/BwcgJu4Zj4rz) |
 | Transcript(ko/en) | [en-655-good-athelete.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/en-655-good-athelete.xlsx) |

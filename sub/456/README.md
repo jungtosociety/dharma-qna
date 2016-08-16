@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/rM_CJvkq7Ts](https://youtu.be/rM_CJvkq7Ts) |
 | YouTube Link  | [https://youtu.be/72PIwIEkUtc](https://youtu.be/72PIwIEkUtc) |
 | Amara Link    | [http://amara.org/en/videos/itfyi5ssv3gw](http://amara.org/en/videos/itfyi5ssv3gw) |
 | Transcript(ko/en) | [456-addictions.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) |

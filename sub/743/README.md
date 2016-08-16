@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/HFHLLFql_LI](https://youtu.be/HFHLLFql_LI) |
 | YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/](http://amara.org/en/videos/) |
 | Transcript(ko/en) | [743-religious-differences.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) |

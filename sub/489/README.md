@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/Sr_YcScNORY](https://youtu.be/Sr_YcScNORY) |
 | YouTube Link  | [https://youtu.be/IOk5cZ9psBs](https://youtu.be/IOk5cZ9psBs) |
 | Amara Link    | [http://amara.org/en/videos/FvWS4splyJkN](http://amara.org/en/videos/FvWS4splyJkN) |
 | Transcript(ko/en) | [en-489-look-within-yourself.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/en-489-look-within-yourself.xlsx) |

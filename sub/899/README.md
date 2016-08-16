@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/ycepKdBn66A](https://youtu.be/ycepKdBn66A) |
 | YouTube Link  | [https://youtu.be/bocDnNgRhgE](https://youtu.be/bocDnNgRhgE) |
 | Amara Link    | [http://amara.org/en/videos/UF0Y1vOk3z46](http://amara.org/en/videos/UF0Y1vOk3z46) |
 | Transcript(ko/en) | [899-religious-beliefs.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) |

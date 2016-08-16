@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/bglOaP7Vhp8](https://youtu.be/bglOaP7Vhp8) |
 | YouTube Link  | [https://youtu.be/6E3piBwAYrc](https://youtu.be/6E3piBwAYrc) |
 | Amara Link    | [http://amara.org/en/videos/tW4OcBGfiBM9](http://amara.org/en/videos/tW4OcBGfiBM9) |
 | Transcript(ko/en) | [751-anger-mgmt.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) |

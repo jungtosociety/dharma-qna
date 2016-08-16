@@ -17,6 +17,7 @@
 | German Subtitle | [de-984-crush.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/984/de-984-crush.sbv) |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) | 김민지,추희숙; subtitled by 김민지 |
+| Original YouTube Link  | [https://youtu.be/q1BMwtjyQmU](https://youtu.be/q1BMwtjyQmU) |
 | YouTube Link  | [https://youtu.be/dSGAi_avjss](https://youtu.be/dSGAi_avjss) |
 | Amara Link    | [http://amara.org/en/videos/mGPueCA5DmIz](http://amara.org/en/videos/mGPueCA5DmIz) |
 | Transcript(ko/en) | [en-984-crush.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/984/en-984-crush.xlsx) |

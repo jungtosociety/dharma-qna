@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/VuxtJK9WG38](https://youtu.be/VuxtJK9WG38) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [458-being-different.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) |

@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/-064QlchlFw](https://youtu.be/-064QlchlFw) |
 | YouTube Link  | [https://youtu.be/riPKwK8EUSI](https://youtu.be/riPKwK8EUSI) |
 | Amara Link    | [http://amara.org/en/videos/mMHw7twhBLlb](http://amara.org/en/videos/mMHw7twhBLlb) |
 | Transcript(ko/en) | [102-meaningless-dream.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) |

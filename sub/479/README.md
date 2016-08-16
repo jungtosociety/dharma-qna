@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/wjccRKZwkQc](https://youtu.be/wjccRKZwkQc) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [479-judgements.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) |

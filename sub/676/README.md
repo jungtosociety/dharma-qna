@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/EdbtYBtNHRA](https://youtu.be/EdbtYBtNHRA) |
 | YouTube Link  | [https://youtu.be/y188f7eU1TU](https://youtu.be/y188f7eU1TU) |
 | Amara Link    | [http://amara.org/en/videos/EroiuPGgpght](http://amara.org/en/videos/EroiuPGgpght) |
 | Transcript(ko/en) | [en-676-fairy-tale-author.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/676/en-676-fairy-tale-author.xlsx) |

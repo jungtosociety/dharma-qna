@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/mcbjoEKlyoc](https://youtu.be/mcbjoEKlyoc) |
 | YouTube Link  | [https://youtu.be/446B1HlUoBo](https://youtu.be/446B1HlUoBo) |
 | Amara Link    | [http://amara.org/en/videos/7Spitv2wN3AT](http://amara.org/en/videos/7Spitv2wN3AT) |
 | Transcript(ko/en) | [314-reincarnation.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) |

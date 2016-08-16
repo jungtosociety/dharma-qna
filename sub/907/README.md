@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/aibKXboPET4](https://youtu.be/aibKXboPET4) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [907-childern-religion.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/907-childern-religion.xlsx) |

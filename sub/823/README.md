@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/f17Bh5_n46s](https://youtu.be/f17Bh5_n46s) |
 | YouTube Link  | [https://youtu.be/BeJ3IRV1_mw](https://youtu.be/BeJ3IRV1_mw) |
 | Amara Link    | [http://amara.org/en/videos/iaVsm9iWcMg0](http://amara.org/en/videos/iaVsm9iWcMg0) |
 | Transcript(ko/en) | [823-heaven.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) |

@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/CskTJVmwVy4](https://youtu.be/CskTJVmwVy4) |
 | YouTube Link  | [https://youtu.be/PdiVY7Y9KNk](https://youtu.be/PdiVY7Y9KNk) |
 | Amara Link    | [http://amara.org/en/videos/WrL0SB21tD0j](http://amara.org/en/videos/WrL0SB21tD0j) |
 | Transcript(ko/en) | [en-239-pessimistic-son.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/en-239-pessimistic-son.xlsx) |

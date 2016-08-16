@@ -32,7 +32,7 @@ def genReadme(subid=None):
         whereclause = 'WHERE v.vid = '+str(subid)
     else:
         whereclause = ''
-    for row in c.execute('SELECT v.vid,v.title,v.xlsfn,v.pubdate,v.youtube,v.amara, \
+    for row in c.execute('SELECT v.vid,v.title,v.xlsfn,v.pubdate,v.youtube_org,v.youtube,v.amara, \
                                  v.subworker,v.subbegin,v.subend,v.subfinal,v.memo,v.playtime, \
                                  v.xdim, v.ydim, \
                                  ko.title as kotitle, ko.fn as kosub, ko.contributors as kocon, \
@@ -49,6 +49,7 @@ def genReadme(subid=None):
         vid     = row["vid"]
         nolink = utf8("[%s](sub/%s)" % (vid,vid))        
         xlslink = utf8(githublink(vid,row["xlsfn"]))
+        utubelink_org = utf8("[https://youtu.be/%s](https://youtu.be/%s)" % (row["youtube_org"],row["youtube_org"]) if row["youtube_org"] is not None else '')
         utubelink = utf8("[https://youtu.be/%s](https://youtu.be/%s)" % (row["youtube"],row["youtube"]) if row["youtube"] is not None else '')
         amaralink = utf8("[http://amara.org/en/videos/%s](http://amara.org/en/videos/%s)" % (row["amara"],row["amara"]) if row["amara"] is not None else '')
         begin   = utf8(row["subbegin"])
@@ -78,6 +79,7 @@ def genReadme(subid=None):
         f.write("| German Subtitle | "+utf8(githublink(vid,row["desub"]))+" |\n")
         f.write("| German Subtitle Published | "+utf8(row["depubdate"])+" |\n")
         f.write("| German Subtitle Contributor(s) | "+utf8(row["decon"])+" |\n")
+        f.write("| Original YouTube Link  | "+utubelink_org+" |\n")
         f.write("| YouTube Link  | "+utubelink+" |\n")
         f.write("| Amara Link    | "+amaralink+" |\n")
         f.write("| Transcript(ko/en) | "+xlslink+" |\n")

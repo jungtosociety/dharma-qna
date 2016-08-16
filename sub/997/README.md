@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/jdKgA928x08](https://youtu.be/jdKgA928x08) |
 | YouTube Link  | [https://youtu.be/ScaKEct3C5c](https://youtu.be/ScaKEct3C5c) |
 | Amara Link    | [http://amara.org/en/videos/F8lxMlmZ92d4](http://amara.org/en/videos/F8lxMlmZ92d4) |
 | Transcript(ko/en) | [en-997-negative-thinking.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/997/en-997-negative-thinking.xlsx) |

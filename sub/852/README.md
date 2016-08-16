@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/KlEpHWfaYjI](https://youtu.be/KlEpHWfaYjI) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [852-bad-name.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) |

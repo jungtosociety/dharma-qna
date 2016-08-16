@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/WR3zJkN65vw](https://youtu.be/WR3zJkN65vw) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [612-defensive-mind.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) |

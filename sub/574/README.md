@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/IS1XqeD-f-4](https://youtu.be/IS1XqeD-f-4) |
 | YouTube Link  | [https://youtu.be/BVccCzcYnZU](https://youtu.be/BVccCzcYnZU) |
 | Amara Link    | [http://amara.org/en/videos/xVo0OdM6vxik](http://amara.org/en/videos/xVo0OdM6vxik) |
 | Transcript(ko/en) | [574-obsession-beauty.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) |

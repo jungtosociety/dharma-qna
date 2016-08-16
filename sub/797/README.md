@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/_AUIPu9OzG8"](https://youtu.be/_AUIPu9OzG8") |
 | YouTube Link  | [https://youtu.be/YhgroezcO5I](https://youtu.be/YhgroezcO5I) |
 | Amara Link    | [http://amara.org/en/videos/MNep6TtkJfcJ](http://amara.org/en/videos/MNep6TtkJfcJ) |
 | Transcript(ko/en) | [797-husband-smoking.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) |

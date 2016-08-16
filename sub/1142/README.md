@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/aHGDctFxVQw](https://youtu.be/aHGDctFxVQw) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [1142-person-dislike.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) |

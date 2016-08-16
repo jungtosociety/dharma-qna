@@ -17,6 +17,7 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
+| Original YouTube Link  | [https://youtu.be/ekF9pkhWksM](https://youtu.be/ekF9pkhWksM) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [715-gratitude.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) |
