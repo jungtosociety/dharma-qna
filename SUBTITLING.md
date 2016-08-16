@@ -18,6 +18,22 @@
 |    | How Should I Think About a Person I Don't Like?    |  amara   |  |  ~  |  |
 | [743](sub/743) | 종교가 다른 아내   |  0:12:16      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) |       |  |
 |    | Religious Differences in Marriage    | [![](img/amara.png)](http://amara.org/en/videos/) amara   |  |  ~  |  |
+| [458](sub/458) | 다른것이 당연하다   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) |       |  |
+|    |    |  amara   |  |  ~  | Being different is normal |
+| [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) |       |  |
+|    |    |  amara   |  |  ~  | Anguishes during daily life and 108 bowing |
+| [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) |       |  |
+|    |    |  amara   |  |  ~  | 피해의식 Defensive mind |
+| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) |       |  |
+|    |    |  amara   |  |  ~  | I'm told my child is ill due to a bad name. What should I do?  |
+| [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) |       |  |
+|    |    |  amara   |  |  ~  | My daughter and I have stopped communicating. |
+| [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) |       |  |
+|    |    |  amara   |  |  ~  | Enlightenment is release from samsara |
+| [715](sub/715) | 다만 감사한 마음   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) |       |  |
+|    |    |  amara   |  |  ~  | Nothing but Gratitude |
+| [544](sub/544) | 외국인 신랑과 부모님의 반대   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) |       |  |
+|    |    |  amara   |  |  ~  | Foreigner fiancé and parental disapproval |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) 0:13:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | 김미경, review:김재명      |  |
 |    | I Get Easily Hurt by Other People   | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) amara   | 2016-08-15 |  ~  |  |
 | [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) 0:23:57      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | 류창민      |  |
