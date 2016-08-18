@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-743-religious-differences.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/ko-743-religious-differences.sbv) |
 | English Title | Religious Differences in Marriage  |
 | English Subtitle | [en-743-religious-differences.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/en-743-religious-differences.sbv) |
-| Korean/English Published     | 2017 |
+| Korean/English Published     | 2017-mm-dd |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
 | Subtitling Contributor(s)   |  |

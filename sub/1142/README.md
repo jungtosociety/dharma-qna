@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-1142-person-dislike.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/ko-1142-person-dislike.sbv) |
 | English Title | How Should I Think About a Person I Don't Like?  |
 | English Subtitle | [en-1142-person-dislike.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/en-1142-person-dislike.sbv) |
-| Korean/English Published     | 2017 |
+| Korean/English Published     | 2017-mm-dd |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
 | Subtitling Contributor(s)   |  |

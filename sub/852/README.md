@@ -5,7 +5,7 @@
 | Korean Subtitle |  |
 | English Title |  |
 | English Subtitle |  |
-| Korean/English Published     | 2017 |
+| Korean/English Published     | 2017-mm-dd |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
 | Subtitling Contributor(s)   |  |
