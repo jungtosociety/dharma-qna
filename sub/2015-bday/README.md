@@ -18,8 +18,8 @@
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
 | Original YouTube Link  | [https://youtu.be/_eb2jxDK3Qc](https://youtu.be/_eb2jxDK3Qc) |
-| YouTube Link  |  |
-| Amara Link    |  |
+| YouTube Link  | [https://youtu.be/wsfTK1rRDms](https://youtu.be/wsfTK1rRDms) |
+| Amara Link    | [http://amara.org/en/videos/IkvQPJ3ePWPS](http://amara.org/en/videos/IkvQPJ3ePWPS) |
 | Transcript(ko/en) | [2015-bday.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) |
 | Playtime |  |
 | Resolution | NonexNone|
