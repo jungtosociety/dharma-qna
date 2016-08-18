@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-859-messy-daughter.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/ko-859-messy-daughter.sbv) |
 | English Title | My Middle School Daughter Is Forgetful and Messy |
 | English Subtitle | [en-859-messy-daughter.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/en-859-messy-daughter.sbv) |
-| Korean/English Published     | 2017 |
+| Korean/English Published     | 2017-01-01 |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
 | Subtitling Contributor(s)   | 이동엽 |

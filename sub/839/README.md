@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-839-no-dreams.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/ko-839-no-dreams.sbv) |
 | English Title | I'm in a Daze as I Have No Dreams in Life |
 | English Subtitle | [en-839-no-dreams.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/en-839-no-dreams.sbv) |
-| Korean/English Published     | 2017 |
+| Korean/English Published     | 2016-12-15 |
 | Transcript Contributor(s)   | transcript:김혜진 |
 | Translation Contributor(s)   | translation:전은영,이혜진,김연우 |
 | Subtitling Contributor(s)   | 송명석 |
