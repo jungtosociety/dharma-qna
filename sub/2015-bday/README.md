@@ -1,6 +1,6 @@
 |  key  |  value  |
 |-------|---------|
-| ID            | 2015-bud-bday |
+| ID            | 2015-bday |
 | Title         | 부처님오신날, '천상천하 유아독존'의 의미 |
 | Korean Subtitle |  |
 | English Title |  |
@@ -20,6 +20,6 @@
 | Original YouTube Link  | [https://youtu.be/_eb2jxDK3Qc](https://youtu.be/_eb2jxDK3Qc) |
 | YouTube Link  |  |
 | Amara Link    |  |
-| Transcript(ko/en) | [2015-bud-bday.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bud-bday/2015-bud-bday.xlsx) |
+| Transcript(ko/en) | [2015-bday.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) |
 | Playtime |  |
 | Resolution | NonexNone|

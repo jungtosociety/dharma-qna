@@ -36,7 +36,7 @@
 |    |    |  amara   |  |  ~  | Foreigner fiancé and parental disapproval |
 | [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) |       |  |
 |    |    |  amara   |  |  ~  | I blame my mother for making me reliant  |
-| [2015-bud-bday](sub/2015-bud-bday) | 부처님오신날, '천상천하 유아독존'의 의미   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bud-bday/2015-bud-bday.xlsx) | 류창민      |  |
+| [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | 류창민      |  |
 |    |    |  amara   |  | 2016-08-17 ~  | The meaning of Buddha's first words |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) 0:13:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | 김미경, review:김재명      |  |
 |    | I Get Easily Hurt by Other People   | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) amara   | 2016-08-15 |  ~  |  |
