@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-791-own-hope-and-happy.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/ko-791-own-hope-and-happy.sbv) |
 | English Title | I'll Become My Own Hope and Live a Happy Life |
 | English Subtitle | [en-791-own-hope-and-happy.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/en-791-own-hope-and-happy.sbv) |
-| Korean/English Published     |  |
+| Korean/English Published     | 2017 |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
 | Subtitling Contributor(s)   |  |

@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-479-judgements.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/ko-479-judgements.sbv) |
 | English Title | Acknowledging Judgements Within You |
 | English Subtitle | [en-479-judgements.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/en-479-judgements.sbv) |
-| Korean/English Published     |  |
+| Korean/English Published     | 2017 |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
 | Subtitling Contributor(s)   |  |

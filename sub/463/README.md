@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-463-refusing-without-guilt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/ko-463-refusing-without-guilt.sbv) |
 | English Title | Refusing Without Guilt |
 | English Subtitle | [en-463-refusing-without-guilt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/en-463-refusing-without-guilt.sbv) |
-| Korean/English Published     |  |
+| Korean/English Published     | 2017 |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
 | Subtitling Contributor(s)   | 우종란 |

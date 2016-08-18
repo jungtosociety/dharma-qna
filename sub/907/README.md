@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-907-childern-religion.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/ko-907-childern-religion.sbv) |
 | English Title | What Should We Have Children Consider When They Choose a Religion?  |
 | English Subtitle | [en-907-childern-religion.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/en-907-childern-religion.sbv) |
-| Korean/English Published     |  |
+| Korean/English Published     | 2017 |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
 | Subtitling Contributor(s)   |  |
