@@ -5,7 +5,7 @@
 | Korean Subtitle |  |
 | English Title | My Daughter Is under Too Much Pressure over the University Entrance Exam |
 | English Subtitle |  |
-| Korean/English Published     | 2016-09-15 |
+| Korean/English Published     | 2016-08-15 |
 | Transcript Contributor(s)   | 허정연 |
 | Translation Contributor(s)   | 전은영, 이혜진, 김연우, 김미선 |
 | Subtitling Contributor(s)   | 이정화; review:김재명 |
