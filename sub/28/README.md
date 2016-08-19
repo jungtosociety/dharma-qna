@@ -17,9 +17,9 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
-| Original YouTube Link  | [https://youtu.be/eb2jxDK3Qc](https://youtu.be/eb2jxDK3Qc) |
+| Original YouTube Link  | [https://youtu.be/bwO2DBnh0cg](https://youtu.be/bwO2DBnh0cg) |
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [28-blame-mother.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:05:51 |
+| Resolution | 480x360|

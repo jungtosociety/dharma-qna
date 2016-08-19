@@ -21,5 +21,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [852-bad-name.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:06:46 |
+| Resolution | 1920x1080|

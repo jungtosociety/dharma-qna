@@ -21,5 +21,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [856-daughter-communication.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:12:24 |
+| Resolution | 1920x1080|

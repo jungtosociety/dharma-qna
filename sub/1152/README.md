@@ -21,5 +21,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [1152-enlightment.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:09:41 |
+| Resolution | 1280x720|

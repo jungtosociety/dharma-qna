@@ -1,7 +1,7 @@
 |  key  |  value  |
 |-------|---------|
-| ID            | 458 |
-| Title         | 다른것이 당연하다 |
+| ID            | 886 |
+| Title         | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요 |
 | Korean Subtitle |  |
 | English Title |  |
 | English Subtitle |  |
@@ -17,9 +17,9 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
-| Original YouTube Link  | [https://youtu.be/VuxtJK9WG38](https://youtu.be/VuxtJK9WG38) |
+| Original YouTube Link  | [https://youtu.be/hlfjrD4tKI8](https://youtu.be/hlfjrD4tKI8) |
 | YouTube Link  |  |
 | Amara Link    |  |
-| Transcript(ko/en) | [458-being-different.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) |
-| Playtime | 0:06:36 |
-| Resolution | 654x480|
+| Transcript(ko/en) | [886-desire-to-have-fun.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) |
+| Playtime | 0:11:08 |
+| Resolution | 1920x1080|
