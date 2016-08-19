@@ -36,18 +36,18 @@
 |    | Religious Differences in Marriage    | [![](img/amara.png)](http://amara.org/en/videos/) amara   | 2017-mm-dd |  ~  |  |
 | [458](sub/458) | 다른것이 당연하다   |  0:06:36      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) |       |  |
 |    |    |  amara   | 2017-mm-dd |  ~  | Being different is normal |
-| [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   |  0:29:54      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) |       |  |
-|    |    |  amara   | 2017-mm-dd |  ~  | Anguishes during daily life and 108 bowing |
+| [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) 0:29:54      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) |       |  |
+|    |    | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) amara   | 2017-mm-dd |  ~  | Anguishes during daily life and 108 bowing |
 | [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   |  0:06:19      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) |       |  |
 |    |    |  amara   | 2017-mm-dd |  ~  | 피해의식 Defensive mind |
 | [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠   |  0:06:46      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) |       |  |
 |    |    |  amara   | 2017-mm-dd |  ~  | I'm told my child is ill due to a bad name. What should I do?  |
 | [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   |  0:12:24      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) |       |  |
 |    |    |  amara   | 2017-mm-dd |  ~  | My daughter and I have stopped communicating. |
-| [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   |  0:09:41      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) |       |  |
-|    |    |  amara   | 2017-mm-dd |  ~  | Enlightenment is release from samsara |
-| [715](sub/715) | 다만 감사한 마음   |  0:12:51      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) |       |  |
-|    |    |  amara   | 2017-mm-dd |  ~  | Nothing but Gratitude |
+| [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   | [![](img/youtube.png)](https://youtu.be/4YoJ8gpHVtk) 0:09:41      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) |       |  |
+|    |    | [![](img/amara.png)](http://amara.org/en/videos/Q4FtW57qYz1F) amara   | 2017-mm-dd |  ~  | Enlightenment is release from samsara |
+| [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) 0:12:51      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) |       |  |
+|    |    | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) amara   | 2017-mm-dd |  ~  | Nothing but Gratitude |
 | [544](sub/544) | 외국인 신랑과 부모님의 반대   |  0:08:17      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) |       |  |
 |    |    |  amara   | 2017-mm-dd |  ~  | Foreigner fiancé and parental disapproval |
 | [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   |  0:05:51      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) |       |  |
