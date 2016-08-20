@@ -8,7 +8,7 @@
 | Korean/English Published     | 2017-05-01 |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   | 류창민 |
+| Subtitling Contributor(s)   | 류창민 (7h) |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |

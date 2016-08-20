@@ -8,7 +8,7 @@
 | Korean/English Published     | 2016-12-01 |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   | 이동엽 |
+| Subtitling Contributor(s)   | 이동엽 (4h) |
 | French Title |  |
 | French Subtitle |  |
 | French Subtitle Published |  |

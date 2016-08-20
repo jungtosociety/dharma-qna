@@ -14,7 +14,7 @@
 |    | I Get Easily Hurt by Other People   | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) amara   | 2016-11-01 | 2016-04-26 ~ 미완성 |  |
 | [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 이동엽      |  |
 |    | Be the Owner Wherever You Are   | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) amara   | 2016-11-15 | 2016-06-15 ~ 2016-06-27 | subtitling:4h  (reported) |
-| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) 0:13:41      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | 이동엽      |  |
+| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) 0:13:41      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | 이동엽 (4h)      |  |
 |    | Anger Management at Workplace   | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) amara   | 2016-12-01 | 2016-06-27 ~ 2016-07-17 | subtitling:4h  (reported) |
 | [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) 0:05:15      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | 송명석      |  |
 |    | I'm in a Daze as I Have No Dreams in Life   | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) amara   | 2016-12-15 |  ~  |  |
@@ -22,8 +22,8 @@
 |    | My Middle School Daughter Is Forgetful and Messy   | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) amara   | 2017-01-01 |  ~  |  |
 | [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) 0:04:21      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | 우종란      |  |
 |    | Refusing Without Guilt   | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) amara   | 2017-01-15 |  ~  |  |
-| [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) 0:49:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | 류창민      |  |
-|    |    | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) amara   | 2017-05-01 | 2016-08-17 ~  | The meaning of Buddha's first words |
+| [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) 0:49:23      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | 류창민 (7h)      |  |
+|    |    | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) amara   | 2017-05-01 | 2016-08-17 ~ 2016-08-19 | The meaning of Buddha's first words |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) 0:24:48      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) |       |  |
 |    | I'll Become My Own Hope and Live a Happy Life   | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) amara   | 2017-mm-dd |  ~  |  |
 | [479](sub/479) | 분별심을 내는 나를 보기   |  0:06:40      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) |       |  |
