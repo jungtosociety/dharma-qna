@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-712-funeral.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/ko-712-funeral.sbv) |
 | English Title | Should I Attend a Funeral of a Friend I Fell out with Long Ago? |
 | English Subtitle | [en-712-funeral.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/en-712-funeral.sbv) |
-| Korean/English Published     | 2016-09-15 |
+| Korean/English Published     | 2016-mm-dd |
 | Transcript Contributor(s)   | transcript:Moon |
 | Translation Contributor(s)   | translation:김미선,이혜진,김연우 |
 | Subtitling Contributor(s)   | 류창민 |

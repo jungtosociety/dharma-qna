@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/ko-823-heaven.sbv) |
 | English Title | My Mom Passed Away 10 Years Ago. Is She in Heaven? |
 | English Subtitle | [en-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/en-823-heaven.sbv) |
-| Korean/English Published     | 2016-10-15 |
+| Korean/English Published     | 2016-09-02 |
 | Transcript Contributor(s)   | transcript:류창민 |
 | Translation Contributor(s)   | translation:홍향주,김연우 |
 | Subtitling Contributor(s)   | 류창민 |

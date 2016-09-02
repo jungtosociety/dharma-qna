@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-314-reincarnation.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/ko-314-reincarnation.sbv) |
 | English Title | On Reincarnation and Previous Lives  |
 | English Subtitle | [en-314-reincarnation.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/en-314-reincarnation.sbv) |
-| Korean/English Published     | 2016-09-01 |
+| Korean/English Published     | 2016-mm-dd |
 | Transcript Contributor(s)   | transcript:류창민 |
 | Translation Contributor(s)   | translation:김미진,이혜진,김연우 |
 | Subtitling Contributor(s)   | 류창민 |
