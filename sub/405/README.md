@@ -1,7 +1,7 @@
 |  key  |  value  |
 |-------|---------|
-| ID            | 905 |
-| Title         | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.  |
+| ID            | 405 |
+| Title         | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유 |
 | Korean Subtitle |  |
 | English Title |  |
 | English Subtitle |  |
@@ -17,9 +17,9 @@
 | German Subtitle |  |
 | German Subtitle Published |  |
 | German Subtitle Contributor(s) |  |
-| Original YouTube Link  | [https://youtu.be/bxR-KjuAuTk](https://youtu.be/bxR-KjuAuTk) |
+| Original YouTube Link  | [https://youtu.be/Pzw1ZRaca1w](https://youtu.be/Pzw1ZRaca1w) |
 | YouTube Link  |  |
 | Amara Link    |  |
-| Transcript(ko/en) | [905-brother.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) |
-| Playtime | 0:11:48 |
-| Resolution | 1920x1080|
+| Transcript(ko/en) | [405-reason-for-precepts.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) |
+| Playtime |  |
+| Resolution | NonexNone|
