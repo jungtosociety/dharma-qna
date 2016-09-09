@@ -58,6 +58,8 @@
 |    |    |  amara   | 2017-mm-dd |  ~  | I feel lonely since my brother passed away |
 | [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) |       |  |
 |    |    |  amara   | 2017-mm-dd |  ~  | There is no inherent right and wrong.   The reason for precepts. |
+| [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |        | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) |       |  |
+|    | good teacher   |  amara   | 2017-mm-dd |  ~  | 9 years of teaching, I expected to become a good teacher by working hard. |
 ## Published
 
 | NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |
