@@ -106,5 +106,5 @@
 |    | My Daughter Is under Too Much Pressure over the University Entrance Exam   | [![](img/amara.png)](http://amara.org/en/videos/AcdVe1mvtsDJ) amara   | 2016-08-15 | 2016-05-06 ~ 2016-05-18 | 1h, review(2h) |
 | [823](sub/823) | 돌아가신 엄마, 천국에 계시는 게 맞을까요?   | [![](img/youtube.png)](https://youtu.be/BeJ3IRV1_mw) 0:05:07      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) | 류창민      | JM 2016-09-02 |
 |    | My Mom Passed Away 10 Years Ago. Is She in Heaven?   | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) amara   | 2016-09-02 | 2016-06-13 ~ 2016-06-13 | 1h (reported) |
-| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 이동엽      | reviewed by 류창민 |
+| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) 0:16:42      | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 이동엽      | reviewed by 류창민 (1.5h) |
 |    | Be the Owner Wherever You Are   | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) amara   | 2016-09-15 | 2016-06-15 ~ 2016-06-27 | subtitling:4h  (reported) |
