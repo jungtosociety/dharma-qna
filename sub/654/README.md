@@ -5,7 +5,7 @@
 | Korean Subtitle | [ko-654-owner.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/ko-654-owner.sbv) |
 | English Title | Be the Owner Wherever You Are |
 | English Subtitle | [en-654-owner.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/en-654-owner.sbv) |
-| Korean/English Published     | 2016-11-15 |
+| Korean/English Published     | 2016-09-15 |
 | Transcript Contributor(s)   |  |
 | Translation Contributor(s)   |  |
 | Subtitling Contributor(s)   | 이동엽 |
