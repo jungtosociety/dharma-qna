@@ -104,6 +104,7 @@ if __name__ == "__main__":
     f.write('* EN: English Subtitle\n')
     f.write('* DE: German(Deutsch) Subtitle\n')
     f.write('* CN: Chinese(中文) Subtitle\n')
+    f.write('\n')
     gentab_published(f)
     f.close()
 

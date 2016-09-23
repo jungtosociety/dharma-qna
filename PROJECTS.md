@@ -2,6 +2,7 @@
 * EN: English Subtitle
 * DE: German(Deutsch) Subtitle
 * CN: Chinese(中文) Subtitle
+
 | NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN |
 |----| ------------- |----|----|-----|---------|----|----|----|----|
 | [654](https://github.com/jungtosociety/dharma-qna/blob/master/sub/654) | Be the Owner Wherever You Are | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 2016-09-15 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/en-654-owner.sbv) |  |  |  |
