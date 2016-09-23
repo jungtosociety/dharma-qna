@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 839 |
-| Title         | 꿈이 없어서 생활이 멍한 것 같아요 |
-| Korean Subtitle | [ko-839-no-dreams.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/ko-839-no-dreams.sbv) |
-| English Title | I'm in a Daze as I Have No Dreams in Life |
-| English Subtitle | [en-839-no-dreams.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/en-839-no-dreams.sbv) |
-| Korean/English Published     | 2016-12-15 |
-| Transcript Contributor(s)   | transcript:김혜진 |
-| Translation Contributor(s)   | translation:전은영,이혜진,김연우 |
-| Subtitling Contributor(s)   | 송명석 |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [꿈이 없어서 생활이 멍한 것 같아요](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/ko-839-no-dreams.sbv)<br>by transcript:김혜진,subtitle(송명석)<br>on 2016-12-15<br>|
+| English Subtitle | [I'm in a Daze as I Have No Dreams in Life](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/en-839-no-dreams.sbv)<br>by translation:전은영,이혜진,김연우,subtitle(송명석)<br>on 2016-12-15<br>|
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/avClxqJxSoE](https://youtu.be/avClxqJxSoE) |
 | YouTube Link  | [https://youtu.be/3sGvGaE3KOM](https://youtu.be/3sGvGaE3KOM) |
 | Amara Link    | [http://amara.org/en/videos/1ODXjGX5Rtm2](http://amara.org/en/videos/1ODXjGX5Rtm2) |

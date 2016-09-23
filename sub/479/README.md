@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 479 |
-| Title         | 분별심을 내는 나를 보기 |
-| Korean Subtitle | [ko-479-judgements.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/ko-479-judgements.sbv) |
-| English Title | Acknowledging Judgements Within You |
-| English Subtitle | [en-479-judgements.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/en-479-judgements.sbv) |
-| Korean/English Published     | 2017-mm-dd |
-| Transcript Contributor(s)   |  |
-| Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   |  |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [분별심을 내는 나를 보기](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/ko-479-judgements.sbv)<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | [Acknowledging Judgements Within You](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/en-479-judgements.sbv)<br>by <br>on 2017-mm-dd<br>|
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/wjccRKZwkQc](https://youtu.be/wjccRKZwkQc) |
 | YouTube Link  |  |
 | Amara Link    |  |

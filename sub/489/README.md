@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 489 |
-| Title         | 남이야 어떻든 관여하지 말고 자기를 봐라 |
-| Korean Subtitle | [ko-489-look-within-yourself.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/ko-489-look-within-yourself.sbv) |
-| English Title | Don't Look at Others, Look Within Yourself |
-| English Subtitle | [en-489-look-within-yourself.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/en-489-look-within-yourself.sbv) |
-| Korean/English Published     | 2016-03-19 |
-| Transcript Contributor(s)   | 김미선 |
-| Translation Contributor(s)   | 이혜진, 김완준, 김연우 |
-| Subtitling Contributor(s)   | 이동엽; review:김재명 |
-| French Title | Regardez en vous-même avant de juger les autres |
-| French Subtitle | [fr-489-look-within-yourself.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/fr-489-look-within-yourself.sbv) |
-| French Subtitle Published | 2016-05-23 |
-| French Subtitle Contributor(s) | translation&subtitling:Franck Vautier; review:윤혜정 |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [남이야 어떻든 관여하지 말고 자기를 봐라](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/ko-489-look-within-yourself.sbv)<br>by 김미선,subtitle(이동엽; review:김재명)<br>on 2016-03-19<br>|
+| English Subtitle | [Don't Look at Others, Look Within Yourself](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/en-489-look-within-yourself.sbv)<br>by 이혜진, 김완준, 김연우,subtitle(이동엽; review:김재명)<br>on 2016-03-19<br>|
+| French Subtitle | [Regardez en vous-même avant de juger les autres](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/fr-489-look-within-yourself.sbv)<br>by translation&subtitling:Franck Vautier; review:윤혜정<br>on 2016-05-23<br>|
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/Sr_YcScNORY](https://youtu.be/Sr_YcScNORY) |
 | YouTube Link  | [https://youtu.be/IOk5cZ9psBs](https://youtu.be/IOk5cZ9psBs) |
 | Amara Link    | [http://amara.org/en/videos/FvWS4splyJkN](http://amara.org/en/videos/FvWS4splyJkN) |

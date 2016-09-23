@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 797 |
-| Title         | 담배를 끊지 못하는 남편, 금연에 성공하려면? |
-| Korean Subtitle | [ko-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/ko-797-husband-smoking.sbv) |
-| English Title | How Can My Husband Quit Smoking?  |
-| English Subtitle | [en-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/en-797-husband-smoking.sbv) |
-| Korean/English Published     | 2016-07-01 |
-| Transcript Contributor(s)   | transcript:류창민 |
-| Translation Contributor(s)   | translation:전은영,이혜진,김연우 |
-| Subtitling Contributor(s)   | 류창민;review:김재명 |
-| French Title | Comment faire pour que mon mari arrête de fumer |
-| French Subtitle | [fr-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/fr-797-husband-smoking.sbv) |
-| French Subtitle Published | 2016-08-02 |
-| French Subtitle Contributor(s) | 박지현 |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [담배를 끊지 못하는 남편, 금연에 성공하려면?](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/ko-797-husband-smoking.sbv)<br>by transcript:류창민,subtitle(류창민;review:김재명)<br>on 2016-07-01<br>|
+| English Subtitle | [How Can My Husband Quit Smoking? ](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/en-797-husband-smoking.sbv)<br>by translation:전은영,이혜진,김연우,subtitle(류창민;review:김재명)<br>on 2016-07-01<br>|
+| French Subtitle | [Comment faire pour que mon mari arrête de fumer](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/fr-797-husband-smoking.sbv)<br>by 박지현<br>on 2016-08-02<br>|
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/_AUIPu9OzG8"](https://youtu.be/_AUIPu9OzG8") |
 | YouTube Link  | [https://youtu.be/YhgroezcO5I](https://youtu.be/YhgroezcO5I) |
 | Amara Link    | [http://amara.org/en/videos/MNep6TtkJfcJ](http://amara.org/en/videos/MNep6TtkJfcJ) |

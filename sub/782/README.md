@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 782 |
-| Title         | 남의 말과 행동에 쉽게 상처 받아요  |
-| Korean Subtitle |  |
-| English Title | I Get Easily Hurt by Other People |
-| English Subtitle |  |
-| Korean/English Published     | 2016-11-01 |
-| Transcript Contributor(s)   |  |
-| Translation Contributor(s)   | 박빛나리, 이혜진, 김연우, 김미선 |
-| Subtitling Contributor(s)   | 김미경, review:김재명 |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | N/A |
+| English Subtitle | <br>by 박빛나리, 이혜진, 김연우, 김미선,subtitle(김미경, review:김재명)<br>on 2016-11-01<br>|
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/r-_gGBbmYIQ](https://youtu.be/r-_gGBbmYIQ) |
 | YouTube Link  | [https://youtu.be/8Pvu-oiUwA0](https://youtu.be/8Pvu-oiUwA0) |
 | Amara Link    | [http://amara.org/en/videos/Ft1mYh9nvhY5](http://amara.org/en/videos/Ft1mYh9nvhY5) |

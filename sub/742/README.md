@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 742 |
-| Title         | 아들이 여자가 되겠다고 합니다 |
-| Korean Subtitle | [ko-742-sexual-identity.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/ko-742-sexual-identity.sbv) |
-| English Title | My Son Wants to Become a Woman |
-| English Subtitle | [en-742-sexual-identity.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/en-742-sexual-identity.sbv) |
-| Korean/English Published     | 2016-10-15 |
-| Transcript Contributor(s)   | transcript:Moon |
-| Translation Contributor(s)   | translation:Moon,이혜진,김연우 |
-| Subtitling Contributor(s)   | 류창민 |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) | translation:김경진, review:윤혜정, subtitling: |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [아들이 여자가 되겠다고 합니다](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/ko-742-sexual-identity.sbv)<br>by transcript:Moon,subtitle(류창민)<br>on 2016-10-15<br>|
+| English Subtitle | [My Son Wants to Become a Woman](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/en-742-sexual-identity.sbv)<br>by translation:Moon,이혜진,김연우,subtitle(류창민)<br>on 2016-10-15<br>|
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/s8IW117so4o](https://youtu.be/s8IW117so4o) |
 | YouTube Link  | [https://youtu.be/YHuR4TIUL7U](https://youtu.be/YHuR4TIUL7U) |
 | Amara Link    | [http://amara.org/en/videos/M8NC9hnVtAGe](http://amara.org/en/videos/M8NC9hnVtAGe) |

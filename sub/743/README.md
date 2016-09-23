@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 743 |
-| Title         | 종교가 다른 아내 |
-| Korean Subtitle | [ko-743-religious-differences.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/ko-743-religious-differences.sbv) |
-| English Title | Religious Differences in Marriage  |
-| English Subtitle | [en-743-religious-differences.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/en-743-religious-differences.sbv) |
-| Korean/English Published     | 2017-mm-dd |
-| Transcript Contributor(s)   |  |
-| Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   |  |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [종교가 다른 아내](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/ko-743-religious-differences.sbv)<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | [Religious Differences in Marriage ](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/en-743-religious-differences.sbv)<br>by <br>on 2017-mm-dd<br>|
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/HFHLLFql_LI](https://youtu.be/HFHLLFql_LI) |
 | YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/](http://amara.org/en/videos/) |

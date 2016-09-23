@@ -25,6 +25,17 @@ def run_cmd(cmd,raise_exception=True):
     # return retcode
 
 def genReadme(subid=None):
+
+    # langname: language name like Englith
+    # langcode: language code like en
+    def printSubInfoPerLang(f, row, vid, langname, langcode):
+        if row[langcode+"title"] is not None and row[langcode+"title"] != '' :
+            f.write("| "+langname+" Subtitle | "+utf8(githublink(vid,row[langcode+"sub"],row[langcode+"title"]))+"<br>"+
+                                               "by "+utf8(row[langcode+"con"])+"<br>"+
+                                               "on "+utf8(row[langcode+"pubdate"])+"<br>"+"|\n")
+        else:
+            f.write("| "+langname+" Subtitle | N/A |\n")
+
     c = sqlite3.connect('dharmaqna.db')
     c.row_factory = sqlite3.Row
 
@@ -35,15 +46,19 @@ def genReadme(subid=None):
     for row in c.execute('SELECT v.vid,v.title,v.xlsfn,v.pubdate,v.youtube_org,v.youtube,v.amara, \
                                  v.subworker,v.subbegin,v.subend,v.subfinal,v.memo,v.playtime, \
                                  v.xdim, v.ydim, \
-                                 ko.title as kotitle, ko.fn as kosub, ko.contributors as kocon, \
-                                 en.title as entitle, en.fn as ensub, en.contributors as encon, \
+                                 ko.title as kotitle, ko.fn as kosub, ko.contributors || \',subtitle(\' || v.subworker || \')\' as kocon, v.pubdate as kopubdate, \
+                                 en.title as entitle, en.fn as ensub, en.contributors || \',subtitle(\' || v.subworker || \')\' as encon, v.pubdate as enpubdate, \
                                  fr.title as frtitle, fr.fn as frsub, fr.contributors as frcon, fr.pubdate as frpubdate, \
-                                 de.title as detitle, de.fn as desub, de.contributors as decon, de.pubdate as depubdate \
+                                 de.title as detitle, de.fn as desub, de.contributors as decon, de.pubdate as depubdate, \
+                                 cn.title as cntitle, cn.fn as cnsub, cn.contributors as cncon, cn.pubdate as cnpubdate, \
+                                 th.title as thtitle, th.fn as thsub, th.contributors as thcon, th.pubdate as thpubdate \
                             FROM video v \
                  LEFT OUTER JOIN ko ON v.vid = ko.vid \
                  LEFT OUTER JOIN en ON v.vid = en.vid \
                  LEFT OUTER JOIN fr ON v.vid = fr.vid \
                  LEFT OUTER JOIN de ON v.vid = de.vid \
+                 LEFT OUTER JOIN cn ON v.vid = cn.vid \
+                 LEFT OUTER JOIN th ON v.vid = th.vid \
                             '+whereclause+' \
                            ORDER BY v.pubdate ASC ' ):
         vid     = row["vid"]
@@ -63,22 +78,11 @@ def genReadme(subid=None):
         f.write("|  key  |  value  |\n")
         f.write("|-------|---------|\n")
         f.write("| ID            | "+vid+" |\n")
-        f.write("| Title         | "+utf8(row["title"])+" |\n")
-        f.write("| Korean Subtitle | "+utf8(githublink(vid,row["kosub"]))+" |\n")
-        f.write("| English Title | "+utf8(row["entitle"])+" |\n")
-        f.write("| English Subtitle | "+utf8(githublink(vid,row["ensub"]))+" |\n")
-        f.write("| Korean/English Published     | "+utf8(row["pubdate"])+" |\n")
-        f.write("| Transcript Contributor(s)   | "+utf8(row["kocon"])+" |\n")
-        f.write("| Translation Contributor(s)   | "+utf8(row["encon"])+" |\n")
-        f.write("| Subtitling Contributor(s)   | "+utf8(row["subworker"])+" |\n")
-        f.write("| French Title | "+utf8(row["frtitle"])+" |\n")
-        f.write("| French Subtitle | "+utf8(githublink(vid,row["frsub"]))+" |\n")
-        f.write("| French Subtitle Published | "+utf8(row["frpubdate"])+" |\n")
-        f.write("| French Subtitle Contributor(s) | "+utf8(row["frcon"])+" |\n")
-        f.write("| German Title | "+utf8(row["detitle"])+" |\n")
-        f.write("| German Subtitle | "+utf8(githublink(vid,row["desub"]))+" |\n")
-        f.write("| German Subtitle Published | "+utf8(row["depubdate"])+" |\n")
-        f.write("| German Subtitle Contributor(s) | "+utf8(row["decon"])+" |\n")
+        printSubInfoPerLang(f,row,vid,"Korean","ko")
+        printSubInfoPerLang(f,row,vid,"English","en")
+        printSubInfoPerLang(f,row,vid,"French","fr")
+        printSubInfoPerLang(f,row,vid,"German","de")
+        printSubInfoPerLang(f,row,vid,"Chinese","cn")
         f.write("| Original YouTube Link  | "+utubelink_org+" |\n")
         f.write("| YouTube Link  | "+utubelink+" |\n")
         f.write("| Amara Link    | "+amaralink+" |\n")

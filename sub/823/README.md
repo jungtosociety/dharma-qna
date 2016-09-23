@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 823 |
-| Title         | 돌아가신 엄마, 천국에 계시는 게 맞을까요? |
-| Korean Subtitle | [ko-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/ko-823-heaven.sbv) |
-| English Title | My Mom Passed Away 10 Years Ago. Is She in Heaven? |
-| English Subtitle | [en-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/en-823-heaven.sbv) |
-| Korean/English Published     | 2016-09-02 |
-| Transcript Contributor(s)   | transcript:류창민 |
-| Translation Contributor(s)   | translation:홍향주,김연우 |
-| Subtitling Contributor(s)   | 류창민 |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [돌아가신 엄마, 천국에 계시는 게 맞을까요?](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/ko-823-heaven.sbv)<br>by transcript:류창민,subtitle(류창민)<br>on 2016-09-02<br>|
+| English Subtitle | [My Mom Passed Away 10 Years Ago. Is She in Heaven?](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/en-823-heaven.sbv)<br>by translation:홍향주,김연우,subtitle(류창민)<br>on 2016-09-02<br>|
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/f17Bh5_n46s](https://youtu.be/f17Bh5_n46s) |
 | YouTube Link  | [https://youtu.be/BeJ3IRV1_mw](https://youtu.be/BeJ3IRV1_mw) |
 | Amara Link    | [http://amara.org/en/videos/iaVsm9iWcMg0](http://amara.org/en/videos/iaVsm9iWcMg0) |

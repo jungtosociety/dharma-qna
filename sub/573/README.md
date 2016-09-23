@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 573 |
-| Title         | 아름답게 사는 중용의 삶을 살자니 너무 어렵습니다 |
-| Korean Subtitle | [ko-573-moderation.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/ko-573-moderation.sbv) |
-| English Title | Living Life in Moderation |
-| English Subtitle | [en-573-moderation.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/en-573-moderation.sbv) |
-| Korean/English Published     | 2016-05-15 |
-| Transcript Contributor(s)   | Moon |
-| Translation Contributor(s)   | Moon, 이예선, 김연우, 이혜진 |
-| Subtitling Contributor(s)   | 이정화, 김재명; review:김재명 |
-| French Title | Vivre en gardant le beau juste-milieu |
-| French Subtitle | [fr-573-moderation.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/fr-573-moderation.sbv) |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) | translation:윤혜정; review:Franck Vautier; subtitling:박지현 |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [아름답게 사는 중용의 삶을 살자니 너무 어렵습니다](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/ko-573-moderation.sbv)<br>by Moon,subtitle(이정화, 김재명; review:김재명)<br>on 2016-05-15<br>|
+| English Subtitle | [Living Life in Moderation](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/en-573-moderation.sbv)<br>by Moon, 이예선, 김연우, 이혜진,subtitle(이정화, 김재명; review:김재명)<br>on 2016-05-15<br>|
+| French Subtitle | [Vivre en gardant le beau juste-milieu](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/fr-573-moderation.sbv)<br>by translation:윤혜정; review:Franck Vautier; subtitling:박지현<br>on <br>|
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/ER0B0kIFvJw](https://youtu.be/ER0B0kIFvJw) |
 | YouTube Link  | [https://youtu.be/Aaq1JUawHLM](https://youtu.be/Aaq1JUawHLM) |
 | Amara Link    | [http://amara.org/en/videos/6AuyYe0XovH0](http://amara.org/en/videos/6AuyYe0XovH0) |

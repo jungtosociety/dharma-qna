@@ -25,15 +25,16 @@ def gentab_published(f):
 # ---\n\
 # \n\n');
 
-    f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE |\n')
-    f.write('|----| ------------- |----|----|-----|---------|----|----|----|\n')
+    f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN |\n')
+    f.write('|----| ------------- |----|----|-----|---------|----|----|----|----|\n')
 
     for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,v.youtube,v.amara, \
-                                 en.fn,fr.fn,de.fn \
+                                 en.fn,fr.fn,de.fn,cn.fn \
                             FROM video v \
                             LEFT OUTER JOIN en ON v.vid = en.vid \
                             LEFT OUTER JOIN fr ON v.vid = fr.vid \
                             LEFT OUTER JOIN de ON v.vid = de.vid \
+                            LEFT OUTER JOIN cn ON v.vid = cn.vid \
                            WHERE status=\'published\' \
                            ORDER BY v.pubdate DESC \
                              ' ):
@@ -46,6 +47,7 @@ def gentab_published(f):
         fn_en   = row[6]
         fn_fr   = row[7]
         fn_de   = row[8]
+        fn_cn   = row[9]
         titlelink = title
         nolink = "[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid)
         xlslink = githublink(vid,xlsfn,'![](img/excel.png)')
@@ -54,7 +56,9 @@ def gentab_published(f):
         enlink = githublink(vid,fn_en,'en')
         frlink = githublink(vid,fn_fr,'fr')
         delink = githublink(vid,fn_de,'de')
-        f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, pubdate, enlink, frlink, delink ))
+        cnlink = githublink(vid,fn_cn,'cn')
+        f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, pubdate, 
+                enlink, frlink, delink, cnlink ))
 
 def gentab_subtitling(f,wip=True):
     f.write('| NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |\n')
@@ -97,11 +101,15 @@ if __name__ == "__main__":
 
     f = open('PROJECTS.md', 'w')
     gentab_published(f)
+    f.write('* KO: Korean Subtitle')
+    f.write('* EN: English Subtitle')
+    f.write('* DE: German(Deutsch) Subtitle')
+    f.write('* CN: Chinese(中文) Subtitle')
     f.close()
 
     f = open('SUBTITLING.md', 'w')
-    f.write('## Work In Progress\n\n');
+    f.write('## Work In Progress\n\n')
     gentab_subtitling(f)
-    f.write('## Published\n\n');
+    f.write('## Published\n\n')
     gentab_subtitling(f,False)
     f.close()

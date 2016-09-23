@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 28 |
-| Title         | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다. |
-| Korean Subtitle |  |
-| English Title |  |
-| English Subtitle |  |
-| Korean/English Published     | 2017-mm-dd |
-| Transcript Contributor(s)   |  |
-| Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   |  |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | N/A |
+| English Subtitle | N/A |
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/bwO2DBnh0cg](https://youtu.be/bwO2DBnh0cg) |
 | YouTube Link  |  |
 | Amara Link    |  |

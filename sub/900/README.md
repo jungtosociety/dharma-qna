@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 900 |
-| Title         | 완벽하려고 하는 성격 때문에 스트레스 받아요 |
-| Korean Subtitle | [ko-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/ko-900-perfectionism.sbv) |
-| English Title | My Perfectionism Stresses Me |
-| English Subtitle | [en-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.sbv) |
-| Korean/English Published     | 2016-01-16 |
-| Transcript Contributor(s)   | 류창민 |
-| Translation Contributor(s)   | 이예선, 이혜진, 김완준, 김미선 |
-| Subtitling Contributor(s)   | 김재명;no reviewer |
-| French Title | Mon Caractère Perfectionniste Me Stresse |
-| French Subtitle | [fr-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/fr-900-perfectionism.sbv) |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) | translation:윤혜정; review:Franck Vautier; subtitling:김선옥 |
-| German Title | Mein Perfektionismus belastet mich |
-| German Subtitle | [de-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/de-900-perfectionism.sbv) |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) | 김민지,추희숙; subtitled by 김민지 |
+| Korean Subtitle | [완벽하려고 하는 성격 때문에 스트레스 받아요](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/ko-900-perfectionism.sbv)<br>by 류창민,subtitle(김재명;no reviewer)<br>on 2016-01-16<br>|
+| English Subtitle | [My Perfectionism Stresses Me](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.sbv)<br>by 이예선, 이혜진, 김완준, 김미선,subtitle(김재명;no reviewer)<br>on 2016-01-16<br>|
+| French Subtitle | [Mon Caractère Perfectionniste Me Stresse](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/fr-900-perfectionism.sbv)<br>by translation:윤혜정; review:Franck Vautier; subtitling:김선옥<br>on <br>|
+| German Subtitle | [Mein Perfektionismus belastet mich](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/de-900-perfectionism.sbv)<br>by 김민지,추희숙; subtitled by 김민지<br>on <br>|
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/WXLF1qBHiWg](https://youtu.be/WXLF1qBHiWg) |
 | YouTube Link  | [https://youtu.be/utumcS1iGvM](https://youtu.be/utumcS1iGvM) |
 | Amara Link    | [http://amara.org/en/videos/EkaeX3zDKXeC](http://amara.org/en/videos/EkaeX3zDKXeC) |

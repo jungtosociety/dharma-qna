@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 886 |
-| Title         | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요 |
-| Korean Subtitle |  |
-| English Title |  |
-| English Subtitle |  |
-| Korean/English Published     | 2017-mm-dd |
-| Transcript Contributor(s)   |  |
-| Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   |  |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | N/A |
+| English Subtitle | N/A |
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/hlfjrD4tKI8](https://youtu.be/hlfjrD4tKI8) |
 | YouTube Link  |  |
 | Amara Link    |  |

@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 715 |
-| Title         | 다만 감사한 마음 |
-| Korean Subtitle |  |
-| English Title |  |
-| English Subtitle |  |
-| Korean/English Published     | 2017-mm-dd |
-| Transcript Contributor(s)   |  |
-| Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   |  |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | N/A |
+| English Subtitle | N/A |
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/ekF9pkhWksM](https://youtu.be/ekF9pkhWksM) |
 | YouTube Link  | [https://youtu.be/Y-wKVYTk9Hk](https://youtu.be/Y-wKVYTk9Hk) |
 | Amara Link    | [http://amara.org/en/videos/LMlWO7N0RpT3](http://amara.org/en/videos/LMlWO7N0RpT3) |

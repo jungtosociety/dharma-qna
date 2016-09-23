@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 544 |
-| Title         | 외국인 신랑과 부모님의 반대 |
-| Korean Subtitle |  |
-| English Title |  |
-| English Subtitle |  |
-| Korean/English Published     | 2017-mm-dd |
-| Transcript Contributor(s)   |  |
-| Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   |  |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | N/A |
+| English Subtitle | N/A |
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/I6OVbqzy_JA](https://youtu.be/I6OVbqzy_JA) |
 | YouTube Link  |  |
 | Amara Link    |  |

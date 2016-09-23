@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 456 |
-| Title         | 알콜중독 극복 |
-| Korean Subtitle | [ko-456-addictions.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/ko-456-addictions.sbv) |
-| English Title | How to Overcome Addictions |
-| English Subtitle | [en-456-addictions.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/en-456-addictions.sbv) |
-| Korean/English Published     | 2016-06-01 |
-| Transcript Contributor(s)   | transcript:류창민 |
-| Translation Contributor(s)   | translation:이혜진,최예리,김연우 |
-| Subtitling Contributor(s)   | 류창민; review:김재명 |
-| French Title | Vaincre l'alcoolisme |
-| French Subtitle | [fr-456-addictions.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/fr-456-addictions.sbv) |
-| French Subtitle Published | 2016-06-08 |
-| French Subtitle Contributor(s) | translation:윤혜정; review:Franck Vautier |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [알콜중독 극복](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/ko-456-addictions.sbv)<br>by transcript:류창민,subtitle(류창민; review:김재명)<br>on 2016-06-01<br>|
+| English Subtitle | [How to Overcome Addictions](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/en-456-addictions.sbv)<br>by translation:이혜진,최예리,김연우,subtitle(류창민; review:김재명)<br>on 2016-06-01<br>|
+| French Subtitle | [Vaincre l'alcoolisme](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/fr-456-addictions.sbv)<br>by translation:윤혜정; review:Franck Vautier<br>on 2016-06-08<br>|
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/rM_CJvkq7Ts](https://youtu.be/rM_CJvkq7Ts) |
 | YouTube Link  | [https://youtu.be/72PIwIEkUtc](https://youtu.be/72PIwIEkUtc) |
 | Amara Link    | [http://amara.org/en/videos/itfyi5ssv3gw](http://amara.org/en/videos/itfyi5ssv3gw) |

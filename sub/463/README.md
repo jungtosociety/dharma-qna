@@ -1,22 +1,11 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 463 |
-| Title         | 가볍게 거절하기 |
-| Korean Subtitle | [ko-463-refusing-without-guilt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/ko-463-refusing-without-guilt.sbv) |
-| English Title | Refusing Without Guilt |
-| English Subtitle | [en-463-refusing-without-guilt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/en-463-refusing-without-guilt.sbv) |
-| Korean/English Published     | 2017-01-15 |
-| Transcript Contributor(s)   |  |
-| Translation Contributor(s)   |  |
-| Subtitling Contributor(s)   | 우종란 |
-| French Title |  |
-| French Subtitle |  |
-| French Subtitle Published |  |
-| French Subtitle Contributor(s) |  |
-| German Title |  |
-| German Subtitle |  |
-| German Subtitle Published |  |
-| German Subtitle Contributor(s) |  |
+| Korean Subtitle | [가볍게 거절하기](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/ko-463-refusing-without-guilt.sbv)<br>by <br>on 2017-01-15<br>|
+| English Subtitle | [Refusing Without Guilt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/en-463-refusing-without-guilt.sbv)<br>by <br>on 2017-01-15<br>|
+| French Subtitle | N/A |
+| German Subtitle | N/A |
+| Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/dhEVCH-cETY](https://youtu.be/dhEVCH-cETY) |
 | YouTube Link  | [https://youtu.be/MviaC5XfDgc](https://youtu.be/MviaC5XfDgc) |
 | Amara Link    | [http://amara.org/en/videos/mQHI4mTuJxSS](http://amara.org/en/videos/mQHI4mTuJxSS) |
