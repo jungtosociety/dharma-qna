@@ -1,7 +1,8 @@
 * KO: Korean Subtitle
 * EN: English Subtitle
 * DE: German(Deutsch) Subtitle
-* CN: Chinese(中文) Subtitle| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN |
+* CN: Chinese(中文) Subtitle
+| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN |
 |----| ------------- |----|----|-----|---------|----|----|----|----|
 | [654](https://github.com/jungtosociety/dharma-qna/blob/master/sub/654) | Be the Owner Wherever You Are | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 2016-09-15 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/en-654-owner.sbv) |  |  |  |
 | [823](https://github.com/jungtosociety/dharma-qna/blob/master/sub/823) | My Mom Passed Away 10 Years Ago. Is She in Heaven? | [![](img/youtube.png)](https://youtu.be/BeJ3IRV1_mw) | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) | 2016-09-02 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/en-823-heaven.sbv) |  |  |  |
