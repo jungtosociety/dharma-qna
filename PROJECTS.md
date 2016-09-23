@@ -1,4 +1,7 @@
-| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN |
+* KO: Korean Subtitle
+* EN: English Subtitle
+* DE: German(Deutsch) Subtitle
+* CN: Chinese(中文) Subtitle| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN |
 |----| ------------- |----|----|-----|---------|----|----|----|----|
 | [654](https://github.com/jungtosociety/dharma-qna/blob/master/sub/654) | Be the Owner Wherever You Are | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | 2016-09-15 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/en-654-owner.sbv) |  |  |  |
 | [823](https://github.com/jungtosociety/dharma-qna/blob/master/sub/823) | My Mom Passed Away 10 Years Ago. Is She in Heaven? | [![](img/youtube.png)](https://youtu.be/BeJ3IRV1_mw) | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) | 2016-09-02 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/en-823-heaven.sbv) |  |  |  |
@@ -23,7 +26,3 @@
 | [239](https://github.com/jungtosociety/dharma-qna/blob/master/sub/239) | I Worry About My Son's Pessimistic Attitude | [![](img/youtube.png)](https://youtu.be/PdiVY7Y9KNk) | [![](img/amara.png)](http://amara.org/en/videos/WrL0SB21tD0j) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/en-239-pessimistic-son.xlsx) | 2015-11-21 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/en-239-pessimistic-son.sbv) | [fr](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/fr-239-pessimistic-son.sbv) |  |  |
 | [1081](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1081) | I'd Like to Learn More About Buddhism | [![](img/youtube.png)](https://youtu.be/yp_X0KQPqyg) | [![](img/amara.png)](http://amara.org/en/videos/uiPC1tlJOjk6) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/en-1081-buddhism.xlsx) | 2015-10-30 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/en-1081-buddhism.sbv) | [fr](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/fr-1081-buddhism.sbv) |  |  |
 | [655](https://github.com/jungtosociety/dharma-qna/blob/master/sub/655) | How Can I Become a Great Athlete? | [![](img/youtube.png)](https://youtu.be/NzMGrgklWyA) | [![](img/amara.png)](http://amara.org/en/videos/BwcgJu4Zj4rz) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/en-655-good-athelete.xlsx) | 2015-09-16 | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/en-655-good-athelete.sbv) | [fr](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/fr-655-good-athelete.sbv) |  |  |
-* KO: Korean Subtitle
-* EN: English Subtitle
-* DE: German(Deutsch) Subtitle
-* CN: Chinese(中文) Subtitle

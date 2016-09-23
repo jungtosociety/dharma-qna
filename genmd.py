@@ -100,11 +100,11 @@ if __name__ == "__main__":
     c = sqlite3.connect('dharmaqna.db')
 
     f = open('PROJECTS.md', 'w')
-    gentab_published(f)
     f.write('* KO: Korean Subtitle\n')
     f.write('* EN: English Subtitle\n')
     f.write('* DE: German(Deutsch) Subtitle\n')
     f.write('* CN: Chinese(中文) Subtitle')
+    gentab_published(f)
     f.close()
 
     f = open('SUBTITLING.md', 'w')
