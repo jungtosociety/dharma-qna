@@ -101,9 +101,9 @@ if __name__ == "__main__":
 
     f = open('PROJECTS.md', 'w')
     gentab_published(f)
-    f.write('* KO: Korean Subtitle')
-    f.write('* EN: English Subtitle')
-    f.write('* DE: German(Deutsch) Subtitle')
+    f.write('* KO: Korean Subtitle\n')
+    f.write('* EN: English Subtitle\n')
+    f.write('* DE: German(Deutsch) Subtitle\n')
     f.write('* CN: Chinese(中文) Subtitle')
     f.close()
 
