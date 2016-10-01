@@ -61,8 +61,8 @@ def gentab_published(f):
                 enlink, frlink, delink, cnlink ))
 
 def gentab_subtitling(f,wip=True):
-    f.write('| NO | TITLE         | YT/AM | XLS/PUBDATE | ASSIGNED | REVIEW/NOTE |\n')
-    f.write('|----| ------------- |-------|-------------|----------|--------|\n')
+    f.write('| NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |\n')
+    f.write('|----| ----------------- |----------|-----|-----|--------------------|---------------------|\n')
              
     if wip:
       whereorderby = 'WHERE status IS NULL ORDER BY v.pubdate ASC'
@@ -92,8 +92,8 @@ def gentab_subtitling(f,wip=True):
         xlslink = utf8(githublink(vid,xlsfn,'![](img/excel.png)'))
         utubelink = utf8("[![](img/youtube.png)](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
         amaralink = utf8("[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else '')
-        f.write("| %s | %s   | %s %s      | %s | %s      |    |\n" % ( nolink, title, utubelink, playtime, xlslink, worker ))
-        f.write("|    | %s   | %s amara   | %s | %s ~ %s | %s |\n" % ( entitle, amaralink, pubdate, begin, end, memo ))
+        f.write("| %s | %s   | %s | %s | %s | %s      | %s    |\n" % ( nolink, title, utubelink, xlslink, amaralink, worker, memo ))
+        f.write("|    | %s   | %s |    |    | %s      | %s ~ %s |\n" % ( entitle, playtime, pubdate, begin, end ))
 
 if __name__ == "__main__":
     c = sqlite3.connect('dharmaqna.db')
