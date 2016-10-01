@@ -44,7 +44,7 @@ def genReadme(subid=None):
     else:
         whereclause = ''
     for row in c.execute('SELECT v.vid,v.title,v.xlsfn,v.pubdate,v.youtube_org,v.youtube,v.amara, \
-                                 v.subworker,v.subbegin,v.subend,v.subfinal,v.memo,v.playtime, \
+                                 v.subworker,v.subbegin,v.subend,v.memo,v.playtime, \
                                  v.xdim, v.ydim, \
                                  ko.title as kotitle, ko.fn as kosub, ko.contributors || \',subtitle(\' || v.subworker || \')\' as kocon, v.pubdate as kopubdate, \
                                  en.title as entitle, en.fn as ensub, en.contributors || \',subtitle(\' || v.subworker || \')\' as encon, v.pubdate as enpubdate, \
@@ -69,7 +69,6 @@ def genReadme(subid=None):
         amaralink = utf8("[http://amara.org/en/videos/%s](http://amara.org/en/videos/%s)" % (row["amara"],row["amara"]) if row["amara"] is not None else '')
         begin   = utf8(row["subbegin"])
         end     = utf8(row["subend"])
-        final   = utf8(row["subfinal"])
         memo    = utf8(row["memo"])
         
         

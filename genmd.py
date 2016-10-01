@@ -29,7 +29,7 @@ def gentab_published(f):
     f.write('|----| ------------- |----|----|-----|---------|----|----|----|----|\n')
 
     for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,v.youtube,v.amara, \
-                                 en.fn,fr.fn,de.fn,cn.fn \
+                                 en.fn as enfn, fr.fn as frfn ,de.fn as defn, cn.fn as cnfn \
                             FROM video v \
                             LEFT OUTER JOIN en ON v.vid = en.vid \
                             LEFT OUTER JOIN fr ON v.vid = fr.vid \
@@ -38,16 +38,16 @@ def gentab_published(f):
                            WHERE status=\'published\' \
                            ORDER BY v.pubdate DESC \
                              ' ):
-        vid     = row[0]
-        title   = row[1] #.encode('utf8')
-        xlsfn   = row[2]
-        pubdate = row[3]
-        youtube = row[4]
-        amara   = row[5]
-        fn_en   = row[6]
-        fn_fr   = row[7]
-        fn_de   = row[8]
-        fn_cn   = row[9]
+        vid     = row["vid"]
+        title   = row["title"] #.encode('utf8')
+        xlsfn   = row["xlsfn"]
+        pubdate = row["pubdate"]
+        youtube = row["youtube"]
+        amara   = row["amara"]
+        fn_en   = row["enfn"]
+        fn_fr   = row["frfn"]
+        fn_de   = row["defn"]
+        fn_cn   = row["cnfn"]
         titlelink = title
         nolink = "[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid)
         xlslink = githublink(vid,xlsfn,'![](img/excel.png)')
@@ -70,34 +70,34 @@ def gentab_subtitling(f,wip=True):
       whereorderby = 'WHERE status=\'published\' ORDER BY v.pubdate ASC'
 
     for row in c.execute('SELECT v.vid, v.title, v.xlsfn, v.pubdate, v.youtube, v.amara, \
-                                 v.subworker, v.subbegin, v.subend, v.subfinal, v.memo, \
-                                 v.playtime, en.title \
+                                 v.subworker, v.subbegin, v.subend, v.memo, \
+                                 v.playtime, en.title as entitle \
                             FROM video v \
                             LEFT OUTER JOIN en ON v.vid = en.vid \
                             '+whereorderby ):
-        vid     = row[0]
-        title   = utf8(row[1])
-        xlsfn   = row[2]
-        pubdate = utf8(row[3])
-        youtube = row[4]
-        amara   = row[5]
-        worker  = utf8(row[6])
-        begin   = utf8(row[7])
-        end     = utf8(row[8])
-        final   = utf8(row[9])
-        memo    = utf8(row[10])
-        playtime  = utf8(row[11])
-        entitle   = row[12]
+        vid     = row["vid"]
+        title   = utf8(row["title"])
+        xlsfn   = row["xlsfn"]
+        pubdate = utf8(row["pubdate"])
+        youtube = row["youtube"]
+        amara   = row["amara"]
+        worker  = utf8(row["subworker"])
+        begin   = utf8(row["subbegin"])
+        end     = utf8(row["subend"])
+        memo    = utf8(row["memo"])
+        playtime  = utf8(row["playtime"])
+        entitle   = row["entitle"]
         entitle   = utf8("%s" % (entitle) if entitle is not None else '') 
         nolink = utf8("[%s](sub/%s)" % (vid,vid))
         xlslink = utf8(githublink(vid,xlsfn,'![](img/excel.png)'))
         utubelink = utf8("[![](img/youtube.png)](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
         amaralink = utf8("[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else '')
-        f.write("| %s | %s   | %s %s      | %s | %s      | %s |\n" % ( nolink, title, utubelink, playtime, xlslink, worker, final ))
+        f.write("| %s | %s   | %s %s      | %s | %s      |    |\n" % ( nolink, title, utubelink, playtime, xlslink, worker ))
         f.write("|    | %s   | %s amara   | %s | %s ~ %s | %s |\n" % ( entitle, amaralink, pubdate, begin, end, memo ))
 
 if __name__ == "__main__":
     c = sqlite3.connect('dharmaqna.db')
+    c.row_factory = sqlite3.Row
 
     f = open('PROJECTS.md', 'w')
     f.write('* KO: Korean Subtitle\n')
