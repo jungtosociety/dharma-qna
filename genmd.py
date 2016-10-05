@@ -83,7 +83,7 @@ def gentab_subtitling(f,wip=True):
     f.write('|----| ----------------- |----------|-----|-----|--------------------|---------------------|\n')
              
     if wip:
-      whereorderby = 'WHERE status IS NULL ORDER BY v.pubdate ASC'
+      whereorderby = 'WHERE status IS NULL ORDER BY v.pubdate ASC, v.youtube DESC'
     else:
       whereorderby = 'WHERE status=\'published\' ORDER BY v.pubdate ASC'
 

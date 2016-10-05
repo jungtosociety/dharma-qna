@@ -8,46 +8,50 @@
 |    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-12-01      | 2016-06-27 ~ 2016-07-17 |
 | [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) | 송명석      |     |
 |    | I'm in a Daze as I Have No Dreams in Life   | 0:05:15 |    |    | 2016-12-15      |  ~  |
-| [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) | 류창민      | 4h (reported)    |
-|    | On Reincarnation and Previous Lives    | 0:23:57 |    |    | 2016-mm-dd      | 2016-05-29 ~ 2016-06-03 |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민      | 영문 대본 준비 안됨    |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-mm-dd      | 2016-06-13 ~ 2016-06-15 |
+| [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) | 류창민      | 4h (reported)    |
+|    | On Reincarnation and Previous Lives    | 0:23:57 |    |    | 2016-mm-dd      | 2016-05-29 ~ 2016-06-03 |
 | [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) | 이동엽      |     |
 |    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2017-01-01      |  ~  |
 | [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란      |     |
 |    | Refusing Without Guilt   | 0:04:21 |    |    | 2017-01-15      |  ~  |
 | [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) | 류창민 (7h)      | The meaning of Buddha's first words    |
 |    |    | 0:49:23 |    |    | 2017-05-01      | 2016-08-17 ~ 2016-08-19 |
-| [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) |       |     |
-|    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2017-mm-dd      |  ~  |
+| [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) |       | Anguishes during daily life and 108 bowing    |
+|    |    | 0:29:54 |    |    | 2017-mm-dd      |  ~  |
+| [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   | [![](img/youtube.png)](https://youtu.be/jhmIAJKKr54) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i2FMC5HJ8YTS) |       | I blame my mother for making me reliant     |
+|    |    | 0:05:51 |    |    | 2017-mm-dd      |  ~  |
+| [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) |       | Being different is normal    |
+|    |    | 0:06:36 |    |    | 2017-mm-dd      |  ~  |
 | [479](sub/479) | 분별심을 내는 나를 보기   | [![](img/youtube.png)](https://youtu.be/ayC4ET5xZeo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/RUeMPrAd0lsv) |       |     |
 |    | Acknowledging Judgements Within You   | 0:06:40 |    |    | 2017-mm-dd      |  ~  |
+| [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) |       |     |
+|    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2017-mm-dd      |  ~  |
+| [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) |       | Nothing but Gratitude    |
+|    |    | 0:12:51 |    |    | 2017-mm-dd      |  ~  |
+| [544](sub/544) | 외국인 신랑과 부모님의 반대   | [![](img/youtube.png)](https://youtu.be/WLXQRjUWnRM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/PdrnuR4ri24I) |       | Foreigner fiancé and parental disapproval    |
+|    |    | 0:08:17 |    |    | 2017-mm-dd      |  ~  |
+| [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) |       |     |
+|    | Distressed in Rage After School Violence   |  |    |    | 2017-mm-dd      |  ~  |
+| [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) |       | Why do religions fight with each other?    |
+|    |    | 0:04:40 |    |    | 2017-mm-dd      |  ~  |
+| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) |       |     |
+|    | Strong Sense of Self Creates Difficulties in Relationships with Others   |  |    |    | 2017-mm-dd      |  ~  |
+| [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   | [![](img/youtube.png)](https://youtu.be/4YoJ8gpHVtk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4FtW57qYz1F) |       | Enlightenment is release from samsara    |
+|    |    | 0:09:41 |    |    | 2017-mm-dd      |  ~  |
 | [907](sub/907) | 자녀가 종교를 선택할 때 무엇을 지침으로 삼도록 해야 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/907-childern-religion.xlsx) |  |       |     |
 |    | What Should We Have Children Consider When They Choose a Religion?    | 0:16:15 |    |    | 2017-mm-dd      |  ~  |
 | [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) |  |       |     |
 |    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2017-mm-dd      |  ~  |
 | [743](sub/743) | 종교가 다른 아내   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/) |       |     |
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | 2017-mm-dd      |  ~  |
-| [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) |       | Being different is normal    |
-|    |    | 0:06:36 |    |    | 2017-mm-dd      |  ~  |
-| [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) |       | Anguishes during daily life and 108 bowing    |
-|    |    | 0:29:54 |    |    | 2017-mm-dd      |  ~  |
 | [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) |  |       | 피해의식 Defensive mind    |
 |    |    | 0:06:19 |    |    | 2017-mm-dd      |  ~  |
 | [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) |  |       | I'm told my child is ill due to a bad name. What should I do?     |
 |    |    | 0:06:46 |    |    | 2017-mm-dd      |  ~  |
 | [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) |  |       | My daughter and I have stopped communicating.    |
 |    |    | 0:12:24 |    |    | 2017-mm-dd      |  ~  |
-| [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   | [![](img/youtube.png)](https://youtu.be/4YoJ8gpHVtk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4FtW57qYz1F) |       | Enlightenment is release from samsara    |
-|    |    | 0:09:41 |    |    | 2017-mm-dd      |  ~  |
-| [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) |       | Nothing but Gratitude    |
-|    |    | 0:12:51 |    |    | 2017-mm-dd      |  ~  |
-| [544](sub/544) | 외국인 신랑과 부모님의 반대   | [![](img/youtube.png)](https://youtu.be/WLXQRjUWnRM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/PdrnuR4ri24I) |       | Foreigner fiancé and parental disapproval    |
-|    |    | 0:08:17 |    |    | 2017-mm-dd      |  ~  |
-| [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   | [![](img/youtube.png)](https://youtu.be/jhmIAJKKr54) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i2FMC5HJ8YTS) |       | I blame my mother for making me reliant     |
-|    |    | 0:05:51 |    |    | 2017-mm-dd      |  ~  |
-| [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) |       | Why do religions fight with each other?    |
-|    |    | 0:04:40 |    |    | 2017-mm-dd      |  ~  |
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) |  |       | I want to study but my desire to have fun makes it hard.    |
 |    |    | 0:11:08 |    |    | 2017-mm-dd      |  ~  |
 | [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.    |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) |  |       | I feel lonely since my brother passed away    |
@@ -56,12 +60,8 @@
 |    |    |  |    |    | 2017-mm-dd      |  ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) |  |       | 9 years of teaching, I expected to become a good teacher by working hard.    |
 |    | good teacher   |  |    |    | 2017-mm-dd      |  ~  |
-| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) |       |     |
-|    | Strong Sense of Self Creates Difficulties in Relationships with Others   |  |    |    | 2017-mm-dd      |  ~  |
 | [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) |  |       |     |
 |    | My Sons, 5th and 7th Graders, Fight a Lot   |  |    |    | 2017-mm-dd      |  ~  |
-| [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) |       |     |
-|    | Distressed in Rage After School Violence   |  |    |    | 2017-mm-dd      |  ~  |
 | [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) |  |       |     |
 |    | My Wounds   |  |    |    | 2017-mm-dd      |  ~  |
 ## Published
