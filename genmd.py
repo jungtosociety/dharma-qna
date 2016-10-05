@@ -3,10 +3,32 @@
 import sqlite3
 import sys  
 
+import os # for probeExcelFile
+import re # for probeExcelFile
+
 # sys.setdefaultencoding('utf_8')
 
 def utf8(str):
     return unicode(str if str is not None else '').encode('utf8')    
+
+# returns excel file of given vid
+def getxlsfn(vid):
+    files=os.listdir('sub/'+vid)
+    regex = re.compile('.*'+vid+'.*xlsx$')
+    matches = [string for string in files if re.match(regex, string)]
+    if len(matches) != 0:
+        return matches[0]
+    else:
+        return ''
+
+def getsubfn(vid,lang):
+    files=os.listdir('sub/'+vid)
+    regex = re.compile(lang+'-'+vid+'.*sbv$')
+    matches = [string for string in files if re.match(regex, string)]
+    if len(matches) != 0:
+        return matches[0]
+    else:
+        return ''
 
 def githublink(vid,fn,text=None):
     baseurl = "https://github.com/jungtosociety/dharma-qna/raw/master/sub"
@@ -28,26 +50,22 @@ def gentab_published(f):
     f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN |\n')
     f.write('|----| ------------- |----|----|-----|---------|----|----|----|----|\n')
 
-    for row in c.execute('SELECT v.vid,en.title,v.xlsfn,v.pubdate,v.youtube,v.amara, \
-                                 en.fn as enfn, fr.fn as frfn ,de.fn as defn, cn.fn as cnfn \
+    for row in c.execute('SELECT v.vid,en.title,v.pubdate,v.youtube,v.amara \
                             FROM video v \
                             LEFT OUTER JOIN en ON v.vid = en.vid \
-                            LEFT OUTER JOIN fr ON v.vid = fr.vid \
-                            LEFT OUTER JOIN de ON v.vid = de.vid \
-                            LEFT OUTER JOIN cn ON v.vid = cn.vid \
                            WHERE status=\'published\' \
                            ORDER BY v.pubdate DESC \
                              ' ):
         vid     = row["vid"]
         title   = row["title"] #.encode('utf8')
-        xlsfn   = row["xlsfn"]
+        xlsfn   = getxlsfn(vid)
         pubdate = row["pubdate"]
         youtube = row["youtube"]
         amara   = row["amara"]
-        fn_en   = row["enfn"]
-        fn_fr   = row["frfn"]
-        fn_de   = row["defn"]
-        fn_cn   = row["cnfn"]
+        fn_en   = getsubfn(vid,'en')
+        fn_fr   = getsubfn(vid,'fr')
+        fn_de   = getsubfn(vid,'de')
+        fn_cn   = getsubfn(vid,'cn')
         titlelink = title
         nolink = "[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid)
         xlslink = githublink(vid,xlsfn,'![](img/excel.png)')
@@ -69,7 +87,7 @@ def gentab_subtitling(f,wip=True):
     else:
       whereorderby = 'WHERE status=\'published\' ORDER BY v.pubdate ASC'
 
-    for row in c.execute('SELECT v.vid, v.title, v.xlsfn, v.pubdate, v.youtube, v.amara, \
+    for row in c.execute('SELECT v.vid, v.title, v.pubdate, v.youtube, v.amara, \
                                  v.subworker, v.subbegin, v.subend, v.memo, \
                                  v.playtime, en.title as entitle \
                             FROM video v \
@@ -77,7 +95,7 @@ def gentab_subtitling(f,wip=True):
                             '+whereorderby ):
         vid     = row["vid"]
         title   = utf8(row["title"])
-        xlsfn   = row["xlsfn"]
+        xlsfn   = getxlsfn(vid)
         pubdate = utf8(row["pubdate"])
         youtube = row["youtube"]
         amara   = row["amara"]

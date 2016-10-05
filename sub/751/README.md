@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 751 |
-| Korean Subtitle | [직장에서 일어나는 분노조절](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/ko-751-anger-mgmt.sbv)<br>by <br>on 2016-12-01<br>|
-| English Subtitle | [Anger Management at Workplace](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/en-751-anger-mgmt.sbv)<br>by <br>on 2016-12-01<br>|
+| Korean Subtitle | <br>by <br>on 2016-12-01<br>|
+| English Subtitle | <br>by <br>on 2016-12-01<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

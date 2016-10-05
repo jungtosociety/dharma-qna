@@ -9,6 +9,6 @@
 | Original YouTube Link  | [https://youtu.be/Lnn1OlDhX80](https://youtu.be/Lnn1OlDhX80) |
 | YouTube Link  | [https://youtu.be/2VUHNIjkE9g](https://youtu.be/2VUHNIjkE9g) |
 | Amara Link    | [http://amara.org/en/videos/rMeq7FflJNMk](http://amara.org/en/videos/rMeq7FflJNMk) |
-| Transcript(ko/en) | [sunim-intro.docx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/sunim-intro.docx) |
+| Transcript(ko/en) |  |
 | Playtime | 0:03:39 |
 | Resolution | 1280x720|

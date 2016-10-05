@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 743 |
-| Korean Subtitle | [종교가 다른 아내](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/ko-743-religious-differences.sbv)<br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | [Religious Differences in Marriage ](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/en-743-religious-differences.sbv)<br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

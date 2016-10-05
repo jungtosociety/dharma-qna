@@ -4,6 +4,8 @@ import sqlite3
 import sys  
 from genmd import utf8
 from genmd import githublink
+from genmd import getxlsfn
+from genmd import getsubfn
 import subprocess
 
 
@@ -29,8 +31,9 @@ def genReadme(subid=None):
     # langname: language name like Englith
     # langcode: language code like en
     def printSubInfoPerLang(f, row, vid, langname, langcode):
+        subfn = getsubfn(vid,langcode)
         if row[langcode+"title"] is not None and row[langcode+"title"] != '' :
-            f.write("| "+langname+" Subtitle | "+utf8(githublink(vid,row[langcode+"sub"],row[langcode+"title"]))+"<br>"+
+            f.write("| "+langname+" Subtitle | "+utf8(githublink(vid,subfn,row[langcode+"title"]))+"<br>"+
                                                "by "+utf8(row[langcode+"con"])+"<br>"+
                                                "on "+utf8(row[langcode+"pubdate"])+"<br>"+"|\n")
         else:
@@ -43,15 +46,15 @@ def genReadme(subid=None):
         whereclause = 'WHERE v.vid = '+str(subid)
     else:
         whereclause = ''
-    for row in c.execute('SELECT v.vid,v.title,v.xlsfn,v.pubdate,v.youtube_org,v.youtube,v.amara, \
+    for row in c.execute('SELECT v.vid,v.title,v.pubdate,v.youtube_org,v.youtube,v.amara, \
                                  v.subworker,v.subbegin,v.subend,v.memo,v.playtime, \
                                  v.xdim, v.ydim, \
-                                 ko.title as kotitle, ko.fn as kosub, ko.contributors || \',subtitle(\' || v.subworker || \')\' as kocon, v.pubdate as kopubdate, \
-                                 en.title as entitle, en.fn as ensub, en.contributors || \',subtitle(\' || v.subworker || \')\' as encon, v.pubdate as enpubdate, \
-                                 fr.title as frtitle, fr.fn as frsub, fr.contributors as frcon, fr.pubdate as frpubdate, \
-                                 de.title as detitle, de.fn as desub, de.contributors as decon, de.pubdate as depubdate, \
-                                 cn.title as cntitle, cn.fn as cnsub, cn.contributors as cncon, cn.pubdate as cnpubdate, \
-                                 th.title as thtitle, th.fn as thsub, th.contributors as thcon, th.pubdate as thpubdate \
+                                 ko.title as kotitle, ko.contributors || \',subtitle(\' || v.subworker || \')\' as kocon, v.pubdate as kopubdate, \
+                                 en.title as entitle, en.contributors || \',subtitle(\' || v.subworker || \')\' as encon, v.pubdate as enpubdate, \
+                                 fr.title as frtitle, fr.contributors as frcon, fr.pubdate as frpubdate, \
+                                 de.title as detitle, de.contributors as decon, de.pubdate as depubdate, \
+                                 cn.title as cntitle, cn.contributors as cncon, cn.pubdate as cnpubdate, \
+                                 th.title as thtitle, th.contributors as thcon, th.pubdate as thpubdate \
                             FROM video v \
                  LEFT OUTER JOIN ko ON v.vid = ko.vid \
                  LEFT OUTER JOIN en ON v.vid = en.vid \
@@ -63,7 +66,7 @@ def genReadme(subid=None):
                            ORDER BY v.pubdate ASC ' ):
         vid     = row["vid"]
         nolink = utf8("[%s](sub/%s)" % (vid,vid))        
-        xlslink = utf8(githublink(vid,row["xlsfn"]))
+        xlslink = utf8(githublink(vid,getxlsfn(vid)))
         utubelink_org = utf8("[https://youtu.be/%s](https://youtu.be/%s)" % (row["youtube_org"],row["youtube_org"]) if row["youtube_org"] is not None else '')
         utubelink = utf8("[https://youtu.be/%s](https://youtu.be/%s)" % (row["youtube"],row["youtube"]) if row["youtube"] is not None else '')
         amaralink = utf8("[http://amara.org/en/videos/%s](http://amara.org/en/videos/%s)" % (row["amara"],row["amara"]) if row["amara"] is not None else '')

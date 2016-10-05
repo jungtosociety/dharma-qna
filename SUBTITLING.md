@@ -88,7 +88,7 @@
 |    | I Didn't Do Well on An Exam. How Can I Calm My Parent's Anger?    | 0:07:01 |    |    | 2016-05-02      | 2016-03-07 ~ 2016-03-28 |
 | [573](sub/573) | 아름답게 사는 중용의 삶을 살자니 너무 어렵습니다   | [![](img/youtube.png)](https://youtu.be/Aaq1JUawHLM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/573-moderation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6AuyYe0XovH0) | 이정화, 김재명; review:김재명      |     |
 |    | Living Life in Moderation   | 0:07:12 |    |    | 2016-05-15      | 2016-02-20 ~ 2016-05-06 |
-| [sunim-intro](sub/sunim-intro) | 법륜스님 소개 영상   | [![](img/youtube.png)](https://youtu.be/2VUHNIjkE9g) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/sunim-intro.docx) | [![](img/amara.png)](http://amara.org/en/videos/rMeq7FflJNMk) | 김재명;no reviewer      | 1h30m    |
+| [sunim-intro](sub/sunim-intro) | 법륜스님 소개 영상   | [![](img/youtube.png)](https://youtu.be/2VUHNIjkE9g) |  | [![](img/amara.png)](http://amara.org/en/videos/rMeq7FflJNMk) | 김재명;no reviewer      | 1h30m    |
 |    | Ven. Pomnyun Sunim - Introduction   | 0:03:39 |    |    | 2016-05-21      | 2016-05-21 ~ 2016-05-21 |
 | [456](sub/456) | 알콜중독 극복   | [![](img/youtube.png)](https://youtu.be/72PIwIEkUtc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) | 류창민; review:김재명      | 2hr    |
 |    | How to Overcome Addictions   | 0:10:04 |    |    | 2016-06-01      | 2016-05-26 ~ 2016-05-27 |
