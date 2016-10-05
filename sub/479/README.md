@@ -7,8 +7,8 @@
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/wjccRKZwkQc](https://youtu.be/wjccRKZwkQc) |
-| YouTube Link  |  |
-| Amara Link    |  |
+| YouTube Link  | [https://youtu.be/ayC4ET5xZeo](https://youtu.be/ayC4ET5xZeo) |
+| Amara Link    | [http://amara.org/en/videos/RUeMPrAd0lsv](http://amara.org/en/videos/RUeMPrAd0lsv) |
 | Transcript(ko/en) | [479-judgements.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) |
 | Playtime | 0:06:40 |
 | Resolution | 654x480|
