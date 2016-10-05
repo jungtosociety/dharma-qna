@@ -56,6 +56,14 @@
 |    |    |  |    |    | 2017-mm-dd      |  ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) |  |       | 9 years of teaching, I expected to become a good teacher by working hard.    |
 |    | good teacher   |  |    |    | 2017-mm-dd      |  ~  |
+| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) |  |       |     |
+|    | Strong Sense of Self Creates Difficulties in Relationships with Others   |  |    |    | 2017-mm-dd      |  ~  |
+| [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) |  |       |     |
+|    | My Sons, 5th and 7th Graders, Fight a Lot   |  |    |    | 2017-mm-dd      |  ~  |
+| [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) |  |       |     |
+|    | Distressed in Rage After School Violence   |  |    |    | 2017-mm-dd      |  ~  |
+| [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) |  |       |     |
+|    | My Wounds   |  |    |    | 2017-mm-dd      |  ~  |
 ## Published
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
