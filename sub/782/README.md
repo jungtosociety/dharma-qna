@@ -2,7 +2,7 @@
 |-------|---------|
 | ID            | 782 |
 | Korean Subtitle | N/A |
-| English Subtitle | <br>by 박빛나리, 이혜진, 김연우, 김미선,subtitle(김미경, review:김재명)<br>on 2016-12-01<br>|
+| English Subtitle | <br>by 박빛나리, 이혜진, 김연우, 김미선,subtitle(김미경)<br>on 2016-12-01<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
