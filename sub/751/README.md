@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 751 |
-| Korean Subtitle | <br>by <br>on 2016-12-01<br>|
-| English Subtitle | <br>by <br>on 2016-12-01<br>|
+| Korean Subtitle | <br>by <br>on 2016-11-01<br>|
+| English Subtitle | <br>by <br>on 2016-11-01<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

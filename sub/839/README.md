@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 839 |
-| Korean Subtitle | <br>by transcript:김혜진,subtitle(송명석)<br>on 2016-12-15<br>|
-| English Subtitle | <br>by translation:전은영,이혜진,김연우,subtitle(송명석)<br>on 2016-12-15<br>|
+| Korean Subtitle | <br>by transcript:김혜진,subtitle(김재명)<br>on 2016-10-15<br>|
+| English Subtitle | <br>by translation:전은영,이혜진,김연우,subtitle(김재명)<br>on 2016-10-15<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

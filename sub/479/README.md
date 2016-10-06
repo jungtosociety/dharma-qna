@@ -1,7 +1,7 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 479 |
-| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | <br>by ,subtitle(송명석)<br>on 2017-mm-dd<br>|
 | English Subtitle | <br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |

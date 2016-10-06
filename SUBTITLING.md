@@ -2,15 +2,15 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) | 김재명      | 2.5h    |
+|    | I'm in a Daze as I Have No Dreams in Life   | 0:05:15 |    |    | 2016-10-15      | 2016-09-30 ~ 2016-09-30 |
+| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) | 이동엽 (4h)      | 4h    |
+|    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-11-01      | 2016-06-27 ~ 2016-07-17 |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) | 김미경, review:김재명      |     |
-|    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-11-01      | 2016-04-26 ~ 미완성 |
-| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) | 이동엽 (4h)      | subtitling:4h  (reported)    |
-|    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-12-01      | 2016-06-27 ~ 2016-07-17 |
-| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) | 송명석      |     |
-|    | I'm in a Daze as I Have No Dreams in Life   | 0:05:15 |    |    | 2016-12-15      |  ~  |
+|    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-12-01      | 2016-04-26 ~ 미완성 |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민      | 영문 대본 준비 안됨    |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-mm-dd      | 2016-06-13 ~ 2016-06-15 |
-| [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) | 류창민      | 4h (reported)    |
+| [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) | 류창민      | 4h    |
 |    | On Reincarnation and Previous Lives    | 0:23:57 |    |    | 2016-mm-dd      | 2016-05-29 ~ 2016-06-03 |
 | [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) | 이동엽      |     |
 |    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2017-01-01      |  ~  |
@@ -24,7 +24,7 @@
 |    |    | 0:05:51 |    |    | 2017-mm-dd      |  ~  |
 | [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) |       | Being different is normal    |
 |    |    | 0:06:36 |    |    | 2017-mm-dd      |  ~  |
-| [479](sub/479) | 분별심을 내는 나를 보기   | [![](img/youtube.png)](https://youtu.be/ayC4ET5xZeo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/RUeMPrAd0lsv) |       |     |
+| [479](sub/479) | 분별심을 내는 나를 보기   | [![](img/youtube.png)](https://youtu.be/ayC4ET5xZeo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/RUeMPrAd0lsv) | 송명석      |     |
 |    | Acknowledging Judgements Within You   | 0:06:40 |    |    | 2017-mm-dd      |  ~  |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) |       |     |
 |    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2017-mm-dd      |  ~  |
@@ -115,4 +115,4 @@
 | [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) | 이동엽, review:류창민      | subtitling:4h, review:1.5h    |
 |    | Be the Owner Wherever You Are   | 0:16:42 |    |    | 2016-09-15      | 2016-06-15 ~ 2016-06-27 |
 | [742](sub/742) | 아들이 여자가 되겠다고 합니다   | [![](img/youtube.png)](https://youtu.be/YHuR4TIUL7U) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M8NC9hnVtAGe) | 류창민, review:김재명      | 2h, review(1.5h)    |
-|    | My Son Wants to Become a Woman   | 0:10:11 |    |    | 2016-10-15      | 2016-06-08 ~ 2016-06-13 |
+|    | My Son Wants to Become a Woman   | 0:10:11 |    |    | 2016-10-01      | 2016-06-08 ~ 2016-06-13 |
