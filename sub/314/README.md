@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 314 |
-| Korean Subtitle | <br>by transcript:류창민,subtitle(류창민)<br>on 2016-mm-dd<br>|
-| English Subtitle | <br>by translation:김미진,이혜진,김연우,subtitle(류창민)<br>on 2016-mm-dd<br>|
+| Korean Subtitle | <br>by transcript:류창민,subtitle(류창민;리뷰(김재명))<br>on 2016-mm-dd<br>|
+| English Subtitle | <br>by translation:김미진,이혜진,김연우,subtitle(류창민;리뷰(김재명))<br>on 2016-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

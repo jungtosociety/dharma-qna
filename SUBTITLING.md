@@ -16,9 +16,9 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) | ;리뷰:류창민      | 2.5h    |
+| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) | 김재명;리뷰:류창민      | 2.5h    |
 |    | I'm in a Daze as I Have No Dreams in Life   | 0:05:15 |    |    | 2016-10-15      | 2016-09-30 ~ 2016-09-30 |
-| [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) | 류창민      | 4h    |
+| [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) | 류창민;리뷰(김재명)      | 4h    |
 |    | On Reincarnation and Previous Lives    | 0:23:57 |    |    | 2016-mm-dd      | 2016-05-29 ~ 2016-06-03 |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민      |     |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-mm-dd      | 2016-06-13 ~ 2016-06-15 |
