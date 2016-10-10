@@ -225,7 +225,9 @@ if __name__ == "__main__":
     gentab_subtitling(f,'video')
     f.write('## 2. Ready to Subtitle (unassigned)\n\n')
     gentab_subtitling(f,'unassigned')
-    f.write('## 5. Published\n\n')
+    f.write('## 5. Ready to Publish\n\n')
+    gentab_subtitling(f,'ready')
+    f.write('## 6. Published\n\n')
     gentab_subtitling(f,'published')
     f.close()
     if run_cmd(['git','diff','SUBTITLING.md'],raise_exception=False) != '':
