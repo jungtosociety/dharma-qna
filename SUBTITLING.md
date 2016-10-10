@@ -54,6 +54,8 @@
 |    | My Wounds   |  |    |    | 2017-mm-dd      |  ~  |
 | [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) |  |       |     |
 |    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | 2017-mm-dd      |  ~  |
+| [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) |  |       |     |
+|    | Studying to Become a Lawyer   |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
