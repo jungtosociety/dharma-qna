@@ -10,6 +10,7 @@
 | Korean    | [Title in Korean] \| 법륜스님의 즉문즉설 |
 | French    | [Title in French] \| Le Dharma du Ven. Pomnyun |
 | German    | [Titel auf Deutsch] \| Ven. Pomnyuns Dharma Q&A |
+| Chinese   | [Title in Chinese] \| 法轮大师的 立问解答 |
 
 ## Tagging
 
