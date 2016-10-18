@@ -54,6 +54,8 @@
 |    | Studying to Become a Lawyer   |  |    |    | 2017-mm-dd      |  ~  |
 | [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) |  |       |     |
 |    | Worrying Mind, Perfectionist Mind   |  |    |    | 2017-mm-dd      |  ~  |
+| [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) |  |       |     |
+|    | Husband Left 8 Years Ago.  How to Raise Children Well?   |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
