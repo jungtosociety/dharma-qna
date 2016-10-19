@@ -3,7 +3,7 @@
 | ID            | 742 |
 | Korean Subtitle | [아들이 여자가 되겠다고 합니다](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/ko-742-sexual-identity.sbv)<br>by transcript:Moon,subtitle(류창민, review:김재명)<br>on 2016-10-01<br>|
 | English Subtitle | [My Son Wants to Become a Woman](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/en-742-sexual-identity.sbv)<br>by translation:Moon,이혜진,김연우,subtitle(류창민, review:김재명)<br>on 2016-10-01<br>|
-| French Subtitle | N/A |
+| French Subtitle | [Mon fils veut devenir une femme.](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/fr-742-sexual-identity.sbv)<br>by 김경진 번역, 윤혜정님 수정, Mr. Vautier 리뷰; 박지현 자막화<br>on 2016-10-19<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/s8IW117so4o](https://youtu.be/s8IW117so4o) |

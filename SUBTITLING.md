@@ -56,6 +56,8 @@
 |    | Worrying Mind, Perfectionist Mind   |  |    |    | 2017-mm-dd      |  ~  |
 | [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) |  |       |     |
 |    | Husband Left 8 Years Ago.  How to Raise Children Well?   |  |    |    | 2017-mm-dd      |  ~  |
+| [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) |  |       |     |
+|    | Shall I Tell My Son That He Should Have a Dream?   |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
