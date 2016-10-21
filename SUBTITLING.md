@@ -60,6 +60,10 @@
 |    | Husband Left 8 Years Ago.  How to Raise Children Well?   |  |    |    | 2017-mm-dd      |  ~  |
 | [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) |  |       |     |
 |    | Shall I Tell My Son That He Should Have a Dream?   |  |    |    | 2017-mm-dd      |  ~  |
+| [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) |  |       |     |
+|    | Repentance Towards Father   |  |    |    | 2017-mm-dd      |  ~  |
+| [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) |  |       |     |
+|    | Difficulty of Raising an 8th Grader with Intellectual Disability   |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
