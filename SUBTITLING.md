@@ -4,8 +4,6 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) | 김미경      |     |
 |    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-12-01      | 2016-10-06 ~ 미완성 |
-| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란      |     |
-|    | Refusing Without Guilt   | 0:04:21 |    |    | 2017-01-15      | 2016-10- ~  |
 | [479](sub/479) | 분별심을 내는 나를 보기   | [![](img/youtube.png)](https://youtu.be/ayC4ET5xZeo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/RUeMPrAd0lsv) | 송명석      |     |
 |    | Acknowledging Judgements Within You   | 0:06:40 |    |    | 2017-mm-dd      | 2016-10- ~  |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽      |     |
@@ -18,8 +16,10 @@
 |    | On Reincarnation and Previous Lives    | 0:23:57 |    |    | 2016-mm-dd      | 2016-05-29 ~ 2016-06-03 |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민      | 3h    |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-mm-dd      | 2016-06-13 ~ 2016-10-10 |
-| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) | 이동엽      |     |
-|    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2017-01-01      |  ~  |
+| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) | 이동엽      | 5h    |
+|    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2017-01-01      |  ~ 2016-10-20 |
+| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란      | 4h    |
+|    | Refusing Without Guilt   | 0:04:21 |    |    | 2017-01-15      | 2016-10- ~ 2016-10-20 |
 | [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) | 류창민;리뷰:김재명      | 7h    |
 |    |    | 0:49:23 |    |    | 2017-05-01      | 2016-08-17 ~ 2016-08-19 |
 ## 1. Video Converting
