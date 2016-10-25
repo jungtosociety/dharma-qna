@@ -64,6 +64,8 @@
 |    | Repentance Towards Father   |  |    |    | 2017-mm-dd      |  ~  |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) |  |       |     |
 |    | Difficulty of Raising an 8th Grader with Intellectual Disability   |  |    |    | 2017-mm-dd      |  ~  |
+| [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) |  |       |     |
+|    | I avoid people I don't like. How can I change myself?    |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
