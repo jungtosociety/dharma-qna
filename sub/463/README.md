@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 463 |
-| Korean Subtitle | <br>by <br>on 2017-01-15<br>|
-| English Subtitle | <br>by <br>on 2017-01-15<br>|
+| Korean Subtitle | 가볍게 거절하기<br>by <br>on 2017-01-15<br>|
+| English Subtitle | Refusing Without Guilt<br>by <br>on 2017-01-15<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

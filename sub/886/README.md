@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 886 |
-| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | I Want to Study but My Desire to Have Fun Makes It Hard.<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

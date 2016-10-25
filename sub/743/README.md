@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 743 |
-| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 종교가 다른 아내<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | Religious Differences in Marriage <br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

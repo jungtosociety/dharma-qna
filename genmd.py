@@ -46,14 +46,17 @@ def getsubfn(vid,lang):
     else:
         return ''
 
-def githublink(vid,fn,text=None):
+def githublink(vid,fn,text=None,textwithoutlink=False):
     baseurl = "https://github.com/jungtosociety/dharma-qna/raw/master/sub"
     if text is None:
         text = fn
     if fn is not None and fn != '' :
-        return "[%s](%s/%s/%s)" % (text,baseurl,vid,fn) 
+        return "[%s](%s/%s/%s)" % (text,baseurl,vid,fn)
     else:
-        return ''
+        if textwithoutlink and text is not None and text != '':
+            return text
+        else:
+            return ''
 
 def gentab_published(f):
 #     f.write('---\n\
@@ -138,7 +141,7 @@ def genReadme(subid=None):
     def printSubInfoPerLang(f, row, vid, langname, langcode):
         subfn = getsubfn(vid,langcode)
         if row[langcode+"title"] is not None and row[langcode+"title"] != '' :
-            f.write("| "+langname+" Subtitle | "+utf8(githublink(vid,subfn,row[langcode+"title"]))+"<br>"+
+            f.write("| "+langname+" Subtitle | "+utf8(githublink(vid,subfn,row[langcode+"title"],True))+"<br>"+
                                                "by "+utf8(row[langcode+"con"])+"<br>"+
                                                "on "+utf8(row[langcode+"pubdate"])+"<br>"+"|\n")
         else:

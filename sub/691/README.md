@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 691 |
-| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 내 상처<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | My Wounds<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

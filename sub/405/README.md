@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 405 |
-| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | There Is No Inherent Right and Wrong. The Reason for Precepts.<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

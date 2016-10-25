@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 449 |
-| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 아버지에 대한 참회<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | Repentance Towards Father<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

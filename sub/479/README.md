@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 479 |
-| Korean Subtitle | <br>by ,subtitle(송명석)<br>on 2017-mm-dd<br>|
-| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 분별심을 내는 나를 보기<br>by ,subtitle(송명석)<br>on 2017-mm-dd<br>|
+| English Subtitle | Acknowledging Judgements Within You<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

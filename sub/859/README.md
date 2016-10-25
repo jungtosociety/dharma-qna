@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 859 |
-| Korean Subtitle | <br>by <br>on 2017-01-01<br>|
-| English Subtitle | <br>by <br>on 2017-01-01<br>|
+| Korean Subtitle | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.<br>by <br>on 2017-01-01<br>|
+| English Subtitle | My Middle School Daughter Is Forgetful and Messy<br>by <br>on 2017-01-01<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 612 |
-| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요?<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | Defensive Mind<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

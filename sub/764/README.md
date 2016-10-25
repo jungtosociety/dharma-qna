@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 764 |
-| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 아이에게 꿈을 가지라고 이야기해도 될까요?<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | Shall I Tell My Son That He Should Have a Dream?<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

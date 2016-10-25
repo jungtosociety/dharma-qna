@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 760 |
-| Korean Subtitle | <br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | My Sons, 5th and 7th Graders, Fight a Lot<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
