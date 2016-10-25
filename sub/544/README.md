@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 544 |
-| Korean Subtitle | N/A |
-| English Subtitle | N/A |
+| Korean Subtitle | 외국인 신랑과 부모님의 반대<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | Foreigner Fiancé and Parental Disapproval<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

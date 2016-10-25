@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 113 |
-| Korean Subtitle | N/A |
-| English Subtitle | N/A |
+| Korean Subtitle | 종교는 왜 서로 싸울까요?<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | Why Do Religions Fight with Each Other?<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

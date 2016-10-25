@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 377 |
-| Korean Subtitle | N/A |
-| English Subtitle | N/A |
+| Korean Subtitle | 108배와 실생활에서 번뇌가 생길 때<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | Anguishes During Daily Life and 108 Bowing<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

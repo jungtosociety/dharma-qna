@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1152 |
-| Korean Subtitle | N/A |
-| English Subtitle | N/A |
+| Korean Subtitle | 고락의 윤회에서 벗어나는 것이 해탈이다<br>by <br>on 2017-mm-dd<br>|
+| English Subtitle | Enlightenment Is Release from Samsara<br>by <br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
