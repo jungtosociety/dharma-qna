@@ -68,6 +68,8 @@
 |    | I avoid people I don't like. How can I change myself?    |  |    |    | 2017-mm-dd      |  ~  |
 | [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) |  |       |     |
 |    | Unhappy, Rebelling 20s   |  |    |    | 2017-mm-dd      |  ~  |
+| [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) |  |       |     |
+|    | Stubborn Older Subordinate   |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
