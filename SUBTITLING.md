@@ -100,9 +100,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) | 이동엽;리뷰:류창민
-      | 4h;리뷰1h    |
-|    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-11-01      | 2016-06-27 ~ 2016-07-17 |
 ## 6. Published
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -157,3 +154,6 @@
 |    | My Son Wants to Become a Woman   | 0:10:11 |    |    | 2016-10-01      | 2016-06-08 ~ 2016-06-13 |
 | [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) | 김재명;리뷰:류창민      | 2.5h;리뷰:1.5h    |
 |    | I'm in a Daze as I Have No Dreams in Life   | 0:05:15 |    |    | 2016-10-15      | 2016-09-30 ~ 2016-09-30 |
+| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) | 이동엽;리뷰:류창민
+      | 4h;리뷰1h    |
+|    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-11-01      | 2016-06-27 ~ 2016-07-17 |
