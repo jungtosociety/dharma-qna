@@ -70,6 +70,10 @@
 |    | Unhappy, Rebelling 20s   |  |    |    | 2017-mm-dd      |  ~  |
 | [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) |  |       |     |
 |    | Stubborn Older Subordinate   |  |    |    | 2017-mm-dd      |  ~  |
+| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) |  |       |     |
+|    | I Want to Change My Habit of Procrastination   |  |    |    | 2017-mm-dd      |  ~  |
+| [1145](sub/1145) | 명상은 왜 하는지, 하면 무엇을 얻는지 궁금합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1145/1145-meditation.xlsx) |  |       |     |
+|    | Why Do We Meditate? What Do We Gain from It?   |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
