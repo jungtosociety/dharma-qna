@@ -98,7 +98,7 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란;리뷰:류창민      | 4h    |
+| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란;리뷰:류창민      | 4h;리뷰:0.5h    |
 |    | Refusing Without Guilt   | 0:04:21 |    |    | 2017-01-15      | 2016-10- ~ 2016-10-20 |
 ## 6. Published
 
