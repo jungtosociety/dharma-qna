@@ -76,6 +76,8 @@
 |    | I Want to Change My Habit of Procrastination   |  |    |    | 2017-mm-dd      |  ~  |
 | [1145](sub/1145) | 명상은 왜 하는지, 하면 무엇을 얻는지 궁금합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1145/1145-meditation.xlsx) |  |       |     |
 |    | Why Do We Meditate? What Do We Gain from It?   |  |    |    | 2017-mm-dd      |  ~  |
+| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) |  |       |     |
+|    | I Get Sensitive over My Child's Grades   |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
