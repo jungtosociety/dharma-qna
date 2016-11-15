@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [800-worrying-mind.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:03:35 |
+| Resolution | 1280x720|

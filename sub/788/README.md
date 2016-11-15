@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [788-stubborn.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:11:52 |
+| Resolution | 1920x1080|

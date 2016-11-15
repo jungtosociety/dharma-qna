@@ -10,5 +10,5 @@
 | YouTube Link  | [https://youtu.be/BT2Cgs8ety0](https://youtu.be/BT2Cgs8ety0) |
 | Amara Link    | [http://amara.org/en/videos/OgPIPbhTHPih](http://amara.org/en/videos/OgPIPbhTHPih) |
 | Transcript(ko/en) | [149-relationship.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:09:33 |
+| Resolution | 480x318|

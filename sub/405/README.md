@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [405-reason-for-precepts.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:21:28 |
+| Resolution | 320x240|

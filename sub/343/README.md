@@ -10,5 +10,5 @@
 | YouTube Link  | [https://youtu.be/Ub9TVbIlfww](https://youtu.be/Ub9TVbIlfww) |
 | Amara Link    | [http://amara.org/en/videos/d7kZEfE5iuUt](http://amara.org/en/videos/d7kZEfE5iuUt) |
 | Transcript(ko/en) | [343-school-violence.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:07:40 |
+| Resolution | 500x334|

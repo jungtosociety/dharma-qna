@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [824-good-teacher.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:18:47 |
+| Resolution | 1920x1080|

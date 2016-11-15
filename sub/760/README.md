@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [760-two-sons.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:07:27 |
+| Resolution | 1920x1080|

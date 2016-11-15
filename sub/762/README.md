@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [762-procrastration.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:13:53 |
+| Resolution | 1920x1080|

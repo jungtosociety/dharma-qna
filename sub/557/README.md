@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [557-unhappy.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:10:55 |
+| Resolution | 654x480|

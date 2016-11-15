@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [1090-avoid-people.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:09:01 |
+| Resolution | 1920x1080|

@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [799-school-grade.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:08:40 |
+| Resolution | 1920x1080|

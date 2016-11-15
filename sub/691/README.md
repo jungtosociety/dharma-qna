@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [691-my-wounds.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:10:51 |
+| Resolution | 654x480|

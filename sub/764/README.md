@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [764-child-education.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:11:46 |
+| Resolution | 1920x1080|

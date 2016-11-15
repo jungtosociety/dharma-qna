@@ -47,39 +47,41 @@
 | [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.    |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) |  |       | I feel lonely since my brother passed away    |
 |    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | 2017-mm-dd      |  ~  |
 | [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) |  |       | There is no inherent right and wrong.   The reason for precepts.    |
-|    | There Is No Inherent Right and Wrong. The Reason for Precepts.   |  |    |    | 2017-mm-dd      |  ~  |
+|    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | 2017-mm-dd      |  ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) |  |       | 9 years of teaching, I expected to become a good teacher by working hard.    |
-|    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   |  |    |    | 2017-mm-dd      |  ~  |
+|    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | 2017-mm-dd      |  ~  |
 | [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) |  |       |     |
-|    | My Sons, 5th and 7th Graders, Fight a Lot   |  |    |    | 2017-mm-dd      |  ~  |
+|    | My Sons, 5th and 7th Graders, Fight a Lot   | 0:07:27 |    |    | 2017-mm-dd      |  ~  |
 | [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) |  |       |     |
-|    | My Wounds   |  |    |    | 2017-mm-dd      |  ~  |
+|    | My Wounds   | 0:10:51 |    |    | 2017-mm-dd      |  ~  |
 | [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) |  |       |     |
 |    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | 2017-mm-dd      |  ~  |
 | [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) |  |       |     |
-|    | Studying to Become a Lawyer   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Studying to Become a Lawyer   | 0:17:14 |    |    | 2017-mm-dd      |  ~  |
 | [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) |  |       |     |
-|    | Worrying Mind, Perfectionist Mind   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | 2017-mm-dd      |  ~  |
 | [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) |  |       |     |
-|    | Husband Left 8 Years Ago.  How to Raise Children Well?   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | 2017-mm-dd      |  ~  |
 | [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) |  |       |     |
-|    | Shall I Tell My Son That He Should Have a Dream?   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | 2017-mm-dd      |  ~  |
 | [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) |  |       |     |
-|    | Repentance Towards Father   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Repentance Towards Father   | 0:08:12 |    |    | 2017-mm-dd      |  ~  |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) |  |       |     |
-|    | Difficulty of Raising an 8th Grader with Intellectual Disability   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2017-mm-dd      |  ~  |
 | [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) |  |       |     |
-|    | I avoid people I don't like. How can I change myself?    |  |    |    | 2017-mm-dd      |  ~  |
+|    | I avoid people I don't like. How can I change myself?    | 0:09:01 |    |    | 2017-mm-dd      |  ~  |
 | [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) |  |       |     |
-|    | Unhappy, Rebelling 20s   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | 2017-mm-dd      |  ~  |
 | [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) |  |       |     |
-|    | Stubborn Older Subordinate   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2017-mm-dd      |  ~  |
 | [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) |  |       |     |
-|    | I Want to Change My Habit of Procrastination   |  |    |    | 2017-mm-dd      |  ~  |
+|    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | 2017-mm-dd      |  ~  |
 | [1145](sub/1145) | 명상은 왜 하는지, 하면 무엇을 얻는지 궁금합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1145/1145-meditation.xlsx) |  |       |     |
-|    | Why Do We Meditate? What Do We Gain from It?   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Why Do We Meditate? What Do We Gain from It?   | 0:09:47 |    |    | 2017-mm-dd      |  ~  |
 | [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) |  |       |     |
-|    | I Get Sensitive over My Child's Grades   |  |    |    | 2017-mm-dd      |  ~  |
+|    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2017-mm-dd      |  ~  |
+| [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) |  |       |     |
+|    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -93,9 +95,9 @@
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) |       | Why do religions fight with each other?    |
 |    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | 2017-mm-dd      |  ~  |
 | [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) |       |     |
-|    | Strong Sense of Self Creates Difficulties in Relationships with Others   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-mm-dd      |  ~  |
 | [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) |       |     |
-|    | Distressed in Rage After School Violence   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Distressed in Rage After School Violence   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
 ## 5. Ready to Publish
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
