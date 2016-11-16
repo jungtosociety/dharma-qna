@@ -12,6 +12,8 @@
 |    |    | 0:12:51 |    |    | 2017-mm-dd      | 2016-10-21 ~  |
 | [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   | [![](img/youtube.png)](https://youtu.be/jhmIAJKKr54) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i2FMC5HJ8YTS) | Diana Lee      | I blame my mother for making me reliant     |
 |    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | 2017-mm-dd      |  ~  |
+| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) | Dinana Lee      |     |
+|    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-mm-dd      |  ~  |
 | [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) | 김승주      |     |
 |    | Distressed in Rage After School Violence   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
 ## 4. Reviewing
@@ -96,8 +98,6 @@
 |    | Foreigner Fiancé and Parental Disapproval   | 0:08:17 |    |    | 2017-mm-dd      |  ~  |
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) |       | Why do religions fight with each other?    |
 |    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | 2017-mm-dd      |  ~  |
-| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) |       |     |
-|    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-mm-dd      |  ~  |
 ## 5. Ready to Publish
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
