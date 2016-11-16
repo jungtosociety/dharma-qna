@@ -102,8 +102,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란;리뷰:류창민      | 4h;리뷰:0.5h    |
-|    | Refusing Without Guilt   | 0:04:21 |    |    | 2017-01-15      | 2016-10- ~ 2016-10-20 |
 ## 6. Published
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -161,3 +159,5 @@
 | [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) | 이동엽;리뷰:류창민
       | 4h;리뷰1h    |
 |    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-11-01      | 2016-06-27 ~ 2016-07-17 |
+| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란;리뷰:류창민      | 4h;리뷰:0.5h    |
+|    | Refusing Without Guilt   | 0:04:21 |    |    | 2017-01-15      | 2016-10- ~ 2016-10-20 |
