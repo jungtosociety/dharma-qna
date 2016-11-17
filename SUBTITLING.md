@@ -4,8 +4,6 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [479](sub/479) | 분별심을 내는 나를 보기   | [![](img/youtube.png)](https://youtu.be/ayC4ET5xZeo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/RUeMPrAd0lsv) | 송명석      |     |
 |    | Acknowledging Judgements Within You   | 0:06:40 |    |    | 2017-mm-dd      | 2016-10- ~  |
-| [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) | 성미연      | Being different is normal    |
-|    | Being Different Is Normal   | 0:06:36 |    |    | 2017-mm-dd      | 2016-11-14 ~  |
 | [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   | [![](img/youtube.png)](https://youtu.be/4YoJ8gpHVtk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4FtW57qYz1F) | 우종란      |     |
 |    | Enlightenment Is Release from Samsara   | 0:09:41 |    |    | 2017-mm-dd      |  ~  |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽      |     |
@@ -32,6 +30,8 @@
 |    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2017-01-01      |  ~ 2016-10-20 |
 | [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) | 류창민;리뷰:김재명      | 7h    |
 |    |    | 0:49:23 |    |    | 2017-05-01      | 2016-08-17 ~ 2016-08-19 |
+| [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) | 성미연(3h)      | Being different is normal    |
+|    | Being Different Is Normal   | 0:06:36 |    |    | 2017-mm-dd      | 2016-11-14 ~  |
 ## 1. Video Converting
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
