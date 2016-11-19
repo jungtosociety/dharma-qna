@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 458 |
-| Korean Subtitle | [다른것이 당연하다](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/ko-458-being-different.sbv)<br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | [Being Different Is Normal](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/en-458-being-different.sbv)<br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | [다른것이 당연하다](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/ko-458-being-different.sbv)<br>by 한글대본:권희정,subtitle(성미연(3h):리뷰(김재명)(1h))<br>on 2017-mm-dd<br>|
+| English Subtitle | [Being Different Is Normal](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/en-458-being-different.sbv)<br>by 홍향주,김미선,subtitle(성미연(3h):리뷰(김재명)(1h))<br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

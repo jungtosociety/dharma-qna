@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 791 |
-| Korean Subtitle | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.<br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | I'll Become My Own Hope and Live a Happy Life<br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.<br>by 한글녹취:권희정,subtitle(성미연)<br>on 2017-mm-dd<br>|
+| English Subtitle | I'll Become My Own Hope and Live a Happy Life<br>by 한영번역:이혜진,윤메릴,김연우,subtitle(성미연)<br>on 2017-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

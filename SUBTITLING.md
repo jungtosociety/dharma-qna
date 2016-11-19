@@ -98,7 +98,7 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민(3h);리뷰:김재명()      | 3h    |
+| [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민(3h);리뷰:김재명(30m)      | 3h    |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-mm-dd      | 2016-06-13 ~ 2016-10-10 |
 | [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) | 성미연(3h):리뷰(김재명)(1h)      | Being different is normal    |
 |    | Being Different Is Normal   | 0:06:36 |    |    | 2017-mm-dd      | 2016-11-14 ~  |
