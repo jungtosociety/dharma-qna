@@ -2,7 +2,7 @@
 |-------|---------|
 | ID            | 782 |
 | Korean Subtitle | N/A |
-| English Subtitle | I Get Easily Hurt by Other People<br>by 박빛나리, 이혜진, 김연우, 김미선,subtitle(김미경)<br>on 2016-12-01<br>|
+| English Subtitle | [I Get Easily Hurt by Other People](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/en-782-easily-hurt.sbv)<br>by 박빛나리, 이혜진, 김연우, 김미선,subtitle(김미경;리뷰:김재명(1.5h))<br>on 2016-mm-dd<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
