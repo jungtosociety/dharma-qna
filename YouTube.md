@@ -12,6 +12,9 @@
 | German    | [Titel auf Deutsch] \| Ven. Pomnyuns Dharma Q&A |
 | Chinese   | [Title in Chinese] \| 法轮大师的 立问解答 |
 
+## Google Plus Message
+The latest Ven. Pomnyun’s Dharma Q&A with English subtitle is now available on YouTube. 
+
 ## Tagging
 
 기본으로 아래 태그를 모두 추가
