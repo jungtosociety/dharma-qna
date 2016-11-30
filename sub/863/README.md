@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [863-independence.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) |
-| Playtime |  |
+| Playtime | 0:13:10 |
 | Resolution | 1920x1080|

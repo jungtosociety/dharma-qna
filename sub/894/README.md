@@ -10,5 +10,5 @@
 | YouTube Link  |  |
 | Amara Link    |  |
 | Transcript(ko/en) | [894-fate.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) |
-| Playtime |  |
+| Playtime | 0:12:01 |
 | Resolution | 1920x1080|
