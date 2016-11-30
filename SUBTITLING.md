@@ -78,6 +78,12 @@
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2017-mm-dd      |  ~  |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) |  |       |     |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | 2017-mm-dd      |  ~  |
+| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) |  |       |     |
+|    | Not Easy to Concede   | 0:10:44 |    |    | 2017-mm-dd      |  ~  |
+| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) |  |       |     |
+|    | How to Achieve Emotional Independence from Parents?   |  |    |    | 2017-mm-dd      |  ~  |
+| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) |  |       |     |
+|    | People Often Speak of Fate. Is It Real?   |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
