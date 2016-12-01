@@ -102,8 +102,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) | 김미경;리뷰:김재명(1.5h)      |     |
-|    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-mm-dd      | 2016-10-06 ~ 2016-11-20 |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민(3h);리뷰:김재명(30m)      |     |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-mm-dd      | 2016-06-13 ~ 2016-11-20 |
 | [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) | 성미연(3h):리뷰(김재명)(1h)      |     |
@@ -165,5 +163,7 @@
 | [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) | 이동엽;리뷰:류창민
       | 4h;리뷰1h    |
 |    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-11-01      | 2016-06-27 ~ 2016-07-17 |
+| [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) | 김미경;리뷰:김재명(1.5h)      |     |
+|    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-mm-dd      | 2016-10-06 ~ 2016-11-20 |
 | [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란;리뷰:류창민      | 4h;리뷰:0.5h    |
 |    | Refusing Without Guilt   | 0:04:21 |    |    | 2017-01-15      | 2016-10- ~ 2016-10-20 |
