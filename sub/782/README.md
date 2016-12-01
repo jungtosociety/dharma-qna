@@ -1,7 +1,7 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 782 |
-| Korean Subtitle | N/A |
+| Korean Subtitle | [남의 말과 행동에 쉽게 상처받아요](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/ko-782-easily-hurt.sbv)<br>by 류창민,subtitle(김미경;리뷰:김재명(1.5h))<br>on 2016-12-01<br>|
 | English Subtitle | [I Get Easily Hurt by Other People](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/en-782-easily-hurt.sbv)<br>by 박빛나리, 이혜진, 김연우, 김미선,subtitle(김미경;리뷰:김재명(1.5h))<br>on 2016-12-01<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
