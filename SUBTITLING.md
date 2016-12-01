@@ -114,6 +114,8 @@
 |    | How Can I Become a Great Athlete?   | 0:11:12 |    |    | 2015-09-16      |  ~  |
 | [1081](sub/1081) | 불교가 무엇인지 공부해 보고 싶은데 어떻게 해야 할까요?   | [![](img/youtube.png)](https://youtu.be/yp_X0KQPqyg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/en-1081-buddhism.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/uiPC1tlJOjk6) | 김재명;no reviewer      |     |
 |    | I'd Like to Learn More About Buddhism   | 0:08:19 |    |    | 2015-10-30      |  ~  |
+| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란;리뷰:류창민      | 4h;리뷰:0.5h    |
+|    | Refusing Without Guilt   | 0:04:21 |    |    | 2015-11-15      | 2016-10- ~ 2016-10-20 |
 | [239](sub/239) | 아들의 부정적 시선이 염려됩니다   | [![](img/youtube.png)](https://youtu.be/PdiVY7Y9KNk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/en-239-pessimistic-son.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/WrL0SB21tD0j) | 김재명;no reviewer      |     |
 |    | I Worry About My Son's Pessimistic Attitude   | 0:11:17 |    |    | 2015-11-21      |  ~  |
 | [676](sub/676) | 동화작가가 꿈인데 생계를 위해 다른 글을 쓰고 있습니다   | [![](img/youtube.png)](https://youtu.be/y188f7eU1TU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/676/en-676-fairy-tale-author.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/EroiuPGgpght) | 김미경, review:김재명      |     |
@@ -165,5 +167,3 @@
 |    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-11-01      | 2016-06-27 ~ 2016-07-17 |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) | 김미경;리뷰:김재명(1.5h)      |     |
 |    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-12-01      | 2016-10-06 ~ 2016-11-20 |
-| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란;리뷰:류창민      | 4h;리뷰:0.5h    |
-|    | Refusing Without Guilt   | 0:04:21 |    |    | 2017-01-15      | 2016-10- ~ 2016-10-20 |
