@@ -3,7 +3,7 @@
 | ID            | 654 |
 | Korean Subtitle | [기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/ko-654-owner.sbv)<br>by 한글녹취:류창민,subtitle(이동엽, review:류창민)<br>on 2016-09-15<br>|
 | English Subtitle | [Be the Owner Wherever You Are](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/en-654-owner.sbv)<br>by 한영번역: 이혜진, 박빛나리, 김연우, 김미선,subtitle(이동엽, review:류창민)<br>on 2016-09-15<br>|
-| French Subtitle | Soyez votre propre maître partout où vous êtes.<br>by translation:윤혜정; review:Franck Vautier; subtitling:Franck Vautier<br>on 2016-12-06<br>|
+| French Subtitle | [Soyez votre propre maître partout où vous êtes.](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/fr-654-owner.sbv)<br>by translation:윤혜정; review:Franck Vautier; subtitling:Franck Vautier<br>on 2016-12-06<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/SOCrHmXJjb8](https://youtu.be/SOCrHmXJjb8) |
