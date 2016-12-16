@@ -16,8 +16,6 @@
 |    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | 2017-mm-dd      |  ~  |
 | [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) | Diana Lee      |     |
 |    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-mm-dd      |  ~  |
-| [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) | 김승주      |     |
-|    | Distressed in Rage After School Violence   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
 ## 4. Reviewing
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -30,6 +28,8 @@
 |    |    | 0:49:23 |    |    | 2017-05-01      | 2016-08-17 ~ 2016-08-19 |
 | [544](sub/544) | 외국인 신랑과 부모님의 반대   | [![](img/youtube.png)](https://youtu.be/WLXQRjUWnRM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/PdrnuR4ri24I) | 김구슬래      |     |
 |    | Foreigner Fiancé and Parental Disapproval   | 0:08:17 |    |    | 2017-mm-dd      | 2016-11-17 ~ 2016-11-28 |
+| [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) | 김승주      |     |
+|    | Distressed in Rage After School Violence   | 0:07:40 |    |    | 2017-mm-dd      |  ~ 2016-12-15 |
 ## 1. Video Converting
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -102,8 +102,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민(3h);리뷰:김재명(30m)      |     |
-|    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-mm-dd      | 2016-06-13 ~ 2016-11-20 |
 | [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) | 성미연(3h):리뷰(김재명)(1h)      |     |
 |    | Being Different Is Normal   | 0:06:36 |    |    | 2017-mm-dd      | 2016-11-14 ~ 2016-11-20 |
 ## 6. Published
@@ -167,3 +165,5 @@
 |    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-11-01      | 2016-06-27 ~ 2016-07-17 |
 | [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) | 김미경;리뷰:김재명(1.5h)      |     |
 |    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-12-01      | 2016-10-06 ~ 2016-11-20 |
+| [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민(3h);리뷰:김재명(30m)      |     |
+|    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-12-15      | 2016-06-13 ~ 2016-11-20 |
