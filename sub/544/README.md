@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 544 |
-| Korean Subtitle | 외국인 신랑과 부모님의 반대<br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | Foreigner Fiancé and Parental Disapproval<br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 외국인 신랑과 부모님의 반대 \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
+| English Subtitle | Foreigner Fiancé and Parental Disapproval \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

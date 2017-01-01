@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 712 |
-| Korean Subtitle | [오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/ko-712-funeral.sbv)<br>by transcript:Moon,subtitle(류창민(3h);리뷰:김재명(30m))<br>on 2016-12-15<br>|
-| English Subtitle | [Should I Attend a Funeral of a Friend I Fell out with Long Ago?](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/en-712-funeral.sbv)<br>by translation:김미선,이혜진,김연우,subtitle(류창민(3h);리뷰:김재명(30m))<br>on 2016-12-15<br>|
+| Korean Subtitle | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요? \| 법륜스님의 즉문즉설<br>by transcript:Moon,subtitle(류창민(3h);리뷰:김재명(30m))<br>on 2016-12-15<br>[ko-712-funeral.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/ko-712-funeral.sbv)<br>|
+| English Subtitle | Should I Attend a Funeral of a Friend I Fell out with Long Ago? \| Ven. Pomnyun's Dharma Q&A<br>by translation:김미선,이혜진,김연우,subtitle(류창민(3h);리뷰:김재명(30m))<br>on 2016-12-15<br>[en-712-funeral.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/en-712-funeral.sbv)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

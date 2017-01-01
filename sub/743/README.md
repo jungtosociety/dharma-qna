@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 743 |
-| Korean Subtitle | 종교가 다른 아내<br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | Religious Differences in Marriage <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 종교가 다른 아내 \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
+| English Subtitle | Religious Differences in Marriage  \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

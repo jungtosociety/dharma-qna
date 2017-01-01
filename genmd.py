@@ -51,7 +51,7 @@ def githublink(vid,fn,text=None,textwithoutlink=False):
     if text is None:
         text = fn
     if fn is not None and fn != '' :
-        return "[%s](%s/%s/%s)" % (text,baseurl,vid,fn)
+        return "["+text+"](%s/%s/%s)" % (baseurl,vid,fn)
     else:
         if textwithoutlink and text is not None and text != '':
             return text
@@ -135,15 +135,24 @@ def gentab_subtitling(f,status=None):
 
 
 def genReadme(subid=None):
-
-    # langname: language name like Englith
-    # langcode: language code like en
+    title_postfix = { 'ko' : "법륜스님의 즉문즉설",
+                      'en' : "Ven. Pomnyun's Dharma Q&A" ,
+                      'fr' : "Le Dharma du Ven. Pomnyun",
+                      'de' : "Ven. Pomnyuns Dharma Q&A",
+                      'cn' : "法轮大师的 立问解答" }
+    # Input Args
+    #  - langname: language name like Englith
+    #  - langcode: language code like en
+    # title_postfix needed
     def printSubInfoPerLang(f, row, vid, langname, langcode):
         subfn = getsubfn(vid,langcode)
         if row[langcode+"title"] is not None and row[langcode+"title"] != '' :
-            f.write("| "+langname+" Subtitle | "+utf8(githublink(vid,subfn,row[langcode+"title"],True))+"<br>"+
+            title_string = utf8(row[langcode+"title"])
+            file_link = utf8(githublink(vid,subfn, subfn, True))
+            f.write("| "+langname+" Subtitle | "+title_string+" \| "+title_postfix[langcode]+"<br>"+
                                                "by "+utf8(row[langcode+"con"])+"<br>"+
-                                               "on "+utf8(row[langcode+"pubdate"])+"<br>"+"|\n")
+                                               "on "+utf8(row[langcode+"pubdate"])+"<br>"+
+                                               file_link+"<br>"+"|\n")
         else:
             f.write("| "+langname+" Subtitle | N/A |\n")
 

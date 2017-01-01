@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 852 |
-| Korean Subtitle | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?<br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do? <br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠? \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
+| English Subtitle | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?  \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

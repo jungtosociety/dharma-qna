@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 463 |
-| Korean Subtitle | [가볍게 거절하기](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/ko-463-refusing-without-guilt.sbv)<br>by 한글녹취: 류창민,subtitle(우종란;리뷰:류창민)<br>on 2015-11-15<br>|
-| English Subtitle | [Refusing Without Guilt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/en-463-refusing-without-guilt.sbv)<br>by 번역:이준해, 윤메릴, 김연우,subtitle(우종란;리뷰:류창민)<br>on 2015-11-15<br>|
+| Korean Subtitle | 가볍게 거절하기 \| 법륜스님의 즉문즉설<br>by 한글녹취: 류창민,subtitle(우종란;리뷰:류창민)<br>on 2015-11-15<br>[ko-463-refusing-without-guilt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/ko-463-refusing-without-guilt.sbv)<br>|
+| English Subtitle | Refusing Without Guilt \| Ven. Pomnyun's Dharma Q&A<br>by 번역:이준해, 윤메릴, 김연우,subtitle(우종란;리뷰:류창민)<br>on 2015-11-15<br>[en-463-refusing-without-guilt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/en-463-refusing-without-guilt.sbv)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

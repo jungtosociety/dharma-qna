@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 856 |
-| Korean Subtitle | 대학생 딸 아이의 대화 거부, 어떡하죠?<br>by <br>on 2017-mm-dd<br>|
-| English Subtitle | My Daughter and I Have Stopped Communicating.<br>by <br>on 2017-mm-dd<br>|
+| Korean Subtitle | 대학생 딸 아이의 대화 거부, 어떡하죠? \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
+| English Subtitle | My Daughter and I Have Stopped Communicating. \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
