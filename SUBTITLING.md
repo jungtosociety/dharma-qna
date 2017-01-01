@@ -28,7 +28,7 @@
 |    |    | 0:49:23 |    |    | 2017-05-01      | 2016-08-17 ~ 2016-08-19 |
 | [544](sub/544) | 외국인 신랑과 부모님의 반대   | [![](img/youtube.png)](https://youtu.be/WLXQRjUWnRM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/PdrnuR4ri24I) | 김구슬래      |     |
 |    | Foreigner Fiancé and Parental Disapproval   | 0:08:17 |    |    | 2017-mm-dd      | 2016-11-17 ~ 2016-11-28 |
-| [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) | 김승주      |     |
+| [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) | 김승주(5h)      |     |
 |    | Distressed in Rage After School Violence   | 0:07:40 |    |    | 2017-mm-dd      |  ~ 2016-12-15 |
 ## 1. Video Converting
 
@@ -102,8 +102,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) | 성미연(3h):리뷰(김재명)(1h)      |     |
-|    | Being Different Is Normal   | 0:06:36 |    |    | 2017-mm-dd      | 2016-11-14 ~ 2016-11-20 |
 ## 6. Published
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -167,3 +165,5 @@
 |    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-12-01      | 2016-10-06 ~ 2016-11-20 |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민(3h);리뷰:김재명(30m)      |     |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-12-15      | 2016-06-13 ~ 2016-11-20 |
+| [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) | 성미연(3h):리뷰(김재명)(1h)      |     |
+|    | Being Different Is Normal   | 0:06:36 |    |    | 2017-01-01      | 2016-11-14 ~ 2016-11-20 |
