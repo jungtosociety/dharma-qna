@@ -5,7 +5,7 @@
 | English Subtitle | [My Daughter Is under Too Much Pressure over the University Entrance Exam](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/en-853-pressure-entrance-exam.sbv)<br>by 전은영, 이혜진, 김연우, 김미선,subtitle(이정화; review:김재명)<br>on 2016-08-15<br>|
 | French Subtitle | [Ma fille en terminale est sous pression pour l'examen d'entrée à l'université.](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/fr-853-pressure-entrance-exam.sbv)<br>by 번역: 권정화, 리뷰: 윤혜정, 자막화: 박지현<br>on 2016-12-01<br>|
 | German Subtitle | N/A |
-| Chinese Subtitle | [高中3年级的女儿对大考压力很大](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/cn-853-pressure-entrance-exam.sbv)<br>by 신미경<br>on 2016-10-1<br>|
+| Chinese Subtitle | [高中3年级的女儿对大考压力很大](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/cn-853-pressure-entrance-exam.sbv)<br>by 신미경<br>on 2016-10-01<br>|
 | Original YouTube Link  | [https://youtu.be/NivrtWmudl0](https://youtu.be/NivrtWmudl0) |
 | YouTube Link  | [https://youtu.be/fH1yUn-dYBU](https://youtu.be/fH1yUn-dYBU) |
 | Amara Link    | [http://amara.org/en/videos/AcdVe1mvtsDJ](http://amara.org/en/videos/AcdVe1mvtsDJ) |
