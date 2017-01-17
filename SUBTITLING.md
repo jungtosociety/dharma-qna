@@ -12,6 +12,8 @@
 |    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | 2017-mm-dd      |  ~  |
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) | 이동엽      |     |
 |    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | 2017-mm-dd      | 2017-01-11 ~  |
+| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) | Diana Lee, 김승주      |     |
+|    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-mm-dd      |  ~  |
 ## 4. Reviewing
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
