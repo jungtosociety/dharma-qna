@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 314 |
-| Korean Subtitle | 전생과 윤회에 대하여 \| 법륜스님의 즉문즉설<br>by transcript:류창민,subtitle(류창민;리뷰(김재명))<br>on 2016-mm-dd<br><br>|
-| English Subtitle | On Reincarnation and Previous Lives  \| Ven. Pomnyun's Dharma Q&A<br>by translation:김미진,이혜진,김연우,subtitle(류창민;리뷰(김재명))<br>on 2016-mm-dd<br><br>|
+| Korean Subtitle | 전생과 윤회에 대하여 \| 법륜스님의 즉문즉설<br>by 한국어녹취:류창민,subtitle(류창민;리뷰(김재명))<br>on 2016-mm-dd<br><br>|
+| English Subtitle | On Reincarnation and Previous Lives  \| Ven. Pomnyun's Dharma Q&A<br>by 번역:김미진,이혜진,김연우,subtitle(류창민;리뷰(김재명))<br>on 2016-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

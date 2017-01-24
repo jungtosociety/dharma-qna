@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 823 |
-| Korean Subtitle | 돌아가신 엄마, 천국에 계시는 게 맞을까요? \| 법륜스님의 즉문즉설<br>by transcript:류창민,subtitle(류창민)<br>on 2016-09-02<br>[ko-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/ko-823-heaven.sbv)<br>|
-| English Subtitle | My Mom Passed Away 10 Years Ago. Is She in Heaven? \| Ven. Pomnyun's Dharma Q&A<br>by translation:홍향주,김연우,subtitle(류창민)<br>on 2016-09-02<br>[en-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/en-823-heaven.sbv)<br>|
+| Korean Subtitle | 돌아가신 엄마, 천국에 계시는 게 맞을까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:류창민,subtitle(류창민)<br>on 2016-09-02<br>[ko-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/ko-823-heaven.sbv)<br>|
+| English Subtitle | My Mom Passed Away 10 Years Ago. Is She in Heaven? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:홍향주,김연우,subtitle(류창민)<br>on 2016-09-02<br>[en-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/en-823-heaven.sbv)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

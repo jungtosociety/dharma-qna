@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 859 |
-| Korean Subtitle | 중학생 딸이 건망증이 심하고 정리정돈을 못해요. \| 법륜스님의 즉문즉설<br>by 한글녹취:허정연,subtitle(이동엽)<br>on 2017-01-01<br><br>|
-| English Subtitle | My Middle School Daughter Is Forgetful and Messy \| Ven. Pomnyun's Dharma Q&A<br>by 한영번역: 전은영, 이혜진, 김연우,subtitle(이동엽)<br>on 2017-01-01<br><br>|
+| Korean Subtitle | 중학생 딸이 건망증이 심하고 정리정돈을 못해요. \| 법륜스님의 즉문즉설<br>by 한국어녹취:허정연,subtitle(이동엽)<br>on 2017-01-01<br><br>|
+| English Subtitle | My Middle School Daughter Is Forgetful and Messy \| Ven. Pomnyun's Dharma Q&A<br>by 번역: 전은영, 이혜진, 김연우,subtitle(이동엽)<br>on 2017-01-01<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
