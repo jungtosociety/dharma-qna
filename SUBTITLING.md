@@ -98,8 +98,6 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [479](sub/479) | 분별심을 내는 나를 보기   | [![](img/youtube.png)](https://youtu.be/ayC4ET5xZeo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/RUeMPrAd0lsv) | 송명석;리뷰:김재명(30m)      |     |
 |    | Acknowledging Judgements Within You   | 0:06:40 |    |    | 2017-01-xx      | 2016-10-06 ~ 2016-12-26 |
-| [544](sub/544) | 외국인 신랑과 부모님의 반대   | [![](img/youtube.png)](https://youtu.be/WLXQRjUWnRM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/PdrnuR4ri24I) | 김구슬래,김재명 (리뷰:김재명 1h)      |     |
-|    | Foreigner Fiancé and Parental Disapproval   | 0:08:17 |    |    | 2017-mm-dd      | 2016-11-17 ~ 2016-11-28 |
 ## 6. Published
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -167,3 +165,5 @@
 |    | Being Different Is Normal   | 0:06:36 |    |    | 2017-01-01      | 2016-11-14 ~ 2016-11-20 |
 | [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) | 김승주(5h);리뷰:김재명(1.5h)      |     |
 |    | Distressed in Rage After School Violence   | 0:07:40 |    |    | 2017-01-17      |  ~ 2016-12-15 |
+| [544](sub/544) | 외국인 신랑과 부모님의 반대   | [![](img/youtube.png)](https://youtu.be/WLXQRjUWnRM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/PdrnuR4ri24I) | 김구슬래,김재명 (리뷰:김재명 1h)      |     |
+|    | Foreigner Fiance and Parental Disapproval   | 0:08:17 |    |    | 2017-mm-dd      | 2016-11-17 ~ 2016-11-28 |
