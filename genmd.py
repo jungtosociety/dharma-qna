@@ -76,7 +76,7 @@ def gentab_published(f):
                            ORDER BY v.pubdate DESC \
                              ' ):
         vid     = row["vid"]
-        title   = row["title"] #.encode('utf8')
+        title   = utf8(row["title"]) #.encode('utf8')
         xlsfn   = getxlsfn(vid)
         pubdate = row["pubdate"]
         youtube = row["youtube"]
