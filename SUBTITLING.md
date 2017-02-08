@@ -84,6 +84,10 @@
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | 2017-mm-dd      |  ~  |
 | [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) |  |       |     |
 |    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | 2017-mm-dd      |  ~  |
+| [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) |  |       |     |
+|    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | 2017-mm-dd      |  ~  |
+| [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-cheated.xlsx) |  |       |     |
+|    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
