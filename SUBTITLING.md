@@ -100,8 +100,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) | 류창민(4h);리뷰:김재명(1h)      | 4h    |
-|    | On Reincarnation and Previous Lives    | 0:23:57 |    |    | 2016-mm-dd      | 2016-05-29 ~ 2016-06-03 |
 | [479](sub/479) | 분별심을 내는 나를 보기   | [![](img/youtube.png)](https://youtu.be/ayC4ET5xZeo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/RUeMPrAd0lsv) | 송명석;리뷰:김재명(30m)      |     |
 |    | Acknowledging Judgements Within You   | 0:06:40 |    |    | 2017-01-xx      | 2016-10-06 ~ 2016-12-26 |
 ## 6. Published
@@ -173,3 +171,5 @@
 |    | Distressed in Rage After School Violence   | 0:07:40 |    |    | 2017-01-17      |  ~ 2016-12-15 |
 | [544](sub/544) | 외국인 신랑과 부모님의 반대   | [![](img/youtube.png)](https://youtu.be/WLXQRjUWnRM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/PdrnuR4ri24I) | 김구슬래,김재명 (리뷰:김재명 1h)      |     |
 |    | Foreigner Fiance and Parental Disapproval   | 0:08:17 |    |    | 2017-02-01      | 2016-11-17 ~ 2016-11-28 |
+| [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) | 류창민(4h);리뷰:김재명(1h)      | 4h    |
+|    | On Reincarnation and Previous Lives    | 0:23:57 |    |    | 2017-02-15      | 2016-05-29 ~ 2016-06-03 |
