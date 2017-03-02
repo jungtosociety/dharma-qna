@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1152 |
-| Korean Subtitle | 고락의 윤회에서 벗어나는 것이 해탈이다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(unassigned)<br>on 2017-mm-dd<br><br>|
-| English Subtitle | Enlightenment Is Release from Samsara \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(unassigned)<br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 고락의 윤회에서 벗어나는 것이 해탈이다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(Diana Lee)<br>on 2017-mm-dd<br><br>|
+| English Subtitle | Enlightenment Is Release from Samsara \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(Diana Lee)<br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

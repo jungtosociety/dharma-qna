@@ -10,8 +10,6 @@
 |    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | 2017-mm-dd      |  ~  |
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) | 이동엽      |     |
 |    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | 2017-mm-dd      | 2017-01-11 ~  |
-| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) | Diana Lee, 김승주      |     |
-|    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-mm-dd      |  ~  |
 ## 4. Reviewing
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -96,14 +94,16 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) |       |     |
 |    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | 2017-mm-dd      |  ~  |
-| [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   | [![](img/youtube.png)](https://youtu.be/4YoJ8gpHVtk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4FtW57qYz1F) | unassigned      |     |
-|    | Enlightenment Is Release from Samsara   | 0:09:41 |    |    | 2017-mm-dd      |  ~  |
+| [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   | [![](img/youtube.png)](https://youtu.be/4YoJ8gpHVtk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4FtW57qYz1F) | Diana Lee      |     |
+|    | Enlightenment Is Release from Samsara   | 0:09:41 |    |    | 2017-mm-dd      | 2017-03-02 ~  |
 | [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   | [![](img/youtube.png)](https://youtu.be/ivGaGre0tV0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/oHMHtILzWcXl) |       |     |
 |    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | 2017-mm-dd      |  ~  |
 ## 5. Ready to Publish
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) | Diana Lee, 김승주; review:김재명(30m)      |     |
+|    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-mm-dd      |  ~  |
 ## 6. Published
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
