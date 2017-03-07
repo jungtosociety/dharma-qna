@@ -2,8 +2,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래      |     |
-|    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2017-mm-dd      | 2016-11-30 ~  |
 | [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연      |     |
 |    | Defensive Mind   | 0:06:19 |    |    | 2017-mm-dd      | 2017-01-11 ~  |
 | [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   | [![](img/youtube.png)](https://youtu.be/4YoJ8gpHVtk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4FtW57qYz1F) | Diana Lee      |     |
@@ -22,6 +20,8 @@
 |    |    | 0:49:23 |    |    | 2017-05-01      | 2016-08-17 ~ 2016-08-19 |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) | 성미연(11h)      |     |
 |    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2017-mm-dd      |  ~ 2017-01-10 |
+| [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
+|    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2017-mm-dd      | 2016-11-30 ~ 2017-03-06 |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h)      |     |
 |    |    | 0:12:51 |    |    | 2017-mm-dd      | 2016-10-21 ~ 2017-01-11 |
 ## 1. Video Converting
@@ -102,7 +102,7 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) | Diana Lee, 김승주; review:김재명(30m)      |     |
+| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) | Diana Lee, 김승주(5.5h); review:김재명(30m)      |     |
 |    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-mm-dd      |  ~  |
 ## 6. Published
 
