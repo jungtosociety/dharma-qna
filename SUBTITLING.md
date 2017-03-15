@@ -94,6 +94,8 @@
 |    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | 2017-mm-dd      |  ~  |
 | [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) |  |       |     |
 |    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | 2017-mm-dd      |  ~  |
+| [233](sub/233) | 간섭하지 마라의 의미   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) |  |       |     |
+|    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
