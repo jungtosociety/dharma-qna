@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 405 |
-| Korean Subtitle | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(유승진)<br>on 2017-mm-dd<br><br>|
-| English Subtitle | There Is No Inherent Right and Wrong. The Reason for Precepts. \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(유승진)<br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(유승진(10h))<br>on 2017-mm-dd<br><br>|
+| English Subtitle | There Is No Inherent Right and Wrong. The Reason for Precepts. \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(유승진(10h))<br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
