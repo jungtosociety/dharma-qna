@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 907 |
-| Korean Subtitle |  자녀가 종교를 선택할 때 무엇을 지침으로 삼도록 해야 하나요? \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
-| English Subtitle | What Should We Have Children Consider When They Choose a Religion?  \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
+| Korean Subtitle |  자녀가 종교를 선택할 때 무엇을 지침으로 삼도록 해야 하나요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(류창민 자막 작업중)<br>on 2017-mm-dd<br><br>|
+| English Subtitle | What Should We Have Children Consider When They Choose a Religion?  \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(류창민 자막 작업중)<br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
