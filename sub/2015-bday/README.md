@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 2015-bday |
-| Korean Subtitle | N/A |
-| English Subtitle | N/A |
+| Korean Subtitle | 부처님오신날, '천상천하 유아독존'의 의미 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(류창민;리뷰:김재명)<br>on 2017-05-01<br><br>|
+| English Subtitle | The Meaning of Buddha's First Words \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(류창민;리뷰:김재명)<br>on 2017-05-01<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

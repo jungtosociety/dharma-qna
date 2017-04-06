@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 28 |
-| Korean Subtitle | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다. \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(Diana Lee, 송명석)<br>on 2017-mm-dd<br><br>|
-| English Subtitle | I Blame My Mother for Making Me Reliant \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(Diana Lee, 송명석)<br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다. \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(Diana Lee, 송명석(3h))<br>on 2017-mm-dd<br><br>|
+| English Subtitle | I Blame My Mother for Making Me Reliant \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(Diana Lee, 송명석(3h))<br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
