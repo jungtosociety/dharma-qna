@@ -14,8 +14,6 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) | 이동엽      | 5h    |
 |    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2017-01-01      |  ~ 2016-10-20 |
-| [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) | 류창민;리뷰:김재명      | 7h    |
-|    | The Meaning of Buddha's First Words   | 0:49:23 |    |    | 2017-05-01      | 2016-08-17 ~ 2016-08-19 |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) | 성미연(11h)      |     |
 |    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2017-mm-dd      |  ~ 2017-01-10 |
 | [907](sub/907) | 자녀가 종교를 선택할 때 무엇을 지침으로 삼도록 해야 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/907-childern-religion.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jbwI5jfgHQUR) | 류창민(3h)      |     |
@@ -104,6 +102,8 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) | 류창민(7h);리뷰:김재명(2h)      |     |
+|    | The Meaning of Buddha's First Words   | 0:49:23 |    |    | 2017-04-15      | 2016-08-17 ~ 2016-08-19 |
 ## 6. Published
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
