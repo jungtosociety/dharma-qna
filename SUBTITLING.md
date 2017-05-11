@@ -3,13 +3,19 @@
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [743](sub/743) | 종교가 다른 아내   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) | Diana      |     |
-|    | Religious Differences in Marriage    | 0:12:16 |    |    | 2017-mm-dd      |  ~  |
+|    | Religious Differences in Marriage    | 0:12:16 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) | 유승진(20h)      | 초반1분10초 자막 추가해야 함    |
 |    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | 2017-mm-dd      | 2017-03-07 ~ 2017-03-14 |
-| [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연      |     |
-|    | Defensive Mind   | 0:06:19 |    |    | 2017-mm-dd      | 2017-01-11 ~  |
+| [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FrA1FHBsbkIi) | 김구슬래      | My daughter and I have stopped communicating.    |
+|    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
+| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | I want to study but my desire to have fun makes it hard.    |
+|    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
+| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.    |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/WMbrjkRsTf0G) | 김은경      | I feel lonely since my brother passed away    |
+|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 9 years of teaching, I expected to become a good teacher by working hard.    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | 2017-mm-dd      | 2017-04-06 ~  |
+| [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연      |     |
+|    | My Wounds   | 0:10:51 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 ## 4. Reviewing
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -22,6 +28,8 @@
 |    | What Should We Have Children Consider When They Choose a Religion?    | 0:16:15 |    |    | 2017-mm-dd      | 2017-03-31 ~ 2017-04-06 |
 | [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
 |    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2017-mm-dd      | 2016-11-30 ~ 2017-03-06 |
+| [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m)      |     |
+|    | Defensive Mind   | 0:06:19 |    |    | 2017-mm-dd      | 2017-01-11 ~  |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h)      |     |
 |    |    | 0:12:51 |    |    | 2017-mm-dd      | 2016-10-21 ~ 2017-01-11 |
 | [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   | [![](img/youtube.png)](https://youtu.be/jhmIAJKKr54) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i2FMC5HJ8YTS) | Diana Lee, 송명석(3h)      |     |
@@ -36,16 +44,8 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) |  |       | I'm told my child is ill due to a bad name. What should I do?     |
 |    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | 2017-mm-dd      |  ~  |
-| [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) |  |       | My daughter and I have stopped communicating.    |
-|    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2017-mm-dd      |  ~  |
-| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) |  |       | I want to study but my desire to have fun makes it hard.    |
-|    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2017-mm-dd      |  ~  |
-| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.    |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) |  |       | I feel lonely since my brother passed away    |
-|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | 2017-mm-dd      |  ~  |
 | [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) |  |       |     |
 |    | My Sons, 5th and 7th Graders, Fight a Lot   | 0:07:27 |    |    | 2017-mm-dd      |  ~  |
-| [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) |  |       |     |
-|    | My Wounds   | 0:10:51 |    |    | 2017-mm-dd      |  ~  |
 | [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) |  |       |     |
 |    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | 2017-mm-dd      |  ~  |
 | [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) |  |       |     |
