@@ -31,7 +31,7 @@
 | [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m)      |     |
 |    | Defensive Mind   | 0:06:19 |    |    | 2017-mm-dd      | 2017-01-11 ~  |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h)      |     |
-|    |    | 0:12:51 |    |    | 2017-mm-dd      | 2016-10-21 ~ 2017-01-11 |
+|    | Nothing but Gratitude   | 0:12:51 |    |    | 2017-mm-dd      | 2016-10-21 ~ 2017-01-11 |
 | [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   | [![](img/youtube.png)](https://youtu.be/jhmIAJKKr54) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i2FMC5HJ8YTS) | Diana Lee, 송명석(3h)      |     |
 |    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | 2017-mm-dd      | 2017-01-17 ~ 2017-04-03 |
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) | 이동엽(4h)      |     |

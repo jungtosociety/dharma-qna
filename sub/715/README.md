@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 715 |
-| Korean Subtitle | N/A |
-| English Subtitle | N/A |
+| Korean Subtitle | 다만 감사한 마음 \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
+| English Subtitle | Nothing but Gratitude \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
