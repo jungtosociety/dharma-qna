@@ -94,6 +94,26 @@
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2017-mm-dd      |  ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) |  |       |     |
 |    | Dealing With People I Hate   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
+| [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) |  |       |     |
+|    | Coincidence and Inevitability   |  |    |    | 2017-mm-dd      |  ~  |
+| [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) |  |       |     |
+|    | Can I Find My Mind by Practicing Dhyana?   |  |    |    | 2017-mm-dd      |  ~  |
+| [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) |  |       |     |
+|    | I'll Be the Hope of My Family and Live in Harmony   |  |    |    | 2017-mm-dd      |  ~  |
+| [808](sub/808) | 연애는 많이 했는데 결혼은 잘 안됐어요, 어떤 사람을 만나야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) |  |       |     |
+|    | In Spite of Dating a Lot, I Have Not Been Able to Get Married Yet. What Sort of Man Shall I Meet?   |  |    |    | 2017-mm-dd      |  ~  |
+| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) |  |       |     |
+|    | I Want to Get Married.  How Should I Approach Marriage?   |  |    |    | 2017-mm-dd      |  ~  |
+| [901](sub/901) | 행복을 멀리서 찾지 마세요, 정토 세상의 진정한 뜻   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/901/901-happiness.xlsx) |  |       |     |
+|    | Don't Look in the Distance for Happiness; True Meaning of Pure Land   |  |    |    | 2017-mm-dd      |  ~  |
+| [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) |  |       |     |
+|    | Qualifications for a Good Spouse   |  |    |    | 2017-mm-dd      |  ~  |
+| [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) |  |       |     |
+|    | Knowing the Law of Cause and Effect Can Free You in Life.   |  |    |    | 2017-mm-dd      |  ~  |
+| [1205](sub/1205) | 최선을 다하되 결과에 연연하지 않는다.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1205/1205-cling-to-results.xlsx) |  |       |     |
+|    | Do Your Best, but Don't Cling to Results   |  |    |    | 2017-mm-dd      |  ~  |
+| [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) |  |       |     |
+|    | The Sewol Ferry Tragedy   |  |    |    | 2017-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
