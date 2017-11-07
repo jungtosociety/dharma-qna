@@ -24,8 +24,6 @@
 |    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2017-01-01      |  ~ 2016-10-20 |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) | 성미연(11h)      |     |
 |    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2017-mm-dd      |  ~ 2017-01-10 |
-| [907](sub/907) | 자녀가 종교를 선택할 때 무엇을 지침으로 삼도록 해야 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/907-childern-religion.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jbwI5jfgHQUR) | 류창민(3h)      |     |
-|    | What Should We Have Children Consider When They Choose a Religion?    | 0:16:15 |    |    | 2017-mm-dd      | 2017-03-31 ~ 2017-04-06 |
 | [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
 |    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2017-mm-dd      | 2016-11-30 ~ 2017-03-06 |
 | [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m)      |     |
@@ -122,8 +120,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) | 류창민(7h);리뷰:김재명(2h)      |     |
-|    | The Meaning of Buddha's First Words   | 0:49:23 |    |    | 2017-04-15      | 2016-08-17 ~ 2016-08-19 |
 ## 6. Published
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -200,3 +196,7 @@
 |    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-03-15      |  ~  |
 | [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   | [![](img/youtube.png)](https://youtu.be/4YoJ8gpHVtk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4FtW57qYz1F) | Diana Lee(2h); 리뷰:김재명(1h)      |     |
 |    | Enlightenment Is Release from Samsara   | 0:09:41 |    |    | 2017-04-01      | 2017-03-02 ~ 2017-03-29 |
+| [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) | 류창민(7h);리뷰:김재명(2h)      |     |
+|    | The Meaning of Buddha's First Words   | 0:49:23 |    |    | 2017-04-15      | 2016-08-17 ~ 2016-08-19 |
+| [907](sub/907) | 자녀가 종교를 선택할 때 무엇을 지침으로 삼도록 해야 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/907-childern-religion.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jbwI5jfgHQUR) | 류창민(3h)      |     |
+|    | What Should We Have Children Consider When They Choose a Religion?    | 0:16:15 |    |    | 2017-mm-dd      | 2017-03-31 ~ 2017-04-06 |
