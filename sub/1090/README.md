@@ -7,8 +7,8 @@
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/FVcwfUpH1Ns](https://youtu.be/FVcwfUpH1Ns) |
-| YouTube Link  |  |
-| Amara Link    |  |
+| YouTube Link  | [https://youtu.be/2rwYkIxDcBc](https://youtu.be/2rwYkIxDcBc) |
+| Amara Link    | [http://amara.org/en/videos/eruO2tD1qxVI](http://amara.org/en/videos/eruO2tD1qxVI) |
 | Transcript(ko/en) | [1090-avoid-people.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) |
 | Playtime | 0:09:01 |
 | Resolution | 1920x1080|

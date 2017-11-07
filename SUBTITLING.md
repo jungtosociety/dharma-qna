@@ -10,7 +10,7 @@
 |    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | I want to study but my desire to have fun makes it hard.    |
 |    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
-| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.    |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/WMbrjkRsTf0G) | 김은경      | I feel lonely since my brother passed away    |
+| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.    | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 김은경      | I feel lonely since my brother passed away    |
 |    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 9 years of teaching, I expected to become a good teacher by working hard.    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | 2017-mm-dd      | 2017-04-06 ~  |
@@ -58,8 +58,6 @@
 |    | Repentance Towards Father   | 0:08:12 |    |    | 2017-mm-dd      |  ~  |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) |  |       |     |
 |    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2017-mm-dd      |  ~  |
-| [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) |  |       |     |
-|    | I avoid people I don't like. How can I change myself?    | 0:09:01 |    |    | 2017-mm-dd      |  ~  |
 | [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) |  |       |     |
 |    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | 2017-mm-dd      |  ~  |
 | [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) |  |       |     |
@@ -114,6 +112,8 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   | [![](img/youtube.png)](https://youtu.be/2rwYkIxDcBc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eruO2tD1qxVI) |       |     |
+|    | I avoid people I don't like. How can I change myself?    | 0:09:01 |    |    | 2017-mm-dd      |  ~  |
 | [1145](sub/1145) | 명상은 왜 하는지, 하면 무엇을 얻는지 궁금합니다   | [![](img/youtube.png)](https://youtu.be/GOeqkPLkRHI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1145/1145-meditation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IBCLvXZazoEh) |       |     |
 |    | Why Do We Meditate? What Do We Gain from It?   | 0:09:47 |    |    | 2017-mm-dd      |  ~  |
 ## 5. Ready to Publish

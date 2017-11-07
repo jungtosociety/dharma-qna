@@ -7,8 +7,8 @@
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/bxR-KjuAuTk](https://youtu.be/bxR-KjuAuTk) |
-| YouTube Link  |  |
-| Amara Link    | [http://amara.org/en/videos/WMbrjkRsTf0G](http://amara.org/en/videos/WMbrjkRsTf0G) |
+| YouTube Link  | [https://youtu.be/zM6Ty-EAegk](https://youtu.be/zM6Ty-EAegk) |
+| Amara Link    | [http://amara.org/en/videos/ltCXhrMEwUZo](http://amara.org/en/videos/ltCXhrMEwUZo) |
 | Transcript(ko/en) | [905-brother.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) |
 | Playtime | 0:11:48 |
 | Resolution | 1920x1080|
