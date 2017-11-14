@@ -6,6 +6,8 @@
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) | 유승진(20h)      | 초반1분10초 자막 추가해야 함    |
 |    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | 2017-mm-dd      | 2017-03-07 ~ 2017-03-14 |
+| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) | 송명석      | I'm told my child is ill due to a bad name. What should I do?     |
+|    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | 2017-mm-dd      | 2017-11-14 ~  |
 | [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FrA1FHBsbkIi) | 김구슬래      | My daughter and I have stopped communicating.    |
 |    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | I want to study but my desire to have fun makes it hard.    |
