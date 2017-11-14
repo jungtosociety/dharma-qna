@@ -16,7 +16,9 @@
 
 ## Guidelines
 
-### Subtitling
+[좀 더 자세한 한글 안내](GUIDE.md)
+
+### Subtitling Restriction
 * Line length
  * 42 latin characters per line
  * 25 Korean characters per line
