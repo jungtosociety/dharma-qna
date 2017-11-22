@@ -6,6 +6,7 @@
 | French Subtitle | Regardez en vous-même avant de juger les autres \| Le Dharma du Ven. Pomnyun<br>by translation&subtitling:Franck Vautier; review:윤혜정<br>on 2016-05-23<br>[fr-489-look-within-yourself.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/fr-489-look-within-yourself.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/Sr_YcScNORY](https://youtu.be/Sr_YcScNORY) |
 | YouTube Link  | [https://youtu.be/IOk5cZ9psBs](https://youtu.be/IOk5cZ9psBs) |
 | Amara Link    | [http://amara.org/en/videos/FvWS4splyJkN](http://amara.org/en/videos/FvWS4splyJkN) |

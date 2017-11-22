@@ -6,6 +6,7 @@
 | French Subtitle | Comment contrôler sa colère au travail \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:Franck Vautier<br>on 2017-01-16<br>[fr-751-anger-mgmt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/fr-751-anger-mgmt.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/bglOaP7Vhp8](https://youtu.be/bglOaP7Vhp8) |
 | YouTube Link  | [https://youtu.be/6E3piBwAYrc](https://youtu.be/6E3piBwAYrc) |
 | Amara Link    | [http://amara.org/en/videos/tW4OcBGfiBM9](http://amara.org/en/videos/tW4OcBGfiBM9) |

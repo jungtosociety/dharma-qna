@@ -6,6 +6,7 @@
 | French Subtitle | J'aimerais étudier le Bouddhisme \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:김선옥<br>on 2016-01-23<br>[fr-1081-buddhism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/fr-1081-buddhism.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/afD0MeWHHZs](https://youtu.be/afD0MeWHHZs) |
 | YouTube Link  | [https://youtu.be/yp_X0KQPqyg](https://youtu.be/yp_X0KQPqyg) |
 | Amara Link    | [http://amara.org/en/videos/uiPC1tlJOjk6](http://amara.org/en/videos/uiPC1tlJOjk6) |

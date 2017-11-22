@@ -6,6 +6,7 @@
 | French Subtitle | Devrais-je assister à l'enterrement d'un ami à qui je garde rancune depuis longtemps? \| Le Dharma du Ven. Pomnyun<br>by translation:권정화; review: 윤혜정 and Franck Vautier<br>on 2017-02-15<br>[fr-712-funeral.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/fr-712-funeral.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/PgzfyeZTKZM](https://youtu.be/PgzfyeZTKZM) |
 | YouTube Link  | [https://youtu.be/4_xJwSP3ons](https://youtu.be/4_xJwSP3ons) |
 | Amara Link    | [http://amara.org/en/videos/pPeruS6bq7Kn](http://amara.org/en/videos/pPeruS6bq7Kn) |

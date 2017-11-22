@@ -6,6 +6,7 @@
 | French Subtitle | Mon fils me demande de rembourser l'encours de sa carte de crédit. Que dois-je faire? \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:박지현<br>on 2016-05-07<br>[fr-851-card-debt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/fr-851-card-debt.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/Gw55vg6KhCY](https://youtu.be/Gw55vg6KhCY) |
 | YouTube Link  | [https://youtu.be/1tMErMTUwks](https://youtu.be/1tMErMTUwks) |
 | Amara Link    | [http://amara.org/en/videos/uQOxVi7aLYXT](http://amara.org/en/videos/uQOxVi7aLYXT) |

@@ -6,6 +6,7 @@
 | French Subtitle | L'attitude négative de mon fils m'inquiète. \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:김선옥<br>on 2016-04-28<br>[fr-239-pessimistic-son.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/fr-239-pessimistic-son.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/CskTJVmwVy4](https://youtu.be/CskTJVmwVy4) |
 | YouTube Link  | [https://youtu.be/PdiVY7Y9KNk](https://youtu.be/PdiVY7Y9KNk) |
 | Amara Link    | [http://amara.org/en/videos/WrL0SB21tD0j](http://amara.org/en/videos/WrL0SB21tD0j) |

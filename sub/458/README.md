@@ -6,6 +6,7 @@
 | French Subtitle | C'est normal d'être différent. \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:Franck Vautier<br>on 2017-01-16<br>[fr-458-being-different.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/fr-458-being-different.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/VuxtJK9WG38](https://youtu.be/VuxtJK9WG38) |
 | YouTube Link  | [https://youtu.be/govOd8cuYhA](https://youtu.be/govOd8cuYhA) |
 | Amara Link    | [http://amara.org/en/videos/esdoZWKXSqX5](http://amara.org/en/videos/esdoZWKXSqX5) |

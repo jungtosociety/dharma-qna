@@ -6,6 +6,7 @@
 | French Subtitle | La pensée négative et la pensée positive \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:김선옥<br>on 2016-08-02<br>[fr-997-negative-thinking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/997/fr-997-negative-thinking.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/jdKgA928x08](https://youtu.be/jdKgA928x08) |
 | YouTube Link  | [https://youtu.be/ScaKEct3C5c](https://youtu.be/ScaKEct3C5c) |
 | Amara Link    | [http://amara.org/en/videos/F8lxMlmZ92d4](http://amara.org/en/videos/F8lxMlmZ92d4) |

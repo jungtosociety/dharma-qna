@@ -141,7 +141,8 @@ def genReadme(subid=None):
                       'en' : "Ven. Pomnyun's Dharma Q&A" ,
                       'fr' : "Le Dharma du Ven. Pomnyun",
                       'de' : "Ven. Pomnyuns Dharma Q&A",
-                      'cn' : "法轮大师的 立问解答" }
+                      'cn' : "法轮大师的 立问解答",
+                      'ja' : "法輪僧侶の卽問卽說" }
     # Input Args
     #  - langname: language name like Englith
     #  - langcode: language code like en
@@ -165,7 +166,8 @@ def genReadme(subid=None):
         whereclause = 'WHERE v.vid = '+str(subid)
     else:
         whereclause = ''
-    for row in c.execute('SELECT v.vid,v.title,v.pubdate,v.youtube_org youtube_org,v.youtube youtube,v.amara amara, \
+    for row in c.execute('SELECT v.vid vid, v.title title, v.pubdate pubdate ,\
+                                v.youtube_org youtube_org,v.youtube youtube,v.amara amara, \
                                  v.subworker,v.subbegin subbegin,v.subend subend,v.memo memo,v.playtime playtime, \
                                  v.xdim xdim, v.ydim ydim, \
                                  ko.title as kotitle, ko.contributors || \',subtitle(\' || v.subworker || \')\' as kocon, v.pubdate as kopubdate, \
@@ -173,7 +175,8 @@ def genReadme(subid=None):
                                  fr.title as frtitle, fr.contributors as frcon, fr.pubdate as frpubdate, \
                                  de.title as detitle, de.contributors as decon, de.pubdate as depubdate, \
                                  cn.title as cntitle, cn.contributors as cncon, cn.pubdate as cnpubdate, \
-                                 th.title as thtitle, th.contributors as thcon, th.pubdate as thpubdate \
+                                 th.title as thtitle, th.contributors as thcon, th.pubdate as thpubdate, \
+                                 ja.title as jatitle, th.contributors as jacon, ja.pubdate as japubdate \
                             FROM video v \
                  LEFT OUTER JOIN ko ON v.vid = ko.vid \
                  LEFT OUTER JOIN en ON v.vid = en.vid \
@@ -181,9 +184,10 @@ def genReadme(subid=None):
                  LEFT OUTER JOIN de ON v.vid = de.vid \
                  LEFT OUTER JOIN cn ON v.vid = cn.vid \
                  LEFT OUTER JOIN th ON v.vid = th.vid \
+                 LEFT OUTER JOIN ja ON v.vid = ja.vid \
                             '+whereclause+' \
                            ORDER BY v.pubdate ASC ' ):
-        vid     = row["v.vid"]
+        vid     = row["vid"]
         nolink = utf8("[%s](sub/%s)" % (vid,vid))        
         xlslink = utf8(githublink(vid,getxlsfn(vid)))
         utubelink_org = utf8("[https://youtu.be/%s](https://youtu.be/%s)" % (row["youtube_org"],row["youtube_org"]) if row["youtube_org"] is not None else '')
@@ -204,6 +208,7 @@ def genReadme(subid=None):
         printSubInfoPerLang(f,row,vid,"French","fr")
         printSubInfoPerLang(f,row,vid,"German","de")
         printSubInfoPerLang(f,row,vid,"Chinese","cn")
+        printSubInfoPerLang(f,row,vid,"Japanese","ja")
         f.write("| Original YouTube Link  | "+utubelink_org+" |\n")
         f.write("| YouTube Link  | "+utubelink+" |\n")
         f.write("| Amara Link    | "+amaralink+" |\n")

@@ -6,6 +6,7 @@
 | French Subtitle | Vaincre l'alcoolisme \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on 2016-06-08<br>[fr-456-addictions.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/fr-456-addictions.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/rM_CJvkq7Ts](https://youtu.be/rM_CJvkq7Ts) |
 | YouTube Link  | [https://youtu.be/72PIwIEkUtc](https://youtu.be/72PIwIEkUtc) |
 | Amara Link    | [http://amara.org/en/videos/itfyi5ssv3gw](http://amara.org/en/videos/itfyi5ssv3gw) |

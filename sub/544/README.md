@@ -6,6 +6,7 @@
 | French Subtitle | Opposition de mes parents à mon mariage avec un étranger \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on 2017-02-15<br>[fr-544-foreign-fiance.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/fr-544-foreign-fiance.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/I6OVbqzy_JA](https://youtu.be/I6OVbqzy_JA) |
 | YouTube Link  | [https://youtu.be/WLXQRjUWnRM](https://youtu.be/WLXQRjUWnRM) |
 | Amara Link    | [http://amara.org/en/videos/PdrnuR4ri24I](http://amara.org/en/videos/PdrnuR4ri24I) |

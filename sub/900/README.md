@@ -6,6 +6,7 @@
 | French Subtitle | Mon Caractère Perfectionniste Me Stresse \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:김선옥<br>on 2016-06-30<br>[fr-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/fr-900-perfectionism.sbv)<br>|
 | German Subtitle | Mein Perfektionismus belastet mich \| Ven. Pomnyuns Dharma Q&A<br>by 김민지,추희숙; subtitled by 김민지<br>on <br>[de-900-perfectionism.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/de-900-perfectionism.sbv)<br>|
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/WXLF1qBHiWg](https://youtu.be/WXLF1qBHiWg) |
 | YouTube Link  | [https://youtu.be/utumcS1iGvM](https://youtu.be/utumcS1iGvM) |
 | Amara Link    | [http://amara.org/en/videos/EkaeX3zDKXeC](http://amara.org/en/videos/EkaeX3zDKXeC) |

@@ -6,6 +6,7 @@
 | French Subtitle | Ma fille en terminale est sous pression pour l'examen d'entrée à l'université. \| Le Dharma du Ven. Pomnyun<br>by translation: 권정화, review: 윤혜정, subtitling: 박지현<br>on 2016-12-01<br>[fr-853-pressure-entrance-exam.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/fr-853-pressure-entrance-exam.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | 高中3年级的女儿对大考压力很大 \| 法轮大师的 立问解答<br>by 번역:신미경<br>on 2016-10-01<br>[cn-853-pressure-entrance-exam.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/cn-853-pressure-entrance-exam.sbv)<br>|
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/NivrtWmudl0](https://youtu.be/NivrtWmudl0) |
 | YouTube Link  | [https://youtu.be/fH1yUn-dYBU](https://youtu.be/fH1yUn-dYBU) |
 | Amara Link    | [http://amara.org/en/videos/AcdVe1mvtsDJ](http://amara.org/en/videos/AcdVe1mvtsDJ) |

@@ -6,6 +6,7 @@
 | French Subtitle | Reconnaître ma disposition à toujours vouloir juger les autres \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on <br>[fr-479-judgements.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/fr-479-judgements.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/wjccRKZwkQc](https://youtu.be/wjccRKZwkQc) |
 | YouTube Link  | [https://youtu.be/ayC4ET5xZeo](https://youtu.be/ayC4ET5xZeo) |
 | Amara Link    | [http://amara.org/en/videos/RUeMPrAd0lsv](http://amara.org/en/videos/RUeMPrAd0lsv) |

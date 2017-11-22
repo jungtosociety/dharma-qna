@@ -6,6 +6,7 @@
 | French Subtitle | Aucune religion ne me donne la foi. \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:박지현<br>on 2016-12-01<br>[fr-899-religious-beliefs.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/fr-899-religious-beliefs.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/ycepKdBn66A](https://youtu.be/ycepKdBn66A) |
 | YouTube Link  | [https://youtu.be/bocDnNgRhgE](https://youtu.be/bocDnNgRhgE) |
 | Amara Link    | [http://amara.org/en/videos/UF0Y1vOk3z46](http://amara.org/en/videos/UF0Y1vOk3z46) |

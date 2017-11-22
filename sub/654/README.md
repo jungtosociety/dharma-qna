@@ -6,6 +6,7 @@
 | French Subtitle | Soyez votre propre maître partout où vous êtes. \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:Franck Vautier<br>on 2016-12-06<br>[fr-654-owner.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/fr-654-owner.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/SOCrHmXJjb8](https://youtu.be/SOCrHmXJjb8) |
 | YouTube Link  | [https://youtu.be/9PYtetHi2SM](https://youtu.be/9PYtetHi2SM) |
 | Amara Link    | [http://amara.org/en/videos/eLM0FgGPxqiY](http://amara.org/en/videos/eLM0FgGPxqiY) |

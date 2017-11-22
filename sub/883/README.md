@@ -6,6 +6,7 @@
 | French Subtitle | Je viens de rater un examen. Comment faire pour calmer la colère de mes parents \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:박지현<br>on 2016-05-07<br>[fr-883-exam.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/fr-883-exam.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/iYgifdr17ok](https://youtu.be/iYgifdr17ok) |
 | YouTube Link  | [https://youtu.be/5OZ-v8lwumo](https://youtu.be/5OZ-v8lwumo) |
 | Amara Link    | [http://amara.org/en/videos/6ZgjwKD81l2a](http://amara.org/en/videos/6ZgjwKD81l2a) |

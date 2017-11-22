@@ -6,6 +6,7 @@
 | French Subtitle | Vous vous sentez mieux si vous comprenez l'autre personne. \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:박지현<br>on 2016-05-05<br>[fr-488-understand.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/488/fr-488-understand.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/e7yGY_u3H6s](https://youtu.be/e7yGY_u3H6s) |
 | YouTube Link  | [https://youtu.be/AUg_2sNt5qc](https://youtu.be/AUg_2sNt5qc) |
 | Amara Link    | [http://amara.org/en/videos/3t6ocMUzw4YG](http://amara.org/en/videos/3t6ocMUzw4YG) |

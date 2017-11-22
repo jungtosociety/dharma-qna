@@ -6,6 +6,7 @@
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/YFi8qCA2PIs](https://youtu.be/YFi8qCA2PIs) |
 | YouTube Link  |  |
 | Amara Link    |  |

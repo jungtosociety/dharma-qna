@@ -6,6 +6,7 @@
 | French Subtitle | Comment faire pour que mon mari arrête de fumer \| Le Dharma du Ven. Pomnyun<br>by 박지현<br>on 2016-08-02<br>[fr-797-husband-smoking.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/fr-797-husband-smoking.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/_AUIPu9OzG8"](https://youtu.be/_AUIPu9OzG8") |
 | YouTube Link  | [https://youtu.be/YhgroezcO5I](https://youtu.be/YhgroezcO5I) |
 | Amara Link    | [http://amara.org/en/videos/MNep6TtkJfcJ](http://amara.org/en/videos/MNep6TtkJfcJ) |

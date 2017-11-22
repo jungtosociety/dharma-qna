@@ -6,6 +6,7 @@
 | French Subtitle | L'impulsion suicidaire \| Le Dharma du Ven. Pomnyun<br>by translation:김경진, review:윤혜정, subtitling:박지현<br>on 2016-05-05<br>[fr-640-suicidal-impulse.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/fr-640-suicidal-impulse.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/GpJ0gq-TlXE](https://youtu.be/GpJ0gq-TlXE) |
 | YouTube Link  | [https://youtu.be/z6lxOZF2Wgk](https://youtu.be/z6lxOZF2Wgk) |
 | Amara Link    | [http://amara.org/en/videos/w8ymWLXzTcyF](http://amara.org/en/videos/w8ymWLXzTcyF) |

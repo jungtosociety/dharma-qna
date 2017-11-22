@@ -6,6 +6,7 @@
 | French Subtitle | Je suis facilement blessée par les autres. \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:Franck Vautier<br>on 2017-01-01<br>[fr-782-easily-hurt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/fr-782-easily-hurt.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/r-_gGBbmYIQ](https://youtu.be/r-_gGBbmYIQ) |
 | YouTube Link  | [https://youtu.be/8Pvu-oiUwA0](https://youtu.be/8Pvu-oiUwA0) |
 | Amara Link    | [http://amara.org/en/videos/Ft1mYh9nvhY5](http://amara.org/en/videos/Ft1mYh9nvhY5) |

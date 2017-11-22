@@ -6,6 +6,7 @@
 | French Subtitle | Concernant la vie antérieure et la réincarnation \| Le Dharma du Ven. Pomnyun<br>by translation:김경진; review: 윤혜정 and Franck Vautier<br>on 2017-03-28<br>[fr-314-reincarnation.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/fr-314-reincarnation.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/mcbjoEKlyoc](https://youtu.be/mcbjoEKlyoc) |
 | YouTube Link  | [https://youtu.be/446B1HlUoBo](https://youtu.be/446B1HlUoBo) |
 | Amara Link    | [http://amara.org/en/videos/7Spitv2wN3AT](http://amara.org/en/videos/7Spitv2wN3AT) |

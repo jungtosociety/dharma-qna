@@ -6,6 +6,7 @@
 | French Subtitle | Est ce que je dois renoncer à mon obsession d'être belle? \| Le Dharma du Ven. Pomnyun<br>by translation:권정화; review:Franck Vautier<br>on 2017-02-15<br>[fr-574-obsession-beauty.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/fr-574-obsession-beauty.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/IS1XqeD-f-4](https://youtu.be/IS1XqeD-f-4) |
 | YouTube Link  | [https://youtu.be/BVccCzcYnZU](https://youtu.be/BVccCzcYnZU) |
 | Amara Link    | [http://amara.org/en/videos/xVo0OdM6vxik](http://amara.org/en/videos/xVo0OdM6vxik) |

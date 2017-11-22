@@ -6,6 +6,7 @@
 | French Subtitle | Mes opinions personnelles très fortes créent des soucis relationnels \| Le Dharma du Ven. Pomnyun<br>by translation:권정화; review:Franck Vautier<br>on <br>[fr-149-relationship.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/fr-149-relationship.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/kC5r6KCvaOQ](https://youtu.be/kC5r6KCvaOQ) |
 | YouTube Link  | [https://youtu.be/BT2Cgs8ety0](https://youtu.be/BT2Cgs8ety0) |
 | Amara Link    | [http://amara.org/en/videos/OgPIPbhTHPih](http://amara.org/en/videos/OgPIPbhTHPih) |

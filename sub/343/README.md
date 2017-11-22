@@ -6,6 +6,7 @@
 | French Subtitle | Rancœur d'un Souffre Douleur à l'Ecole \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on 2017-02-15<br>[fr-343-school-violence.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/fr-343-school-violence.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/q2LmOpk-2Y8](https://youtu.be/q2LmOpk-2Y8) |
 | YouTube Link  | [https://youtu.be/Ub9TVbIlfww](https://youtu.be/Ub9TVbIlfww) |
 | Amara Link    | [http://amara.org/en/videos/d7kZEfE5iuUt](http://amara.org/en/videos/d7kZEfE5iuUt) |

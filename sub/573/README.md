@@ -6,6 +6,7 @@
 | French Subtitle | Vivre en gardant le beau juste-milieu \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:박지현<br>on 2016-08-02<br>[fr-573-moderation.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/fr-573-moderation.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/ER0B0kIFvJw](https://youtu.be/ER0B0kIFvJw) |
 | YouTube Link  | [https://youtu.be/Aaq1JUawHLM](https://youtu.be/Aaq1JUawHLM) |
 | Amara Link    | [http://amara.org/en/videos/6AuyYe0XovH0](http://amara.org/en/videos/6AuyYe0XovH0) |

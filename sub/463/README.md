@@ -6,6 +6,7 @@
 | French Subtitle | Je ne sais pas dire "Non". \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier; subtitling:Franck Vautier<br>on 2017-01-16<br>[fr-463-refusing-without-guilt.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/fr-463-refusing-without-guilt.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/dhEVCH-cETY](https://youtu.be/dhEVCH-cETY) |
 | YouTube Link  | [https://youtu.be/MviaC5XfDgc](https://youtu.be/MviaC5XfDgc) |
 | Amara Link    | [http://amara.org/en/videos/mQHI4mTuJxSS](http://amara.org/en/videos/mQHI4mTuJxSS) |

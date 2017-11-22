@@ -6,6 +6,7 @@
 | French Subtitle | Cela fait 10 ans que ma mère est décédée. Est-ce qu'elle est allée au paradis? \| Le Dharma du Ven. Pomnyun<br>by translation:김경진; review: Franck Vautier<br>on <br>[fr-823-heaven.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/fr-823-heaven.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/f17Bh5_n46s](https://youtu.be/f17Bh5_n46s) |
 | YouTube Link  | [https://youtu.be/BeJ3IRV1_mw](https://youtu.be/BeJ3IRV1_mw) |
 | Amara Link    | [http://amara.org/en/videos/iaVsm9iWcMg0](http://amara.org/en/videos/iaVsm9iWcMg0) |

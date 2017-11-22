@@ -6,6 +6,7 @@
 | French Subtitle | Comment se remonter le moral quand on se sent déprimé. \| Le Dharma du Ven. Pomnyun<br>by translation:김경진, review:윤혜정, subtitling:박지현<br>on 2016-05-05<br>[fr-906-depression.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/fr-906-depression.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
+| Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/hZolBTemeGY](https://youtu.be/hZolBTemeGY) |
 | YouTube Link  | [https://youtu.be/PQomKbgB45w](https://youtu.be/PQomKbgB45w) |
 | Amara Link    | [http://amara.org/en/videos/hjbgLzfe8XBV](http://amara.org/en/videos/hjbgLzfe8XBV) |
