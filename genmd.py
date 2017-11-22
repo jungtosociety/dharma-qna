@@ -176,7 +176,7 @@ def genReadme(subid=None):
                                  de.title as detitle, de.contributors as decon, de.pubdate as depubdate, \
                                  cn.title as cntitle, cn.contributors as cncon, cn.pubdate as cnpubdate, \
                                  th.title as thtitle, th.contributors as thcon, th.pubdate as thpubdate, \
-                                 ja.title as jatitle, th.contributors as jacon, ja.pubdate as japubdate \
+                                 ja.title as jatitle, ja.contributors as jacon, ja.pubdate as japubdate \
                             FROM video v \
                  LEFT OUTER JOIN ko ON v.vid = ko.vid \
                  LEFT OUTER JOIN en ON v.vid = en.vid \
