@@ -66,8 +66,8 @@ def gentab_published(f):
 # ---\n\
 # \n\n');
 
-    f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN |\n')
-    f.write('|----| ------------- |----|----|-----|---------|----|----|----|----|\n')
+    f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN | JA |\n')
+    f.write('|----| ------------- |----|----|-----|---------|----|----|----|----|----|\n')
 
     for row in c.execute('SELECT v.vid,en.title,v.pubdate,v.youtube,v.amara \
                             FROM video v \
@@ -75,16 +75,17 @@ def gentab_published(f):
                            WHERE status=\'published\' \
                            ORDER BY v.pubdate DESC \
                              ' ):
-        vid     = row["vid"]
-        title   = utf8(row["title"]) #.encode('utf8')
+        vid     = row["v.vid"] # row["vid"]
+        title   = utf8(row["en.title"]) #.encode('utf8')
         xlsfn   = getxlsfn(vid)
-        pubdate = row["pubdate"]
-        youtube = row["youtube"]
-        amara   = row["amara"]
+        pubdate = row["v.pubdate"]
+        youtube = row["v.youtube"]
+        amara   = row["v.amara"]
         fn_en   = getsubfn(vid,'en')
         fn_fr   = getsubfn(vid,'fr')
         fn_de   = getsubfn(vid,'de')
         fn_cn   = getsubfn(vid,'cn')
+        fn_ja   = getsubfn(vid,'ja')
         titlelink = title
         nolink = "[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid)
         xlslink = githublink(vid,xlsfn,'![](img/excel.png)')
@@ -94,8 +95,9 @@ def gentab_published(f):
         frlink = githublink(vid,fn_fr,'fr')
         delink = githublink(vid,fn_de,'de')
         cnlink = githublink(vid,fn_cn,'cn')
-        f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, pubdate, 
-                enlink, frlink, delink, cnlink ))
+        jalink = githublink(vid,fn_ja,'ja')
+        f.write("| %s | %s | %s | %s | %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, pubdate, 
+                enlink, frlink, delink, cnlink, jalink ))
 
 def gentab_subtitling(f,status=None):
     f.write('| NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |\n')
@@ -112,17 +114,17 @@ def gentab_subtitling(f,status=None):
                             FROM video v \
                             LEFT OUTER JOIN en ON v.vid = en.vid \
                             '+whereorderby ):
-        vid     = row["vid"]
-        title   = utf8(row["title"])
+        vid     = row["v.vid"]
+        title   = utf8(row["v.title"])
         xlsfn   = getxlsfn(vid)
-        pubdate = utf8(row["pubdate"])
-        youtube = row["youtube"]
-        amara   = row["amara"]
-        worker  = utf8(row["subworker"])
-        begin   = utf8(row["subbegin"])
-        end     = utf8(row["subend"])
-        memo    = utf8(row["memo"])
-        playtime  = utf8(row["playtime"])
+        pubdate = utf8(row["v.pubdate"])
+        youtube = row["v.youtube"]
+        amara   = row["v.amara"]
+        worker  = utf8(row["v.subworker"])
+        begin   = utf8(row["v.subbegin"])
+        end     = utf8(row["v.subend"])
+        memo    = utf8(row["v.memo"])
+        playtime  = utf8(row["v.playtime"])
         entitle   = row["entitle"]
         entitle   = utf8("%s" % (entitle) if entitle is not None else '') 
         nolink = utf8("[%s](sub/%s)" % (vid,vid))
@@ -163,9 +165,9 @@ def genReadme(subid=None):
         whereclause = 'WHERE v.vid = '+str(subid)
     else:
         whereclause = ''
-    for row in c.execute('SELECT v.vid,v.title,v.pubdate,v.youtube_org,v.youtube,v.amara, \
-                                 v.subworker,v.subbegin,v.subend,v.memo,v.playtime, \
-                                 v.xdim, v.ydim, \
+    for row in c.execute('SELECT v.vid,v.title,v.pubdate,v.youtube_org youtube_org,v.youtube youtube,v.amara amara, \
+                                 v.subworker,v.subbegin subbegin,v.subend subend,v.memo memo,v.playtime playtime, \
+                                 v.xdim xdim, v.ydim ydim, \
                                  ko.title as kotitle, ko.contributors || \',subtitle(\' || v.subworker || \')\' as kocon, v.pubdate as kopubdate, \
                                  en.title as entitle, en.contributors || \',subtitle(\' || v.subworker || \')\' as encon, v.pubdate as enpubdate, \
                                  fr.title as frtitle, fr.contributors as frcon, fr.pubdate as frpubdate, \
@@ -181,7 +183,7 @@ def genReadme(subid=None):
                  LEFT OUTER JOIN th ON v.vid = th.vid \
                             '+whereclause+' \
                            ORDER BY v.pubdate ASC ' ):
-        vid     = row["vid"]
+        vid     = row["v.vid"]
         nolink = utf8("[%s](sub/%s)" % (vid,vid))        
         xlslink = utf8(githublink(vid,getxlsfn(vid)))
         utubelink_org = utf8("[https://youtu.be/%s](https://youtu.be/%s)" % (row["youtube_org"],row["youtube_org"]) if row["youtube_org"] is not None else '')
@@ -222,6 +224,7 @@ if __name__ == "__main__":
     f.write('* EN: English Subtitle\n')
     f.write('* DE: German(Deutsch) Subtitle\n')
     f.write('* CN: Chinese(中文) Subtitle\n')
+    f.write('* JA: Japanese(日本語) Subtitle\n')
     f.write('\n')
     gentab_published(f)
     f.close()
