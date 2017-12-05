@@ -6,7 +6,7 @@
 | French Subtitle | Présentation de Vénérable Pomnyun \| Le Dharma du Ven. Pomnyun<br>by 윤혜정,Franck Vautier,박지현<br>on 2016-06-08<br>[fr-sunim-intro.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/fr-sunim-intro.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | 法轮大师的人生是为了全世界人的幸福和自由 \| 法轮大师的 立问解答<br>by 번역:신미경<br>on 2016-08-20<br>[cn-sunim-intro.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/cn-sunim-intro.sbv)<br>|
-| Japanese Subtitle | N/A |
+| Japanese Subtitle | 法輪スニムの紹介 \| 法輪僧侶の卽問卽說<br>by 박가은, Inoue Tomoko<br>on <br>[ja-sunim-intro.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/sunim-intro/ja-sunim-intro.sbv)<br>|
 | Original YouTube Link  | [https://youtu.be/Lnn1OlDhX80](https://youtu.be/Lnn1OlDhX80) |
 | YouTube Link  | [https://youtu.be/2VUHNIjkE9g](https://youtu.be/2VUHNIjkE9g) |
 | Amara Link    | [http://amara.org/en/videos/rMeq7FflJNMk](http://amara.org/en/videos/rMeq7FflJNMk) |

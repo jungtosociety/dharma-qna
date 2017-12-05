@@ -6,7 +6,7 @@
 | French Subtitle | La délivrance est de se libérer de la transmigration de la peine et de la joie \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on <br>[fr-1152-enlightment.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/fr-1152-enlightment.sbv)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
-| Japanese Subtitle | 題目:苦楽の輪廻から抜け出すのが解脱です。 \| 法輪僧侶の卽問卽說<br>by 박가은, 이노우애<br>on <br>[ja-1152-enlightment.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/ja-1152-enlightment.sbv)<br>|
+| Japanese Subtitle | 題目:苦楽の輪廻から抜け出すのが解脱です。 \| 法輪僧侶の卽問卽說<br>by 박가은, Inoue Tomoko<br>on <br><br>|
 | Original YouTube Link  | [https://youtu.be/rRocyt3drQo](https://youtu.be/rRocyt3drQo) |
 | YouTube Link  | [https://youtu.be/4YoJ8gpHVtk](https://youtu.be/4YoJ8gpHVtk) |
 | Amara Link    | [http://amara.org/en/videos/Q4FtW57qYz1F](http://amara.org/en/videos/Q4FtW57qYz1F) |
