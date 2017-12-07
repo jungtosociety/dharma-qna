@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/zzcfPQdPUOE](https://youtu.be/zzcfPQdPUOE) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/wjnfnMOaEsfZ](http://amara.org/en/videos/wjnfnMOaEsfZ) |
 | Transcript(ko/en) | [855-single-mom.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) |
 | Playtime | 0:10:50 |
 | Resolution | 1920x1080|

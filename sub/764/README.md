@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/wPnEAgG6ezA](https://youtu.be/wPnEAgG6ezA) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/VvAWfPnZ2FYB](http://amara.org/en/videos/VvAWfPnZ2FYB) |
 | Transcript(ko/en) | [764-child-education.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) |
 | Playtime | 0:11:46 |
 | Resolution | 1920x1080|

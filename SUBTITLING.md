@@ -42,52 +42,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) |  |       |     |
-|    | My Sons, 5th and 7th Graders, Fight a Lot   | 0:07:27 |    |    | 2017-mm-dd      |  ~  |
-| [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) |  |       |     |
-|    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | 2017-mm-dd      |  ~  |
-| [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) |  |       |     |
-|    | Studying to Become a Lawyer   | 0:17:14 |    |    | 2017-mm-dd      |  ~  |
-| [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) |  |       |     |
-|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | 2017-mm-dd      |  ~  |
-| [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) |  |       |     |
-|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | 2017-mm-dd      |  ~  |
-| [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) |  |       |     |
-|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | 2017-mm-dd      |  ~  |
-| [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) |  |       |     |
-|    | Repentance Towards Father   | 0:08:12 |    |    | 2017-mm-dd      |  ~  |
-| [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) |  |       |     |
-|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2017-mm-dd      |  ~  |
-| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) |  |       |     |
-|    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | 2017-mm-dd      |  ~  |
-| [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) |  |       |     |
-|    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2017-mm-dd      |  ~  |
-| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) |  |       |     |
-|    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | 2017-mm-dd      |  ~  |
-| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) |  |       |     |
-|    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2017-mm-dd      |  ~  |
-| [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) |  |       |     |
-|    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | 2017-mm-dd      |  ~  |
-| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) |  |       |     |
-|    | Not Easy to Concede   | 0:10:44 |    |    | 2017-mm-dd      |  ~  |
-| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) |  |       |     |
-|    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | 2017-mm-dd      |  ~  |
-| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) |  |       |     |
-|    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | 2017-mm-dd      |  ~  |
-| [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) |  |       |     |
-|    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | 2017-mm-dd      |  ~  |
-| [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-cheated.xlsx) |  |       |     |
-|    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | 2017-mm-dd      |  ~  |
-| [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) |  |       |     |
-|    | Choosing a Mate   | 0:08:47 |    |    | 2017-mm-dd      |  ~  |
-| [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) |  |       |     |
-|    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | 2017-mm-dd      |  ~  |
-| [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) |  |       |     |
-|    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | 2017-mm-dd      |  ~  |
-| [233](sub/233) | 간섭하지 마라의 의미   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) |  |       |     |
-|    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2017-mm-dd      |  ~  |
-| [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) |  |       |     |
-|    | Dealing With People I Hate   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
 | [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) |  |       |     |
 |    | Coincidence and Inevitability   |  |    |    | 2017-mm-dd      |  ~  |
 | [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) |  |       |     |
@@ -112,6 +66,52 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/etWHW4kCQPfl) |       |     |
+|    | My Sons, 5th and 7th Graders, Fight a Lot   | 0:07:27 |    |    | 2017-mm-dd      |  ~  |
+| [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) |       |     |
+|    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | 2017-mm-dd      |  ~  |
+| [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dy1Sd1hnhEQF) |       |     |
+|    | Studying to Become a Lawyer   | 0:17:14 |    |    | 2017-mm-dd      |  ~  |
+| [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Y05WuO1OZjDZ) |       |     |
+|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | 2017-mm-dd      |  ~  |
+| [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) |       |     |
+|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | 2017-mm-dd      |  ~  |
+| [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) |       |     |
+|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | 2017-mm-dd      |  ~  |
+| [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) |       |     |
+|    | Repentance Towards Father   | 0:08:12 |    |    | 2017-mm-dd      |  ~  |
+| [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) |       |     |
+|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2017-mm-dd      |  ~  |
+| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) |       |     |
+|    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | 2017-mm-dd      |  ~  |
+| [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) |       |     |
+|    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2017-mm-dd      |  ~  |
+| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |       |     |
+|    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | 2017-mm-dd      |  ~  |
+| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) |       |     |
+|    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2017-mm-dd      |  ~  |
+| [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) |       |     |
+|    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | 2017-mm-dd      |  ~  |
+| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) |       |     |
+|    | Not Easy to Concede   | 0:10:44 |    |    | 2017-mm-dd      |  ~  |
+| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) |       |     |
+|    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | 2017-mm-dd      |  ~  |
+| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) |       |     |
+|    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | 2017-mm-dd      |  ~  |
+| [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) |       |     |
+|    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | 2017-mm-dd      |  ~  |
+| [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-cheated.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pcdJQs6k9cZp) |       |     |
+|    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | 2017-mm-dd      |  ~  |
+| [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) |       |     |
+|    | Choosing a Mate   | 0:08:47 |    |    | 2017-mm-dd      |  ~  |
+| [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) |       |     |
+|    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | 2017-mm-dd      |  ~  |
+| [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) |       |     |
+|    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | 2017-mm-dd      |  ~  |
+| [233](sub/233) | 간섭하지 마라의 의미   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) |       |     |
+|    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2017-mm-dd      |  ~  |
+| [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) |       |     |
+|    | Dealing With People I Hate   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
 ## 5. Ready to Publish
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |

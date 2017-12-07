@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/zEagGHftsLk](https://youtu.be/zEagGHftsLk) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/BakqXqprjzPU](http://amara.org/en/videos/BakqXqprjzPU) |
 | Transcript(ko/en) | [799-school-grade.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) |
 | Playtime | 0:08:40 |
 | Resolution | 1920x1080|

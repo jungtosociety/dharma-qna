@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/eapJ4hBm-ac](https://youtu.be/eapJ4hBm-ac) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/kL4UaE5k1GrL](http://amara.org/en/videos/kL4UaE5k1GrL) |
 | Transcript(ko/en) | [1144-conflict-resolution.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) |
 | Playtime | 0:09:16 |
 | Resolution | 1280x720|

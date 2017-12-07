@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/9_flbrh78a4](https://youtu.be/9_flbrh78a4) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/ObQ7k6rxVNfO](http://amara.org/en/videos/ObQ7k6rxVNfO) |
 | Transcript(ko/en) | [762-procrastration.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) |
 | Playtime | 0:13:53 |
 | Resolution | 1920x1080|

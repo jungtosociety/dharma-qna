@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/nM6RoPGfvto](https://youtu.be/nM6RoPGfvto) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/SsU0SJdE4vw0](http://amara.org/en/videos/SsU0SJdE4vw0) |
 | Transcript(ko/en) | [788-stubborn.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) |
 | Playtime | 0:11:52 |
 | Resolution | 1920x1080|

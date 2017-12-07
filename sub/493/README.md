@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/tNcwFyvYNJI](https://youtu.be/tNcwFyvYNJI) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/3tyqEpgxDWHG](http://amara.org/en/videos/3tyqEpgxDWHG) |
 | Transcript(ko/en) | [493-choosing-a-mate.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) |
 | Playtime | 0:08:47 |
 | Resolution | 654x480|

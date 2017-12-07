@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/rHc_QSjvQGc](https://youtu.be/rHc_QSjvQGc) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/3f8AxufmqzeR](http://amara.org/en/videos/3f8AxufmqzeR) |
 | Transcript(ko/en) | [333-indian-children.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) |
 | Playtime | 0:16:12 |
 | Resolution | 480x360|

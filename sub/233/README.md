@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/Ug3G3zWnkJA](https://youtu.be/Ug3G3zWnkJA) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/dYre5CspEv5V](http://amara.org/en/videos/dYre5CspEv5V) |
 | Transcript(ko/en) | [233-interfering.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) |
 | Playtime | 0:13:30 |
 | Resolution | 654x480|

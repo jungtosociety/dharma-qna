@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/31b6zfejm6Y](https://youtu.be/31b6zfejm6Y) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/tlfgUemDBR4v](http://amara.org/en/videos/tlfgUemDBR4v) |
 | Transcript(ko/en) | [792-disability.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) |
 | Playtime | 0:11:27 |
 | Resolution | 1280x720|

@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/1Ua3YoeduYg](https://youtu.be/1Ua3YoeduYg) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/vCeNJcjDWbbH](http://amara.org/en/videos/vCeNJcjDWbbH) |
 | Transcript(ko/en) | [873-father-leg.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) |
 | Playtime | 0:11:00 |
 | Resolution | 1920x1080|
