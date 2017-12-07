@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 760 |
-| Korean Subtitle | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다 \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
-| English Subtitle | My Sons, 5th and 7th Graders, Fight a Lot \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김윤주)<br>on 2017-mm-dd<br><br>|
+| English Subtitle | My Sons, 5th and 7th Graders, Fight a Lot \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김윤주)<br>on 2017-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
