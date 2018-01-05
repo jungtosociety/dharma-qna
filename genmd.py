@@ -237,17 +237,17 @@ if __name__ == "__main__":
         print ' - updated '+'PROJECTS.md'
 
     f = open('SUBTITLING.md', 'w')
-    f.write('## 3. Subtitling\n\n')
+    f.write('## 3. Subtitling (sub)\n\n')
     gentab_subtitling(f,'sub')
-    f.write('## 4. Reviewing\n\n')
+    f.write('## 4. Reviewing (review)\n\n')
     gentab_subtitling(f,'review')
-    f.write('## 1. Video Converting\n\n')
+    f.write('## 1. Video Converting (video)\n\n')
     gentab_subtitling(f,'video')
     f.write('## 2. Ready to Subtitle (unassigned)\n\n')
     gentab_subtitling(f,'unassigned')
-    f.write('## 5. Ready to Publish\n\n')
+    f.write('## 5. Ready to Publish (ready)\n\n')
     gentab_subtitling(f,'ready')
-    f.write('## 6. Published\n\n')
+    f.write('## 6. Published (published)\n\n')
     gentab_subtitling(f,'published')
     f.close()
     if run_cmd(['git','diff','SUBTITLING.md'],raise_exception=False) != '':
