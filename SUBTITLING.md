@@ -114,12 +114,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) | 성미연(11h); review:류창민(3h)      |     |
-|    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2017-mm-dd      |  ~ 2017-01-10 |
-| [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/etWHW4kCQPfl) | 김윤주      |     |
-|    | My Sons, 5th and 7th Graders, Fight a Lot   | 0:07:27 |    |    | 2017-mm-dd      | 2017-12-06 ~ 2017-12-15 |
-| [1145](sub/1145) | 명상은 왜 하는지, 하면 무엇을 얻는지 궁금합니다   | [![](img/youtube.png)](https://youtu.be/GOeqkPLkRHI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1145/1145-meditation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IBCLvXZazoEh) | 김윤주; 리뷰:김재명      |     |
-|    | Why Do We Meditate? What Do We Gain from It?   | 0:09:47 |    |    | 2017-mm-dd      | 2017-11-14 ~ 2017-12-02 |
 ## 6. Published (published)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -200,3 +194,9 @@
 |    | The Meaning of Buddha's First Words   | 0:49:23 |    |    | 2017-04-15      | 2016-08-17 ~ 2016-08-19 |
 | [907](sub/907) | 자녀가 종교를 선택할 때 무엇을 지침으로 삼도록 해야 하나요?   | [![](img/youtube.png)](https://youtu.be/A3moLtcNaY4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/907-childern-religion.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jbwI5jfgHQUR) | 류창민(3h)      |     |
 |    | What Should We Have Children Consider When They Choose a Religion?    | 0:16:15 |    |    | 2018-01-29      | 2017-03-31 ~ 2017-04-06 |
+| [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) | 성미연(11h); review:류창민(3h)      |     |
+|    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | not published      |  ~ 2017-01-10 |
+| [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/etWHW4kCQPfl) | 김윤주      |     |
+|    | My Sons, 5th and 7th Graders, Fight a Lot   | 0:07:27 |    |    | not published      | 2017-12-06 ~ 2017-12-15 |
+| [1145](sub/1145) | 명상은 왜 하는지, 하면 무엇을 얻는지 궁금합니다   | [![](img/youtube.png)](https://youtu.be/GOeqkPLkRHI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1145/1145-meditation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IBCLvXZazoEh) | 김윤주; 리뷰:김재명      |     |
+|    | Why Do We Meditate? What Do We Gain from It?   | 0:09:47 |    |    | not published      | 2017-11-14 ~ 2017-12-02 |
