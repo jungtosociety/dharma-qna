@@ -18,8 +18,6 @@
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | 2017-mm-dd      | 2017-04-06 ~  |
 | [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연      |     |
 |    | My Wounds   | 0:10:51 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
-| [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주      |     |
-|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | 2017-mm-dd      | 2018-03-27 ~  |
 | [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정      |     |
 |    | Repentance Towards Father   | 0:08:12 |    |    | 2017-mm-dd      |  ~  |
 | [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   | [![](img/youtube.png)](https://youtu.be/2rwYkIxDcBc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eruO2tD1qxVI) | 이동엽      |     |
@@ -48,6 +46,8 @@
 |    | Studying to Become a Lawyer   | 0:17:14 |    |    | 2017-mm-dd      | 2018-01-19 ~ 2018-02-21 |
 | [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Y05WuO1OZjDZ) | 김윤주      |     |
 |    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | 2017-mm-dd      | 2018-02-23 ~ 2018-03-05 |
+| [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주      |     |
+|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | 2017-mm-dd      | 2018-03-27 ~ 2018-04-21 |
 ## 1. Video Converting (video)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
