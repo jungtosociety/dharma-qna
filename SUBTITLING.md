@@ -8,8 +8,6 @@
 |    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | 2017-mm-dd      | 2017-03-07 ~ 2017-03-14 |
 | [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) | 송명석      | I'm told my child is ill due to a bad name. What should I do?     |
 |    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | 2017-mm-dd      | 2017-11-14 ~  |
-| [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FrA1FHBsbkIi) | 김구슬래      | My daughter and I have stopped communicating.    |
-|    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | I want to study but my desire to have fun makes it hard.    |
 |    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.    | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 김은경      | I feel lonely since my brother passed away    |
@@ -114,6 +112,8 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FrA1FHBsbkIi) | 김구슬래      | My daughter and I have stopped communicating.    |
+|    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2017-mm-dd      | 2017-05-11 ~ 2018-05-23 |
 ## 6. Published (published)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
