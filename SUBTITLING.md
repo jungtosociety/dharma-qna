@@ -16,10 +16,10 @@
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | 2017-mm-dd      | 2017-04-06 ~  |
 | [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연      |     |
 |    | My Wounds   | 0:10:51 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
-| [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래      |     |
-|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2017-mm-dd      | 2018-05-27 ~  |
 | [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   | [![](img/youtube.png)](https://youtu.be/2rwYkIxDcBc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eruO2tD1qxVI) | 이동엽      |     |
 |    | I avoid people I don't like. How can I change myself?    | 0:09:01 |    |    | 2017-mm-dd      | 2017-11-07 ~  |
+| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) | 김구슬래      |     |
+|    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | 2017-mm-dd      | 2018-09-08 ~  |
 ## 4. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -48,6 +48,8 @@
 |    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | 2017-mm-dd      | 2018-05-12 ~ 2018-08-12 |
 | [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정      |     |
 |    | Repentance Towards Father   | 0:08:12 |    |    | 2017-mm-dd      | 2018-05-12 ~ 2018-08-22 |
+| [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래      |     |
+|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2017-mm-dd      | 2018-05-27 ~ 2018-08-31 |
 ## 1. Video Converting (video)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -76,8 +78,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) |       |     |
-|    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | 2017-mm-dd      |  ~  |
 | [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) |       |     |
 |    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2017-mm-dd      |  ~  |
 | [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |       |     |
