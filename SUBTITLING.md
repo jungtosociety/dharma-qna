@@ -24,8 +24,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
-|    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2017-mm-dd      | 2016-11-30 ~ 2017-03-06 |
 | [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m)      |     |
 |    | Defensive Mind   | 0:06:19 |    |    | 2017-mm-dd      | 2017-01-11 ~  |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h)      |     |
@@ -200,3 +198,5 @@
 |    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2018-11-01      |  ~ 2016-10-20 |
 | [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/iVDdlG9WAiA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FrA1FHBsbkIi) | 김구슬래      | My daughter and I have stopped communicating.    |
 |    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2018-11-15      | 2017-05-11 ~ 2018-05-23 |
+| [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
+|    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2018-12-01      | 2016-11-30 ~ 2017-03-06 |
