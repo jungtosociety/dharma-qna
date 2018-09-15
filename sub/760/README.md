@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/YFi8qCA2PIs](https://youtu.be/YFi8qCA2PIs) |
-| YouTube Link  |  |
+| YouTube Link  | [https://youtu.be/NLN6kDbQ3_8](https://youtu.be/NLN6kDbQ3_8) |
 | Amara Link    | [http://amara.org/en/videos/etWHW4kCQPfl](http://amara.org/en/videos/etWHW4kCQPfl) |
 | Transcript(ko/en) | [760-two-sons.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) |
 | Playtime | 0:07:27 |

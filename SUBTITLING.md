@@ -48,7 +48,7 @@
 |    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | 2017-mm-dd      | 2018-05-12 ~ 2018-08-12 |
 | [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정      |     |
 |    | Repentance Towards Father   | 0:08:12 |    |    | 2017-mm-dd      | 2018-05-12 ~ 2018-08-22 |
-| [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래      |     |
+| [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   | [![](img/youtube.png)](https://youtu.be/V5vS3lSQ3e8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래      |     |
 |    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2017-mm-dd      | 2018-05-27 ~ 2018-08-31 |
 ## 1. Video Converting (video)
 
@@ -196,7 +196,7 @@
 |    | What Should We Have Children Consider When They Choose a Religion?    | 0:16:15 |    |    | 2018-01-29      | 2017-03-31 ~ 2017-04-06 |
 | [1145](sub/1145) | 명상은 왜 하는지, 하면 무엇을 얻는지 궁금합니다   | [![](img/youtube.png)](https://youtu.be/GOeqkPLkRHI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1145/1145-meditation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IBCLvXZazoEh) | 김윤주; 리뷰:김재명      |     |
 |    | Why Do We Meditate? What Do We Gain from It?   | 0:09:47 |    |    | 2018-09-15      | 2017-11-14 ~ 2017-12-02 |
-| [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/etWHW4kCQPfl) | 김윤주      |     |
+| [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   | [![](img/youtube.png)](https://youtu.be/NLN6kDbQ3_8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/etWHW4kCQPfl) | 김윤주      |     |
 |    | My Sons, 5th and 7th Graders, Fight a Lot   | 0:07:27 |    |    | 2018-10-01      | 2017-12-06 ~ 2017-12-15 |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) | 성미연(11h); review:류창민(3h)      |     |
 |    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2018-10-15      |  ~ 2017-01-10 |
