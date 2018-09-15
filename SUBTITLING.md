@@ -110,8 +110,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) | 이동엽      | 5h    |
-|    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2018-11-01      |  ~ 2016-10-20 |
 ## 6. Published (published)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -198,5 +196,7 @@
 |    | My Sons, 5th and 7th Graders, Fight a Lot   | 0:07:27 |    |    | 2018-10-01      | 2017-12-06 ~ 2017-12-15 |
 | [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) | 성미연(11h); review:류창민(3h)      |     |
 |    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2018-10-15      |  ~ 2017-01-10 |
+| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) | 이동엽      | 5h    |
+|    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2018-11-01      |  ~ 2016-10-20 |
 | [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/iVDdlG9WAiA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FrA1FHBsbkIi) | 김구슬래      | My daughter and I have stopped communicating.    |
 |    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2018-11-15      | 2017-05-11 ~ 2018-05-23 |
