@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1142 |
-| Korean Subtitle | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김구슬래(1.5h))<br>on 2018-12-01<br>[ko-1142-person-dislike.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/ko-1142-person-dislike.sbv)<br>|
-| English Subtitle | How Should I Think About a Person I Don't Like?  \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김구슬래(1.5h))<br>on 2018-12-01<br>[en-1142-person-dislike.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/en-1142-person-dislike.sbv)<br>|
+| Korean Subtitle | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취: 류창민,subtitle(김구슬래(1.5h))<br>on 2018-12-01<br>[ko-1142-person-dislike.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/ko-1142-person-dislike.sbv)<br>|
+| English Subtitle | How Should I Think About a Person I Don't Like?  \| Ven. Pomnyun's Dharma Q&A<br>by 번역: 김연우, 이혜진,subtitle(김구슬래(1.5h))<br>on 2018-12-01<br>[en-1142-person-dislike.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/en-1142-person-dislike.sbv)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
