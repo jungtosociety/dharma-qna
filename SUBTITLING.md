@@ -72,6 +72,26 @@
 |    | Do Your Best, but Don't Cling to Results   |  |    |    | 2017-mm-dd      |  ~  |
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) |  |       |     |
 |    | The Sewol Ferry Tragedy   |  |    |    | 2017-mm-dd      |  ~  |
+| [639](sub/639) | 내가 못 마땅합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [724](sub/724) | 부모님께 기대어 나약함   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [777](sub/777) | 헤어진 남자친구   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [833](sub/833) | 스트레스   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [884](sub/884) | 꿈이 과학자인데 게임이 너무 좋아요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [895](sub/895) | 희망세상을 만드는 5가지 실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [1171](sub/1171) | 짜증내는 성격 고칠 수 있나요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/~$1171-irritable-personality.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [1192](sub/1192) | 졸업 후 어떻게 살아가야 할지 막막해   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) |  |       |     |
+|    |    |  |    |    | yyyy-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
