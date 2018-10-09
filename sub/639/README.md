@@ -8,8 +8,8 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/ZdHmksTJi4w](https://youtu.be/ZdHmksTJi4w) |
-| YouTube Link  |  |
-| Amara Link    |  |
+| YouTube Link  | [https://youtu.be/i_P2Pb2sKFg](https://youtu.be/i_P2Pb2sKFg) |
+| Amara Link    | [http://amara.org/en/videos/FlrCQm4KCoV9](http://amara.org/en/videos/FlrCQm4KCoV9) |
 | Transcript(ko/en) | [639-accept-myself.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) |
 | Playtime |  |
 | Resolution | NonexNone|

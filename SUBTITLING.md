@@ -20,6 +20,8 @@
 |    | I avoid people I don't like. How can I change myself?    | 0:09:01 |    |    | 2017-mm-dd      | 2017-11-07 ~  |
 | [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) | 김구슬래      |     |
 |    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | 2017-mm-dd      | 2018-09-08 ~  |
+| [639](sub/639) | 내가 못 마땅합니다   | [![](img/youtube.png)](https://youtu.be/i_P2Pb2sKFg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FlrCQm4KCoV9) | 김재명      |     |
+|    |    |  |    |    | yyyy-mm-dd      | 2018-10-08 ~  |
 ## 4. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -72,8 +74,6 @@
 |    | Do Your Best, but Don't Cling to Results   |  |    |    | 2017-mm-dd      |  ~  |
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) |  |       |     |
 |    | The Sewol Ferry Tragedy   |  |    |    | 2017-mm-dd      |  ~  |
-| [639](sub/639) | 내가 못 마땅합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) |  | 김재명      |     |
-|    |    |  |    |    | yyyy-mm-dd      | 2018-10-08 ~  |
 | [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) |  |       |     |
 |    |    |  |    |    | yyyy-mm-dd      |  ~  |
 | [724](sub/724) | 부모님께 기대어 나약함   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |  |       |     |
