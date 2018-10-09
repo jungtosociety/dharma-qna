@@ -72,8 +72,8 @@
 |    | Do Your Best, but Don't Cling to Results   |  |    |    | 2017-mm-dd      |  ~  |
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) |  |       |     |
 |    | The Sewol Ferry Tragedy   |  |    |    | 2017-mm-dd      |  ~  |
-| [639](sub/639) | 내가 못 마땅합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+| [639](sub/639) | 내가 못 마땅합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) |  | 김재명      |     |
+|    |    |  |    |    | yyyy-mm-dd      | 2018-10-08 ~  |
 | [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) |  |       |     |
 |    |    |  |    |    | yyyy-mm-dd      |  ~  |
 | [724](sub/724) | 부모님께 기대어 나약함   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |  |       |     |
