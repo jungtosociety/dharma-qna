@@ -6,11 +6,11 @@
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) | 유승진(20h)      | 초반1분10초 자막 추가해야 함    |
 |    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | 2017-mm-dd      | 2017-03-07 ~ 2017-03-14 |
-| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) | 송명석      | I'm told my child is ill due to a bad name. What should I do?     |
+| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) | 송명석      | I'm told my child is ill due to a bad name. What should I do?     |
 |    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | 2017-mm-dd      | 2017-11-14 ~  |
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | I want to study but my desire to have fun makes it hard.    |
 |    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
-| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.    | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 김은경      | I feel lonely since my brother passed away    |
+| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 김은경      | I feel lonely since my brother passed away    |
 |    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 9 years of teaching, I expected to become a good teacher by working hard.    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | 2017-mm-dd      | 2017-04-06 ~  |
@@ -24,7 +24,7 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m)      |     |
+| [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요?   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m)      |     |
 |    | Defensive Mind   | 0:06:19 |    |    | 2017-mm-dd      | 2017-01-11 ~  |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h)      |     |
 |    | Nothing but Gratitude   | 0:12:51 |    |    | 2017-mm-dd      | 2016-10-21 ~ 2017-01-11 |
@@ -74,21 +74,21 @@
 |    | The Sewol Ferry Tragedy   |  |    |    | 2017-mm-dd      |  ~  |
 | [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) |  |       |     |
 |    | An Argumentative Co-worker   |  |    |    | yyyy-mm-dd      |  ~  |
-| [724](sub/724) | 부모님께 기대어 나약함   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |  |       |     |
+| [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |  |       |     |
 |    | Recovering the wild and natural quality   |  |    |    | yyyy-mm-dd      |  ~  |
-| [777](sub/777) | 헤어진 남자친구   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) |  |       |     |
+| [777](sub/777) | 헤어진 남자친구와 새여자친구가 같은 캠퍼스에요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) |  |       |     |
 |    | I attend the same school as my ex-boyfriend and his new girlfriend.   |  |    |    | yyyy-mm-dd      |  ~  |
-| [833](sub/833) | 스트레스   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) |  |       |     |
+| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) |  |       |     |
 |    | How do you handle stress?   |  |    |    | yyyy-mm-dd      |  ~  |
-| [884](sub/884) | 꿈이 과학자인데 게임이 너무 좋아요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) |  |       |     |
+| [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) |  |       |     |
 |    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   |  |    |    | yyyy-mm-dd      |  ~  |
-| [895](sub/895) | 희망세상을 만드는 5가지 실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) |  |       |     |
+| [895](sub/895) | 희망세상을 만드는 5가지 희망실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) |  |       |     |
 |    | 5 righteous actions to create a world of hope.   |  |    |    | yyyy-mm-dd      |  ~  |
 | [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) |  |       |     |
 |    | I can't stay put at one job; I lose interest and keep moving around.   |  |    |    | yyyy-mm-dd      |  ~  |
-| [1171](sub/1171) | 짜증내는 성격 고칠 수 있나요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/~$1171-irritable-personality.xlsx) |  |       |     |
+| [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/~$1171-irritable-personality.xlsx) |  |       |     |
 |    | Can I change my irritable personality?   |  |    |    | yyyy-mm-dd      |  ~  |
-| [1192](sub/1192) | 졸업 후 어떻게 살아가야 할지 막막해   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) |  |       |     |
+| [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) |  |       |     |
 |    | I feel lost after graduating college    |  |    |    | yyyy-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
@@ -182,9 +182,9 @@
 |    | My Son Wants to Become a Woman   | 0:10:11 |    |    | 2016-10-01      | 2016-06-08 ~ 2016-06-13 |
 | [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) | 김재명;리뷰:류창민      | 2.5h;리뷰:1.5h    |
 |    | I'm in a Daze as I Have No Dreams in Life   | 0:05:15 |    |    | 2016-10-15      | 2016-09-30 ~ 2016-09-30 |
-| [751](sub/751) | 직장에서 일어나는 분노 조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) | 이동엽;리뷰:류창민      | 4h;리뷰1h    |
+| [751](sub/751) | 직장에서 일어나는 분노조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) | 이동엽;리뷰:류창민      | 4h;리뷰1h    |
 |    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-11-01      | 2016-06-27 ~ 2016-07-17 |
-| [782](sub/782) | 남의 말과 행동에 쉽게 상처 받아요    | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) | 김미경;리뷰:김재명(1.5h)      |     |
+| [782](sub/782) | 남의 말과 행동에 쉽게 상처받아요   | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) | 김미경;리뷰:김재명(1.5h)      |     |
 |    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-12-01      | 2016-10-06 ~ 2016-11-20 |
 | [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민(3h);리뷰:김재명(30m)      |     |
 |    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-12-15      | 2016-06-13 ~ 2016-11-20 |
@@ -218,5 +218,5 @@
 |    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2018-11-15      | 2017-05-11 ~ 2018-05-23 |
 | [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
 |    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2018-12-01      | 2016-11-30 ~ 2017-03-06 |
-| [639](sub/639) | 내가 못 마땅합니다   | [![](img/youtube.png)](https://youtu.be/i_P2Pb2sKFg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FlrCQm4KCoV9) | 김재명      |     |
+| [639](sub/639) | 내가 못마땅합니다. 있는 그대로의 나를 어떻게 받아들일까요?   | [![](img/youtube.png)](https://youtu.be/i_P2Pb2sKFg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FlrCQm4KCoV9) | 김재명      |     |
 |    | I don't like myself. How can I accept myself for who I am?   |  |    |    | 2018-12-15      | 2018-10-08 ~  |
