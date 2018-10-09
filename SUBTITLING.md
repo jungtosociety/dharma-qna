@@ -20,8 +20,6 @@
 |    | I avoid people I don't like. How can I change myself?    | 0:09:01 |    |    | 2017-mm-dd      | 2017-11-07 ~  |
 | [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) | 김구슬래      |     |
 |    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | 2017-mm-dd      | 2018-09-08 ~  |
-| [639](sub/639) | 내가 못 마땅합니다   | [![](img/youtube.png)](https://youtu.be/i_P2Pb2sKFg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FlrCQm4KCoV9) | 김재명      |     |
-|    |    |  |    |    | yyyy-mm-dd      | 2018-10-08 ~  |
 ## 4. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -75,23 +73,23 @@
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) |  |       |     |
 |    | The Sewol Ferry Tragedy   |  |    |    | 2017-mm-dd      |  ~  |
 | [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+|    | An Argumentative Co-worker   |  |    |    | yyyy-mm-dd      |  ~  |
 | [724](sub/724) | 부모님께 기대어 나약함   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+|    | Recovering the wild and natural quality   |  |    |    | yyyy-mm-dd      |  ~  |
 | [777](sub/777) | 헤어진 남자친구   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+|    | I attend the same school as my ex-boyfriend and his new girlfriend.   |  |    |    | yyyy-mm-dd      |  ~  |
 | [833](sub/833) | 스트레스   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+|    | How do you handle stress?   |  |    |    | yyyy-mm-dd      |  ~  |
 | [884](sub/884) | 꿈이 과학자인데 게임이 너무 좋아요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+|    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   |  |    |    | yyyy-mm-dd      |  ~  |
 | [895](sub/895) | 희망세상을 만드는 5가지 실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+|    | 5 righteous actions to create a world of hope.   |  |    |    | yyyy-mm-dd      |  ~  |
 | [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+|    | I can't stay put at one job; I lose interest and keep moving around.   |  |    |    | yyyy-mm-dd      |  ~  |
 | [1171](sub/1171) | 짜증내는 성격 고칠 수 있나요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/~$1171-irritable-personality.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+|    | Can I change my irritable personality?   |  |    |    | yyyy-mm-dd      |  ~  |
 | [1192](sub/1192) | 졸업 후 어떻게 살아가야 할지 막막해   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) |  |       |     |
-|    |    |  |    |    | yyyy-mm-dd      |  ~  |
+|    | I feel lost after graduating college    |  |    |    | yyyy-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -220,3 +218,5 @@
 |    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2018-11-15      | 2017-05-11 ~ 2018-05-23 |
 | [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
 |    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2018-12-01      | 2016-11-30 ~ 2017-03-06 |
+| [639](sub/639) | 내가 못 마땅합니다   | [![](img/youtube.png)](https://youtu.be/i_P2Pb2sKFg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FlrCQm4KCoV9) | 김재명      |     |
+|    | I don't like myself. How can I accept myself for who I am?   |  |    |    | 2018-12-15      | 2018-10-08 ~  |
