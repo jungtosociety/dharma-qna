@@ -219,4 +219,4 @@
 | [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요?   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m); 리뷰:김재명      |     |
 |    | Defensive Mind   | 0:06:19 |    |    | 2019-01-01      | 2017-01-11 ~ 2019-01-18 |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h);리뷰:김재명      |     |
-|    | Nothing but Gratitude   | 0:12:51 |    |    | 2019-01-01      | 2016-10-21 ~ 2017-01-11 |
+|    | Nothing but Gratitude   | 0:12:51 |    |    | 2019-01-15      | 2016-10-21 ~ 2017-01-11 |
