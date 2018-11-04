@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 612 |
-| Korean Subtitle | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(성미연(4h30m))<br>on 2017-mm-dd<br><br>|
-| English Subtitle | Defensive Mind \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(성미연(4h30m))<br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(성미연(4h30m); 리뷰:김재명)<br>on 2019-01-01<br>[ko-612-defensive-mind.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/ko-612-defensive-mind.sbv)<br>|
+| English Subtitle | Defensive Mind \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(성미연(4h30m); 리뷰:김재명)<br>on 2019-01-01<br>[en-612-defensive-mind.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/en-612-defensive-mind.sbv)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
