@@ -90,8 +90,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) |       |     |
-|    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2017-mm-dd      |  ~  |
 | [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |       |     |
 |    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | 2017-mm-dd      |  ~  |
 | [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) |       |     |
@@ -118,6 +116,8 @@
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2017-mm-dd      |  ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) |       |     |
 |    | Dealing With People I Hate   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
+| [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) | 김혜은      |     |
+|    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2019-mm-dd      | 2018-11-13 ~  |
 ## 5. Ready to Publish (ready)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |

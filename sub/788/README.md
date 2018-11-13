@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 788 |
-| Korean Subtitle | 고집 센 나이 많은 부하직원 \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
-| English Subtitle | Stubborn Older Subordinate \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 고집 센 나이 많은 부하직원 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김혜은)<br>on 2019-mm-dd<br><br>|
+| English Subtitle | Stubborn Older Subordinate \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김혜은)<br>on 2019-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
