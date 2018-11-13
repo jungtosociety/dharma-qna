@@ -10,8 +10,6 @@
 |    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | 2017-mm-dd      | 2017-11-14 ~  |
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | I want to study but my desire to have fun makes it hard.    |
 |    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
-| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 김은경      | I feel lonely since my brother passed away    |
-|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 9 years of teaching, I expected to become a good teacher by working hard.    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | 2017-mm-dd      | 2017-04-06 ~  |
 | [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연      |     |
@@ -118,6 +116,8 @@
 |    | Dealing With People I Hate   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
 | [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) | 김혜은      |     |
 |    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2019-mm-dd      | 2018-11-13 ~  |
+| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) |       | I feel lonely since my brother passed away    |
+|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      |  ~  |
 ## 5. Ready to Publish (ready)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
