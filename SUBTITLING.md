@@ -82,8 +82,6 @@
 |    | I can't stay put at one job; I lose interest and keep moving around.   |  |    |    | yyyy-mm-dd      |  ~  |
 | [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/~$1171-irritable-personality.xlsx) |  |       |     |
 |    | Can I change my irritable personality?   |  |    |    | yyyy-mm-dd      |  ~  |
-| [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) |  |       |     |
-|    | I feel lost after graduating college    |  |    |    | yyyy-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -116,6 +114,8 @@
 |    | Dealing With People I Hate   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
 | [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) |       | I feel lonely since my brother passed away    |
 |    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      |  ~  |
+| [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   | [![](img/youtube.png)](https://youtu.be/cloPwx-Ki1Q) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hIvwwYVninE1) |       |     |
+|    | I feel lost after graduating college    |  |    |    | yyyy-mm-dd      |  ~  |
 ## 5. Ready to Publish (ready)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
