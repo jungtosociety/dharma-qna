@@ -218,3 +218,5 @@
 |    | Defensive Mind   | 0:06:19 |    |    | 2019-01-01      | 2017-01-11 ~ 2019-01-18 |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h);리뷰:김재명      |     |
 |    | Nothing but Gratitude   | 0:12:51 |    |    | 2019-01-15      | 2016-10-21 ~ 2017-01-11 |
+| [788](sub/788) | 고집 센 나이 많은 부하직원   | [![](img/youtube.png)](https://youtu.be/kCh2b2XQWwk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) | 김혜은; review:김재명      |     |
+|    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2019-02-01      | 2018-11-13 ~ 2018-11-18 |
