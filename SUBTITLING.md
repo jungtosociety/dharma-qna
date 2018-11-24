@@ -114,8 +114,6 @@
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2017-mm-dd      |  ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) |       |     |
 |    | Dealing With People I Hate   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
-| [788](sub/788) | 고집 센 나이 많은 부하직원   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) | 김혜은      |     |
-|    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2019-mm-dd      | 2018-11-13 ~  |
 | [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) |       | I feel lonely since my brother passed away    |
 |    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      |  ~  |
 ## 5. Ready to Publish (ready)
