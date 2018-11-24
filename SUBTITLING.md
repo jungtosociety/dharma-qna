@@ -114,7 +114,7 @@
 |    | Dealing With People I Hate   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
 | [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) |       | I feel lonely since my brother passed away    |
 |    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      |  ~  |
-| [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   | [![](img/youtube.png)](https://youtu.be/cloPwx-Ki1Q) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hIvwwYVninE1) |       |     |
+| [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   | [![](img/youtube.png)](https://youtu.be/knSk0JzlyDoH) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hIvwwYVninE1) |       |     |
 |    | I feel lost after graduating college    |  |    |    | yyyy-mm-dd      |  ~  |
 ## 5. Ready to Publish (ready)
 
@@ -218,5 +218,5 @@
 |    | Defensive Mind   | 0:06:19 |    |    | 2019-01-01      | 2017-01-11 ~ 2019-01-18 |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h);리뷰:김재명      |     |
 |    | Nothing but Gratitude   | 0:12:51 |    |    | 2019-01-15      | 2016-10-21 ~ 2017-01-11 |
-| [788](sub/788) | 고집 센 나이 많은 부하직원   | [![](img/youtube.png)](https://youtu.be/kCh2b2XQWwk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) | 김혜은; review:김재명      |     |
+| [788](sub/788) | 고집 센 나이 많은 부하직원   | [![](img/youtube.png)](https://youtu.be/1zmLtzcvP1M) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) | 김혜은; review:김재명      |     |
 |    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2019-02-01      | 2018-11-13 ~ 2018-11-18 |
