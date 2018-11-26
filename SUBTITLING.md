@@ -84,13 +84,13 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |       |     |
+| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   | [![](img/youtube.png)](https://youtu.be/TX3pFPtdPTY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |       |     |
 |    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | 2017-mm-dd      |  ~  |
-| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) |       |     |
+| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   | [![](img/youtube.png)](https://youtu.be/Aj92RPtkm0c) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) |       |     |
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2017-mm-dd      |  ~  |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) |       |     |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | 2017-mm-dd      |  ~  |
-| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) |       |     |
+| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/5dF9fnrY0Xw) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) |       |     |
 |    | Not Easy to Concede   | 0:10:44 |    |    | 2017-mm-dd      |  ~  |
 | [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) |       |     |
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | 2017-mm-dd      |  ~  |
@@ -106,7 +106,7 @@
 |    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | 2017-mm-dd      |  ~  |
 | [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) |       |     |
 |    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | 2017-mm-dd      |  ~  |
-| [233](sub/233) | 간섭하지 마라의 의미   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) |       |     |
+| [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/J5BfbeBZCC8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) |       |     |
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2017-mm-dd      |  ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) |       |     |
 |    | Dealing With People I Hate   | 0:07:40 |    |    | 2017-mm-dd      |  ~  |
