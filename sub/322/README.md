@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/G09FBr9mksk](https://youtu.be/G09FBr9mksk) |
-| YouTube Link  | [https://youtu.be/5dF9fnrY0Xw](https://youtu.be/5dF9fnrY0Xw) |
+| YouTube Link  | [https://youtu.be/LzWgT2_na10](https://youtu.be/LzWgT2_na10) |
 | Amara Link    | [http://amara.org/en/videos/jYe4PwNS6onp](http://amara.org/en/videos/jYe4PwNS6onp) |
 | Transcript(ko/en) | [322-to-concede.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) |
 | Playtime | 0:10:44 |

@@ -90,7 +90,7 @@
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2017-mm-dd      |  ~  |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) |       |     |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | 2017-mm-dd      |  ~  |
-| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/5dF9fnrY0Xw) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) |       |     |
+| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/LzWgT2_na10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) |       |     |
 |    | Not Easy to Concede   | 0:10:44 |    |    | 2017-mm-dd      |  ~  |
 | [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) |       |     |
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | 2017-mm-dd      |  ~  |
