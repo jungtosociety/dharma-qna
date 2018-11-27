@@ -1,3 +1,12 @@
+| Status | Number of Videos |
+|--------| ---------------- |
+|  [3. Subtitling](#3-subtitling-sub) | 6 |
+|  [4. Reviewing](#4-Reviewing-review) | 10|
+|  [5. Ready to Publish](#5-ready-to-publish-ready) | 1|
+|  [6. Published](#6-published-published)  | 48|
+|  [1. Video Converting](#1-video-converting-video)  | 18|
+|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 16|
+
 ## 3. Subtitling (sub)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |

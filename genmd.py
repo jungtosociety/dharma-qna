@@ -134,7 +134,18 @@ def gentab_subtitling(f,status=None):
         f.write("| %s | %s   | %s | %s | %s | %s      | %s    |\n" % ( nolink, title, utubelink, xlslink, amaralink, worker, memo ))
         f.write("|    | %s   | %s |    |    | %s      | %s ~ %s |\n" % ( entitle, playtime, pubdate, begin, end ))
 
+def get_count(status=None):
+    if status is not None:
+      whereorderby = 'WHERE status=\''+status+'\''
+    else:
+      whereorderby = ' '
 
+    count = 0
+    for row in c.execute('SELECT count(*) \
+                            FROM video v \
+                            '+whereorderby ):
+        count = row[0]
+    return count
 
 def genReadme(subid=None):
     title_postfix = { 'ko' : "법륜스님의 즉문즉설",
@@ -237,6 +248,16 @@ if __name__ == "__main__":
         print ' - updated '+'PROJECTS.md'
 
     f = open('SUBTITLING.md', 'w')
+    # f.write('## Statistics \n\n')
+    f.write('| Status | Number of Videos |\n')
+    f.write('|--------| ---------------- |\n')
+    f.write('|  [3. Subtitling](#3-subtitling-sub) | '+str(get_count('sub'))+' |\n')
+    f.write('|  [4. Reviewing](#4-Reviewing-review) | '+str(get_count('review'))+'|\n')
+    f.write('|  [5. Ready to Publish](#5-ready-to-publish-ready) | '+str(get_count('ready'))+'|\n')
+    f.write('|  [6. Published](#6-published-published)  | '+str(get_count('published'))+'|\n')
+    f.write('|  [1. Video Converting](#1-video-converting-video)  | '+str(get_count('video'))+'|\n')
+    f.write('|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | '+str(get_count('unassigned'))+'|\n')
+    f.write('\n')
     f.write('## 3. Subtitling (sub)\n\n')
     gentab_subtitling(f,'sub')
     f.write('## 4. Reviewing (review)\n\n')
