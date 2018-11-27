@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 333 |
-| Korean Subtitle | 어떤 이유로 인도어린이를 돕게 되었습니까? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김윤주)<br>on 2017-mm-dd<br><br>|
-| English Subtitle | How Did You Come to Do the Aid Work for Indian Children? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김윤주)<br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 어떤 이유로 인도어린이를 돕게 되었습니까? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김윤주)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | How Did You Come to Do the Aid Work for Indian Children? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김윤주)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

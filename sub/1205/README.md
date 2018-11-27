@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1205 |
-| Korean Subtitle | 최선을 다하되 결과에 연연하지 않는다. \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
-| English Subtitle | Do Your Best, but Don't Cling to Results \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 최선을 다하되 결과에 연연하지 않는다. \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Do Your Best, but Don't Cling to Results \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

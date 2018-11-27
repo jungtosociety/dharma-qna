@@ -3,9 +3,9 @@
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | 보류    |
-|    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2017-mm-dd      | 2017-05-11 ~  |
+|    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | yyyy-mm-dd      | 2017-05-11 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
-|    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | 2017-mm-dd      | 2017-04-06 ~  |
+|    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
 | [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연      | 2018-1차 유튜브 자막 작업    |
 |    | My Wounds   | 0:10:51 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽      | 2018-1차 유튜브 자막 작업    |
@@ -19,49 +19,49 @@
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   | [![](img/youtube.png)](https://youtu.be/jhmIAJKKr54) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i2FMC5HJ8YTS) | Diana Lee, 송명석(3h)      |     |
-|    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | 2017-mm-dd      | 2017-01-17 ~ 2017-04-03 |
+|    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | yyyy-mm-dd      | 2017-01-17 ~ 2017-04-03 |
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) | 이동엽(4h)      |     |
-|    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | 2017-mm-dd      | 2017-01-11 ~ 2017-03-18 |
+|    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | yyyy-mm-dd      | 2017-01-11 ~ 2017-03-18 |
 | [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   | [![](img/youtube.png)](https://youtu.be/ivGaGre0tV0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/oHMHtILzWcXl) | 유승진(10h)      |     |
-|    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | 2017-mm-dd      | 2017-03-14 ~ 2017-03-22 |
+|    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | yyyy-mm-dd      | 2017-03-14 ~ 2017-03-22 |
 | [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주      |     |
-|    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | 2017-mm-dd      | 2017-12-18 ~ 2018-1-9 |
+|    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | yyyy-mm-dd      | 2017-12-18 ~ 2018-1-9 |
 | [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dy1Sd1hnhEQF) | 김윤주      |     |
-|    | Studying to Become a Lawyer   | 0:17:14 |    |    | 2017-mm-dd      | 2018-01-19 ~ 2018-02-21 |
+|    | Studying to Become a Lawyer   | 0:17:14 |    |    | yyyy-mm-dd      | 2018-01-19 ~ 2018-02-21 |
 | [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Y05WuO1OZjDZ) | 김윤주      |     |
-|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | 2017-mm-dd      | 2018-02-23 ~ 2018-03-05 |
+|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | yyyy-mm-dd      | 2018-02-23 ~ 2018-03-05 |
 | [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주      |     |
-|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | 2017-mm-dd      | 2018-03-27 ~ 2018-04-21 |
+|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | yyyy-mm-dd      | 2018-03-27 ~ 2018-04-21 |
 | [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주      |     |
-|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | 2017-mm-dd      | 2018-05-12 ~ 2018-08-12 |
+|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-12 |
 | [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정      |     |
-|    | Repentance Towards Father   | 0:08:12 |    |    | 2017-mm-dd      | 2018-05-12 ~ 2018-08-22 |
+|    | Repentance Towards Father   | 0:08:12 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-22 |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   | [![](img/youtube.png)](https://youtu.be/V5vS3lSQ3e8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래      |     |
-|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2017-mm-dd      | 2018-05-27 ~ 2018-08-31 |
+|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | yyyy-mm-dd      | 2018-05-27 ~ 2018-08-31 |
 ## 1. Video Converting (video)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) |  |       |     |
-|    | Coincidence and Inevitability   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Coincidence and Inevitability   |  |    |    | yyyy-mm-dd      |  ~  |
 | [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) |  |       |     |
-|    | Can I Find My Mind by Practicing Dhyana?   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Can I Find My Mind by Practicing Dhyana?   |  |    |    | yyyy-mm-dd      |  ~  |
 | [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) |  |       |     |
-|    | I'll Be the Hope of My Family and Live in Harmony   |  |    |    | 2017-mm-dd      |  ~  |
+|    | I'll Be the Hope of My Family and Live in Harmony   |  |    |    | yyyy-mm-dd      |  ~  |
 | [808](sub/808) | 연애는 많이 했는데 결혼은 잘 안됐어요, 어떤 사람을 만나야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) |  |       |     |
-|    | In Spite of Dating a Lot, I Have Not Been Able to Get Married Yet. What Sort of Man Shall I Meet?   |  |    |    | 2017-mm-dd      |  ~  |
+|    | In Spite of Dating a Lot, I Have Not Been Able to Get Married Yet. What Sort of Man Shall I Meet?   |  |    |    | yyyy-mm-dd      |  ~  |
 | [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) |  |       |     |
-|    | I Want to Get Married.  How Should I Approach Marriage?   |  |    |    | 2017-mm-dd      |  ~  |
+|    | I Want to Get Married.  How Should I Approach Marriage?   |  |    |    | yyyy-mm-dd      |  ~  |
 | [901](sub/901) | 행복을 멀리서 찾지 마세요, 정토 세상의 진정한 뜻   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/901/901-happiness.xlsx) |  |       |     |
-|    | Don't Look in the Distance for Happiness; True Meaning of Pure Land   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Don't Look in the Distance for Happiness; True Meaning of Pure Land   |  |    |    | yyyy-mm-dd      |  ~  |
 | [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) |  |       |     |
-|    | Qualifications for a Good Spouse   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Qualifications for a Good Spouse   |  |    |    | yyyy-mm-dd      |  ~  |
 | [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) |  |       |     |
-|    | Knowing the Law of Cause and Effect Can Free You in Life.   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Knowing the Law of Cause and Effect Can Free You in Life.   |  |    |    | yyyy-mm-dd      |  ~  |
 | [1205](sub/1205) | 최선을 다하되 결과에 연연하지 않는다.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1205/1205-cling-to-results.xlsx) |  |       |     |
-|    | Do Your Best, but Don't Cling to Results   |  |    |    | 2017-mm-dd      |  ~  |
+|    | Do Your Best, but Don't Cling to Results   |  |    |    | yyyy-mm-dd      |  ~  |
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) |  |       |     |
-|    | The Sewol Ferry Tragedy   |  |    |    | 2017-mm-dd      |  ~  |
+|    | The Sewol Ferry Tragedy   |  |    |    | yyyy-mm-dd      |  ~  |
 | [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) |  |       |     |
 |    | An Argumentative Co-worker   |  |    |    | yyyy-mm-dd      |  ~  |
 | [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |  |       |     |
@@ -119,7 +119,7 @@
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) | 유승진(20h); review:김재명      |     |
-|    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | 2017-mm-dd      | 2017-03-07 ~ 2017-03-14 |
+|    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | yyyy-mm-dd      | 2017-03-07 ~ 2017-03-14 |
 ## 6. Published (published)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |

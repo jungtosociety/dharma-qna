@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 449 |
-| Korean Subtitle | 아버지에 대한 참회 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김윤주, 오민정)<br>on 2017-mm-dd<br><br>|
-| English Subtitle | Repentance Towards Father \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김윤주, 오민정)<br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 아버지에 대한 참회 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김윤주, 오민정)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Repentance Towards Father \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김윤주, 오민정)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
