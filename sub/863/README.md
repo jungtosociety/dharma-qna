@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 863 |
-| Korean Subtitle | 부모님으로부터 정신적으로 독립할 수 있는 방법은? \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
-| English Subtitle | How to Achieve Emotional Independence from Parents? \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 부모님으로부터 정신적으로 독립할 수 있는 방법은? \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | How to Achieve Emotional Independence from Parents? \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

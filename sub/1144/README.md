@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1144 |
-| Korean Subtitle | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다 \| 법륜스님의 즉문즉설<br>by <br>on 2017-mm-dd<br><br>|
-| English Subtitle | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2017-mm-dd<br><br>|
+| Korean Subtitle | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
