@@ -11,7 +11,7 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | 보류    |
+| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | 대부분 완성된 걸로 보임 - 리뷰진행?    |
 |    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | yyyy-mm-dd      | 2017-05-11 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
@@ -19,10 +19,10 @@
 |    | My Wounds   | 0:10:51 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽      | 2018-1차 유튜브 자막 작업    |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
-| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/LzWgT2_na10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) | 김승주      | 2018-1차 유튜브 자막 작업    |
-|    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
 | [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래      | 2018-1차 유튜브 자막 작업    |
 |    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
+| [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진      | 2018-1차 유튜브 자막 작업    |
+|    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~  |
 ## 4. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -105,6 +105,8 @@
 |    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | yyyy-mm-dd      |  ~  |
 | [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   | [![](img/youtube.png)](https://youtu.be/Aj92RPtkm0c) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) |       |     |
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | yyyy-mm-dd      |  ~  |
+| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/LzWgT2_na10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) |       |     |
+|    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      |  ~  |
 | [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) |       |     |
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      |  ~  |
 | [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) |       |     |
@@ -115,8 +117,6 @@
 |    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
 | [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) |       |     |
 |    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | yyyy-mm-dd      |  ~  |
-| [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) |       |     |
-|    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      |  ~  |
 | [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/J5BfbeBZCC8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) |       |     |
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | yyyy-mm-dd      |  ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) |       |     |
