@@ -1,6 +1,6 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [3. Subtitling](#3-subtitling-sub) | 8 |
+|  [3. Subtitling](#3-subtitling-sub) | 9 |
 |  [4. Reviewing](#4-Reviewing-review) | 10|
 |  [5. Ready to Publish](#5-ready-to-publish-ready) | 1|
 |  [6. Published](#6-published-published)  | 48|
@@ -27,6 +27,8 @@
 |    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) | 정민규      | 2018-1차 유튜브 자막 작업    |
 |    | Dealing With People I Hate   | 0:07:40 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
+| [why108bae](sub/why108bae) | 108배를 왜 해야 하나요?   | [![](img/youtube.png)](https://youtu.be/YrTFJa3LNdY) |  | [![](img/amara.png)](http://amara.org/en/videos/CDeSgTiBKdbx) | 김혜은      | 활동팀 급요청    |
+|    | Why should I do 108 bae?   | 0:10:48 |    |    | yyyy-mm-dd      | 2018-12-01 ~  |
 ## 4. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
