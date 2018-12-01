@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1187 |
-| Korean Subtitle | 싫어하는 사람을 대할 때 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Dealing With People I Hate \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 싫어하는 사람을 대할 때 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(정민규)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Dealing With People I Hate \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(정민규)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

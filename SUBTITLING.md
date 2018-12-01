@@ -1,11 +1,11 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [3. Subtitling](#3-subtitling-sub) | 7 |
+|  [3. Subtitling](#3-subtitling-sub) | 8 |
 |  [4. Reviewing](#4-Reviewing-review) | 10|
 |  [5. Ready to Publish](#5-ready-to-publish-ready) | 1|
 |  [6. Published](#6-published-published)  | 48|
 |  [1. Video Converting](#1-video-converting-video)  | 18|
-|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 15|
+|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 14|
 
 ## 3. Subtitling (sub)
 
@@ -25,6 +25,8 @@
 |    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
 | [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진      | 2018-1차 유튜브 자막 작업    |
 |    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~  |
+| [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) | 정민규      | 2018-1차 유튜브 자막 작업    |
+|    | Dealing With People I Hate   | 0:07:40 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
 ## 4. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -119,8 +121,6 @@
 |    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
 | [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/J5BfbeBZCC8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) |       |     |
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | yyyy-mm-dd      |  ~  |
-| [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) |       |     |
-|    | Dealing With People I Hate   | 0:07:40 |    |    | yyyy-mm-dd      |  ~  |
 | [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   | [![](img/youtube.png)](https://youtu.be/p5lfM0DHkTg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/knSk0JzlyDoH) |       |     |
 |    | I feel lost after graduating college    | 0:16:36 |    |    | yyyy-mm-dd      |  ~  |
 ## 5. Ready to Publish (ready)
