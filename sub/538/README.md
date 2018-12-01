@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 538 |
-| Korean Subtitle | 남편과 이혼 후 혼자 키운 아들 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | I'm Raising a Son Alone After a Divorce \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 남편과 이혼 후 혼자 키운 아들 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(송명석)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I'm Raising a Son Alone After a Divorce \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(송명석)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

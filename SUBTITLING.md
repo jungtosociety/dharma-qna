@@ -1,11 +1,11 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [3. Subtitling](#3-subtitling-sub) | 6 |
+|  [3. Subtitling](#3-subtitling-sub) | 7 |
 |  [4. Reviewing](#4-Reviewing-review) | 10|
 |  [5. Ready to Publish](#5-ready-to-publish-ready) | 1|
 |  [6. Published](#6-published-published)  | 48|
 |  [1. Video Converting](#1-video-converting-video)  | 18|
-|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 16|
+|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 15|
 
 ## 3. Subtitling (sub)
 
@@ -21,6 +21,8 @@
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
 | [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래      | 2018-1차 유튜브 자막 작업    |
 |    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
+| [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석      | 2018-1차 유튜브 자막 작업    |
+|    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
 | [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진      | 2018-1차 유튜브 자막 작업    |
 |    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~  |
 ## 4. Reviewing (review)
@@ -33,7 +35,7 @@
 |    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | yyyy-mm-dd      | 2017-01-11 ~ 2017-03-18 |
 | [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   | [![](img/youtube.png)](https://youtu.be/ivGaGre0tV0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/oHMHtILzWcXl) | 유승진(10h)      |     |
 |    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | yyyy-mm-dd      | 2017-03-14 ~ 2017-03-22 |
-| [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주      |     |
+| [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   | [![](img/youtube.png)](https://youtu.be/gg7A8XWrgxU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주      |     |
 |    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | yyyy-mm-dd      | 2017-12-18 ~ 2018-1-9 |
 | [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dy1Sd1hnhEQF) | 김윤주      |     |
 |    | Studying to Become a Lawyer   | 0:17:14 |    |    | yyyy-mm-dd      | 2018-01-19 ~ 2018-02-21 |
@@ -115,8 +117,6 @@
 |    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | yyyy-mm-dd      |  ~  |
 | [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) |       |     |
 |    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
-| [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) |       |     |
-|    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | yyyy-mm-dd      |  ~  |
 | [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/J5BfbeBZCC8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) |       |     |
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | yyyy-mm-dd      |  ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) |       |     |
