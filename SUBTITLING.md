@@ -221,7 +221,7 @@
 |    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2018-11-15      | 2017-05-11 ~ 2018-05-23 |
 | [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
 |    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2018-12-01      | 2016-11-30 ~ 2017-03-06 |
-| [why108bae](sub/why108bae) | 108배를 왜 해야 하나요?   | [![](img/youtube.png)](https://youtu.be/YrTFJa3LNdY) |  | [![](img/amara.png)](http://amara.org/en/videos/CDeSgTiBKdbx) | 김혜은      | 활동팀 급요청    |
+| [why108bae](sub/why108bae) | 108배를 왜 해야 하나요?   | [![](img/youtube.png)](https://youtu.be/YrTFJa3LNdY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/why108bae/why108bae.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/CDeSgTiBKdbx) | 김혜은      | 활동팀 급요청    |
 |    | Why do we do 108 prostrations?   | 0:10:48 |    |    | 2018-12-02      | 2018-12-01 ~ 2018-12-02 |
 | [639](sub/639) | 내가 못마땅합니다. 있는 그대로의 나를 어떻게 받아들일까요?   | [![](img/youtube.png)](https://youtu.be/i_P2Pb2sKFg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FlrCQm4KCoV9) | 김재명      |     |
 |    | I don't like myself. How can I accept myself for who I am?   |  |    |    | 2018-12-15      | 2018-10-08 ~  |
