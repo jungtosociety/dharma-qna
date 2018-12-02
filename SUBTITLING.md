@@ -1,9 +1,9 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [3. Subtitling](#3-subtitling-sub) | 9 |
+|  [3. Subtitling](#3-subtitling-sub) | 8 |
 |  [4. Reviewing](#4-Reviewing-review) | 10|
 |  [5. Ready to Publish](#5-ready-to-publish-ready) | 1|
-|  [6. Published](#6-published-published)  | 48|
+|  [6. Published](#6-published-published)  | 49|
 |  [1. Video Converting](#1-video-converting-video)  | 18|
 |  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 14|
 
@@ -27,8 +27,6 @@
 |    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) | 정민규      | 2018-1차 유튜브 자막 작업    |
 |    | Dealing With People I Hate   | 0:07:40 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
-| [why108bae](sub/why108bae) | 108배를 왜 해야 하나요?   | [![](img/youtube.png)](https://youtu.be/YrTFJa3LNdY) |  | [![](img/amara.png)](http://amara.org/en/videos/CDeSgTiBKdbx) | 김혜은      | 활동팀 급요청    |
-|    | Why do we do 108 prostrations?   | 0:10:48 |    |    | yyyy-mm-dd      | 2018-12-01 ~ 2018-12-02 |
 ## 4. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -223,6 +221,8 @@
 |    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2018-11-15      | 2017-05-11 ~ 2018-05-23 |
 | [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
 |    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2018-12-01      | 2016-11-30 ~ 2017-03-06 |
+| [why108bae](sub/why108bae) | 108배를 왜 해야 하나요?   | [![](img/youtube.png)](https://youtu.be/YrTFJa3LNdY) |  | [![](img/amara.png)](http://amara.org/en/videos/CDeSgTiBKdbx) | 김혜은      | 활동팀 급요청    |
+|    | Why do we do 108 prostrations?   | 0:10:48 |    |    | 2018-12-02      | 2018-12-01 ~ 2018-12-02 |
 | [639](sub/639) | 내가 못마땅합니다. 있는 그대로의 나를 어떻게 받아들일까요?   | [![](img/youtube.png)](https://youtu.be/i_P2Pb2sKFg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FlrCQm4KCoV9) | 김재명      |     |
 |    | I don't like myself. How can I accept myself for who I am?   |  |    |    | 2018-12-15      | 2018-10-08 ~  |
 | [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요?   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m); 리뷰:김재명      |     |

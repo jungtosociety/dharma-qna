@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | why108bae |
-| Korean Subtitle | 108배를 왜 해야 하나요? \| 법륜스님의 즉문즉설<br>by 김세희,subtitle(김혜은)<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Why do we do 108 prostrations? \| Ven. Pomnyun's Dharma Q&A<br>by 김세희,subtitle(김혜은)<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 108배를 왜 해야 하나요? \| 법륜스님의 즉문즉설<br>by 김세희,subtitle(김혜은)<br>on 2018-12-02<br><br>|
+| English Subtitle | Why do we do 108 prostrations? \| Ven. Pomnyun's Dharma Q&A<br>by 김세희,subtitle(김혜은)<br>on 2018-12-02<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
