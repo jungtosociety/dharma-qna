@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [3. Subtitling](#3-subtitling-sub) | 8 |
-|  [4. Reviewing](#4-Reviewing-review) | 8|
-|  [5. Ready to Publish](#5-ready-to-publish-ready) | 3|
+|  [4. Reviewing](#4-Reviewing-review) | 6|
+|  [5. Ready to Publish](#5-ready-to-publish-ready) | 5|
 |  [6. Published](#6-published-published)  | 49|
 |  [1. Video Converting](#1-video-converting-video)  | 18|
 |  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 14|
@@ -31,10 +31,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   | [![](img/youtube.png)](https://youtu.be/ivGaGre0tV0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/oHMHtILzWcXl) | 유승진(10h)      |     |
-|    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | yyyy-mm-dd      | 2017-03-14 ~ 2017-03-22 |
-| [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   | [![](img/youtube.png)](https://youtu.be/gg7A8XWrgxU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주      |     |
-|    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | yyyy-mm-dd      | 2017-12-18 ~ 2018-1-9 |
 | [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dy1Sd1hnhEQF) | 김윤주      |     |
 |    | Studying to Become a Lawyer   | 0:17:14 |    |    | yyyy-mm-dd      | 2018-01-19 ~ 2018-02-21 |
 | [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Y05WuO1OZjDZ) | 김윤주      |     |
@@ -129,6 +125,10 @@
 |    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | yyyy-mm-dd      | 2017-01-17 ~ 2017-04-03 |
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) | 이동엽(4h); review:김혜은      |     |
 |    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | yyyy-mm-dd      | 2017-01-11 ~ 2017-03-18 |
+| [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   | [![](img/youtube.png)](https://youtu.be/ivGaGre0tV0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/oHMHtILzWcXl) | 유승진(10h);review:김혜은      |     |
+|    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | yyyy-mm-dd      | 2017-03-14 ~ 2017-03-22 |
+| [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   | [![](img/youtube.png)](https://youtu.be/gg7A8XWrgxU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주; review:김혜은      |     |
+|    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | yyyy-mm-dd      | 2017-12-18 ~ 2018-1-9 |
 ## 6. Published (published)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
