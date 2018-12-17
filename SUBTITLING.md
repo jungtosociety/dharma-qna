@@ -31,7 +31,7 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주      |     |
+| [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   | [![](img/youtube.png)](https://youtu.be/q9h4540j2tM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주      |     |
 |    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | yyyy-mm-dd      | 2018-03-27 ~ 2018-04-21 |
 | [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   | [![](img/youtube.png)](https://youtu.be/c1eBAqRBRhI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주      |     |
 |    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-12 |
