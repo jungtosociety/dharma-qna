@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [3. Subtitling](#3-subtitling-sub) | 8 |
-|  [4. Reviewing](#4-Reviewing-review) | 6|
-|  [5. Ready to Publish](#5-ready-to-publish-ready) | 5|
+|  [4. Reviewing](#4-Reviewing-review) | 4|
+|  [5. Ready to Publish](#5-ready-to-publish-ready) | 7|
 |  [6. Published](#6-published-published)  | 49|
 |  [1. Video Converting](#1-video-converting-video)  | 18|
 |  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 14|
@@ -31,15 +31,11 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dy1Sd1hnhEQF) | 김윤주      |     |
-|    | Studying to Become a Lawyer   | 0:17:14 |    |    | yyyy-mm-dd      | 2018-01-19 ~ 2018-02-21 |
-| [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Y05WuO1OZjDZ) | 김윤주      |     |
-|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | yyyy-mm-dd      | 2018-02-23 ~ 2018-03-05 |
 | [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주      |     |
 |    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | yyyy-mm-dd      | 2018-03-27 ~ 2018-04-21 |
-| [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주      |     |
+| [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   | [![](img/youtube.png)](https://youtu.be/c1eBAqRBRhI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주      |     |
 |    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-12 |
-| [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정      |     |
+| [449](sub/449) | 아버지에 대한 참회   | [![](img/youtube.png)](https://youtu.be/xBY8AwF5cA4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정      |     |
 |    | Repentance Towards Father   | 0:08:12 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-22 |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   | [![](img/youtube.png)](https://youtu.be/V5vS3lSQ3e8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래      |     |
 |    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | yyyy-mm-dd      | 2018-05-27 ~ 2018-08-31 |
@@ -129,6 +125,10 @@
 |    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | yyyy-mm-dd      | 2017-03-14 ~ 2017-03-22 |
 | [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   | [![](img/youtube.png)](https://youtu.be/gg7A8XWrgxU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주; review:김혜은      |     |
 |    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | yyyy-mm-dd      | 2017-12-18 ~ 2018-1-9 |
+| [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   | [![](img/youtube.png)](https://youtu.be/mLGxpMK6Ew0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dy1Sd1hnhEQF) | 김윤주;review:김혜은      |     |
+|    | Studying to Become a Lawyer   | 0:17:14 |    |    | yyyy-mm-dd      | 2018-01-19 ~ 2018-02-21 |
+| [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   | [![](img/youtube.png)](https://youtu.be/xI91lrdy65Q) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Y05WuO1OZjDZ) | 김윤주;review:김혜은      |     |
+|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | yyyy-mm-dd      | 2018-02-23 ~ 2018-03-05 |
 ## 6. Published (published)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
