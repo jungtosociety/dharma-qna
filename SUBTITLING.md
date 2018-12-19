@@ -11,17 +11,17 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | 대부분 완성된 걸로 보임 - 리뷰진행?    |
+| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   | [![](img/youtube.png)](https://youtu.be/gIR9KlSzAGc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | 대부분 완성된 걸로 보임 - 리뷰진행?    |
 |    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | yyyy-mm-dd      | 2017-05-11 ~  |
-| [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
+| [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   | [![](img/youtube.png)](https://youtu.be/lgoFrtW-vi8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
 | [691](sub/691) | 내 상처   | [![](img/youtube.png)](https://youtu.be/kQ7JkVvgYwI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연      | 2018-1차 유튜브 자막 작업    |
 |    | My Wounds   | 0:10:51 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
-| [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래      | 2018-1차 유튜브 자막 작업    |
+| [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/9TDg_Ue-D3I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래      | 2018-1차 유튜브 자막 작업    |
 |    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
 | [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석      | 2018-1차 유튜브 자막 작업    |
 |    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
-| [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진      | 2018-1차 유튜브 자막 작업    |
+| [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   | [![](img/youtube.png)](https://youtu.be/um8JGo5reEY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진      | 2018-1차 유튜브 자막 작업    |
 |    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) | 정민규      | 2018-1차 유튜브 자막 작업    |
 |    | Dealing With People I Hate   | 0:07:40 |    |    | yyyy-mm-dd      | 2018-12-18 ~  |

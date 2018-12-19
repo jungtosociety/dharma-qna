@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/HZZbjPs6_oc](https://youtu.be/HZZbjPs6_oc) |
-| YouTube Link  |  |
+| YouTube Link  | [https://youtu.be/lgoFrtW-vi8](https://youtu.be/lgoFrtW-vi8) |
 | Amara Link    | [http://amara.org/en/videos/wNXSXBYNG1IV/](http://amara.org/en/videos/wNXSXBYNG1IV/) |
 | Transcript(ko/en) | [824-good-teacher.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) |
 | Playtime | 0:18:47 |
