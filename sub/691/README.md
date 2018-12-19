@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/THzpLwUdwIE](https://youtu.be/THzpLwUdwIE) |
-| YouTube Link  |  |
+| YouTube Link  | [https://youtu.be/kQ7JkVvgYwI](https://youtu.be/kQ7JkVvgYwI) |
 | Amara Link    | [http://amara.org/en/videos/3SjNEOOKtbWF](http://amara.org/en/videos/3SjNEOOKtbWF) |
 | Transcript(ko/en) | [691-my-wounds.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) |
 | Playtime | 0:10:51 |
