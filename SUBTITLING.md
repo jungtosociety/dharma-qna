@@ -224,7 +224,7 @@
 | [why108bae](sub/why108bae) | 108배를 왜 해야 하나요?   | [![](img/youtube.png)](https://youtu.be/YrTFJa3LNdY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/why108bae/why108bae.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/CDeSgTiBKdbx) | 김혜은      | 활동팀 급요청    |
 |    | Why do we do 108 prostrations?   | 0:10:48 |    |    | 2018-12-02      | 2018-12-01 ~ 2018-12-02 |
 | [639](sub/639) | 내가 못마땅합니다. 있는 그대로의 나를 어떻게 받아들일까요?   | [![](img/youtube.png)](https://youtu.be/i_P2Pb2sKFg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FlrCQm4KCoV9) | 김재명      |     |
-|    | I don't like myself. How can I accept myself for who I am?   |  |    |    | 2018-12-15      | 2018-10-08 ~  |
+|    | I don't like myself. How can I accept myself for who I am?   | 0:09:41 |    |    | 2018-12-15      | 2018-10-08 ~ 2018-10-08 |
 | [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요?   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m); 리뷰:김재명      |     |
 |    | Defensive Mind   | 0:06:19 |    |    | 2019-01-01      | 2017-01-11 ~ 2019-01-18 |
 | [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h);리뷰:김재명      |     |

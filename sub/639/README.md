@@ -11,5 +11,5 @@
 | YouTube Link  | [https://youtu.be/i_P2Pb2sKFg](https://youtu.be/i_P2Pb2sKFg) |
 | Amara Link    | [http://amara.org/en/videos/FlrCQm4KCoV9](http://amara.org/en/videos/FlrCQm4KCoV9) |
 | Transcript(ko/en) | [639-accept-myself.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:09:41 |
+| Resolution | 540x360|
