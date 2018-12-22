@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 855 |
-| Korean Subtitle | 남편이 가출한 지 8년, 아이들 잘 키우려면? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김윤주)<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Husband Left 8 Years Ago.  How to Raise Children Well? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김윤주)<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 남편이 가출한 지 8년, 아이들 잘 키우려면? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김윤주;review:김혜은)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Husband Left 8 Years Ago.  How to Raise Children Well? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김윤주;review:김혜은)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
