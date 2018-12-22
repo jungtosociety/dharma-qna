@@ -127,7 +127,7 @@
 |    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | yyyy-mm-dd      | 2018-02-23 ~ 2018-03-05 |
 | [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   | [![](img/youtube.png)](https://youtu.be/q9h4540j2tM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주;review:김혜은      |     |
 |    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | yyyy-mm-dd      | 2018-03-27 ~ 2018-04-21 |
-| [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업    |
+| [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   | [![](img/youtube.png)](https://youtu.be/u7ooq5WXr5o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업    |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2018-12-18 |
 ## 6. Published (published)
 
