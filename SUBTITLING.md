@@ -73,7 +73,7 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [743](sub/743) | 종교가 다른 아내   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) |       |     |
+| [743](sub/743) | 종교가 다른 아내   | [![](img/youtube.png)](https://youtu.be/ulwDfO1Q2ws) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) |       |     |
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      |  ~  |
 | [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) |       |     |
 |    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | yyyy-mm-dd      |  ~  |
@@ -91,11 +91,11 @@
 |    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      |  ~  |
 | [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) |       |     |
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      |  ~  |
-| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) |       |     |
+| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   | [![](img/youtube.png)](https://youtu.be/s7m9fiVw3OU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) |       |     |
 |    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | yyyy-mm-dd      |  ~  |
-| [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-feeling-cheated.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pcdJQs6k9cZp) |       |     |
+| [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/u5qQKRznhpY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-feeling-cheated.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pcdJQs6k9cZp) |       |     |
 |    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | yyyy-mm-dd      |  ~  |
-| [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) |       |     |
+| [493](sub/493) | 배우자 선택   | [![](img/youtube.png)](https://youtu.be/6m-MPfJnvoQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) |       |     |
 |    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
 | [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/J5BfbeBZCC8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) |       |     |
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | yyyy-mm-dd      |  ~  |

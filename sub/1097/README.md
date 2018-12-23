@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/kJ0j61sbH0Y](https://youtu.be/kJ0j61sbH0Y) |
-| YouTube Link  |  |
+| YouTube Link  | [https://youtu.be/u5qQKRznhpY](https://youtu.be/u5qQKRznhpY) |
 | Amara Link    | [http://amara.org/en/videos/pcdJQs6k9cZp](http://amara.org/en/videos/pcdJQs6k9cZp) |
 | Transcript(ko/en) | [1097-feeling-cheated.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-feeling-cheated.xlsx) |
 | Playtime | 0:15:45 |
