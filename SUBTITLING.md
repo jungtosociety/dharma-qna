@@ -75,7 +75,7 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [743](sub/743) | 종교가 다른 아내   | [![](img/youtube.png)](https://youtu.be/ulwDfO1Q2ws) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) |       |     |
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      |  ~  |
-| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) |       |     |
+| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/1qvZ4oLYc40) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) |       |     |
 |    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | yyyy-mm-dd      |  ~  |
 | [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) |       |     |
 |    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      |  ~  |
@@ -89,7 +89,7 @@
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | yyyy-mm-dd      |  ~  |
 | [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/LzWgT2_na10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) |       |     |
 |    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      |  ~  |
-| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) |       |     |
+| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   | [![](img/youtube.png)](https://youtu.be/9FmJMCkqZYY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) |       |     |
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      |  ~  |
 | [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   | [![](img/youtube.png)](https://youtu.be/s7m9fiVw3OU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) |       |     |
 |    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | yyyy-mm-dd      |  ~  |
