@@ -8,8 +8,8 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/hjUAgz9qK-Q](https://youtu.be/hjUAgz9qK-Q) |
-| YouTube Link  |  |
-| Amara Link    |  |
+| YouTube Link  | [https://youtu.be/o0Q9QDDIU18](https://youtu.be/o0Q9QDDIU18) |
+| Amara Link    | [http://amara.org/en/videos/jd5yrCgnF9lh](http://amara.org/en/videos/jd5yrCgnF9lh) |
 | Transcript(ko/en) | [777-ex-boyfriend.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:10:07 |
+| Resolution | 1920x1080|

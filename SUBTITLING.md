@@ -4,8 +4,8 @@
 |  [4. Reviewing](#4-Reviewing-review) | 3|
 |  [5. Ready to Publish](#5-ready-to-publish-ready) | 10|
 |  [6. Published](#6-published-published)  | 49|
-|  [1. Video Converting](#1-video-converting-video)  | 16|
-|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 16|
+|  [1. Video Converting](#1-video-converting-video)  | 13|
+|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 19|
 
 ## 3. Subtitling (sub)
 
@@ -55,12 +55,6 @@
 |    | Do Your Best, but Don't Cling to Results   |  |    |    | yyyy-mm-dd      |  ~  |
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) |  |       |     |
 |    | The Sewol Ferry Tragedy   |  |    |    | yyyy-mm-dd      |  ~  |
-| [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |  |       |     |
-|    | Recovering the wild and natural quality   |  |    |    | yyyy-mm-dd      |  ~  |
-| [777](sub/777) | 헤어진 남자친구와 새여자친구가 같은 캠퍼스에요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) |  |       |     |
-|    | I attend the same school as my ex-boyfriend and his new girlfriend.   |  |    |    | yyyy-mm-dd      |  ~  |
-| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) |  |       |     |
-|    | How do you handle stress?   |  |    |    | yyyy-mm-dd      |  ~  |
 | [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) |  |       |     |
 |    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   |  |    |    | yyyy-mm-dd      |  ~  |
 | [895](sub/895) | 희망세상을 만드는 5가지 희망실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) |  |       |     |
@@ -103,6 +97,12 @@
 |    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | yyyy-mm-dd      |  ~  |
 | [695](sub/695) | 시비하는 직장동료   | [![](img/youtube.png)](https://youtu.be/b4ASwYvp1zc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) |       |     |
 |    | An Argumentative Co-worker   | 0:03:09 |    |    | yyyy-mm-dd      |  ~  |
+| [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   | [![](img/youtube.png)](https://youtu.be/iIgepLPjNhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jM92tReRhODU) |       |     |
+|    | Recovering the wild and natural quality   | 0:14:18 |    |    | yyyy-mm-dd      |  ~  |
+| [777](sub/777) | 헤어진 남자친구와 새여자친구가 같은 캠퍼스에요.   | [![](img/youtube.png)](https://youtu.be/o0Q9QDDIU18) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jd5yrCgnF9lh) |       |     |
+|    | I attend the same school as my ex-boyfriend and his new girlfriend.   | 0:10:07 |    |    | yyyy-mm-dd      |  ~  |
+| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   | [![](img/youtube.png)](https://youtu.be/wzouEry_V8w) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) |       |     |
+|    | How do you handle stress?   | 0:11:06 |    |    | yyyy-mm-dd      |  ~  |
 | [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   | [![](img/youtube.png)](https://youtu.be/p5lfM0DHkTg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/knSk0JzlyDoH) |       |     |
 |    | I feel lost after graduating college    | 0:16:36 |    |    | yyyy-mm-dd      |  ~  |
 ## 5. Ready to Publish (ready)
