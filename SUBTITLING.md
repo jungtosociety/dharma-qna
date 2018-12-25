@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 6 |
-|  [3. Reviewing](#3-Reviewing-review) | 3|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 10|
+|  [3. Reviewing](#3-Reviewing-review) | 2|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 11|
 |  [5. Published](PROJECTS.md)  | 49|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
@@ -26,8 +26,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   | [![](img/youtube.png)](https://youtu.be/c1eBAqRBRhI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주      |     |
-|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-12 |
 | [449](sub/449) | 아버지에 대한 참회   | [![](img/youtube.png)](https://youtu.be/xBY8AwF5cA4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정      |     |
 |    | Repentance Towards Father   | 0:08:12 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-22 |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   | [![](img/youtube.png)](https://youtu.be/V5vS3lSQ3e8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래      |     |
@@ -54,6 +52,8 @@
 |    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | yyyy-mm-dd      | 2018-02-23 ~ 2018-03-05 |
 | [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   | [![](img/youtube.png)](https://youtu.be/q9h4540j2tM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주;review:김혜은      |     |
 |    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | yyyy-mm-dd      | 2018-03-27 ~ 2018-04-21 |
+| [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   | [![](img/youtube.png)](https://youtu.be/c1eBAqRBRhI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주;review:김재명      |     |
+|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-12 |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   | [![](img/youtube.png)](https://youtu.be/u7ooq5WXr5o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업    |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2018-12-18 |
 ## 1. Ready to Subtitle (unassigned)
