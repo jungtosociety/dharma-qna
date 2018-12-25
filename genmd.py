@@ -58,7 +58,7 @@ def githublink(vid,fn,text=None,textwithoutlink=False):
         else:
             return ''
 
-def gentab_published(f):
+def gentab_published(f,status='published'):
 #     f.write('---\n\
 # layout: page\n\
 # title: Project List\n\
@@ -72,7 +72,7 @@ def gentab_published(f):
     for row in c.execute('SELECT v.vid,en.title,v.pubdate,v.youtube,v.amara \
                             FROM video v \
                             LEFT OUTER JOIN en ON v.vid = en.vid \
-                           WHERE status=\'published\' \
+                           WHERE status=\''+status+'\' \
                            ORDER BY v.pubdate DESC \
                              ' ):
         vid     = row["v.vid"] # row["vid"]
@@ -242,7 +242,10 @@ if __name__ == "__main__":
     f.write('* CN: Chinese(中文) Subtitle\n')
     f.write('* JA: Japanese(日本語) Subtitle\n')
     f.write('\n')
-    gentab_published(f)
+    f.write('## Ready to Publish\n\n')
+    gentab_published(f,'ready') # print ready subtitle for french team
+    f.write('## Published\n\n')
+    gentab_published(f,'published')
     f.close()
     if run_cmd(['git','diff','PROJECTS.md'],raise_exception=False) != '':
         print ' - updated '+'PROJECTS.md'
