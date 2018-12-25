@@ -9,7 +9,7 @@
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/TaJ7A6Y5g6k](https://youtu.be/TaJ7A6Y5g6k) |
 | YouTube Link  |  |
-| Amara Link    |  |
+| Amara Link    | [http://amara.org/en/videos/0v6g3hrpNQeK](http://amara.org/en/videos/0v6g3hrpNQeK) |
 | Transcript(ko/en) | [901-happiness.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/901/901-happiness.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:18:21 |
+| Resolution | 1920x1080|

@@ -8,8 +8,8 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/-NGc_e6S86o](https://youtu.be/-NGc_e6S86o) |
-| YouTube Link  |  |
-| Amara Link    |  |
+| YouTube Link  | [https://youtu.be/-Yz2id6YYRg](https://youtu.be/-Yz2id6YYRg) |
+| Amara Link    | [http://amara.org/en/videos/A27j77yUdEES](http://amara.org/en/videos/A27j77yUdEES) |
 | Transcript(ko/en) | [1171-irritable-personality.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) |
-| Playtime |  |
-| Resolution | NonexNone|
+| Playtime | 0:12:07 |
+| Resolution | 1920x1080|

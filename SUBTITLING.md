@@ -4,8 +4,8 @@
 |  [4. Reviewing](#4-Reviewing-review) | 3|
 |  [5. Ready to Publish](#5-ready-to-publish-ready) | 10|
 |  [6. Published](#6-published-published)  | 49|
-|  [1. Video Converting](#1-video-converting-video)  | 13|
-|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 19|
+|  [1. Video Converting](#1-video-converting-video)  | 0|
+|  [2. Ready to Subtitle](#2-ready-to-subtitle-unassigned)  | 32|
 
 ## 3. Subtitling (sub)
 
@@ -37,32 +37,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) |  |       |     |
-|    | Coincidence and Inevitability   |  |    |    | yyyy-mm-dd      |  ~  |
-| [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) |  |       |     |
-|    | Can I Find My Mind by Practicing Dhyana?   |  |    |    | yyyy-mm-dd      |  ~  |
-| [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) |  |       |     |
-|    | I'll Be the Hope of My Family and Live in Harmony   |  |    |    | yyyy-mm-dd      |  ~  |
-| [808](sub/808) | 연애는 많이 했는데 결혼은 잘 안됐어요, 어떤 사람을 만나야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) |  |       |     |
-|    | In Spite of Dating a Lot, I Have Not Been Able to Get Married Yet. What Sort of Man Shall I Meet?   |  |    |    | yyyy-mm-dd      |  ~  |
-| [901](sub/901) | 행복을 멀리서 찾지 마세요, 정토 세상의 진정한 뜻   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/901/901-happiness.xlsx) |  |       |     |
-|    | Don't Look in the Distance for Happiness; True Meaning of Pure Land   |  |    |    | yyyy-mm-dd      |  ~  |
-| [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) |  |       |     |
-|    | Qualifications for a Good Spouse   |  |    |    | yyyy-mm-dd      |  ~  |
-| [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) |  |       |     |
-|    | Knowing the Law of Cause and Effect Can Free You in Life.   |  |    |    | yyyy-mm-dd      |  ~  |
-| [1205](sub/1205) | 최선을 다하되 결과에 연연하지 않는다.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1205/1205-cling-to-results.xlsx) |  |       |     |
-|    | Do Your Best, but Don't Cling to Results   |  |    |    | yyyy-mm-dd      |  ~  |
-| [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) |  |       |     |
-|    | The Sewol Ferry Tragedy   |  |    |    | yyyy-mm-dd      |  ~  |
-| [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) |  |       |     |
-|    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   |  |    |    | yyyy-mm-dd      |  ~  |
-| [895](sub/895) | 희망세상을 만드는 5가지 희망실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) |  |       |     |
-|    | 5 righteous actions to create a world of hope.   |  |    |    | yyyy-mm-dd      |  ~  |
-| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) |  |       |     |
-|    | I can't stay put at one job; I lose interest and keep moving around.   |  |    |    | yyyy-mm-dd      |  ~  |
-| [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/~$1171-irritable-personality.xlsx) |  |       |     |
-|    | Can I change my irritable personality?   |  |    |    | yyyy-mm-dd      |  ~  |
 ## 2. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -93,8 +67,26 @@
 |    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
 | [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/J5BfbeBZCC8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) |       |     |
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | yyyy-mm-dd      |  ~  |
+| [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4jnVckG1Sbc) |       | video blur required    |
+|    | Coincidence and Inevitability   | 0:09:53 |    |    | yyyy-mm-dd      |  ~  |
+| [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) |       | video blur required    |
+|    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | yyyy-mm-dd      |  ~  |
+| [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/joojsl6IZo2d) |       | video blur required    |
+|    | I'll Be the Hope of My Family and Live in Harmony   | 0:19:54 |    |    | yyyy-mm-dd      |  ~  |
+| [808](sub/808) | 연애는 많이 했는데 결혼은 잘 안됐어요, 어떤 사람을 만나야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hp8q8gfQMQqY) |       | video blur required    |
+|    | In Spite of Dating a Lot, I Have Not Been Able to Get Married Yet. What Sort of Man Shall I Meet?   | 0:23:36 |    |    | yyyy-mm-dd      |  ~  |
 | [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   | [![](img/youtube.png)](https://youtu.be/KgXbSjBfiK4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) |       |     |
 |    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | yyyy-mm-dd      |  ~  |
+| [901](sub/901) | 행복을 멀리서 찾지 마세요, 정토 세상의 진정한 뜻   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/901/901-happiness.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/0v6g3hrpNQeK) |       | video blur required    |
+|    | Don't Look in the Distance for Happiness; True Meaning of Pure Land   | 0:18:21 |    |    | yyyy-mm-dd      |  ~  |
+| [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) |       | video blur required    |
+|    | Qualifications for a Good Spouse   | 0:14:31 |    |    | yyyy-mm-dd      |  ~  |
+| [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/muGP4UvvHVj5) |       | video blur required    |
+|    | Knowing the Law of Cause and Effect Can Free You in Life.   | 0:12:09 |    |    | yyyy-mm-dd      |  ~  |
+| [1205](sub/1205) | 최선을 다하되 결과에 연연하지 않는다.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1205/1205-cling-to-results.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/9CTJIgqBVEiz) |       | video blur required    |
+|    | Do Your Best, but Don't Cling to Results   | 0:08:05 |    |    | yyyy-mm-dd      |  ~  |
+| [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DLO7Pn1QRv0o) |       | video blur required    |
+|    | The Sewol Ferry Tragedy   | 0:17:14 |    |    | yyyy-mm-dd      |  ~  |
 | [695](sub/695) | 시비하는 직장동료   | [![](img/youtube.png)](https://youtu.be/b4ASwYvp1zc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) |       |     |
 |    | An Argumentative Co-worker   | 0:03:09 |    |    | yyyy-mm-dd      |  ~  |
 | [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   | [![](img/youtube.png)](https://youtu.be/iIgepLPjNhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jM92tReRhODU) |       |     |
@@ -103,6 +95,14 @@
 |    | I attend the same school as my ex-boyfriend and his new girlfriend.   | 0:10:07 |    |    | yyyy-mm-dd      |  ~  |
 | [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   | [![](img/youtube.png)](https://youtu.be/wzouEry_V8w) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) |       |     |
 |    | How do you handle stress?   | 0:11:06 |    |    | yyyy-mm-dd      |  ~  |
+| [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/Pv5rUURLM10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hGvb6ZqazjOx) |       |     |
+|    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   | 0:07:42 |    |    | yyyy-mm-dd      |  ~  |
+| [895](sub/895) | 희망세상을 만드는 5가지 희망실천   | [![](img/youtube.png)](https://youtu.be/iQePouwLYwQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SaReVUhcxyTl) |       |     |
+|    | 5 righteous actions to create a world of hope.   | 0:09:30 |    |    | yyyy-mm-dd      |  ~  |
+| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   | [![](img/youtube.png)](https://youtu.be/jtXnfhFzSqw) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) |       |     |
+|    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      |  ~  |
+| [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/-Yz2id6YYRg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) |       |     |
+|    | Can I change my irritable personality?   | 0:12:07 |    |    | yyyy-mm-dd      |  ~  |
 | [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   | [![](img/youtube.png)](https://youtu.be/p5lfM0DHkTg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/knSk0JzlyDoH) |       |     |
 |    | I feel lost after graduating college    | 0:16:36 |    |    | yyyy-mm-dd      |  ~  |
 ## 5. Ready to Publish (ready)
