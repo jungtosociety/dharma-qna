@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/J9zIUkJ4xxc](https://youtu.be/J9zIUkJ4xxc) |
-| YouTube Link  |  |
+| YouTube Link  | [https://youtu.be/9y677BWL5-I](https://youtu.be/9y677BWL5-I) |
 | Amara Link    | [http://amara.org/en/videos/Q4jnVckG1Sbc](http://amara.org/en/videos/Q4jnVckG1Sbc) |
 | Transcript(ko/en) | [656-inevitability.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) |
 | Playtime | 0:09:53 |
