@@ -3,7 +3,7 @@
 |  [2. Subtitling](#2-subtitling-sub) | 6 |
 |  [3. Reviewing](#3-Reviewing-review) | 3|
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 10|
-|  [5. Published](#5-published-published)  | 49|
+|  [5. Published](PROJECTS.md)  | 49|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
 ## 2. Subtitling (sub)
@@ -56,108 +56,6 @@
 |    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | yyyy-mm-dd      | 2018-03-27 ~ 2018-04-21 |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   | [![](img/youtube.png)](https://youtu.be/u7ooq5WXr5o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업    |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2018-12-18 |
-## 5. Published (published)
-
-| NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
-|----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [655](sub/655) | 우수한 선수가 될 수 있을 것이라는 스님의 응원메세지가 듣고 싶습니다   | [![](img/youtube.png)](https://youtu.be/NzMGrgklWyA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/en-655-good-athelete.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BwcgJu4Zj4rz) | 김재명;no reviewer      |     |
-|    | How Can I Become a Great Athlete?   | 0:11:12 |    |    | 2015-09-16      |  ~  |
-| [1081](sub/1081) | 불교가 무엇인지 공부해 보고 싶은데 어떻게 해야 할까요?   | [![](img/youtube.png)](https://youtu.be/yp_X0KQPqyg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/en-1081-buddhism.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/uiPC1tlJOjk6) | 김재명;no reviewer      |     |
-|    | I'd Like to Learn More About Buddhism   | 0:08:19 |    |    | 2015-10-30      |  ~  |
-| [463](sub/463) | 가볍게 거절하기   | [![](img/youtube.png)](https://youtu.be/MviaC5XfDgc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mQHI4mTuJxSS) | 우종란;리뷰:류창민      | 4h;리뷰:0.5h    |
-|    | Refusing Without Guilt   | 0:04:21 |    |    | 2015-11-15      | 2016-10- ~ 2016-10-20 |
-| [239](sub/239) | 아들의 부정적 시선이 염려됩니다   | [![](img/youtube.png)](https://youtu.be/PdiVY7Y9KNk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/en-239-pessimistic-son.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/WrL0SB21tD0j) | 김재명;no reviewer      |     |
-|    | I Worry About My Son's Pessimistic Attitude   | 0:11:17 |    |    | 2015-11-21      |  ~  |
-| [676](sub/676) | 동화작가가 꿈인데 생계를 위해 다른 글을 쓰고 있습니다   | [![](img/youtube.png)](https://youtu.be/y188f7eU1TU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/676/en-676-fairy-tale-author.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/EroiuPGgpght) | 김미경, review:김재명      |     |
-|    | Desire to Write   | 0:06:19 |    |    | 2015-12-05      |  ~  |
-| [997](sub/997) | 부정적 사고와 긍정적 사고   | [![](img/youtube.png)](https://youtu.be/ScaKEct3C5c) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/997/en-997-negative-thinking.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/F8lxMlmZ92d4) | 이수현; review:김재명      |     |
-|    | Negative and Positive Thinking   | 0:04:05 |    |    | 2015-12-19      |  ~  |
-| [984](sub/984) | 짝사랑 중인 상대가 저를 멀리해요   | [![](img/youtube.png)](https://youtu.be/dSGAi_avjss) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/984/en-984-crush.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mGPueCA5DmIz) | 이정화; review:김재명      |     |
-|    | The Person I Have a Crush on Is Distancing Herself From Me   | 0:05:58 |    |    | 2016-01-02      |  ~  |
-| [900](sub/900) | 완벽하려고 하는 성격 때문에 스트레스 받아요   | [![](img/youtube.png)](https://youtu.be/utumcS1iGvM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/EkaeX3zDKXeC) | 김재명;no reviewer      |     |
-|    | My Perfectionism Stresses Me   | 0:04:40 |    |    | 2016-01-16      |  ~  |
-| [488](sub/488) | 상대를 이해하면 내 마음이 편하다   | [![](img/youtube.png)](https://youtu.be/AUg_2sNt5qc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/488/en-488-understand.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3t6ocMUzw4YG) | 이정화; review:김재명      |     |
-|    | If You Understand Other People, You'll Feel Better   | 0:12:13 |    |    | 2016-01-30      |  ~  |
-| [906](sub/906) | 우울함에 빠질 때 마인드 컨트롤 하는 방법   | [![](img/youtube.png)](https://youtu.be/PQomKbgB45w) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/en-906-depression.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hjbgLzfe8XBV) | 이정화; review:김재명      |     |
-|    | How to Control Your Mind When You Feel Depressed   | 0:07:12 |    |    | 2016-02-13      | 2016-01-25 ~ 2016-02-07 |
-| [640](sub/640) | 심한 스트레스와 우울증으로 자살 충동을 느낄때가 있습니다. 어떻게 해야할까요?   | [![](img/youtube.png)](https://youtu.be/z6lxOZF2Wgk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/w8ymWLXzTcyF) | 김미경, review:김재명      |     |
-|    | Suicidal Impulse   | 0:09:05 |    |    | 2016-02-27      | 2016-01-25 ~ 2016-02-14 |
-| [489](sub/489) | 남이야 어떻든 관여하지 말고 자기를 봐라   | [![](img/youtube.png)](https://youtu.be/IOk5cZ9psBs) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/en-489-look-within-yourself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FvWS4splyJkN) | 이동엽; review:김재명      |     |
-|    | Don't Look at Others, Look Within Yourself   | 0:10:30 |    |    | 2016-03-19      | 2016-01-14 ~ 2016-03-15 |
-| [851](sub/851) | 카드빚 갚아달라며 계속 요구하는 아들, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/1tMErMTUwks) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/851-card-debt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/uQOxVi7aLYXT) | 이동엽; review:김재명      |     |
-|    | My Son Demands That I Pay off His Credit Card Debt. What Should I Do?   | 0:08:40 |    |    | 2016-04-19      | 2016-03-22 ~ 2016-04-01 |
-| [883](sub/883) | 시험을 못봤어요, 엄마 아빠의 분노를 잠재우려면?   | [![](img/youtube.png)](https://youtu.be/5OZ-v8lwumo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/883-exam.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6ZgjwKD81l2a) | 김미경, review:김재명      |     |
-|    | I Didn't Do Well on An Exam. How Can I Calm My Parent's Anger?    | 0:07:01 |    |    | 2016-05-02      | 2016-03-07 ~ 2016-03-28 |
-| [573](sub/573) | 아름답게 사는 중용의 삶을 살자니 너무 어렵습니다   | [![](img/youtube.png)](https://youtu.be/Aaq1JUawHLM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/573-moderation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6AuyYe0XovH0) | 이정화, 김재명; review:김재명      |     |
-|    | Living Life in Moderation   | 0:07:12 |    |    | 2016-05-15      | 2016-02-20 ~ 2016-05-06 |
-| [sunim-intro](sub/sunim-intro) | 법륜스님 소개 영상   | [![](img/youtube.png)](https://youtu.be/2VUHNIjkE9g) |  | [![](img/amara.png)](http://amara.org/en/videos/rMeq7FflJNMk) | 김재명;no reviewer      | 1h30m    |
-|    | Ven. Pomnyun Sunim - Introduction   | 0:03:39 |    |    | 2016-05-21      | 2016-05-21 ~ 2016-05-21 |
-| [456](sub/456) | 알콜중독 극복   | [![](img/youtube.png)](https://youtu.be/72PIwIEkUtc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/itfyi5ssv3gw) | 류창민; review:김재명      | 2hr    |
-|    | How to Overcome Addictions   | 0:10:04 |    |    | 2016-06-01      | 2016-05-26 ~ 2016-05-27 |
-| [102](sub/102) | 인생이 무상하고 꿈이라는데 이 꿈에서 깨고 싶습니다   | [![](img/youtube.png)](https://youtu.be/riPKwK8EUSI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mMHw7twhBLlb) | 이동엽; review:김재명      |     |
-|    | If Life Is a Meaningless Dream, I Want to Awake from It   | 0:10:46 |    |    | 2016-06-15      | 2016-04-24 ~ 2016-06-04 |
-| [797](sub/797) | 담배를 끊지 못하는 남편, 금연에 성공하려면?   | [![](img/youtube.png)](https://youtu.be/YhgroezcO5I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/MNep6TtkJfcJ) | 류창민;review:김재명      | subtitling:2h; review:30m    |
-|    | How Can My Husband Quit Smoking?    | 0:09:21 |    |    | 2016-07-01      | 2016-05-27 ~ 2016-05-29 |
-| [899](sub/899) | 교회, 성당, 절 어디를 가도 믿음이 안생겨요   | [![](img/youtube.png)](https://youtu.be/bocDnNgRhgE) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/UF0Y1vOk3z46) | 류창민      | 2h (reported)    |
-|    | I Cannot Hold on to Religious Beliefs    | 0:06:34 |    |    | 2016-07-15      | 2016-06-03 ~ 2016-06-08 |
-| [574](sub/574) | 헬스, 마사지, 화장, 아름다움에 대한 집착을 놔야 하나요   | [![](img/youtube.png)](https://youtu.be/BVccCzcYnZU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xVo0OdM6vxik) | 이동엽; review:김재명      |     |
-|    | Obsession over Physical Beauty    | 0:05:15 |    |    | 2016-08-01      | 2016-04-24 ~ 2016-05-16 |
-| [853](sub/853) | 고3 딸이 입시에 대한 중압감이 너무 큽니다   | [![](img/youtube.png)](https://youtu.be/fH1yUn-dYBU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/853-pressure-entrance-exam.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/AcdVe1mvtsDJ) | 이정화; review:김재명      | 1h, review(2h)    |
-|    | My Daughter Is under Too Much Pressure over the University Entrance Exam   | 0:04:14 |    |    | 2016-08-15      | 2016-05-06 ~ 2016-05-18 |
-| [823](sub/823) | 돌아가신 엄마, 천국에 계시는 게 맞을까요?   | [![](img/youtube.png)](https://youtu.be/BeJ3IRV1_mw) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/iaVsm9iWcMg0) | 류창민      | 1h (reported)    |
-|    | My Mom Passed Away 10 Years Ago. Is She in Heaven?   | 0:05:07 |    |    | 2016-09-02      | 2016-06-13 ~ 2016-06-13 |
-| [654](sub/654) | 기독교인으로서 다른 종교를 믿는 사람들을 어떻게 사랑해야 할까요   | [![](img/youtube.png)](https://youtu.be/9PYtetHi2SM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eLM0FgGPxqiY) | 이동엽, review:류창민      | subtitling:4h, review:1.5h    |
-|    | Be the Owner Wherever You Are   | 0:16:42 |    |    | 2016-09-15      | 2016-06-15 ~ 2016-06-27 |
-| [742](sub/742) | 아들이 여자가 되겠다고 합니다   | [![](img/youtube.png)](https://youtu.be/YHuR4TIUL7U) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M8NC9hnVtAGe) | 류창민, review:김재명      | 2h, review(1.5h)    |
-|    | My Son Wants to Become a Woman   | 0:10:11 |    |    | 2016-10-01      | 2016-06-08 ~ 2016-06-13 |
-| [839](sub/839) | 꿈이 없어서 생활이 멍한 것 같아요   | [![](img/youtube.png)](https://youtu.be/3sGvGaE3KOM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/1ODXjGX5Rtm2) | 김재명;리뷰:류창민      | 2.5h;리뷰:1.5h    |
-|    | I'm in a Daze as I Have No Dreams in Life   | 0:05:15 |    |    | 2016-10-15      | 2016-09-30 ~ 2016-09-30 |
-| [751](sub/751) | 직장에서 일어나는 분노조절   | [![](img/youtube.png)](https://youtu.be/6E3piBwAYrc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tW4OcBGfiBM9) | 이동엽;리뷰:류창민      | 4h;리뷰1h    |
-|    | Anger Management at Workplace   | 0:13:41 |    |    | 2016-11-01      | 2016-06-27 ~ 2016-07-17 |
-| [782](sub/782) | 남의 말과 행동에 쉽게 상처받아요   | [![](img/youtube.png)](https://youtu.be/8Pvu-oiUwA0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Ft1mYh9nvhY5) | 김미경;리뷰:김재명(1.5h)      |     |
-|    | I Get Easily Hurt by Other People   | 0:13:23 |    |    | 2016-12-01      | 2016-10-06 ~ 2016-11-20 |
-| [712](sub/712) | 오래전에 싸웠던 친구가 죽었는데 용서하고 조문을 가야할까요?   | [![](img/youtube.png)](https://youtu.be/4_xJwSP3ons) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pPeruS6bq7Kn) | 류창민(3h);리뷰:김재명(30m)      |     |
-|    | Should I Attend a Funeral of a Friend I Fell out with Long Ago?   | 0:10:14 |    |    | 2016-12-15      | 2016-06-13 ~ 2016-11-20 |
-| [458](sub/458) | 다른것이 당연하다   | [![](img/youtube.png)](https://youtu.be/govOd8cuYhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/esdoZWKXSqX5) | 성미연(3h):리뷰(김재명)(1h)      |     |
-|    | Being Different Is Normal   | 0:06:36 |    |    | 2017-01-01      | 2016-11-14 ~ 2016-11-20 |
-| [343](sub/343) | 학교폭력으로 맞은 후 분노로 힘들어요   | [![](img/youtube.png)](https://youtu.be/Ub9TVbIlfww) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d7kZEfE5iuUt) | 김승주(5h);리뷰:김재명(1.5h)      |     |
-|    | Distressed in Rage After School Violence   | 0:07:40 |    |    | 2017-01-17      |  ~ 2016-12-15 |
-| [544](sub/544) | 외국인 신랑과 부모님의 반대   | [![](img/youtube.png)](https://youtu.be/WLXQRjUWnRM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/PdrnuR4ri24I) | 김구슬래,김재명 (리뷰:김재명 1h)      |     |
-|    | Foreigner Fiance and Parental Disapproval   | 0:08:17 |    |    | 2017-02-01      | 2016-11-17 ~ 2016-11-28 |
-| [314](sub/314) | 전생과 윤회에 대하여   | [![](img/youtube.png)](https://youtu.be/446B1HlUoBo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/7Spitv2wN3AT) | 류창민(4h);리뷰:김재명(1h)      | 4h    |
-|    | On Reincarnation and Previous Lives    | 0:23:57 |    |    | 2017-02-15      | 2016-05-29 ~ 2016-06-03 |
-| [479](sub/479) | 분별심을 내는 나를 보기   | [![](img/youtube.png)](https://youtu.be/ayC4ET5xZeo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/RUeMPrAd0lsv) | 송명석;리뷰:김재명(30m)      |     |
-|    | Acknowledging Judgements Within You   | 0:06:40 |    |    | 2017-03-02      | 2016-10-06 ~ 2016-12-26 |
-| [149](sub/149) | 주관이 뚜렷하여 동료와 인간관계가 고통스럽습니다   | [![](img/youtube.png)](https://youtu.be/BT2Cgs8ety0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OgPIPbhTHPih) | Diana Lee, 김승주(5.5h); review:김재명(30m)      |     |
-|    | Strong Sense of Self Creates Difficulties in Relationships with Others   | 0:09:33 |    |    | 2017-03-15      |  ~  |
-| [1152](sub/1152) | 고락의 윤회에서 벗어나는 것이 해탈이다   | [![](img/youtube.png)](https://youtu.be/4YoJ8gpHVtk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4FtW57qYz1F) | Diana Lee(2h); 리뷰:김재명(1h)      |     |
-|    | Enlightenment Is Release from Samsara   | 0:09:41 |    |    | 2017-04-01      | 2017-03-02 ~ 2017-03-29 |
-| [2015-bday](sub/2015-bday) | 부처님오신날, '천상천하 유아독존'의 의미   | [![](img/youtube.png)](https://youtu.be/wsfTK1rRDms) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IkvQPJ3ePWPS) | 류창민(7h);리뷰:김재명(2h)      |     |
-|    | The Meaning of Buddha's First Words   | 0:49:23 |    |    | 2017-04-15      | 2016-08-17 ~ 2016-08-19 |
-| [907](sub/907) | 자녀가 종교를 선택할 때 무엇을 지침으로 삼도록 해야 하나요?   | [![](img/youtube.png)](https://youtu.be/A3moLtcNaY4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/907-childern-religion.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jbwI5jfgHQUR) | 류창민(3h)      |     |
-|    | What Should We Have Children Consider When They Choose a Religion?    | 0:16:15 |    |    | 2018-01-29      | 2017-03-31 ~ 2017-04-06 |
-| [1145](sub/1145) | 명상은 왜 하는지, 하면 무엇을 얻는지 궁금합니다   | [![](img/youtube.png)](https://youtu.be/GOeqkPLkRHI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1145/1145-meditation.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/IBCLvXZazoEh) | 김윤주; 리뷰:김재명      |     |
-|    | Why Do We Meditate? What Do We Gain from It?   | 0:09:47 |    |    | 2018-09-15      | 2017-11-14 ~ 2017-12-02 |
-| [760](sub/760) | 중 1, 초등 5학년 두 아들이 심하게 싸웁니다   | [![](img/youtube.png)](https://youtu.be/NLN6kDbQ3_8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/etWHW4kCQPfl) | 김윤주      |     |
-|    | My Sons, 5th and 7th Graders, Fight a Lot   | 0:07:27 |    |    | 2018-10-01      | 2017-12-06 ~ 2017-12-15 |
-| [791](sub/791) | 내가 내 인생의 희망이 되어 행복하게 살겠습니다.   | [![](img/youtube.png)](https://youtu.be/_ot08OX8nN8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GZIsdo4ILs9R) | 성미연(11h); review:류창민(3h)      |     |
-|    | I'll Become My Own Hope and Live a Happy Life   | 0:24:48 |    |    | 2018-10-15      |  ~ 2017-01-10 |
-| [859](sub/859) | 중학생 딸이 건망증이 심하고 정리정돈을 못해요.   | [![](img/youtube.png)](https://youtu.be/hf2UC-MNLNY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8fYUPqj5qulj) | 이동엽      | 5h    |
-|    | My Middle School Daughter Is Forgetful and Messy   | 0:10:42 |    |    | 2018-11-01      |  ~ 2016-10-20 |
-| [856](sub/856) | 대학생 딸 아이의 대화 거부, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/iVDdlG9WAiA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856-daughter-communication.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FrA1FHBsbkIi) | 김구슬래      | My daughter and I have stopped communicating.    |
-|    | My Daughter and I Have Stopped Communicating.   | 0:12:24 |    |    | 2018-11-15      | 2017-05-11 ~ 2018-05-23 |
-| [1142](sub/1142) | 싫어하는 사람에 대한 분별심을 어떻게 다스려야 할까요?   | [![](img/youtube.png)](https://youtu.be/z0s2PqD3smQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Zz8TOqgCDLJT) | 김구슬래(1.5h)      |     |
-|    | How Should I Think About a Person I Don't Like?    | 0:09:59 |    |    | 2018-12-01      | 2016-11-30 ~ 2017-03-06 |
-| [why108bae](sub/why108bae) | 108배를 왜 해야 하나요?   | [![](img/youtube.png)](https://youtu.be/YrTFJa3LNdY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/why108bae/why108bae.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/CDeSgTiBKdbx) | 김혜은      | 활동팀 급요청    |
-|    | Why do we do 108 prostrations?   | 0:10:48 |    |    | 2018-12-02      | 2018-12-01 ~ 2018-12-02 |
-| [639](sub/639) | 내가 못마땅합니다. 있는 그대로의 나를 어떻게 받아들일까요?   | [![](img/youtube.png)](https://youtu.be/i_P2Pb2sKFg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/FlrCQm4KCoV9) | 김재명      |     |
-|    | I don't like myself. How can I accept myself for who I am?   | 0:09:41 |    |    | 2018-12-15      | 2018-10-08 ~ 2018-10-08 |
-| [612](sub/612) | 남편과 십년 별거 후 이혼하려고 합니다. 인연의 마무리를 어떻게 하면 될까요?   | [![](img/youtube.png)](https://youtu.be/6pNKw8PEjpg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bLnVfS7wRF6q) | 성미연(4h30m); 리뷰:김재명      |     |
-|    | Defensive Mind   | 0:06:19 |    |    | 2019-01-01      | 2017-01-11 ~ 2019-01-18 |
-| [715](sub/715) | 다만 감사한 마음   | [![](img/youtube.png)](https://youtu.be/Y-wKVYTk9Hk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LMlWO7N0RpT3) | 이동엽(5h);리뷰:김재명      |     |
-|    | Nothing but Gratitude   | 0:12:51 |    |    | 2019-01-15      | 2016-10-21 ~ 2017-01-11 |
-| [788](sub/788) | 고집 센 나이 많은 부하직원   | [![](img/youtube.png)](https://youtu.be/1zmLtzcvP1M) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788-stubborn.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SsU0SJdE4vw0) | 김혜은; review:김재명      |     |
-|    | Stubborn Older Subordinate   | 0:11:52 |    |    | 2019-02-01      | 2018-11-13 ~ 2018-11-18 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
