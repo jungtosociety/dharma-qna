@@ -244,6 +244,7 @@ if __name__ == "__main__":
     f.write('\n')
     f.write('## Ready to Publish\n\n')
     gentab_published(f,'ready') # print ready subtitle for french team
+    f.write('\n')
     f.write('## Published\n\n')
     gentab_published(f,'published')
     f.close()

@@ -20,6 +20,7 @@
 | [764](https://github.com/jungtosociety/dharma-qna/blob/master/sub/764) | Shall I Tell My Son That He Should Have a Dream? | [![](img/youtube.png)](https://youtu.be/c1eBAqRBRhI) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | yyyy-mm-dd | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/en-764-child-education.sbv) |  |  |  |  |
 | [902](https://github.com/jungtosociety/dharma-qna/blob/master/sub/902) | My Husband Is Hostile and Stingy Toward My Family | [![](img/youtube.png)](https://youtu.be/u7ooq5WXr5o) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | yyyy-mm-dd | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/en-902-stingy-husband.sbv) |  |  |  |  |
 | [1144](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1144) | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends | [![](img/youtube.png)](https://youtu.be/um8JGo5reEY) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | yyyy-mm-dd | [en](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/en-1144-conflict-resolution.sbv) |  |  |  |  |
+
 ## Published
 
 | NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN | JA |
