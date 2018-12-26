@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 6 |
+|  [2. Subtitling](#2-subtitling-sub) | 5 |
 |  [3. Reviewing](#3-Reviewing-review) | 2|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 11|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 12|
 |  [5. Published](PROJECTS.md)  | 49|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
@@ -18,8 +18,6 @@
 |    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
 | [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   | [![](img/youtube.png)](https://youtu.be/WgpeWctk5X4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석      | 2018-1차 유튜브 자막 작업    |
 |    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
-| [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   | [![](img/youtube.png)](https://youtu.be/um8JGo5reEY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진      | 2018-1차 유튜브 자막 작업    |
-|    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~  |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   | [![](img/youtube.png)](https://youtu.be/mym8XpJhJ-o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) | 정민규      | 2018-1차 유튜브 자막 작업    |
 |    | Dealing With People I Hate   | 0:07:40 |    |    | yyyy-mm-dd      | 2018-12-18 ~  |
 ## 3. Reviewing (review)
@@ -56,6 +54,8 @@
 |    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-12 |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   | [![](img/youtube.png)](https://youtu.be/u7ooq5WXr5o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업    |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2018-12-18 |
+| [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   | [![](img/youtube.png)](https://youtu.be/um8JGo5reEY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진;review:김혜은      | 2018-1차 유튜브 자막 작업    |
+|    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~ 2018-12-26 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |

@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1144 |
-| Korean Subtitle | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김어진)<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김어진)<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김어진;review:김혜은)<br>on yyyy-mm-dd<br>[ko-1144-conflict-resolution.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/ko-1144-conflict-resolution.sbv)<br>|
+| English Subtitle | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김어진;review:김혜은)<br>on yyyy-mm-dd<br>[en-1144-conflict-resolution.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/en-1144-conflict-resolution.sbv)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
