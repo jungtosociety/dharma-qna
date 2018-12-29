@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 5 |
+|  [2. Subtitling](#2-subtitling-sub) | 3 |
 |  [3. Reviewing](#3-Reviewing-review) | 2|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 12|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 14|
 |  [5. Published](PROJECTS.md)  | 49|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
@@ -16,10 +16,6 @@
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
 | [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/9TDg_Ue-D3I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래      | 2018-1차 유튜브 자막 작업    |
 |    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
-| [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   | [![](img/youtube.png)](https://youtu.be/WgpeWctk5X4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석;review:김혜은      | 2018-1차 유튜브 자막 작업    |
-|    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
-| [1187](sub/1187) | 싫어하는 사람을 대할 때   | [![](img/youtube.png)](https://youtu.be/mym8XpJhJ-o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) | 정민규;review:김혜은      | 2018-1차 유튜브 자막 작업    |
-|    | Dealing With People I Hate   | 0:07:40 |    |    | yyyy-mm-dd      | 2018-12-18 ~  |
 ## 3. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -54,8 +50,12 @@
 |    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-12 |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   | [![](img/youtube.png)](https://youtu.be/u7ooq5WXr5o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업    |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2018-12-18 |
+| [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   | [![](img/youtube.png)](https://youtu.be/WgpeWctk5X4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석;review:김혜은      | 2018-1차 유튜브 자막 작업    |
+|    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
 | [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   | [![](img/youtube.png)](https://youtu.be/um8JGo5reEY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진;review:김혜은      | 2018-1차 유튜브 자막 작업    |
 |    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~ 2018-12-26 |
+| [1187](sub/1187) | 싫어하는 사람을 대할 때   | [![](img/youtube.png)](https://youtu.be/mym8XpJhJ-o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) | 정민규;review:김혜은      | 2018-1차 유튜브 자막 작업    |
+|    | Dealing With People I Hate   | 0:07:40 |    |    | yyyy-mm-dd      | 2018-12-18 ~  |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
