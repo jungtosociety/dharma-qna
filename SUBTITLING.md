@@ -4,7 +4,7 @@
 |  [3. Reviewing](#3-Reviewing-review) | 2|
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 14|
 |  [5. Published](PROJECTS.md)  | 49|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 50|
 
 ## 2. Subtitling (sub)
 
@@ -124,3 +124,39 @@
 |    | Can I change my irritable personality?   | 0:12:07 |    |    | yyyy-mm-dd      |  ~  |
 | [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   | [![](img/youtube.png)](https://youtu.be/p5lfM0DHkTg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/knSk0JzlyDoH) |       |     |
 |    | I feel lost after graduating college    | 0:16:36 |    |    | yyyy-mm-dd      |  ~  |
+| [41](sub/41) | 깨장을 갔다온 후 제 꼴을 보니 괴롭습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/41/41-miserable-after-retreat.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/01KkDXF6q8XU) |       | video bluring required    |
+|    | I Feel Miserable After Attending Meditation Retreat   | 0:11:22 |    |    | yyyy-mm-dd      |  ~  |
+| [362](sub/362) | 자신을 행복하게 하는 법   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/362/362-how-to-be-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/zI5gpG2GEsMx) |       | video bluring required    |
+|    | How to Be Happy   | 0:25:12 |    |    | yyyy-mm-dd      |  ~  |
+| [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) |       | video bluring required    |
+|    | Letting Go; Just Observing   | 0:14:34 |    |    | yyyy-mm-dd      |  ~  |
+| [607](sub/607) | 자기 삶을 풍요롭게   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/607/607-richer-life.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cqfthIYdtThZ) |       | video bluring required    |
+|    |    | 0:06:56 |    |    | yyyy-mm-dd      |  ~  |
+| [711](sub/711) | 객관적 진실   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/711/711-objective-truth.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bqnTZiBD5jmY) |       | video bluring required    |
+|    | The Objective Truth   | 0:21:50 |    |    | yyyy-mm-dd      |  ~  |
+| [716](sub/716) | 타인에 대한 미움을 어떻게 없앨 수 있을까요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/716/716-hatred-toward-others.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/m7i4eLLjRnEZ) |       | video bluring required    |
+|    | How Can I Overcome Hatred Towards Others?   | 0:08:38 |    |    | yyyy-mm-dd      |  ~  |
+| [720](sub/720) | 진리에 눈뜨는 시간   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/720/720-open-your-eyes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/CoHQCdHk1rft) |       | video bluring required    |
+|    | Open Your Eyes to the Truth   | 0:10:16 |    |    | yyyy-mm-dd      |  ~  |
+| [832](sub/832) | 자신감이 없어지고 제 자신이 어색하게 느껴져요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/832/832-losing-self-confidence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M40rsReJMVOd) |       | video bluring required    |
+|    | Losing Self-Confidence and Feeling Awkward   | 0:10:02 |    |    | yyyy-mm-dd      |  ~  |
+| [870](sub/870) | 왜 사는가요? 베풀고 살아야겠다 생각은 하는데…   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/870/870-why-do-we-live.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) |       | video bluring required    |
+|    | Why Do We Live? To Give to Others?   | 0:06:53 |    |    | yyyy-mm-dd      |  ~  |
+| [896](sub/896) | 의대에 입학했는데, 학교 다니는게 부담되고 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/896/896-medical-school.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/maRRJEDLCFJ2) |       | video bluring required    |
+|    | I'm Having a Hard Time in Medical School.   | 0:07:21 |    |    | yyyy-mm-dd      |  ~  |
+| [971](sub/971) | 남과 나를 비교하는 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/971/971-comparing-myself-to-others.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gbBuDAs3DCBu) |       | video bluring required    |
+|    | Comparing Myself to Others   | 0:16:24 |    |    | yyyy-mm-dd      |  ~  |
+| [1125](sub/1125) | 길에 난 풀처럼 산다는 것의 의미   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1125/1125-live-like-grass.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8SWLK89CIACd) |       | video bluring required    |
+|    | What It Means to Live Like Grass   | 0:11:13 |    |    | yyyy-mm-dd      |  ~  |
+| [1147](sub/1147) | 욕망은 욕망인줄 알아차리면 된다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1147/1147-ack-desires.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cBg3Q8k0iPvZ) |       | video bluring required    |
+|    | Acknowledge Your Desires as Desires   | 0:09:14 |    |    | yyyy-mm-dd      |  ~  |
+| [1156](sub/1156) | 성당에 다니고 있는데 절에 다녀도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1156/1156-catholic-buddhist.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/XcxDGyXRVgEb) |       | video bluring required    |
+|    | Can a Catholic Person Attend a Buddhist Temple?   | 0:17:04 |    |    | yyyy-mm-dd      |  ~  |
+| [1185](sub/1185) | 불행에 대처하는 자세   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fLHpahoKD9J0) |       | video bluring required    |
+|    | Coping With Misfortune   | 0:16:10 |    |    | yyyy-mm-dd      |  ~  |
+| [1201](sub/1201) | 배우자를 잘 고르는 법   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1201/1201-select-life-partner.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mZ605zw4Yqa9) |       | video bluring required    |
+|    | How to Select a Life Partner   | 0:12:12 |    |    | yyyy-mm-dd      |  ~  |
+| [1209](sub/1209) | 혼혈 아이의 정체성 교육   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/P378nQ0l6yQP) |       | video bluring required    |
+|    | A Biracial Child's Identity   | 0:05:04 |    |    | yyyy-mm-dd      |  ~  |
+| [1318](sub/1318) | 사랑을 못 받고 자랐어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d15E5gPvlyUe) |       | video bluring required    |
+|    | I Grew up Unloved   | 0:24:26 |    |    | yyyy-mm-dd      |  ~  |
