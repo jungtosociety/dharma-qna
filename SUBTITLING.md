@@ -32,7 +32,7 @@
 |    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | yyyy-mm-dd      | 2017-01-17 ~ 2017-04-03 |
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) | 이동엽(4h); review:김혜은      |     |
 |    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | yyyy-mm-dd      | 2017-01-11 ~ 2017-03-18 |
-| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   | [![](img/youtube.png)](https://youtu.be/gIR9KlSzAGc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주;review:김혜은      | 대부분 완성된 걸로 보임 - 리뷰진행?    |
+| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   | [![](img/youtube.png)](https://youtu.be/gIR9KlSzAGc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주;review:김혜은      |     |
 |    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | yyyy-mm-dd      | 2017-05-11 ~ 2019-01-02 |
 | [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   | [![](img/youtube.png)](https://youtu.be/ivGaGre0tV0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/oHMHtILzWcXl) | 유승진(10h);review:김혜은      |     |
 |    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | yyyy-mm-dd      | 2017-03-14 ~ 2017-03-22 |
