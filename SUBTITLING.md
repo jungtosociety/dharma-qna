@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 3 |
+|  [2. Subtitling](#2-subtitling-sub) | 2 |
 |  [3. Reviewing](#3-Reviewing-review) | 2|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 14|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 15|
 |  [5. Published](PROJECTS.md)  | 49|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 50|
 
@@ -10,8 +10,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   | [![](img/youtube.png)](https://youtu.be/gIR9KlSzAGc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주      | 대부분 완성된 걸로 보임 - 리뷰진행?    |
-|    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | yyyy-mm-dd      | 2017-05-11 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   | [![](img/youtube.png)](https://youtu.be/lgoFrtW-vi8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
 | [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/9TDg_Ue-D3I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래      | 2018-1차 유튜브 자막 작업    |
@@ -34,6 +32,8 @@
 |    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | yyyy-mm-dd      | 2017-01-17 ~ 2017-04-03 |
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) | 이동엽(4h); review:김혜은      |     |
 |    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | yyyy-mm-dd      | 2017-01-11 ~ 2017-03-18 |
+| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   | [![](img/youtube.png)](https://youtu.be/gIR9KlSzAGc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주;review:김혜은      | 대부분 완성된 걸로 보임 - 리뷰진행?    |
+|    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | yyyy-mm-dd      | 2017-05-11 ~ 2019-01-02 |
 | [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   | [![](img/youtube.png)](https://youtu.be/ivGaGre0tV0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/oHMHtILzWcXl) | 유승진(10h);review:김혜은      |     |
 |    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | yyyy-mm-dd      | 2017-03-14 ~ 2017-03-22 |
 | [691](sub/691) | 내 상처   | [![](img/youtube.png)](https://youtu.be/kQ7JkVvgYwI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연;review:김혜은      | 2018-1차 유튜브 자막 작업    |
