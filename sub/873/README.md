@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 873 |
-| Korean Subtitle | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김구슬래)<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | My Father Broke His Leg Over 20 Times.  How Can I Help Him? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김구슬래)<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김구슬래; review:김혜은)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | My Father Broke His Leg Over 20 Times.  How Can I Help Him? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김구슬래; review:김혜은)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

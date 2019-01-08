@@ -1,27 +1,29 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 2 |
-|  [3. Reviewing](#3-Reviewing-review) | 2|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 15|
+|  [2. Subtitling](#2-subtitling-sub) | 4 |
+|  [3. Reviewing](#3-Reviewing-review) | 1|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
 |  [5. Published](PROJECTS.md)  | 49|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 50|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 47|
 
 ## 2. Subtitling (sub)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 성미연      | 2019-1차 유튜브 자막 작업    |
+|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      | 2019-01-07 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   | [![](img/youtube.png)](https://youtu.be/lgoFrtW-vi8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
-| [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/9TDg_Ue-D3I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래      | 2018-1차 유튜브 자막 작업    |
-|    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~  |
+| [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/Pv5rUURLM10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hGvb6ZqazjOx) | 구슬래      | 2019-1차 유튜브 자막 작업    |
+|    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   | 0:07:42 |    |    | yyyy-mm-dd      | 2019-01-07 ~  |
+| [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) | 정민규      | 2019-1차 유튜브 자막 작업; video bluring required    |
+|    | Letting Go; Just Observing   | 0:14:34 |    |    | yyyy-mm-dd      | 2019-01-07 ~  |
 ## 3. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [449](sub/449) | 아버지에 대한 참회   | [![](img/youtube.png)](https://youtu.be/xBY8AwF5cA4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정      |     |
-|    | Repentance Towards Father   | 0:08:12 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-22 |
-| [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   | [![](img/youtube.png)](https://youtu.be/V5vS3lSQ3e8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래      |     |
-|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | yyyy-mm-dd      | 2018-05-27 ~ 2018-08-31 |
+| [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/9TDg_Ue-D3I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래; review:김혜은      | 2018-1차 유튜브 자막 작업    |
+|    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2019-01-07 |
 ## 4. Ready to Publish (ready)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -48,6 +50,10 @@
 |    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | yyyy-mm-dd      | 2018-03-27 ~ 2018-04-21 |
 | [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   | [![](img/youtube.png)](https://youtu.be/c1eBAqRBRhI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주;review:김재명      |     |
 |    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-12 |
+| [449](sub/449) | 아버지에 대한 참회   | [![](img/youtube.png)](https://youtu.be/xBY8AwF5cA4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정; review:김혜은      |     |
+|    | Repentance Towards Father   | 0:08:12 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-22 |
+| [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   | [![](img/youtube.png)](https://youtu.be/V5vS3lSQ3e8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래; review:김혜은      |     |
+|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | yyyy-mm-dd      | 2018-05-27 ~ 2018-08-31 |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   | [![](img/youtube.png)](https://youtu.be/u7ooq5WXr5o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업    |
 |    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2018-12-18 |
 | [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   | [![](img/youtube.png)](https://youtu.be/WgpeWctk5X4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석;review:김혜은      | 2018-1차 유튜브 자막 작업    |
@@ -64,8 +70,6 @@
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      |  ~  |
 | [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/1qvZ4oLYc40) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) |       |     |
 |    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | yyyy-mm-dd      |  ~  |
-| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) |       |     |
-|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      |  ~  |
 | [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   | [![](img/youtube.png)](https://youtu.be/2rwYkIxDcBc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eruO2tD1qxVI) |       |     |
 |    | I avoid people I don't like. How can I change myself?    | 0:09:01 |    |    | yyyy-mm-dd      |  ~  |
 | [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   | [![](img/youtube.png)](https://youtu.be/fXjizBQvvnE) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) |       |     |
@@ -114,8 +118,6 @@
 |    | I attend the same school as my ex-boyfriend and his new girlfriend.   | 0:10:07 |    |    | yyyy-mm-dd      |  ~  |
 | [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   | [![](img/youtube.png)](https://youtu.be/wzouEry_V8w) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) |       |     |
 |    | How do you handle stress?   | 0:11:06 |    |    | yyyy-mm-dd      |  ~  |
-| [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/Pv5rUURLM10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hGvb6ZqazjOx) |       |     |
-|    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   | 0:07:42 |    |    | yyyy-mm-dd      |  ~  |
 | [895](sub/895) | 희망세상을 만드는 5가지 희망실천   | [![](img/youtube.png)](https://youtu.be/iQePouwLYwQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SaReVUhcxyTl) |       |     |
 |    | 5 righteous actions to create a world of hope.   | 0:09:30 |    |    | yyyy-mm-dd      |  ~  |
 | [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   | [![](img/youtube.png)](https://youtu.be/jtXnfhFzSqw) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) |       |     |
@@ -128,8 +130,6 @@
 |    | I Feel Miserable After Attending Meditation Retreat   | 0:11:22 |    |    | yyyy-mm-dd      |  ~  |
 | [362](sub/362) | 자신을 행복하게 하는 법   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/362/362-how-to-be-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/zI5gpG2GEsMx) |       | video bluring required    |
 |    | How to Be Happy   | 0:25:12 |    |    | yyyy-mm-dd      |  ~  |
-| [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) |       | video bluring required    |
-|    | Letting Go; Just Observing   | 0:14:34 |    |    | yyyy-mm-dd      |  ~  |
 | [607](sub/607) | 자기 삶을 풍요롭게   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/607/607-richer-life.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cqfthIYdtThZ) |       | video bluring required    |
 |    |    | 0:06:56 |    |    | yyyy-mm-dd      |  ~  |
 | [711](sub/711) | 객관적 진실   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/711/711-objective-truth.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bqnTZiBD5jmY) |       | video bluring required    |
