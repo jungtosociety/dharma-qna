@@ -131,7 +131,7 @@
 | [362](sub/362) | 자신을 행복하게 하는 법   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/362/362-how-to-be-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/zI5gpG2GEsMx) |       | video bluring required    |
 |    | How to Be Happy   | 0:25:12 |    |    | yyyy-mm-dd      |  ~  |
 | [607](sub/607) | 자기 삶을 풍요롭게   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/607/607-richer-life.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cqfthIYdtThZ) |       | video bluring required    |
-|    |    | 0:06:56 |    |    | yyyy-mm-dd      |  ~  |
+|    | To Live a Fulfilling Life   | 0:06:56 |    |    | yyyy-mm-dd      |  ~  |
 | [711](sub/711) | 객관적 진실   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/711/711-objective-truth.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bqnTZiBD5jmY) |       | video bluring required    |
 |    | The Objective Truth   | 0:21:50 |    |    | yyyy-mm-dd      |  ~  |
 | [716](sub/716) | 타인에 대한 미움을 어떻게 없앨 수 있을까요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/716/716-hatred-toward-others.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/m7i4eLLjRnEZ) |       | video bluring required    |
