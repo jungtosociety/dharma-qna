@@ -154,7 +154,7 @@
 |    | Can a Catholic Person Attend a Buddhist Temple?   | 0:17:04 |    |    | yyyy-mm-dd      |  ~  |
 | [1185](sub/1185) | 불행에 대처하는 자세   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fLHpahoKD9J0) |       | video bluring required    |
 |    | Coping With Misfortune   | 0:16:10 |    |    | yyyy-mm-dd      |  ~  |
-| [1201](sub/1201) | 배우자를 잘 고르는 법   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1201/1201-select-life-partner.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mZ605zw4Yqa9) |       | video bluring required    |
+| [1201](sub/1201) | 배우자를 잘 고르는 법   | [![](img/youtube.png)](https://youtu.be/cSUVTHw5In0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1201/1201-select-life-partner.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mZ605zw4Yqa9) |       |     |
 |    | How to Select a Life Partner   | 0:12:12 |    |    | yyyy-mm-dd      |  ~  |
 | [1209](sub/1209) | 혼혈 아이의 정체성 교육   | [![](img/youtube.png)](https://youtu.be/Sbzpj6933JA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/P378nQ0l6yQP) |       |     |
 |    | A Biracial Child's Identity   | 0:05:04 |    |    | yyyy-mm-dd      |  ~  |
