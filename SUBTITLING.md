@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 4 |
+|  [2. Subtitling](#2-subtitling-sub) | 2 |
 |  [3. Reviewing](#3-Reviewing-review) | 1|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 11|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 13|
 |  [5. Published](PROJECTS.md)  | 55|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 47|
 
@@ -14,10 +14,6 @@
 |    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      | 2019-01-07 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   | [![](img/youtube.png)](https://youtu.be/lgoFrtW-vi8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
-| [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/Pv5rUURLM10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hGvb6ZqazjOx) | 구슬래      | 2019-1차 유튜브 자막 작업    |
-|    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   | 0:07:42 |    |    | yyyy-mm-dd      | 2019-01-07 ~  |
-| [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) | 정민규      | 2019-1차 유튜브 자막 작업; video bluring required    |
-|    | Letting Go; Just Observing   | 0:14:34 |    |    | yyyy-mm-dd      | 2019-01-07 ~  |
 ## 3. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -50,6 +46,10 @@
 |    | Dealing With People I Hate   | 0:07:40 |    |    | 2019-09-14      | 2018-12-18 ~ 2018-12-31 |
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   | [![](img/youtube.png)](https://youtu.be/gIR9KlSzAGc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주;review:김혜은      |     |
 |    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2019-09-28      | 2017-05-11 ~ 2019-01-02 |
+| [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/Pv5rUURLM10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hGvb6ZqazjOx) | 구슬래; review:김혜은      | 2019-1차 유튜브 자막 작업    |
+|    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   | 0:07:42 |    |    | 2019-10-12      | 2019-01-07 ~ 2019-01-28 |
+| [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   | [![](img/youtube.png)](https://youtu.be/WsrJ6PqKyYk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) | 정민규; review:김혜은      | 2019-1차 유튜브 자막 작업; video bluring required    |
+|    | Letting Go; Just Observing   | 0:14:34 |    |    | 2019-10-26      | 2019-01-07 ~ 2019-01-29 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
