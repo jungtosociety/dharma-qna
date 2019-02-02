@@ -29,39 +29,39 @@
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) | 유승진(20h); review:김재명      |     |
-|    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | yyyy-mm-dd      | 2017-03-07 ~ 2017-03-14 |
-| [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   | [![](img/youtube.png)](https://youtu.be/jhmIAJKKr54) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i2FMC5HJ8YTS) | Diana Lee, 송명석(3h); review:김혜은      |     |
-|    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | yyyy-mm-dd      | 2017-01-17 ~ 2017-04-03 |
+|    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | 2019-02-15      | 2017-03-07 ~ 2017-03-14 |
 | [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) | 이동엽(4h); review:김혜은      |     |
-|    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | yyyy-mm-dd      | 2017-01-11 ~ 2017-03-18 |
-| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   | [![](img/youtube.png)](https://youtu.be/gIR9KlSzAGc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주;review:김혜은      |     |
-|    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | yyyy-mm-dd      | 2017-05-11 ~ 2019-01-02 |
+|    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | 2019-03-01      | 2017-01-11 ~ 2017-03-18 |
 | [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   | [![](img/youtube.png)](https://youtu.be/ivGaGre0tV0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/oHMHtILzWcXl) | 유승진(10h);review:김혜은      |     |
-|    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | yyyy-mm-dd      | 2017-03-14 ~ 2017-03-22 |
-| [691](sub/691) | 내 상처   | [![](img/youtube.png)](https://youtu.be/kQ7JkVvgYwI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연;review:김혜은      | 2018-1차 유튜브 자막 작업    |
-|    | My Wounds   | 0:10:51 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2018-12-20 |
-| [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   | [![](img/youtube.png)](https://youtu.be/gg7A8XWrgxU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주; review:김혜은      |     |
-|    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | yyyy-mm-dd      | 2017-12-18 ~ 2018-1-9 |
+|    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | 2019-03-15      | 2017-03-14 ~ 2017-03-22 |
+| [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   | [![](img/youtube.png)](https://youtu.be/jhmIAJKKr54) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i2FMC5HJ8YTS) | Diana Lee, 송명석(3h); review:김혜은      |     |
+|    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | 2019-04-01      | 2017-01-17 ~ 2017-04-03 |
 | [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   | [![](img/youtube.png)](https://youtu.be/mLGxpMK6Ew0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dy1Sd1hnhEQF) | 김윤주;review:김혜은      |     |
-|    | Studying to Become a Lawyer   | 0:17:14 |    |    | yyyy-mm-dd      | 2018-01-19 ~ 2018-02-21 |
+|    | Studying to Become a Lawyer   | 0:17:14 |    |    | 2019-04-15      | 2018-01-19 ~ 2018-02-21 |
 | [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   | [![](img/youtube.png)](https://youtu.be/xI91lrdy65Q) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Y05WuO1OZjDZ) | 김윤주;review:김혜은      |     |
-|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | yyyy-mm-dd      | 2018-02-23 ~ 2018-03-05 |
+|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | 2019-05-01      | 2018-02-23 ~ 2018-03-05 |
 | [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   | [![](img/youtube.png)](https://youtu.be/q9h4540j2tM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주;review:김혜은      |     |
-|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | yyyy-mm-dd      | 2018-03-27 ~ 2018-04-21 |
+|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | 2019-05-15      | 2018-03-27 ~ 2018-04-21 |
 | [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   | [![](img/youtube.png)](https://youtu.be/c1eBAqRBRhI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주;review:김재명      |     |
-|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-12 |
+|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | 2019-06-01      | 2018-05-12 ~ 2018-08-12 |
 | [449](sub/449) | 아버지에 대한 참회   | [![](img/youtube.png)](https://youtu.be/xBY8AwF5cA4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정; review:김혜은      |     |
-|    | Repentance Towards Father   | 0:08:12 |    |    | yyyy-mm-dd      | 2018-05-12 ~ 2018-08-22 |
+|    | Repentance Towards Father   | 0:08:12 |    |    | 2019-06-15      | 2018-05-12 ~ 2018-08-22 |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   | [![](img/youtube.png)](https://youtu.be/V5vS3lSQ3e8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래; review:김혜은      |     |
-|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | yyyy-mm-dd      | 2018-05-27 ~ 2018-08-31 |
+|    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2019-07-01      | 2018-05-27 ~ 2018-08-31 |
+| [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   | [![](img/youtube.png)](https://youtu.be/gg7A8XWrgxU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주; review:김혜은      |     |
+|    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | 2019-07-15      | 2017-12-18 ~ 2018-1-9 |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   | [![](img/youtube.png)](https://youtu.be/u7ooq5WXr5o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업    |
-|    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2018-12-18 |
-| [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   | [![](img/youtube.png)](https://youtu.be/WgpeWctk5X4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석;review:김혜은      | 2018-1차 유튜브 자막 작업    |
-|    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | yyyy-mm-dd      | 2018-11-30 ~  |
+|    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | 2019-08-01      | 2018-11-27 ~ 2018-12-18 |
+| [691](sub/691) | 내 상처   | [![](img/youtube.png)](https://youtu.be/kQ7JkVvgYwI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연;review:김혜은      | 2018-1차 유튜브 자막 작업    |
+|    | My Wounds   | 0:10:51 |    |    | 2019-08-15      | 2018-11-27 ~ 2018-12-20 |
 | [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   | [![](img/youtube.png)](https://youtu.be/um8JGo5reEY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진;review:김혜은      | 2018-1차 유튜브 자막 작업    |
-|    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | yyyy-mm-dd      | 2018-11-29 ~ 2018-12-26 |
+|    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | 2019-09-01      | 2018-11-29 ~ 2018-12-26 |
+| [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   | [![](img/youtube.png)](https://youtu.be/WgpeWctk5X4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석;review:김혜은      | 2018-1차 유튜브 자막 작업    |
+|    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | 2019-09-15      | 2018-11-30 ~ 2018-12-31 |
 | [1187](sub/1187) | 싫어하는 사람을 대할 때   | [![](img/youtube.png)](https://youtu.be/mym8XpJhJ-o) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) | 정민규;review:김혜은      | 2018-1차 유튜브 자막 작업    |
-|    | Dealing With People I Hate   | 0:07:40 |    |    | yyyy-mm-dd      | 2018-12-18 ~  |
+|    | Dealing With People I Hate   | 0:07:40 |    |    | 2019-10-01      | 2018-12-18 ~ 2018-12-31 |
+| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   | [![](img/youtube.png)](https://youtu.be/gIR9KlSzAGc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주;review:김혜은      |     |
+|    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2019-10-15      | 2017-05-11 ~ 2019-01-02 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
