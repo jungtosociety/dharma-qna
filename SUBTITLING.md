@@ -2,8 +2,8 @@
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 4 |
 |  [3. Reviewing](#3-Reviewing-review) | 1|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
-|  [5. Published](PROJECTS.md)  | 49|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 11|
+|  [5. Published](PROJECTS.md)  | 55|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 47|
 
 ## 2. Subtitling (sub)
@@ -28,18 +28,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [377](sub/377) | 108배와 실생활에서 번뇌가 생길 때   | [![](img/youtube.png)](https://youtu.be/otcyWv5HGhM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/liM2NIQynAkQ) | 유승진(20h); review:김재명      |     |
-|    | Anguishes During Daily Life and 108 Bowing   | 0:29:54 |    |    | 2019-02-16      | 2017-03-07 ~ 2017-03-14 |
-| [113](sub/113) | 종교는 왜 서로 싸울까요?   | [![](img/youtube.png)](https://youtu.be/GqzbIxJ52PI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/2ieZlMxO4Fro) | 이동엽(4h); review:김혜은      |     |
-|    | Why Do Religions Fight with Each Other?   | 0:04:40 |    |    | 2019-03-02      | 2017-01-11 ~ 2017-03-18 |
-| [405](sub/405) | 모든 법에는 옳고 그름이 없다, 계를 세우는 이유   | [![](img/youtube.png)](https://youtu.be/ivGaGre0tV0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/oHMHtILzWcXl) | 유승진(10h);review:김혜은      |     |
-|    | There Is No Inherent Right and Wrong. The Reason for Precepts.   | 0:21:28 |    |    | 2019-03-16      | 2017-03-14 ~ 2017-03-22 |
-| [28](sub/28) | 자립 못하는 것이 어머니 때문이라 생각하면 화가 납니다.   | [![](img/youtube.png)](https://youtu.be/jhmIAJKKr54) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i2FMC5HJ8YTS) | Diana Lee, 송명석(3h); review:김혜은      |     |
-|    | I Blame My Mother for Making Me Reliant   | 0:05:51 |    |    | 2019-03-30      | 2017-01-17 ~ 2017-04-03 |
-| [674](sub/674) | 일을 하는 본질적인 이유를 알고 싶습니다   | [![](img/youtube.png)](https://youtu.be/mLGxpMK6Ew0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dy1Sd1hnhEQF) | 김윤주;review:김혜은      |     |
-|    | Studying to Become a Lawyer   | 0:17:14 |    |    | 2019-04-13      | 2018-01-19 ~ 2018-02-21 |
-| [800](sub/800) | 미리 걱정하는 마음, 잘하고 싶은 마음   | [![](img/youtube.png)](https://youtu.be/xI91lrdy65Q) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Y05WuO1OZjDZ) | 김윤주;review:김혜은      |     |
-|    | Worrying Mind, Perfectionist Mind   | 0:03:35 |    |    | 2019-04-27      | 2018-02-23 ~ 2018-03-05 |
 | [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   | [![](img/youtube.png)](https://youtu.be/q9h4540j2tM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주;review:김혜은      |     |
 |    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | 2019-05-11      | 2018-03-27 ~ 2018-04-21 |
 | [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   | [![](img/youtube.png)](https://youtu.be/c1eBAqRBRhI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주;review:김재명      |     |
