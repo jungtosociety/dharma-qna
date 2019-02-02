@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 792 |
-| Korean Subtitle | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요. \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김구슬래; review:김혜은)<br>on 2019-07-01<br>[ko-792-disability.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/ko-792-disability.sbv)<br>|
-| English Subtitle | Difficulty of Raising an 8th Grader with Intellectual Disability \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김구슬래; review:김혜은)<br>on 2019-07-01<br>[en-792-disability.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/en-792-disability.sbv)<br>|
+| Korean Subtitle | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요. \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김구슬래; review:김혜은)<br>on 2019-06-22<br>[ko-792-disability.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/ko-792-disability.sbv)<br>|
+| English Subtitle | Difficulty of Raising an 8th Grader with Intellectual Disability \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김구슬래; review:김혜은)<br>on 2019-06-22<br>[en-792-disability.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/en-792-disability.sbv)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
