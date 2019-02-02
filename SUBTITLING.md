@@ -4,7 +4,7 @@
 |  [3. Reviewing](#3-Reviewing-review) | 1|
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 13|
 |  [5. Published](PROJECTS.md)  | 55|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 47|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 48|
 
 ## 2. Subtitling (sub)
 
@@ -48,7 +48,7 @@
 |    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2019-09-28      | 2017-05-11 ~ 2019-01-02 |
 | [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/Pv5rUURLM10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hGvb6ZqazjOx) | 구슬래; review:김혜은      | 2019-1차 유튜브 자막 작업    |
 |    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   | 0:07:42 |    |    | 2019-10-12      | 2019-01-07 ~ 2019-01-28 |
-| [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   | [![](img/youtube.png)](https://youtu.be/WsrJ6PqKyYk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) | 정민규; review:김혜은      | 2019-1차 유튜브 자막 작업; video bluring required    |
+| [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   | [![](img/youtube.png)](https://youtu.be/WsrJ6PqKyYk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) | 정민규; review:김혜은      | 2019-1차 유튜브 자막 작업    |
 |    | Letting Go; Just Observing   | 0:14:34 |    |    | 2019-10-26      | 2019-01-07 ~ 2019-01-29 |
 ## 1. Ready to Subtitle (unassigned)
 
@@ -148,3 +148,5 @@
 |    | A Biracial Child's Identity   | 0:05:04 |    |    | yyyy-mm-dd      |  ~  |
 | [1318](sub/1318) | 사랑을 못 받고 자랐어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d15E5gPvlyUe) |       | video bluring required    |
 |    | I Grew up Unloved   | 0:24:26 |    |    | yyyy-mm-dd      |  ~  |
+| [1203](sub/1203) | 행복은 마음먹기에 따라 달라진다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1203/1203-happiness.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LKelMWSyNCBG) |       | video bluring required    |
+|    | Happiness Is a State of Mind   | 0:11:33 |    |    | yyyy-mm-dd      |  ~  |
