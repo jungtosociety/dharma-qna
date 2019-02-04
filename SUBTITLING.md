@@ -1,25 +1,29 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 2 |
-|  [3. Reviewing](#3-Reviewing-review) | 1|
+|  [2. Subtitling](#2-subtitling-sub) | 1 |
+|  [3. Reviewing](#3-Reviewing-review) | 4|
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 13|
 |  [5. Published](PROJECTS.md)  | 55|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 48|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 46|
 
 ## 2. Subtitling (sub)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 성미연      | 2019-1차 유튜브 자막 작업    |
-|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      | 2019-01-07 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   | [![](img/youtube.png)](https://youtu.be/lgoFrtW-vi8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
 ## 3. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 성미연; review:김혜은      | 2019-1차 유튜브 자막 작업    |
+|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      | 2019-01-07 ~ 2019-02-03 |
 | [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/9TDg_Ue-D3I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래; review:김혜은      | 2018-1차 유튜브 자막 작업    |
 |    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2019-01-07 |
+| [695](sub/695) | 시비하는 직장동료   | [![](img/youtube.png)](https://youtu.be/b4ASwYvp1zc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
+|    | An Argumentative Co-worker   | 0:03:09 |    |    | yyyy-mm-dd      |  ~ 2019-02-03 |
+| [1209](sub/1209) | 혼혈 아이의 정체성 교육   | [![](img/youtube.png)](https://youtu.be/Sbzpj6933JA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/P378nQ0l6yQP) | 임희정; review:김혜은      |     |
+|    | A Biracial Child's Identity   | 0:05:04 |    |    | yyyy-mm-dd      |  ~ 2019-02-03 |
 ## 4. Ready to Publish (ready)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -98,8 +102,6 @@
 |    | Do Your Best, but Don't Cling to Results   | 0:08:05 |    |    | yyyy-mm-dd      |  ~  |
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   | [![](img/youtube.png)](https://youtu.be/Zmxa9CIX4B0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DLO7Pn1QRv0o) |       |     |
 |    | The Sewol Ferry Tragedy   | 0:17:14 |    |    | yyyy-mm-dd      |  ~  |
-| [695](sub/695) | 시비하는 직장동료   | [![](img/youtube.png)](https://youtu.be/b4ASwYvp1zc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) |       |     |
-|    | An Argumentative Co-worker   | 0:03:09 |    |    | yyyy-mm-dd      |  ~  |
 | [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   | [![](img/youtube.png)](https://youtu.be/iIgepLPjNhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jM92tReRhODU) |       |     |
 |    | Recovering the wild and natural quality   | 0:14:18 |    |    | yyyy-mm-dd      |  ~  |
 | [777](sub/777) | 헤어진 남자친구와 새여자친구가 같은 캠퍼스에요.   | [![](img/youtube.png)](https://youtu.be/o0Q9QDDIU18) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jd5yrCgnF9lh) |       |     |
@@ -144,8 +146,6 @@
 |    | Coping With Misfortune   | 0:16:10 |    |    | yyyy-mm-dd      |  ~  |
 | [1201](sub/1201) | 배우자를 잘 고르는 법   | [![](img/youtube.png)](https://youtu.be/cSUVTHw5In0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1201/1201-select-life-partner.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mZ605zw4Yqa9) |       |     |
 |    | How to Select a Life Partner   | 0:12:12 |    |    | yyyy-mm-dd      |  ~  |
-| [1209](sub/1209) | 혼혈 아이의 정체성 교육   | [![](img/youtube.png)](https://youtu.be/Sbzpj6933JA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/P378nQ0l6yQP) |       |     |
-|    | A Biracial Child's Identity   | 0:05:04 |    |    | yyyy-mm-dd      |  ~  |
 | [1318](sub/1318) | 사랑을 못 받고 자랐어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d15E5gPvlyUe) |       | video bluring required    |
 |    | I Grew up Unloved   | 0:24:26 |    |    | yyyy-mm-dd      |  ~  |
 | [1203](sub/1203) | 행복은 마음먹기에 따라 달라진다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1203/1203-happiness.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LKelMWSyNCBG) |       | video bluring required    |

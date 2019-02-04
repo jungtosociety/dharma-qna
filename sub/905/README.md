@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 905 |
-| Korean Subtitle | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다. \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(성미연)<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | I Feel Lonely Since My Brother Passed Away \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(성미연)<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다. \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(성미연; review:김혜은)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I Feel Lonely Since My Brother Passed Away \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(성미연; review:김혜은)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
