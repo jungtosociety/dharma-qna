@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 1 |
-|  [3. Reviewing](#3-Reviewing-review) | 4|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 13|
+|  [3. Reviewing](#3-Reviewing-review) | 0|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
 |  [5. Published](PROJECTS.md)  | 55|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 46|
 
@@ -16,14 +16,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 성미연; review:김혜은      | 2019-1차 유튜브 자막 작업    |
-|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      | 2019-01-07 ~ 2019-02-03 |
-| [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/9TDg_Ue-D3I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래; review:김혜은      | 2018-1차 유튜브 자막 작업    |
-|    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2019-01-07 |
-| [695](sub/695) | 시비하는 직장동료   | [![](img/youtube.png)](https://youtu.be/b4ASwYvp1zc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
-|    | An Argumentative Co-worker   | 0:03:09 |    |    | yyyy-mm-dd      |  ~ 2019-02-03 |
-| [1209](sub/1209) | 혼혈 아이의 정체성 교육   | [![](img/youtube.png)](https://youtu.be/Sbzpj6933JA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/P378nQ0l6yQP) | 임희정; review:김혜은      |     |
-|    | A Biracial Child's Identity   | 0:05:04 |    |    | yyyy-mm-dd      |  ~ 2019-02-03 |
 ## 4. Ready to Publish (ready)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -54,6 +46,14 @@
 |    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   | 0:07:42 |    |    | 2019-10-12      | 2019-01-07 ~ 2019-01-28 |
 | [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   | [![](img/youtube.png)](https://youtu.be/WsrJ6PqKyYk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) | 정민규; review:김혜은      | 2019-1차 유튜브 자막 작업    |
 |    | Letting Go; Just Observing   | 0:14:34 |    |    | 2019-10-26      | 2019-01-07 ~ 2019-01-29 |
+| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 성미연; review:김혜은      | 2019-1차 유튜브 자막 작업    |
+|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | yyyy-mm-dd      | 2019-01-07 ~ 2019-02-03 |
+| [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/9TDg_Ue-D3I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래; review:김혜은      | 2018-1차 유튜브 자막 작업    |
+|    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | yyyy-mm-dd      | 2018-11-27 ~ 2019-01-07 |
+| [695](sub/695) | 시비하는 직장동료   | [![](img/youtube.png)](https://youtu.be/b4ASwYvp1zc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
+|    | An Argumentative Co-worker   | 0:03:09 |    |    | yyyy-mm-dd      |  ~ 2019-02-03 |
+| [1209](sub/1209) | 혼혈 아이의 정체성 교육   | [![](img/youtube.png)](https://youtu.be/Sbzpj6933JA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/P378nQ0l6yQP) | 임희정; review:김혜은      |     |
+|    | A Biracial Child's Identity   | 0:05:04 |    |    | yyyy-mm-dd      |  ~ 2019-02-03 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
