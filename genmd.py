@@ -39,12 +39,18 @@ def getxlsfn(vid):
 
 def getsubfn(vid,lang):
     files=os.listdir('sub/'+vid)
-    regex = re.compile(lang+'-'+vid+'.*sbv$')
-    matches = [string for string in files if re.match(regex, string)]
-    if len(matches) != 0:
-        return matches[0]
+    regex_old = re.compile(lang+'-'+vid+'.*sbv$')
+    matches_old = [string for string in files if re.match(regex_old, string)]
+    if len(matches_old) != 0:
+        return matches_old[0]
     else:
-        return ''
+        # if not search new style
+        regex_new = re.compile(vid+'-.*\.'+lang+'\.sbv$')
+        matches_new = [string for string in files if re.match(regex_new, string)]
+        if len(matches_new) != 0:
+            return matches_new[0]
+        else:
+            return ''
 
 def githublink(vid,fn,text=None,textwithoutlink=False):
     baseurl = "https://github.com/jungtosociety/dharma-qna/raw/master/sub"
