@@ -13,6 +13,7 @@
 * [Korean Subtitles Playlist](https://www.youtube.com/playlist?list=PLZKHecEKSBgYy9a435BdwNFfcmezqKHJo)
 * [French Subtitles Playlist](https://www.youtube.com/playlist?list=PLZKHecEKSBgbHZibutScCyk78-Wamvkut)
 * [German Subtitles Playlist](https://www.youtube.com/playlist?list=PLZKHecEKSBgbfPlwNdm3LiTFDVvkecd_V)
+* [Japanese Subtitles Playlist](https://www.youtube.com/playlist?list=PLZKHecEKSBgZAN9E_KO6YHonyp_HWaO14)
 
 ## Guidelines
 
