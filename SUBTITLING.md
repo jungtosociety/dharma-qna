@@ -4,7 +4,7 @@
 |  [3. Reviewing](#3-Reviewing-review) | 0|
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
 |  [5. Published](PROJECTS.md)  | 55|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 46|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 47|
 
 ## 2. Subtitling (sub)
 
@@ -150,3 +150,5 @@
 |    | I Grew up Unloved   | 0:24:26 |    |    | yyyy-mm-dd      |  ~  |
 | [1203](sub/1203) | 행복은 마음먹기에 따라 달라진다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1203/1203-happiness.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LKelMWSyNCBG) |       | video bluring required    |
 |    | Happiness Is a State of Mind   | 0:11:33 |    |    | yyyy-mm-dd      |  ~  |
+| [38](sub/38) | 기도 후 수행일지를 쓰려면 막막합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38-practice-journal.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/akTHydOchMma) |       | 우선배정요청; video bluring required     |
+|    | How Should I Write My Practice Journal?   | 0:07:56 |    |    | yyyy-mm-dd      |  ~  |
