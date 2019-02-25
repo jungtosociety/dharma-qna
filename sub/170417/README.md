@@ -1,7 +1,7 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 170417 |
-| Korean Subtitle | N/A |
+| Korean Subtitle | 9차 천일결사 1차 백일기도 30일째 법륜스님 격려 영상 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
 | English Subtitle | N/A |
 | French Subtitle | N/A |
 | German Subtitle | N/A |

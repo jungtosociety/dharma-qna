@@ -1,7 +1,7 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1138 |
-| Korean Subtitle | N/A |
+| Korean Subtitle | 수행 법문 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
 | English Subtitle | N/A |
 | French Subtitle | N/A |
 | German Subtitle | N/A |
