@@ -39,13 +39,14 @@ def getxlsfn(vid):
 
 def getsubfn(vid,lang):
     files=os.listdir('sub/'+vid)
-    regex_old = re.compile(lang+'-'+vid+'.*sbv$')
+    extensions='\.((sbv)|(srt))$'
+    regex_old = re.compile(lang+'-'+vid+'.*'+extensions)
     matches_old = [string for string in files if re.match(regex_old, string)]
     if len(matches_old) != 0:
         return matches_old[0]
     else:
         # if not search new style
-        regex_new = re.compile(vid+'-.*\.'+lang+'\.sbv$')
+        regex_new = re.compile(vid+'-.*\.'+lang+extensions)
         matches_new = [string for string in files if re.match(regex_new, string)]
         if len(matches_new) != 0:
             return matches_new[0]
