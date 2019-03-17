@@ -2,9 +2,9 @@
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 1 |
 |  [3. Reviewing](#3-Reviewing-review) | 0|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 20|
 |  [5. Published](PROJECTS.md)  | 55|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 47|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 44|
 
 ## 2. Subtitling (sub)
 
@@ -54,16 +54,18 @@
 |    | An Argumentative Co-worker   | 0:03:09 |    |    | 2019-12-07      |  ~ 2019-02-03 |
 | [1209](sub/1209) | 혼혈 아이의 정체성 교육   | [![](img/youtube.png)](https://youtu.be/Sbzpj6933JA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/P378nQ0l6yQP) | 임희정; review:김혜은      |     |
 |    | A Biracial Child's Identity   | 0:05:04 |    |    | 2019-12-21      |  ~ 2019-02-03 |
+| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/1qvZ4oLYc40) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) | 임희정      | 2019-2차 유튜브 자막 작업    |
+|    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | yyyy-mm-dd      | 2019-02-12 ~ 2019-03-04 |
+| [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   | [![](img/youtube.png)](https://youtu.be/2rwYkIxDcBc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eruO2tD1qxVI) | 김혜은;review:임희정      | 2019-2차 유튜브 자막 작업    |
+|    | I avoid people I don't like. How can I change myself?    | 0:09:01 |    |    | yyyy-mm-dd      | 2019-02-12 ~ 2019-03-04 |
+| [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/J5BfbeBZCC8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) | 박상희;review:임희정      | 2019-2차 유튜브 자막 작업    |
+|    | The Meaning of Not Interfering   | 0:13:30 |    |    | yyyy-mm-dd      | 2019-02-12 ~ 2019-03-04 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [743](sub/743) | 종교가 다른 아내   | [![](img/youtube.png)](https://youtu.be/ulwDfO1Q2ws) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) |       |     |
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      |  ~  |
-| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/1qvZ4oLYc40) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) |       |     |
-|    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | yyyy-mm-dd      |  ~  |
-| [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   | [![](img/youtube.png)](https://youtu.be/2rwYkIxDcBc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eruO2tD1qxVI) |       |     |
-|    | I avoid people I don't like. How can I change myself?    | 0:09:01 |    |    | yyyy-mm-dd      |  ~  |
 | [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   | [![](img/youtube.png)](https://youtu.be/fXjizBQvvnE) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) |       |     |
 |    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | yyyy-mm-dd      |  ~  |
 | [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   | [![](img/youtube.png)](https://youtu.be/TX3pFPtdPTY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |       |     |
@@ -80,8 +82,6 @@
 |    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | yyyy-mm-dd      |  ~  |
 | [493](sub/493) | 배우자 선택   | [![](img/youtube.png)](https://youtu.be/6m-MPfJnvoQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) |       |     |
 |    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
-| [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/J5BfbeBZCC8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) |       |     |
-|    | The Meaning of Not Interfering   | 0:13:30 |    |    | yyyy-mm-dd      |  ~  |
 | [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   | [![](img/youtube.png)](https://youtu.be/9y677BWL5-I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4jnVckG1Sbc) |       |     |
 |    | Coincidence and Inevitability   | 0:09:53 |    |    | yyyy-mm-dd      |  ~  |
 | [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   | [![](img/youtube.png)](https://youtu.be/IDbHSmX9PU8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) |       |     |
