@@ -1,15 +1,17 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 1 |
+|  [2. Subtitling](#2-subtitling-sub) | 2 |
 |  [3. Reviewing](#3-Reviewing-review) | 0|
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 20|
 |  [5. Published](PROJECTS.md)  | 55|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 44|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 43|
 
 ## 2. Subtitling (sub)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [743](sub/743) | 종교가 다른 아내   | [![](img/youtube.png)](https://youtu.be/ulwDfO1Q2ws) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) | 송명석      | 2019-3차 유튜브 자막 작업    |
+|    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   | [![](img/youtube.png)](https://youtu.be/lgoFrtW-vi8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
 ## 3. Reviewing (review)
@@ -64,8 +66,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [743](sub/743) | 종교가 다른 아내   | [![](img/youtube.png)](https://youtu.be/ulwDfO1Q2ws) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) |       |     |
-|    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      |  ~  |
 | [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   | [![](img/youtube.png)](https://youtu.be/fXjizBQvvnE) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) |       |     |
 |    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | yyyy-mm-dd      |  ~  |
 | [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   | [![](img/youtube.png)](https://youtu.be/TX3pFPtdPTY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |       |     |
