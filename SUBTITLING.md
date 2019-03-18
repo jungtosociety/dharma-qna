@@ -1,10 +1,10 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 2 |
+|  [2. Subtitling](#2-subtitling-sub) | 7 |
 |  [3. Reviewing](#3-Reviewing-review) | 0|
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 20|
 |  [5. Published](PROJECTS.md)  | 55|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 43|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 38|
 
 ## 2. Subtitling (sub)
 
@@ -12,8 +12,18 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [743](sub/743) | 종교가 다른 아내   | [![](img/youtube.png)](https://youtu.be/ulwDfO1Q2ws) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) | 송명석      | 2019-3차 유튜브 자막 작업    |
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   | [![](img/youtube.png)](https://youtu.be/lgoFrtW-vi8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민      | 작업중    |
+| [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   | [![](img/youtube.png)](https://youtu.be/lgoFrtW-vi8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민; 김혜은      | 2019-3차 유튜브 자막 작업    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
+| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   | [![](img/youtube.png)](https://youtu.be/fXjizBQvvnE) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) | 김구슬래      | 2019-3차 유튜브 자막 작업    |
+|    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   | [![](img/youtube.png)](https://youtu.be/TX3pFPtdPTY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) | 정민규      | 2019-3차 유튜브 자막 작업    |
+|    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   | [![](img/youtube.png)](https://youtu.be/Aj92RPtkm0c) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) | 성미연      | 2019-3차 유튜브 자막 작업    |
+|    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/LzWgT2_na10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) | 조미영      | 2019-3차 유튜브 자막 작업    |
+|    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   | [![](img/youtube.png)](https://youtu.be/9FmJMCkqZYY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | 박상희      | 2019-3차 유튜브 자막 작업    |
+|    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 ## 3. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -66,16 +76,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   | [![](img/youtube.png)](https://youtu.be/fXjizBQvvnE) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) |       |     |
-|    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | yyyy-mm-dd      |  ~  |
-| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   | [![](img/youtube.png)](https://youtu.be/TX3pFPtdPTY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |       |     |
-|    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | yyyy-mm-dd      |  ~  |
-| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   | [![](img/youtube.png)](https://youtu.be/Aj92RPtkm0c) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) |       |     |
-|    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | yyyy-mm-dd      |  ~  |
-| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/LzWgT2_na10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) |       |     |
-|    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      |  ~  |
-| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   | [![](img/youtube.png)](https://youtu.be/9FmJMCkqZYY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) |       |     |
-|    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      |  ~  |
 | [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   | [![](img/youtube.png)](https://youtu.be/s7m9fiVw3OU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) |       |     |
 |    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | yyyy-mm-dd      |  ~  |
 | [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/u5qQKRznhpY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-feeling-cheated.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pcdJQs6k9cZp) |       |     |
