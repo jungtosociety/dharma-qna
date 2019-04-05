@@ -10,6 +10,6 @@
 | Original YouTube Link  | [https://youtu.be/SQHsJoTFJOM](https://youtu.be/SQHsJoTFJOM) |
 | YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/cZCjLLljESAb](http://amara.org/en/videos/cZCjLLljESAb) |
-| Transcript(ko/en) |  |
+| Transcript(ko/en) | [1138-suhaeng.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) |
 | Playtime | 0:15:18 |
 | Resolution | 1280x720|
