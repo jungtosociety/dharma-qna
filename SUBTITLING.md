@@ -26,7 +26,7 @@
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [38](sub/38) | 기도 후 수행일지를 쓰려면 막막합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38-practice-journal.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/akTHydOchMma) | 임희정      | 2019-3차 유튜브 자막 작업 (임희정); 우선배정요청; video bluring required     |
 |    | How Should I Write My Practice Journal?   | 0:07:56 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [1138](sub/1138) | 수행 법문   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cZCjLLljESAb) |       | 녹취중; video bluring required    |
+| [1138](sub/1138) | 수행 법문   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cZCjLLljESAb) |       | 2019-4차 자막 작업 배정 요청    |
 |    | Suhaeng   | 0:15:18 |    |    | yyyy-mm-dd      |  ~  |
 ## 3. Reviewing (review)
 
