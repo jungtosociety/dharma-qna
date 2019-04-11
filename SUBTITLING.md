@@ -2,8 +2,8 @@
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 9 |
 |  [3. Reviewing](#3-Reviewing-review) | 0|
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 20|
-|  [5. Published](PROJECTS.md)  | 55|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 18|
+|  [5. Published](PROJECTS.md)  | 57|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 37|
 
 ## 2. Subtitling (sub)
@@ -36,10 +36,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [855](sub/855) | 남편이 가출한 지 8년, 아이들 잘 키우려면?   | [![](img/youtube.png)](https://youtu.be/q9h4540j2tM) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wjnfnMOaEsfZ) | 김윤주;review:김혜은      |     |
-|    | Husband Left 8 Years Ago.  How to Raise Children Well?   | 0:10:50 |    |    | 2019-05-11      | 2018-03-27 ~ 2018-04-21 |
-| [764](sub/764) | 아이에게 꿈을 가지라고 이야기해도 될까요?   | [![](img/youtube.png)](https://youtu.be/c1eBAqRBRhI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) | 김윤주;review:김재명      |     |
-|    | Shall I Tell My Son That He Should Have a Dream?   | 0:11:46 |    |    | 2019-05-25      | 2018-05-12 ~ 2018-08-12 |
 | [449](sub/449) | 아버지에 대한 참회   | [![](img/youtube.png)](https://youtu.be/xBY8AwF5cA4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정; review:김혜은      |     |
 |    | Repentance Towards Father   | 0:08:12 |    |    | 2019-06-08      | 2018-05-12 ~ 2018-08-22 |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   | [![](img/youtube.png)](https://youtu.be/V5vS3lSQ3e8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래; review:김혜은      |     |
