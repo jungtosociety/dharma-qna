@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 385 |
-| Korean Subtitle | 놓아버리는 것, 그냥 지켜보는 것 \| 법륜스님의 즉문즉설<br>by <br>on 2019-10-26<br>[ko-385-letting-go.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/ko-385-letting-go.sbv)<br>|
-| English Subtitle | Letting Go; Just Observing \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2019-10-26<br>[en-385-letting-go.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/en-385-letting-go.sbv)<br>|
+| Korean Subtitle | 놓아버리는 것, 그냥 지켜보는 것 \| 법륜스님의 즉문즉설<br>by <br>on 2019-07-13<br>[ko-385-letting-go.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/ko-385-letting-go.sbv)<br>|
+| English Subtitle | Letting Go; Just Observing \| Ven. Pomnyun's Dharma Q&A<br>by <br>on 2019-07-13<br>[en-385-letting-go.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/en-385-letting-go.sbv)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
