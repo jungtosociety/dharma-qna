@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/ZPsxlREBj-o](https://youtu.be/ZPsxlREBj-o) |
-| YouTube Link  | [https://youtu.be/Sbzpj6933JA](https://youtu.be/Sbzpj6933JA) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/P378nQ0l6yQP](http://amara.org/en/videos/P378nQ0l6yQP) |
 | Transcript(ko/en) | [1209-biracial-child-identity.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) |
 | Playtime | 0:05:04 |

@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/EkIIhG0fbhw](https://youtu.be/EkIIhG0fbhw) |
-| YouTube Link  | [https://youtu.be/b4ASwYvp1zc](https://youtu.be/b4ASwYvp1zc) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/htOid00N1yAs](http://amara.org/en/videos/htOid00N1yAs) |
 | Transcript(ko/en) | [695-argumentive-coworker.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) |
 | Playtime | 0:03:09 |

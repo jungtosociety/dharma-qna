@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/weBqE2ua27k](https://youtu.be/weBqE2ua27k) |
-| YouTube Link  | [https://youtu.be/Pv5rUURLM10](https://youtu.be/Pv5rUURLM10) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/hGvb6ZqazjOx](http://amara.org/en/videos/hGvb6ZqazjOx) |
 | Transcript(ko/en) | [884-scientist-and-game.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) |
 | Playtime | 0:07:42 |

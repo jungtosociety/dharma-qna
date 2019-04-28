@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/SAyOSw3z6bM](https://youtu.be/SAyOSw3z6bM) |
-| YouTube Link  | [https://youtu.be/u7ooq5WXr5o](https://youtu.be/u7ooq5WXr5o) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/GRUr6dmIjr7N](http://amara.org/en/videos/GRUr6dmIjr7N) |
 | Transcript(ko/en) | [902-stingy-husband.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) |
 | Playtime | 0:10:32 |

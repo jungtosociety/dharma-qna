@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/KlEpHWfaYjI](https://youtu.be/KlEpHWfaYjI) |
-| YouTube Link  | [https://youtu.be/1qvZ4oLYc40](https://youtu.be/1qvZ4oLYc40) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/vzazS57eD70G](http://amara.org/en/videos/vzazS57eD70G) |
 | Transcript(ko/en) | [852-bad-name.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) |
 | Playtime | 0:06:46 |

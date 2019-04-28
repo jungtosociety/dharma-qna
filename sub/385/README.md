@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/_P6_9uwox90](https://youtu.be/_P6_9uwox90) |
-| YouTube Link  | [https://youtu.be/WsrJ6PqKyYk](https://youtu.be/WsrJ6PqKyYk) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/gHnRsxLbonuq](http://amara.org/en/videos/gHnRsxLbonuq) |
 | Transcript(ko/en) | [385-letting-go.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) |
 | Playtime | 0:14:34 |

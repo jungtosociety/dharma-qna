@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/0fU9IUaWTsw](https://youtu.be/0fU9IUaWTsw) |
-| YouTube Link  | [https://youtu.be/xBY8AwF5cA4](https://youtu.be/xBY8AwF5cA4) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/xeSYqPrYbzJa](http://amara.org/en/videos/xeSYqPrYbzJa) |
 | Transcript(ko/en) | [449-father.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) |
 | Playtime | 0:08:12 |
