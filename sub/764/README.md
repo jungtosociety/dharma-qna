@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/wPnEAgG6ezA](https://youtu.be/wPnEAgG6ezA) |
-| YouTube Link  | [https://youtu.be/c1eBAqRBRhI](https://youtu.be/c1eBAqRBRhI) |
+| YouTube Link  | [https://youtu.be/qYQl0mvQk7k](https://youtu.be/qYQl0mvQk7k) |
 | Amara Link    | [http://amara.org/en/videos/VvAWfPnZ2FYB](http://amara.org/en/videos/VvAWfPnZ2FYB) |
 | Transcript(ko/en) | [764-child-education.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) |
 | Playtime | 0:11:46 |

@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/N3yh8eDlpcI](https://youtu.be/N3yh8eDlpcI) |
-| YouTube Link  | [https://youtu.be/xI91lrdy65Q](https://youtu.be/xI91lrdy65Q) |
+| YouTube Link  | [https://youtu.be/Qon8hqINnHw](https://youtu.be/Qon8hqINnHw) |
 | Amara Link    | [http://amara.org/en/videos/Y05WuO1OZjDZ](http://amara.org/en/videos/Y05WuO1OZjDZ) |
 | Transcript(ko/en) | [800-worrying-mind.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/800/800-worrying-mind.xlsx) |
 | Playtime | 0:03:35 |
