@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/5u601Nm5G_8](https://youtu.be/5u601Nm5G_8) |
-| YouTube Link  | [https://youtu.be/KgXbSjBfiK4](https://youtu.be/KgXbSjBfiK4) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/kAwjU7YMRRYI](http://amara.org/en/videos/kAwjU7YMRRYI) |
 | Transcript(ko/en) | [872-approach-marriage.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) |
 | Playtime | 0:03:17 |

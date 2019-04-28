@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/yjoITi2pBtw](https://youtu.be/yjoITi2pBtw) |
-| YouTube Link  | [https://youtu.be/fXjizBQvvnE](https://youtu.be/fXjizBQvvnE) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/OsfZSvYQKKeD](http://amara.org/en/videos/OsfZSvYQKKeD) |
 | Transcript(ko/en) | [557-unhappy.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) |
 | Playtime | 0:10:55 |

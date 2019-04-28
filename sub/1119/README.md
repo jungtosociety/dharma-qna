@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/rg_XO_6fKws](https://youtu.be/rg_XO_6fKws) |
-| YouTube Link  | [https://youtu.be/1edIkohXcBw](https://youtu.be/1edIkohXcBw) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/fFSOm7rHR5x0](http://amara.org/en/videos/fFSOm7rHR5x0) |
 | Transcript(ko/en) | [1119-good-spouse.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) |
 | Playtime | 0:14:31 |

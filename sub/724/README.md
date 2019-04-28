@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/rq4A997eENI](https://youtu.be/rq4A997eENI) |
-| YouTube Link  | [https://youtu.be/iIgepLPjNhA](https://youtu.be/iIgepLPjNhA) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/jM92tReRhODU](http://amara.org/en/videos/jM92tReRhODU) |
 | Transcript(ko/en) | [724-natual-quality.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |
 | Playtime | 0:14:18 |

@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/8yDLcMs3He0](https://youtu.be/8yDLcMs3He0) |
-| YouTube Link  | [https://youtu.be/9FmJMCkqZYY](https://youtu.be/9FmJMCkqZYY) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/bOuztxMsRMTQ](http://amara.org/en/videos/bOuztxMsRMTQ) |
 | Transcript(ko/en) | [863-independence.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) |
 | Playtime | 0:13:10 |

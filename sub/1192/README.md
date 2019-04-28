@@ -8,8 +8,8 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/6C-FAwF-8OQ](https://youtu.be/6C-FAwF-8OQ) |
-| YouTube Link  | [https://youtu.be/p5lfM0DHkTg](https://youtu.be/p5lfM0DHkTg) |
-| Amara Link    | [http://amara.org/en/videos/knSk0JzlyDoH](http://amara.org/en/videos/knSk0JzlyDoH) |
+| YouTube Link  |  |
+| Amara Link    | [http://amara.org/en/videos/X4kZdZUvkACk](http://amara.org/en/videos/X4kZdZUvkACk) |
 | Transcript(ko/en) | [1192-feel-lost-graduating-college.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) |
 | Playtime | 0:16:36 |
 | Resolution | 1280x720|

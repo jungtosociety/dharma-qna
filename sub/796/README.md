@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/FJRW8CDFO_Y](https://youtu.be/FJRW8CDFO_Y) |
-| YouTube Link  | [https://youtu.be/zRm9HabCEZo](https://youtu.be/zRm9HabCEZo) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/joojsl6IZo2d](http://amara.org/en/videos/joojsl6IZo2d) |
 | Transcript(ko/en) | [796-hope-of-family.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) |
 | Playtime | 0:19:54 |

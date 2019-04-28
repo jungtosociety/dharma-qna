@@ -10,19 +10,19 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [743](sub/743) | 종교가 다른 아내   | [![](img/youtube.png)](https://youtu.be/ulwDfO1Q2ws) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) | 송명석      | 2019-3차 유튜브 자막 작업 (임희정)    |
+| [743](sub/743) | 종교가 다른 아내   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) | 송명석      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   | [![](img/youtube.png)](https://youtu.be/lgoFrtW-vi8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민; 김혜은      | 2019-3차 유튜브 자막 작업 (임희정)    |
+| [824](sub/824) | 교사생활 9년, 노력하면 좋은 선생님 될 줄 알았는데   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/wNXSXBYNG1IV/) | 류창민; 김혜은      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | 9 Years of Teaching, I Expected to Become a Good Teacher by Working Hard.   | 0:18:47 |    |    | yyyy-mm-dd      | 2017-04-06 ~  |
-| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   | [![](img/youtube.png)](https://youtu.be/fXjizBQvvnE) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) | 김구슬래      | 2019-3차 유튜브 자막 작업 (임희정)    |
+| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) | 김구슬래      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   | [![](img/youtube.png)](https://youtu.be/TX3pFPtdPTY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) | 정민규      | 2019-3차 유튜브 자막 작업 (임희정)    |
+| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) | 정민규      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   | [![](img/youtube.png)](https://youtu.be/Aj92RPtkm0c) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) | 성미연      | 2019-3차 유튜브 자막 작업 (임희정)    |
+| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) | 성미연      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/LzWgT2_na10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) | 조미영      | 2019-3차 유튜브 자막 작업 (임희정)    |
+| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) | 조미영      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   | [![](img/youtube.png)](https://youtu.be/9FmJMCkqZYY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | 박상희      | 2019-3차 유튜브 자막 작업 (임희정)    |
+| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | 박상희      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [38](sub/38) | 기도 후 수행일지를 쓰려면 막막합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38-practice-journal.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/akTHydOchMma) | 임희정      | 2019-3차 유튜브 자막 작업 (임희정); 우선배정요청; video bluring required     |
 |    | How Should I Write My Practice Journal?   | 0:07:56 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
@@ -36,8 +36,8 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [233](sub/233) | 간섭하지 마라의 의미   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) | 박상희;review:임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
-|    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2019-05-04      | 2019-02-12 ~ 2019-03-04 |
+| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 성미연; review:김혜은      | 2019-1차 유튜브 자막 작업 (김혜은)    |
+|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | 2019-05-04      | 2019-01-07 ~ 2019-02-03 |
 | [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   | [![](img/youtube.png)](https://youtu.be/2rwYkIxDcBc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eruO2tD1qxVI) | 김혜은;review:임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
 |    | I Avoid People I Don't Like. How Can I Change Myself?   | 0:09:01 |    |    | 2019-05-11      | 2019-02-12 ~ 2019-03-04 |
 | [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) | 임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
@@ -52,8 +52,8 @@
 |    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | 2019-06-15      | 2018-11-27 ~ 2019-01-07 |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래; review:김혜은      |     |
 |    | Difficulty of Raising an 8th Grader with Intellectual Disability   | 0:11:27 |    |    | 2019-06-22      | 2018-05-27 ~ 2018-08-31 |
-| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 성미연; review:김혜은      | 2019-1차 유튜브 자막 작업 (김혜은)    |
-|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | 2019-06-29      | 2019-01-07 ~ 2019-02-03 |
+| [233](sub/233) | 간섭하지 마라의 의미   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) | 박상희;review:임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
+|    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2019-06-29      | 2019-02-12 ~ 2019-03-04 |
 | [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주; review:김혜은      |     |
 |    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | 2019-07-06      | 2017-12-18 ~ 2018-1-9 |
 | [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) | 정민규; review:김혜은      | 2019-1차 유튜브 자막 작업 (김혜은)    |
@@ -76,45 +76,45 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   | [![](img/youtube.png)](https://youtu.be/s7m9fiVw3OU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) |       |     |
+| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) |       |     |
 |    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | yyyy-mm-dd      |  ~  |
-| [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/u5qQKRznhpY) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-feeling-cheated.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pcdJQs6k9cZp) |       |     |
+| [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-feeling-cheated.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pcdJQs6k9cZp) |       |     |
 |    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | yyyy-mm-dd      |  ~  |
-| [493](sub/493) | 배우자 선택   | [![](img/youtube.png)](https://youtu.be/6m-MPfJnvoQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) |       |     |
+| [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) |       |     |
 |    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
-| [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   | [![](img/youtube.png)](https://youtu.be/9y677BWL5-I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4jnVckG1Sbc) |       |     |
+| [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4jnVckG1Sbc) |       |     |
 |    | Coincidence and Inevitability   | 0:09:53 |    |    | yyyy-mm-dd      |  ~  |
-| [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   | [![](img/youtube.png)](https://youtu.be/IDbHSmX9PU8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) |       |     |
+| [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) |       |     |
 |    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | yyyy-mm-dd      |  ~  |
-| [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   | [![](img/youtube.png)](https://youtu.be/zRm9HabCEZo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/joojsl6IZo2d) |       |     |
+| [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/joojsl6IZo2d) |       |     |
 |    | I'll Be the Hope of My Family and Live in Harmony   | 0:19:54 |    |    | yyyy-mm-dd      |  ~  |
-| [808](sub/808) | 연애는 많이 했는데 결혼은 잘 안됐어요, 어떤 사람을 만나야 할까요?   | [![](img/youtube.png)](https://youtu.be/XsUcAs-7YWo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hp8q8gfQMQqY) |       |     |
+| [808](sub/808) | 연애는 많이 했는데 결혼은 잘 안됐어요, 어떤 사람을 만나야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hp8q8gfQMQqY) |       |     |
 |    | In Spite of Dating a Lot, I Have Not Been Able to Get Married Yet. What Sort of Man Shall I Meet?   | 0:23:36 |    |    | yyyy-mm-dd      |  ~  |
-| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   | [![](img/youtube.png)](https://youtu.be/KgXbSjBfiK4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) |       |     |
+| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) |       |     |
 |    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | yyyy-mm-dd      |  ~  |
-| [901](sub/901) | 행복을 멀리서 찾지 마세요, 정토 세상의 진정한 뜻   | [![](img/youtube.png)](https://youtu.be/79wxwjepUnU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/901/901-happiness.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/0v6g3hrpNQeK) |       |     |
+| [901](sub/901) | 행복을 멀리서 찾지 마세요, 정토 세상의 진정한 뜻   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/901/901-happiness.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/0v6g3hrpNQeK) |       |     |
 |    | Don't Look in the Distance for Happiness; True Meaning of Pure Land   | 0:18:21 |    |    | yyyy-mm-dd      |  ~  |
-| [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   | [![](img/youtube.png)](https://youtu.be/1edIkohXcBw) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) |       |     |
+| [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) |       |     |
 |    | Qualifications for a Good Spouse   | 0:14:31 |    |    | yyyy-mm-dd      |  ~  |
-| [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   | [![](img/youtube.png)](https://youtu.be/LLje4UxbvIc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/muGP4UvvHVj5) |       |     |
+| [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/muGP4UvvHVj5) |       |     |
 |    | Knowing the Law of Cause and Effect Can Free You in Life.   | 0:12:09 |    |    | yyyy-mm-dd      |  ~  |
-| [1205](sub/1205) | 최선을 다하되 결과에 연연하지 않는다.   | [![](img/youtube.png)](https://youtu.be/nZvn9Xog1Qc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1205/1205-cling-to-results.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M6s5I0jnOkXU) |       |     |
+| [1205](sub/1205) | 최선을 다하되 결과에 연연하지 않는다.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1205/1205-cling-to-results.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/9CTJIgqBVEiz) |       |     |
 |    | Do Your Best, but Don't Cling to Results   | 0:08:05 |    |    | yyyy-mm-dd      |  ~  |
-| [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   | [![](img/youtube.png)](https://youtu.be/Zmxa9CIX4B0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DLO7Pn1QRv0o) |       |     |
+| [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DLO7Pn1QRv0o) |       |     |
 |    | The Sewol Ferry Tragedy   | 0:17:14 |    |    | yyyy-mm-dd      |  ~  |
-| [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   | [![](img/youtube.png)](https://youtu.be/iIgepLPjNhA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jM92tReRhODU) |       |     |
+| [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jM92tReRhODU) |       |     |
 |    | Recovering the wild and natural quality   | 0:14:18 |    |    | yyyy-mm-dd      |  ~  |
-| [777](sub/777) | 헤어진 남자친구와 새여자친구가 같은 캠퍼스에요.   | [![](img/youtube.png)](https://youtu.be/o0Q9QDDIU18) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jd5yrCgnF9lh) |       |     |
+| [777](sub/777) | 헤어진 남자친구와 새여자친구가 같은 캠퍼스에요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jd5yrCgnF9lh) |       |     |
 |    | I attend the same school as my ex-boyfriend and his new girlfriend.   | 0:10:07 |    |    | yyyy-mm-dd      |  ~  |
-| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   | [![](img/youtube.png)](https://youtu.be/wzouEry_V8w) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) |       |     |
+| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) |       |     |
 |    | How do you handle stress?   | 0:11:06 |    |    | yyyy-mm-dd      |  ~  |
-| [895](sub/895) | 희망세상을 만드는 5가지 희망실천   | [![](img/youtube.png)](https://youtu.be/iQePouwLYwQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SaReVUhcxyTl) |       |     |
+| [895](sub/895) | 희망세상을 만드는 5가지 희망실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SaReVUhcxyTl) |       |     |
 |    | 5 righteous actions to create a world of hope.   | 0:09:30 |    |    | yyyy-mm-dd      |  ~  |
-| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   | [![](img/youtube.png)](https://youtu.be/jtXnfhFzSqw) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) |       |     |
+| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) |       |     |
 |    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      |  ~  |
-| [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   | [![](img/youtube.png)](https://youtu.be/-Yz2id6YYRg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) |       |     |
+| [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) |       |     |
 |    | Can I change my irritable personality?   | 0:12:07 |    |    | yyyy-mm-dd      |  ~  |
-| [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   | [![](img/youtube.png)](https://youtu.be/p5lfM0DHkTg) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/knSk0JzlyDoH) |       |     |
+| [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/X4kZdZUvkACk) |       |     |
 |    | I feel lost after graduating college    | 0:16:36 |    |    | yyyy-mm-dd      |  ~  |
 | [41](sub/41) | 깨장을 갔다온 후 제 꼴을 보니 괴롭습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/41/41-miserable-after-retreat.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/01KkDXF6q8XU) |       | video bluring required    |
 |    | I Feel Miserable After Attending Meditation Retreat   | 0:11:22 |    |    | yyyy-mm-dd      |  ~  |

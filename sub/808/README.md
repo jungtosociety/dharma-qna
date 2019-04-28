@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/95V-gJbMjgg](https://youtu.be/95V-gJbMjgg) |
-| YouTube Link  | [https://youtu.be/XsUcAs-7YWo](https://youtu.be/XsUcAs-7YWo) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/hp8q8gfQMQqY](http://amara.org/en/videos/hp8q8gfQMQqY) |
 | Transcript(ko/en) | [808-date-and-marriage.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) |
 | Playtime | 0:23:36 |

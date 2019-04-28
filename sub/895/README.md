@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/bnlSIWDylNE](https://youtu.be/bnlSIWDylNE) |
-| YouTube Link  | [https://youtu.be/iQePouwLYwQ](https://youtu.be/iQePouwLYwQ) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/SaReVUhcxyTl](http://amara.org/en/videos/SaReVUhcxyTl) |
 | Transcript(ko/en) | [895-righteous-actions.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) |
 | Playtime | 0:09:30 |

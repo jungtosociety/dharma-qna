@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/n9zhxC4Hhp8](https://youtu.be/n9zhxC4Hhp8) |
-| YouTube Link  | [https://youtu.be/jtXnfhFzSqw](https://youtu.be/jtXnfhFzSqw) |
+| YouTube Link  |  |
 | Amara Link    | [http://amara.org/en/videos/DBiGUffutaew](http://amara.org/en/videos/DBiGUffutaew) |
 | Transcript(ko/en) | [897-job-moving-around.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) |
 | Playtime | 0:08:32 |
