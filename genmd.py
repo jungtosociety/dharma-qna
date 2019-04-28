@@ -303,7 +303,6 @@ if __name__ == "__main__":
     f.write('| Status | Number of Videos |\n')
     f.write('|--------| ---------------- |\n')
     f.write('|  [2. Subtitling](#2-subtitling-sub) | '+str(get_count('sub'))+' |\n')
-    f.write('|  [3. Reviewing](#3-Reviewing-review) | '+str(get_count('review'))+'|\n')
     f.write('|  [4. Ready to Publish](#4-ready-to-publish-ready) | '+str(get_count('ready'))+'|\n')
     f.write('|  [5. Published](PROJECTS.md)  | '+str(get_count('published'))+'|\n')
     f.write('|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | '+str(get_count('unassigned'))+'|\n')
@@ -326,6 +325,10 @@ if __name__ == "__main__":
     f.write('\n')
     f.write('## Published\n\n')
     gentab_trello(f,'published')
+    f.write('## 1. Ready to Subtitle (unassigned)\n\n')
+    gentab_trello(f,'unassigned')
+    f.write('## 2. Subtitling (sub)\n\n')
+    gentab_trello(f,'sub')
     f.close()
     if run_cmd(['git','diff','trello.md'],raise_exception=False) != '':
         print ' - updated '+'trello.md'

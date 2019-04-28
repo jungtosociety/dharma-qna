@@ -1,7 +1,6 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 9 |
-|  [3. Reviewing](#3-Reviewing-review) | 0|
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 18|
 |  [5. Published](PROJECTS.md)  | 57|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 37|
