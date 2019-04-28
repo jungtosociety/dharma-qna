@@ -141,6 +141,46 @@ def gentab_subtitling(f,status=None):
         f.write("| %s | %s   | %s | %s | %s | %s      | %s    |\n" % ( nolink, title, utubelink, xlslink, amaralink, worker, memo ))
         f.write("|    | %s   | %s |    |    | %s      | %s ~ %s |\n" % ( entitle, playtime, pubdate, begin, end ))
 
+def gentab_trello(f,status='published'):
+# generate table for trello import
+
+    f.write('| NO | TITLE         | PUBDATE | XLS | KO | EN | FR | DE | CN | JA | link |\n')
+    f.write('|----| ------------- |---------|-----|----|----|----|----|----|----|------|\n')
+
+    for row in c.execute('SELECT v.vid,v.title as kotitle,en.title as entitle,v.pubdate,v.youtube,v.amara \
+                            FROM video v \
+                            LEFT OUTER JOIN en ON v.vid = en.vid \
+                           WHERE status=\''+status+'\' \
+                           ORDER BY v.pubdate DESC \
+                             ' ):
+        vid     = row["v.vid"] # row["vid"]
+        kotitle   = utf8(row["kotitle"])
+        entitle   = row["entitle"]
+        entitle   = utf8("%s" % (entitle) if entitle is not None else '') 
+        xlsfn   = getxlsfn(vid)
+        pubdate = utf8(row["v.pubdate"])
+        youtube = row["v.youtube"]
+        amara   = row["v.amara"]
+        fn_ko   = getsubfn(vid,'ko')
+        fn_en   = getsubfn(vid,'en')
+        fn_fr   = getsubfn(vid,'fr')
+        fn_de   = getsubfn(vid,'de')
+        fn_cn   = getsubfn(vid,'cn')
+        fn_ja   = getsubfn(vid,'ja')
+        nolink = utf8("[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid))
+        utubelink = utf8("[![](img/youtube.png)](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
+        amaralink = utf8("[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else '')
+        xlslink = utf8(githublink(vid,xlsfn,'#excel'))
+        kolink = utf8(githublink(vid,fn_ko,'#ko-sub'))
+        enlink = utf8(githublink(vid,fn_en,'#en-sub'))
+        frlink = utf8(githublink(vid,fn_fr,'#fr-sub'))
+        delink = utf8(githublink(vid,fn_de,'#de-sub'))
+        cnlink = utf8(githublink(vid,fn_cn,'#cn-sub'))
+        jalink = utf8(githublink(vid,fn_ja,'#ja-sub'))
+        f.write("| %s | %s %s | (%s) | %s | %s | %s | %s | %s | %s | %s | https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s |\n" % 
+                ( nolink, kotitle, entitle, pubdate, xlslink,
+                kolink, enlink, frlink, delink, cnlink, jalink, utf8(vid) ))
+
 def get_count(status=None):
     if status is not None:
       whereorderby = 'WHERE status=\''+status+'\''
@@ -280,6 +320,15 @@ if __name__ == "__main__":
     if run_cmd(['git','diff','SUBTITLING.md'],raise_exception=False) != '':
         print ' - updated '+'SUBTITLING.md'
 
+    f = open('trello.md', 'w')
+    f.write('## Ready to Publish\n\n')
+    gentab_trello(f,'ready') # print ready subtitle for french team
+    f.write('\n')
+    f.write('## Published\n\n')
+    gentab_trello(f,'published')
+    f.close()
+    if run_cmd(['git','diff','trello.md'],raise_exception=False) != '':
+        print ' - updated '+'trello.md'
 
     if len(sys.argv) < 2 :
         genReadme()
