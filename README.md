@@ -27,8 +27,12 @@
 * Reading speed: recommend less than 25 characters/sec
 
 ### Subtitle File Name Convention
-* [language]-[no]-[title].sbv
-* ex) ko-655-good-athelete.sbv
+* [no]-[title(optional)].[language].[srt|sbv]
+* [language]-[no]-[title].[srt|sbv]
+* examples 
+  * 655-good-athelete.en.srt
+  * 655.en.srt
+  * ko-655-good-athelete.sbv
 
 #### Abbreviation
 * ko: Korean
