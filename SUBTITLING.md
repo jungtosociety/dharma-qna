@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 9 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 18|
-|  [5. Published](PROJECTS.md)  | 57|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
+|  [5. Published](PROJECTS.md)  | 58|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 37|
 
 ## 2. Subtitling (sub)
@@ -35,8 +35,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [905](sub/905) | 친오빠가 죽고 난 후 혼자 남게 되니 쓸쓸합니다.   | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) | 성미연; review:김혜은      | 2019-1차 유튜브 자막 작업 (김혜은)    |
-|    | I Feel Lonely Since My Brother Passed Away   | 0:11:48 |    |    | 2019-05-04      | 2019-01-07 ~ 2019-02-03 |
 | [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   | [![](img/youtube.png)](https://youtu.be/2rwYkIxDcBc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eruO2tD1qxVI) | 김혜은;review:임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
 |    | I Avoid People I Don't Like. How Can I Change Myself?   | 0:09:01 |    |    | 2019-05-11      | 2019-02-12 ~ 2019-03-04 |
 | [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) | 임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
