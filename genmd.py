@@ -68,8 +68,8 @@ def githublink(vid,fn,text=None,textwithoutlink=False):
 
 
 def gentab_fr_sub(f,status='published'):
-    f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | PUBDATE (youtube) |\n')
-    f.write('|----| ------------- |----|----|-----|---------|-------------------|\n')
+    f.write('| NO | TITLE         | YT | AM | PUBDATE | PUBDATE (youtube) |\n')
+    f.write('|----| ------------- |----|----|---------|-------------------|\n')
 
     for row in c.execute('SELECT v.vid,fr.title,v.pubdate vpubdate ,v.youtube,v.amara, fr.pubdate frpubdate \
                             FROM video v \
@@ -77,19 +77,17 @@ def gentab_fr_sub(f,status='published'):
                            WHERE status=\''+status+'\' \
                            ORDER BY v.pubdate DESC \
                              ' ):
-        vid     = row["v.vid"] # row["vid"]
+        vid     = utf8(row["v.vid"]) # row["vid"]
         title   = utf8(row["fr.title"]) #.encode('utf8')
         xlsfn   = getxlsfn(vid)
         frpubdate = utf8(row["frpubdate"])
         vpubdate = utf8(row["vpubdate"])
-        youtube = row["v.youtube"]
-        amara   = row["v.amara"]
-        titlelink = title
+        youtube = utf8(row["v.youtube"])
+        amara   = utf8(row["v.amara"])
         nolink = "[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid)
-        xlslink = githublink(vid,xlsfn,'![](img/excel.png)')
         utubelink = utf8("[![](img/youtube.png)](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
         amaralink = "[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else ''
-        #f.write("| %s | %s | %s | %s | %s | %s | %s |\n" % ( nolink, titlelink, utubelink, amaralink, xlslink, 'frpubdate', 'vpubdate' ))
+        f.write("| "+nolink+" | "+title+" | "+utubelink+" | "+amaralink+" | "+frpubdate+" | "+vpubdate+" |\n")
 
 def gentab_published(f,status='published'):
 #     f.write('---\n\
