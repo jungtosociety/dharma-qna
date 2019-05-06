@@ -68,7 +68,7 @@ def githublink(vid,fn,text=None,textwithoutlink=False):
 
 
 def gentab_fr_sub(f,status='published'):
-    f.write('| NO | TITLE         | YT | AM | PUBDATE | PUBDATE (youtube) |\n')
+    f.write('| NO | TITLE         | YT | AM | French Subtitle Completed Date | YouTube Date |\n')
     f.write('|----| ------------- |----|----|---------|-------------------|\n')
 
     for row in c.execute('SELECT v.vid,fr.title,v.pubdate vpubdate ,v.youtube,v.amara, fr.pubdate frpubdate \

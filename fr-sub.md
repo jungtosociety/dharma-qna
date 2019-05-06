@@ -1,4 +1,4 @@
-| NO | TITLE         | YT | AM | PUBDATE | PUBDATE (youtube) |
+| NO | TITLE         | YT | AM | French Subtitle Completed Date | YouTube Date |
 |----| ------------- |----|----|---------|-------------------|
 | [905](https://github.com/jungtosociety/dharma-qna/blob/master/sub/905) |  | [![](img/youtube.png)](https://youtu.be/zM6Ty-EAegk) | [![](img/amara.png)](http://amara.org/en/videos/ltCXhrMEwUZo) |  | 2019-05-04 |
 | [764](https://github.com/jungtosociety/dharma-qna/blob/master/sub/764) |  | [![](img/youtube.png)](https://youtu.be/qYQl0mvQk7k) | [![](img/amara.png)](http://amara.org/en/videos/VvAWfPnZ2FYB) |  | 2019-04-27 |
