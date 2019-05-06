@@ -80,14 +80,16 @@ def gentab_fr_sub(f,status='published'):
         vid     = utf8(row["v.vid"]) # row["vid"]
         title   = utf8(row["fr.title"]) #.encode('utf8')
         xlsfn   = getxlsfn(vid)
-        frpubdate = utf8(row["frpubdate"])
-        vpubdate = utf8(row["vpubdate"])
         youtube = utf8(row["v.youtube"])
         amara   = utf8(row["v.amara"])
         nolink = "[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid)
         utubelink = utf8("[![](img/youtube.png)](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
         amaralink = "[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else ''
-        f.write("| "+nolink+" | "+title+" | "+utubelink+" | "+amaralink+" | "+frpubdate+" | "+vpubdate+" |\n")
+        frpubdate = utf8(row["frpubdate"])
+        fn_fr   = getsubfn(vid,'fr')
+        frpubdatelink = utf8(githublink(vid,fn_fr,frpubdate,True))
+        vpubdate = utf8(row["vpubdate"])
+        f.write("| "+nolink+" | "+title+" | "+utubelink+" | "+amaralink+" | "+frpubdatelink+" | "+vpubdate+" |\n")
 
 def gentab_published(f,status='published'):
 #     f.write('---\n\
