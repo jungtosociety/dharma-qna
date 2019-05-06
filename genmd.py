@@ -362,8 +362,8 @@ if __name__ == "__main__":
 
 
     f = open('fr-sub.md', 'w')
-    gentab_fr_sub(f,'ready') # print ready subtitle for french team
-    f.write('\n')
+    #gentab_fr_sub(f,'ready') # print ready subtitle for french team
+    #f.write('\n')
     gentab_fr_sub(f) # published
     f.close()
     if run_cmd(['git','diff','fr-sub.md'],raise_exception=False) != '':
