@@ -3,7 +3,7 @@
 | ID            | 856 |
 | Korean Subtitle | 대학생 딸 아이의 대화 거부, 어떡하죠? \| 법륜스님의 즉문즉설<br>by 한국어녹취: 허정연,subtitle(김구슬래)<br>on 2018-11-15<br>[ko-856-daughter-communication.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/ko-856-daughter-communication.sbv)<br>|
 | English Subtitle | My Daughter and I Have Stopped Communicating. \| Ven. Pomnyun's Dharma Q&A<br>by 번역: 홍향주, 손영화, 송명석, 윤메릴,subtitle(김구슬래)<br>on 2018-11-15<br>[en-856-daughter-communication.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/en-856-daughter-communication.sbv)<br>|
-| French Subtitle | Ma fille ne veut plus parler avec moi \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on in progress<br><br>|
+| French Subtitle | Ma fille ne veut plus parler avec moi \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on 2019-01-17<br>[856.fr.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/856/856.fr.srt)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
