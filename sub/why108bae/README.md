@@ -6,7 +6,7 @@
 | French Subtitle | Pour quoi les 108 prosternations? \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on 2019-02-11<br>[why108bae.fr.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/why108bae/why108bae.fr.srt)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
-| Japanese Subtitle | N/A |
+| Japanese Subtitle | なぜ１０８回のお辞儀をするの? \| 法輪僧侶の卽問卽說<br>by <br>on 2019-05-12<br>[why108bae.ja.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/why108bae/why108bae.ja.srt)<br>|
 | Original YouTube Link  | [https://youtu.be/oU1phBW8Xmc](https://youtu.be/oU1phBW8Xmc) |
 | YouTube Link  | [https://youtu.be/YrTFJa3LNdY](https://youtu.be/YrTFJa3LNdY) |
 | Amara Link    | [http://amara.org/en/videos/CDeSgTiBKdbx](http://amara.org/en/videos/CDeSgTiBKdbx) |
