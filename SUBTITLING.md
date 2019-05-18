@@ -37,7 +37,7 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [1090](sub/1090) | 마음에 맞지 않는 사람들을 피하게 되는데, 어떻게 고쳐야 할까요?   | [![](img/youtube.png)](https://youtu.be/2rwYkIxDcBc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/eruO2tD1qxVI) | 김혜은;review:임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
 |    | I Avoid People I Don't Like. How Can I Change Myself?   | 0:09:01 |    |    | 2019-05-11      | 2019-02-12 ~ 2019-03-04 |
-| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) | 임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
+| [852](sub/852) | 이름이 안좋아서 아이가 아픈 것이라는데, 어떡하죠?   | [![](img/youtube.png)](https://youtu.be/FYvC4cJfBAA) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vzazS57eD70G) | 임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
 |    | I'm Told My Child Is Ill Due to a Bad Name. What Should I Do?    | 0:06:46 |    |    | 2019-05-18      | 2019-02-12 ~ 2019-03-04 |
 | [1209](sub/1209) | 혼혈 아이의 정체성 교육   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/P378nQ0l6yQP) | 임희정; review:김혜은      |     |
 |    | A Biracial Child's Identity   | 0:05:04 |    |    | 2019-05-25      |  ~ 2019-02-03 |
