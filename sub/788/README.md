@@ -3,7 +3,7 @@
 | ID            | 788 |
 | Korean Subtitle | 고집 센 나이 많은 부하직원 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김혜은; review:김재명)<br>on 2019-02-01<br>[ko-788-stubborn.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/ko-788-stubborn.sbv)<br>|
 | English Subtitle | Stubborn Older Subordinate \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김혜은; review:김재명)<br>on 2019-02-01<br>[en-788-stubborn.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/en-788-stubborn.sbv)<br>|
-| French Subtitle | Subalterne têtue et âgée \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on in progress<br><br>|
+| French Subtitle | Subalterne têtue et âgée \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on 2019-05-20<br>[788.fr.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/788/788.fr.srt)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
