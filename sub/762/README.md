@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 762 |
-| Korean Subtitle | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(정민규)<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | I Want to Change My Habit of Procrastination \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(정민규)<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요 \| 법륜스님의 즉문즉설<br>by 한국어녹취자 입력필요,subtitle(정민규; review 임희정)<br>on yyyy-mm-dd<br>[762.ko.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762.ko.srt)<br>|
+| English Subtitle | I Want to Change My Habit of Procrastination \| Ven. Pomnyun's Dharma Q&A<br>by 번역 입력필요,subtitle(정민규; review 임희정)<br>on yyyy-mm-dd<br>[762.en.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762.en.srt)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
