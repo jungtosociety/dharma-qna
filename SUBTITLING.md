@@ -1,9 +1,9 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 7 |
+|  [2. Subtitling](#2-subtitling-sub) | 12 |
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
 |  [5. Published](PROJECTS.md)  | 60|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 37|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
 ## 2. Subtitling (sub)
 
@@ -19,6 +19,16 @@
 |    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | 박상희      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) | 조미영      | 2019-4차 유튜브 자막 작업 (임희정)    |
+|    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | yyyy-mm-dd      |  ~  |
+| [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-feeling-cheated.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pcdJQs6k9cZp) | 정민규      | 2019-4차 유튜브 자막 작업 (임희정)    |
+|    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | yyyy-mm-dd      |  ~  |
+| [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) | 성미연      | 2019-4차 유튜브 자막 작업 (임희정)    |
+|    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
+| [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4jnVckG1Sbc) | 송명석      | 2019-4차 유튜브 자막 작업 (임희정)    |
+|    | Coincidence and Inevitability   | 0:09:53 |    |    | yyyy-mm-dd      |  ~  |
+| [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) | 박상희      | 2019-4차 유튜브 자막 작업 (임희정)    |
+|    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | yyyy-mm-dd      |  ~  |
 | [38](sub/38) | 기도 후 수행일지를 쓰려면 막막합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38-practice-journal.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/akTHydOchMma) | 임희정      | 2019-3차 유튜브 자막 작업 (임희정); 우선배정요청; video bluring required     |
 |    | How Should I Write My Practice Journal?   | 0:07:56 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [1138](sub/1138) | 수행을 통한 긍정적 변화   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cZCjLLljESAb) |       | 2019-4차 자막 작업 배정 요청    |
@@ -69,16 +79,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) |       |     |
-|    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | yyyy-mm-dd      |  ~  |
-| [1097](sub/1097) | 좋은 부모, 좋은 환경을 만나지 못한 것에 대해 억울한 마음이 드는데 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-feeling-cheated.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/pcdJQs6k9cZp) |       |     |
-|    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | yyyy-mm-dd      |  ~  |
-| [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) |       |     |
-|    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
-| [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4jnVckG1Sbc) |       |     |
-|    | Coincidence and Inevitability   | 0:09:53 |    |    | yyyy-mm-dd      |  ~  |
-| [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) |       |     |
-|    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | yyyy-mm-dd      |  ~  |
 | [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/joojsl6IZo2d) |       |     |
 |    | I'll Be the Hope of My Family and Live in Harmony   | 0:19:54 |    |    | yyyy-mm-dd      |  ~  |
 | [808](sub/808) | 연애는 많이 했는데 결혼은 잘 안됐어요, 어떤 사람을 만나야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hp8q8gfQMQqY) |       |     |
