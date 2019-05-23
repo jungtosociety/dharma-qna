@@ -1,7 +1,7 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 12 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
+|  [2. Subtitling](#2-subtitling-sub) | 11 |
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 18|
 |  [5. Published](PROJECTS.md)  | 60|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
@@ -29,8 +29,6 @@
 |    | Coincidence and Inevitability   | 0:09:53 |    |    | yyyy-mm-dd      |  ~  |
 | [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) | 박상희      | 2019-4차 유튜브 자막 작업 (임희정)    |
 |    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | yyyy-mm-dd      |  ~  |
-| [38](sub/38) | 기도 후 수행일지를 쓰려면 막막합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38-practice-journal.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/akTHydOchMma) | 임희정      | 2019-3차 유튜브 자막 작업 (임희정); 우선배정요청; video bluring required     |
-|    | How Should I Write My Practice Journal?   | 0:07:56 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [1138](sub/1138) | 수행을 통한 긍정적 변화   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cZCjLLljESAb) |       | 2019-4차 자막 작업 배정 요청    |
 |    | Making Positive Changes Through Practice   | 0:15:18 |    |    | yyyy-mm-dd      |  ~  |
 ## 3. Reviewing (review)
@@ -75,6 +73,8 @@
 |    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) | 성미연; review 임희정      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [38](sub/38) | 기도 후 수행일지를 쓰려면 막막합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38-practice-journal.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/akTHydOchMma) | 임희정      | 2019-3차 유튜브 자막 작업 (임희정); 우선배정요청;     |
+|    | How Should I Write My Practice Journal?   | 0:07:56 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
