@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 11 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 18|
-|  [5. Published](PROJECTS.md)  | 60|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
+|  [5. Published](PROJECTS.md)  | 61|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
 ## 2. Subtitling (sub)
@@ -39,8 +39,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [1209](sub/1209) | 혼혈 아이의 정체성 교육   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biracial-child-identity.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/P378nQ0l6yQP) | 임희정; review:김혜은      |     |
-|    | A Biracial Child's Identity   | 0:05:04 |    |    | 2019-05-25      |  ~ 2019-02-03 |
 | [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
 |    | An Argumentative Co-worker   | 0:03:09 |    |    | 2019-06-01      |  ~ 2019-02-03 |
 | [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정; review:김혜은      |     |
