@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 11 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 17|
-|  [5. Published](PROJECTS.md)  | 61|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 16|
+|  [5. Published](PROJECTS.md)  | 62|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
 ## 2. Subtitling (sub)
@@ -39,8 +39,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
-|    | An Argumentative Co-worker   | 0:03:09 |    |    | 2019-06-01      |  ~ 2019-02-03 |
 | [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정; review:김혜은      |     |
 |    | Repentance Towards Father   | 0:08:12 |    |    | 2019-06-08      | 2018-05-12 ~ 2018-08-22 |
 | [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래; review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
@@ -71,8 +69,8 @@
 |    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) | 성미연; review 임희정      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [38](sub/38) | 기도 후 수행일지를 쓰려면 막막합니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38-practice-journal.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/akTHydOchMma) | 임희정      | 2019-3차 유튜브 자막 작업 (임희정); 우선배정요청;     |
-|    | How Should I Write My Practice Journal?   | 0:07:56 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
+|    | An Argumentative Co-worker   | 0:03:09 |    |    | yyyy-mm-dd      |  ~ 2019-02-03 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
