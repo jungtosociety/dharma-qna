@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 11 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 16|
-|  [5. Published](PROJECTS.md)  | 62|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 15|
+|  [5. Published](PROJECTS.md)  | 63|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
 ## 2. Subtitling (sub)
@@ -39,8 +39,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [449](sub/449) | 아버지에 대한 참회   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/xeSYqPrYbzJa) | 김윤주, 오민정; review:김혜은      |     |
-|    | Repentance Towards Father   | 0:08:12 |    |    | 2019-06-08      | 2018-05-12 ~ 2018-08-22 |
 | [873](sub/873) | 아버님이 다리를 스무번 넘게 다쳤어요, 어떻게 도움을 줄 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/873/873-father-leg.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/vCeNJcjDWbbH) | 김구슬래; review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
 |    | My Father Broke His Leg Over 20 Times.  How Can I Help Him?   | 0:11:00 |    |    | 2019-06-15      | 2018-11-27 ~ 2019-01-07 |
 | [792](sub/792) | 지적 장애를 가진 중2 아들, 아이 키우는 게 힘들어요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/tlfgUemDBR4v) | 김구슬래; review:김혜은      |     |
