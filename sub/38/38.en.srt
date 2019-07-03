@@ -175,13 +175,13 @@ You probably can’t do more
 than what you think you can do.
 
 39
-00:03:29,886 --> 00:03:33,046
+00:03:29,886 --> 00:03:31,976
 Then you might ask me 
-why do I bother to say yes 
-when I can’t even do what he wants me to do?
+why do I bother to say yes
 
 40
-00:03:33,046 --> 00:03:34,259
+00:03:31,976 --> 00:03:34,259
+when I can’t even do what he wants me to do?
 That’s not the point.
 
 41
