@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 11 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 13|
-|  [5. Published](PROJECTS.md)  | 65|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 12|
+|  [5. Published](PROJECTS.md)  | 66|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 32|
 
 ## 2. Subtitling (sub)
@@ -41,8 +41,6 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/2aD3E2Pw4Ac) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) | 박상희;review:임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2019-06-29      | 2019-02-12 ~ 2019-03-04 |
-| [333](sub/333) | 어떤 이유로 인도어린이를 돕게 되었습니까?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3f8AxufmqzeR) | 김윤주; review:김혜은      |     |
-|    | How Did You Come to Do the Aid Work for Indian Children?   | 0:16:12 |    |    | 2019-07-06      | 2017-12-18 ~ 2018-1-9 |
 | [385](sub/385) | 놓아버리는 것, 그냥 지켜보는 것   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gHnRsxLbonuq) | 정민규; review:김혜은      | 2019-1차 유튜브 자막 작업 (김혜은)    |
 |    | Letting Go; Just Observing   | 0:14:34 |    |    | 2019-07-13      | 2019-01-07 ~ 2019-01-29 |
 | [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
