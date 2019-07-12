@@ -330,6 +330,7 @@ if __name__ == "__main__":
     f.write('| Status | Number of Videos |\n')
     f.write('|--------| ---------------- |\n')
     f.write('|  [2. Subtitling](#2-subtitling-sub) | '+str(get_count('sub'))+' |\n')
+    f.write('|  [3. Reviewing](#3-reviewing-review) | '+str(get_count('review'))+' |\n')
     f.write('|  [4. Ready to Publish](#4-ready-to-publish-ready) | '+str(get_count('ready'))+'|\n')
     f.write('|  [5. Published](PROJECTS.md)  | '+str(get_count('published'))+'|\n')
     f.write('|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | '+str(get_count('unassigned'))+'|\n')
