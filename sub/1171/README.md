@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1171 |
-| Korean Subtitle | 짜증 잘내는 성격, 고칠 수 있을까요? \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Can I change my irritable personality? \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 짜증 잘내는 성격, 고칠 수 있을까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(성미연)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Can I change my irritable personality? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(성미연)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
