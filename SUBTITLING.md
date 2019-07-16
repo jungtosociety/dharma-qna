@@ -2,8 +2,8 @@
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 8 |
 |  [3. Reviewing](#3-reviewing-review) | 9 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 11|
-|  [5. Published](PROJECTS.md)  | 67|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 9|
+|  [5. Published](PROJECTS.md)  | 69|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 26|
 
 ## 2. Subtitling (sub)
@@ -54,10 +54,6 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/2aD3E2Pw4Ac) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) | 박상희;review:임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
 |    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2019-06-29      | 2019-02-12 ~ 2019-03-04 |
-| [902](sub/902) | 남편이 처가에 대해 적대적이고 인색해요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/GRUr6dmIjr7N) | 이동엽;review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
-|    | My Husband Is Hostile and Stingy Toward My Family   | 0:10:32 |    |    | 2019-07-20      | 2018-11-27 ~ 2018-12-18 |
-| [884](sub/884) | 꿈이 과학자인데 게임을 너무 좋아해요, 어떡하죠?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hGvb6ZqazjOx) | 구슬래; review:김혜은      | 2019-1차 유튜브 자막 작업 (김혜은)    |
-|    | My dream is to be a scientist, but I enjoy games too much.  What can I do?   | 0:07:42 |    |    | 2019-07-27      | 2019-01-07 ~ 2019-01-28 |
 | [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연;review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
 |    | My Wounds   | 0:10:51 |    |    | 2019-08-03      | 2018-11-27 ~ 2018-12-20 |
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주;review:김혜은      |     |
