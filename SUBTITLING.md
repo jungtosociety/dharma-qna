@@ -2,8 +2,8 @@
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 8 |
 |  [3. Reviewing](#3-reviewing-review) | 9 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 9|
-|  [5. Published](PROJECTS.md)  | 69|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 8|
+|  [5. Published](PROJECTS.md)  | 70|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 26|
 
 ## 2. Subtitling (sub)
@@ -52,8 +52,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [233](sub/233) | 간섭하지 마라의 의미   | [![](img/youtube.png)](https://youtu.be/2aD3E2Pw4Ac) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/dYre5CspEv5V) | 박상희;review:임희정      | 2019-2차 유튜브 자막 작업 (임희정)    |
-|    | The Meaning of Not Interfering   | 0:13:30 |    |    | 2019-06-29      | 2019-02-12 ~ 2019-03-04 |
 | [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연;review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
 |    | My Wounds   | 0:10:51 |    |    | 2019-08-03      | 2018-11-27 ~ 2018-12-20 |
 | [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주;review:김혜은      |     |
