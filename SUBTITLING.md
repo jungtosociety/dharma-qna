@@ -63,11 +63,11 @@
 | [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석;review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
 |    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | 2019-08-31      | 2018-11-30 ~ 2018-12-31 |
 | [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) | 정민규; review 임희정      | 2019-3차 유튜브 자막 작업 (임희정)    |
-|    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+|    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | 2019-09-07      | 2019-03-05 ~  |
 | [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) | 성미연; review 임희정      | 2019-3차 유튜브 자막 작업 (임희정)    |
-|    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+|    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2019-09-14      | 2019-03-05 ~  |
 | [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
-|    | An Argumentative Co-worker   | 0:03:09 |    |    | yyyy-mm-dd      |  ~ 2019-02-03 |
+|    | An Argumentative Co-worker   | 0:03:09 |    |    | 2019-09-21      |  ~ 2019-02-03 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |

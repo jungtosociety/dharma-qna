@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 799 |
-| Korean Subtitle | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요 \| 법륜스님의 즉문즉설<br>by 한국어녹취자 모름 입력해야함,subtitle(성미연; review 임희정)<br>on yyyy-mm-dd<br>[799.ko.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799.ko.srt)<br>|
-| English Subtitle | I Get Sensitive over My Child's Grades \| Ven. Pomnyun's Dharma Q&A<br>by 번역자 모름 (입력필요),subtitle(성미연; review 임희정)<br>on yyyy-mm-dd<br>[799.en.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799.en.srt)<br>|
+| Korean Subtitle | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요 \| 법륜스님의 즉문즉설<br>by 한국어녹취자 모름 입력해야함,subtitle(성미연; review 임희정)<br>on 2019-09-14<br>[799.ko.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799.ko.srt)<br>|
+| English Subtitle | I Get Sensitive over My Child's Grades \| Ven. Pomnyun's Dharma Q&A<br>by 번역자 모름 (입력필요),subtitle(성미연; review 임희정)<br>on 2019-09-14<br>[799.en.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799.en.srt)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

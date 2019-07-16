@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 695 |
-| Korean Subtitle | 시비하는 직장동료 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(조미영; review:김혜은)<br>on yyyy-mm-dd<br>[695-argumentive-coworker.ko.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.ko.sbv)<br>|
-| English Subtitle | An Argumentative Co-worker \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(조미영; review:김혜은)<br>on yyyy-mm-dd<br>[695-argumentive-coworker.en.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.en.sbv)<br>|
+| Korean Subtitle | 시비하는 직장동료 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(조미영; review:김혜은)<br>on 2019-09-21<br>[695-argumentive-coworker.ko.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.ko.sbv)<br>|
+| English Subtitle | An Argumentative Co-worker \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(조미영; review:김혜은)<br>on 2019-09-21<br>[695-argumentive-coworker.en.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.en.sbv)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
