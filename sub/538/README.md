@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/eiAhqXencCg](https://youtu.be/eiAhqXencCg) |
-| YouTube Link  |  |
+| YouTube Link  | [https://youtu.be/WgpeWctk5X4](https://youtu.be/WgpeWctk5X4) |
 | Amara Link    | [http://amara.org/en/videos/i3OPx50Qg4N2](http://amara.org/en/videos/i3OPx50Qg4N2) |
 | Transcript(ko/en) | [538-single-mom.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) |
 | Playtime | 0:07:18 |

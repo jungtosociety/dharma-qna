@@ -2,8 +2,8 @@
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 8 |
 |  [3. Reviewing](#3-reviewing-review) | 9 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 8|
-|  [5. Published](PROJECTS.md)  | 70|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 3|
+|  [5. Published](PROJECTS.md)  | 75|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 26|
 
 ## 2. Subtitling (sub)
@@ -52,16 +52,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [691](sub/691) | 내 상처   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3SjNEOOKtbWF) | 성미연;review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
-|    | My Wounds   | 0:10:51 |    |    | 2019-08-03      | 2018-11-27 ~ 2018-12-20 |
-| [886](sub/886) | 공부하고 싶은데 놀고 싶은 욕망 때문에 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/NTTy6l12tUg7) | 김승주;review:김혜은      |     |
-|    | I Want to Study but My Desire to Have Fun Makes It Hard.   | 0:11:08 |    |    | 2019-08-10      | 2017-05-11 ~ 2019-01-02 |
-| [1144](sub/1144) | 친구들의 갈등을 중재할 때 지혜로운 방법을 알고싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) | 김어진;review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
-|    | I Would Like to Know the Wise Ways to Resolve the Conflicts Among Friends   | 0:09:16 |    |    | 2019-08-17      | 2018-11-29 ~ 2018-12-26 |
-| [1187](sub/1187) | 싫어하는 사람을 대할 때   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) | 정민규;review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
-|    | Dealing With People I Hate   | 0:07:40 |    |    | 2019-08-24      | 2018-12-18 ~ 2018-12-31 |
-| [538](sub/538) | 남편과 이혼 후 혼자 키운 아들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) | 송명석;review:김혜은      | 2018-1차 유튜브 자막 작업 (김혜은)    |
-|    | I'm Raising a Son Alone After a Divorce   | 0:07:18 |    |    | 2019-08-31      | 2018-11-30 ~ 2018-12-31 |
 | [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) | 정민규; review 임희정      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | 2019-09-07      | 2019-03-05 ~  |
 | [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) | 성미연; review 임희정      | 2019-3차 유튜브 자막 작업 (임희정)    |
