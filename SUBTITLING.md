@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 10 |
+|  [2. Subtitling](#2-subtitling-sub) | 9 |
 |  [3. Reviewing](#3-reviewing-review) | 9 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 4|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 5|
 |  [5. Published](PROJECTS.md)  | 75|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 23|
 
@@ -20,8 +20,6 @@
 |    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
 | [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) | 김어진      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | Qualifications for a Good Spouse   | 0:14:31 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
-| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) | 조미영      | 2019-7차 유튜브 자막 작업 (임희정)    |
-|    | How do you handle stress?   | 0:11:06 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 | [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) | 성미연      | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | Can I change my irritable personality?   | 0:12:07 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 | [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/X4kZdZUvkACk) |       | 2019-7차 유튜브 자막 작업 (임희정)    |
@@ -62,6 +60,8 @@
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2019-09-14      | 2019-03-05 ~  |
 | [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
 |    | An Argumentative Co-worker   | 0:03:09 |    |    | 2019-09-21      |  ~ 2019-02-03 |
+| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) | 조미영; review(임희정)      | 2019-7차 유튜브 자막 작업 (임희정)    |
+|    | How do you handle stress?   | 0:11:06 |    |    | 2019-09-28      | 2019-07-10 ~  |
 | [870](sub/870) | 왜 사는가요? 베풀고 살아야겠다 생각은 하는데…   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/870/870-why-do-we-live.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) | 김원영; review(김재명)      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | Why Do We Live? To Give to Others?   | 0:06:53 |    |    | 2019-10-05      | 2019-08-01 ~ 2019-08-04 |
 ## 1. Ready to Subtitle (unassigned)
