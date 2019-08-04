@@ -1,10 +1,10 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 8 |
-|  [3. Reviewing](#3-reviewing-review) | 9 |
+|  [2. Subtitling](#2-subtitling-sub) | 10 |
+|  [3. Reviewing](#3-reviewing-review) | 10 |
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 3|
 |  [5. Published](PROJECTS.md)  | 75|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 26|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 23|
 
 ## 2. Subtitling (sub)
 
@@ -16,6 +16,10 @@
 |    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | yyyy-mm-dd      |  ~  |
 | [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/joojsl6IZo2d) | 송명석      | 2019-5차 유튜브 자막 작업 (임희정)    |
 |    | I'll Be the Hope of My Family and Live in Harmony   | 0:19:54 |    |    | yyyy-mm-dd      |  ~  |
+| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) | 장소윤      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
+| [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) | 김어진      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | Qualifications for a Good Spouse   | 0:14:31 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
 | [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) | 조미영      | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | How do you handle stress?   | 0:11:06 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 | [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) | 성미연      | 2019-7차 유튜브 자막 작업 (임희정)    |
@@ -48,6 +52,8 @@
 |    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | yyyy-mm-dd      |  ~  |
 | [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/muGP4UvvHVj5) | 성미연      | 2019-5차 유튜브 자막 작업 (임희정)    |
 |    | Knowing the Law of Cause and Effect Can Free You in Life.   | 0:12:09 |    |    | yyyy-mm-dd      |  ~  |
+| [870](sub/870) | 왜 사는가요? 베풀고 살아야겠다 생각은 하는데…   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/870/870-why-do-we-live.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) | 김원영; review(김재명)      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | Why Do We Live? To Give to Others?   | 0:06:53 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-08-04 |
 ## 4. Ready to Publish (ready)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -64,12 +70,8 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [808](sub/808) | 연애는 많이 했는데 결혼은 잘 안됐어요, 어떤 사람을 만나야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hp8q8gfQMQqY) |       |     |
 |    | In Spite of Dating a Lot, I Have Not Been Able to Get Married Yet. What Sort of Man Shall I Meet?   | 0:23:36 |    |    | yyyy-mm-dd      |  ~  |
-| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) |       |     |
-|    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | yyyy-mm-dd      |  ~  |
 | [901](sub/901) | 행복을 멀리서 찾지 마세요, 정토 세상의 진정한 뜻   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/901/901-happiness.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/0v6g3hrpNQeK) |       |     |
 |    | Don't Look in the Distance for Happiness; True Meaning of Pure Land   | 0:18:21 |    |    | yyyy-mm-dd      |  ~  |
-| [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) |       |     |
-|    | Qualifications for a Good Spouse   | 0:14:31 |    |    | yyyy-mm-dd      |  ~  |
 | [1205](sub/1205) | 최선을 다하되 결과에 연연하지 않는다.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1205/1205-cling-to-results.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/9CTJIgqBVEiz) |       |     |
 |    | Do Your Best, but Don't Cling to Results   | 0:08:05 |    |    | yyyy-mm-dd      |  ~  |
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DLO7Pn1QRv0o) |       |     |
@@ -94,8 +96,6 @@
 |    | Open Your Eyes to the Truth   | 0:10:16 |    |    | yyyy-mm-dd      |  ~  |
 | [832](sub/832) | 자신감이 없어지고 제 자신이 어색하게 느껴져요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/832/832-losing-self-confidence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M40rsReJMVOd) |       | video bluring required    |
 |    | Losing Self-Confidence and Feeling Awkward   | 0:10:02 |    |    | yyyy-mm-dd      |  ~  |
-| [870](sub/870) | 왜 사는가요? 베풀고 살아야겠다 생각은 하는데…   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/870/870-why-do-we-live.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) |       | video bluring required    |
-|    | Why Do We Live? To Give to Others?   | 0:06:53 |    |    | yyyy-mm-dd      |  ~  |
 | [896](sub/896) | 의대에 입학했는데, 학교 다니는게 부담되고 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/896/896-medical-school.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/maRRJEDLCFJ2) |       | video bluring required    |
 |    | I'm Having a Hard Time in Medical School.   | 0:07:21 |    |    | yyyy-mm-dd      |  ~  |
 | [971](sub/971) | 남과 나를 비교하는 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/971/971-comparing-myself-to-others.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gbBuDAs3DCBu) |       | video bluring required    |
