@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 10 |
-|  [3. Reviewing](#3-reviewing-review) | 10 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 3|
+|  [3. Reviewing](#3-reviewing-review) | 9 |
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 4|
 |  [5. Published](PROJECTS.md)  | 75|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 23|
 
@@ -52,8 +52,6 @@
 |    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | yyyy-mm-dd      |  ~  |
 | [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/muGP4UvvHVj5) | 성미연      | 2019-5차 유튜브 자막 작업 (임희정)    |
 |    | Knowing the Law of Cause and Effect Can Free You in Life.   | 0:12:09 |    |    | yyyy-mm-dd      |  ~  |
-| [870](sub/870) | 왜 사는가요? 베풀고 살아야겠다 생각은 하는데…   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/870/870-why-do-we-live.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) | 김원영; review(김재명)      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | Why Do We Live? To Give to Others?   | 0:06:53 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-08-04 |
 ## 4. Ready to Publish (ready)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
@@ -64,6 +62,8 @@
 |    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2019-09-14      | 2019-03-05 ~  |
 | [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
 |    | An Argumentative Co-worker   | 0:03:09 |    |    | 2019-09-21      |  ~ 2019-02-03 |
+| [870](sub/870) | 왜 사는가요? 베풀고 살아야겠다 생각은 하는데…   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/870/870-why-do-we-live.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) | 김원영; review(김재명)      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | Why Do We Live? To Give to Others?   | 0:06:53 |    |    | 2019-10-05      | 2019-08-01 ~ 2019-08-04 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
