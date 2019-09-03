@@ -1,9 +1,9 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 9 |
-|  [3. Reviewing](#3-reviewing-review) | 10 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 4|
-|  [5. Published](PROJECTS.md)  | 75|
+|  [2. Subtitling](#2-subtitling-sub) | 8 |
+|  [3. Reviewing](#3-reviewing-review) | 6 |
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 6|
+|  [5. Published](PROJECTS.md)  | 78|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 23|
 
 ## 2. Subtitling (sub)
@@ -16,8 +16,6 @@
 |    | How Do I Deal With This Feeling of Having Been Cheated out of Good Upbringing and Good Parenting?   | 0:15:45 |    |    | yyyy-mm-dd      |  ~  |
 | [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/joojsl6IZo2d) | 송명석      | 2019-5차 유튜브 자막 작업 (임희정)    |
 |    | I'll Be the Hope of My Family and Live in Harmony   | 0:19:54 |    |    | yyyy-mm-dd      |  ~  |
-| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) | 장소윤      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
 | [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) | 김어진      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | Qualifications for a Good Spouse   | 0:14:31 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
 | [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) | 성미연      | 2019-7차 유튜브 자막 작업 (임희정)    |
@@ -32,18 +30,10 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [743](sub/743) | 종교가 다른 아내   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) | 송명석      | 2019-3차 유튜브 자막 작업 (임희정)    |
-|    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) | 김구슬래      | 2019-3차 유튜브 자막 작업 (임희정)    |
+| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) | 김구슬래; review:김원영,김재명      | 2019-3차 유튜브 자막 작업 (임희정), 번역리뷰중    |
 |    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) | 조미영      | 2019-3차 유튜브 자막 작업 (임희정)    |
-|    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | 박상희      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) | 조미영      | 2019-4차 유튜브 자막 작업 (임희정)    |
-|    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | yyyy-mm-dd      |  ~  |
-| [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) | 성미연      | 2019-4차 유튜브 자막 작업 (임희정)    |
-|    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
 | [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4jnVckG1Sbc) | 송명석      | 2019-4차 유튜브 자막 작업 (임희정)    |
 |    | Coincidence and Inevitability   | 0:09:53 |    |    | yyyy-mm-dd      |  ~  |
 | [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) | 박상희      | 2019-4차 유튜브 자막 작업 (임희정)    |
@@ -56,14 +46,18 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [762](sub/762) | 사회 초년생이 되어서 뒤로 미루는 습관을 고치고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) | 정민규; review 임희정      | 2019-3차 유튜브 자막 작업 (임희정)    |
-|    | I Want to Change My Habit of Procrastination   | 0:13:53 |    |    | 2019-09-07      | 2019-03-05 ~  |
-| [799](sub/799) | 아이의 학교 성적에 자꾸 잔소리하고 신경이 예민해져요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) | 성미연; review 임희정      | 2019-3차 유튜브 자막 작업 (임희정)    |
-|    | I Get Sensitive over My Child's Grades   | 0:08:40 |    |    | 2019-09-14      | 2019-03-05 ~  |
-| [695](sub/695) | 시비하는 직장동료   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) | 조미영; review:김혜은      |     |
-|    | An Argumentative Co-worker   | 0:03:09 |    |    | 2019-09-21      |  ~ 2019-02-03 |
 | [870](sub/870) | 왜 사는가요? 베풀고 살아야겠다 생각은 하는데…   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/870/870-why-do-we-live.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) | 김원영; review(김재명)      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | Why Do We Live? To Give to Others?   | 0:06:53 |    |    | 2019-09-28      | 2019-08-01 ~ 2019-08-04 |
+| [743](sub/743) | 종교가 다른 아내   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) | 송명석; review:김원영      | 2019-3차 유튜브 자막 작업 (임희정)    |
+|    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) | 조미영; review:김원영      | 2019-3차 유튜브 자막 작업 (임희정)    |
+|    | Not Easy to Concede   | 0:10:44 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) | 조미영; review:김원영      | 2019-4차 유튜브 자막 작업 (임희정)    |
+|    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | yyyy-mm-dd      |  ~  |
+| [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) | 성미연; review:김원영      | 2019-4차 유튜브 자막 작업 (임희정)    |
+|    | Choosing a Mate   | 0:08:47 |    |    | yyyy-mm-dd      |  ~  |
+| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) | 장소윤; review:김원영      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |

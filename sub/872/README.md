@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 872 |
-| Korean Subtitle | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(장소윤)<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | I Want to Get Married.  How Should I Approach Marriage? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(장소윤)<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(장소윤; review:김원영)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I Want to Get Married.  How Should I Approach Marriage? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(장소윤; review:김원영)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

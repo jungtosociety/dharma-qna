@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 322 |
-| Korean Subtitle | 양보하면서 사는 것이 쉽지 않습니다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(조미영)<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Not Easy to Concede \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(조미영)<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 양보하면서 사는 것이 쉽지 않습니다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(조미영; review:김원영)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Not Easy to Concede \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(조미영; review:김원영)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
