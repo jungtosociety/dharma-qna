@@ -1,10 +1,10 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 8 |
+|  [2. Subtitling](#2-subtitling-sub) | 11 |
 |  [3. Reviewing](#3-reviewing-review) | 6 |
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 6|
 |  [5. Published](PROJECTS.md)  | 78|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 23|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 20|
 
 ## 2. Subtitling (sub)
 
@@ -18,12 +18,18 @@
 |    | I'll Be the Hope of My Family and Live in Harmony   | 0:19:54 |    |    | yyyy-mm-dd      |  ~  |
 | [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) | 김어진      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | Qualifications for a Good Spouse   | 0:14:31 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
+| [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DLO7Pn1QRv0o) | 조미영      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | The Sewol Ferry Tragedy   | 0:17:14 |    |    | yyyy-mm-dd      |  ~  |
+| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | 손동기      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      |  ~  |
 | [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) | 성미연      | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | Can I change my irritable personality?   | 0:12:07 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 | [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/X4kZdZUvkACk) |       | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | I feel lost after graduating college    | 0:16:36 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 | [607](sub/607) | 자기 삶을 풍요롭게   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/607/607-richer-life.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cqfthIYdtThZ) | 김일향      | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | To Live a Fulfilling Life   | 0:06:56 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
+| [832](sub/832) | 자신감이 없어지고 제 자신이 어색하게 느껴져요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/832/832-losing-self-confidence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M40rsReJMVOd) | 강일향      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | Losing Self-Confidence and Feeling Awkward   | 0:10:02 |    |    | yyyy-mm-dd      |  ~  |
 | [1138](sub/1138) | 수행을 통한 긍정적 변화   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cZCjLLljESAb) | 김어진      | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | Making Positive Changes Through Practice   | 0:15:18 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 ## 3. Reviewing (review)
@@ -68,16 +74,12 @@
 |    | Don't Look in the Distance for Happiness; True Meaning of Pure Land   | 0:18:21 |    |    | yyyy-mm-dd      |  ~  |
 | [1205](sub/1205) | 최선을 다하되 결과에 연연하지 않는다.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1205/1205-cling-to-results.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/9CTJIgqBVEiz) |       |     |
 |    | Do Your Best, but Don't Cling to Results   | 0:08:05 |    |    | yyyy-mm-dd      |  ~  |
-| [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DLO7Pn1QRv0o) |       |     |
-|    | The Sewol Ferry Tragedy   | 0:17:14 |    |    | yyyy-mm-dd      |  ~  |
 | [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jM92tReRhODU) |       |     |
 |    | Recovering the wild and natural quality   | 0:14:18 |    |    | yyyy-mm-dd      |  ~  |
 | [777](sub/777) | 헤어진 남자친구와 새여자친구가 같은 캠퍼스에요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jd5yrCgnF9lh) |       |     |
 |    | I attend the same school as my ex-boyfriend and his new girlfriend.   | 0:10:07 |    |    | yyyy-mm-dd      |  ~  |
 | [895](sub/895) | 희망세상을 만드는 5가지 희망실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SaReVUhcxyTl) |       |     |
 |    | 5 righteous actions to create a world of hope.   | 0:09:30 |    |    | yyyy-mm-dd      |  ~  |
-| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) |       |     |
-|    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      |  ~  |
 | [41](sub/41) | 깨장을 갔다온 후 제 꼴을 보니 괴롭습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/41/41-miserable-after-retreat.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/01KkDXF6q8XU) |       | video bluring required    |
 |    | I Feel Miserable After Attending Meditation Retreat   | 0:11:22 |    |    | yyyy-mm-dd      |  ~  |
 | [362](sub/362) | 자신을 행복하게 하는 법   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/362/362-how-to-be-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/zI5gpG2GEsMx) |       | video bluring required    |
@@ -88,8 +90,6 @@
 |    | How Can I Overcome Hatred Towards Others?   | 0:08:38 |    |    | yyyy-mm-dd      |  ~  |
 | [720](sub/720) | 진리에 눈뜨는 시간   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/720/720-open-your-eyes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/CoHQCdHk1rft) |       | video bluring required    |
 |    | Open Your Eyes to the Truth   | 0:10:16 |    |    | yyyy-mm-dd      |  ~  |
-| [832](sub/832) | 자신감이 없어지고 제 자신이 어색하게 느껴져요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/832/832-losing-self-confidence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M40rsReJMVOd) |       | video bluring required    |
-|    | Losing Self-Confidence and Feeling Awkward   | 0:10:02 |    |    | yyyy-mm-dd      |  ~  |
 | [896](sub/896) | 의대에 입학했는데, 학교 다니는게 부담되고 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/896/896-medical-school.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/maRRJEDLCFJ2) |       | video bluring required    |
 |    | I'm Having a Hard Time in Medical School.   | 0:07:21 |    |    | yyyy-mm-dd      |  ~  |
 | [971](sub/971) | 남과 나를 비교하는 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/971/971-comparing-myself-to-others.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gbBuDAs3DCBu) |       | video bluring required    |
