@@ -24,7 +24,7 @@
 |    | The Sewol Ferry Tragedy   | 0:17:14 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
 | [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | 손동기      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
-| [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) | 성미연      | 2019-7차 유튜브 자막 작업 (임희정)    |
+| [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) | 성미연      | 2019-7차 유튜브 자막 작업 (임희정) ; 자막번역이 중간에 끊겨서 다시 번역 요청    |
 |    | Can I change my irritable personality?   | 0:12:07 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 | [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/X4kZdZUvkACk) |       | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | I feel lost after graduating college    | 0:16:36 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
