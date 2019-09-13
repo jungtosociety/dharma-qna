@@ -2,8 +2,8 @@
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 12 |
 |  [3. Reviewing](#3-reviewing-review) | 6 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 6|
-|  [5. Published](PROJECTS.md)  | 78|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 5|
+|  [5. Published](PROJECTS.md)  | 79|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 19|
 
 ## 2. Subtitling (sub)
@@ -54,8 +54,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [870](sub/870) | 왜 사는가요? 베풀고 살아야겠다 생각은 하는데…   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/870/870-why-do-we-live.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) | 김원영; review(김재명)      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | Why Do We Live? To Give to Others?   | 0:06:53 |    |    | 2019-09-28      | 2019-08-01 ~ 2019-08-04 |
 | [743](sub/743) | 종교가 다른 아내   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) | 송명석; review:김원영      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) | 조미영; review:김원영      | 2019-3차 유튜브 자막 작업 (임희정)    |

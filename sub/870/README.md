@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/0dzDfa8mrLU](https://youtu.be/0dzDfa8mrLU) |
-| YouTube Link  |  |
+| YouTube Link  | [https://youtu.be/-SZvlEiFzzA](https://youtu.be/-SZvlEiFzzA) |
 | Amara Link    | [http://amara.org/en/videos/iBydFiPjY8C2](http://amara.org/en/videos/iBydFiPjY8C2) |
 | Transcript(ko/en) | [870-why-do-we-live.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/870/870-why-do-we-live.xlsx) |
 | Playtime | 0:06:53 |
