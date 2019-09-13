@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 41 |
-| Korean Subtitle | 깨장을 갔다온 후 제 꼴을 보니 괴롭습니다 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | I Feel Miserable After Attending Meditation Retreat \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 깨장을 갔다온 후 제 꼴을 보니 괴롭습니다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(오호산)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I Feel Miserable After Attending Meditation Retreat \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(오호산)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

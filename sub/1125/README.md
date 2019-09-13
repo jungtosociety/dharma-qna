@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1125 |
-| Korean Subtitle | 길에 난 풀처럼 산다는 것의 의미 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | What It Means to Live Like Grass \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 길에 난 풀처럼 산다는 것의 의미 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김어진)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | What It Means to Live Like Grass \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김어진)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

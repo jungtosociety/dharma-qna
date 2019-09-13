@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 777 |
-| Korean Subtitle | 헤어진 남자친구와 새여자친구가 같은 캠퍼스에요. \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | I attend the same school as my ex-boyfriend and his new girlfriend. \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 헤어진 남자친구와 새여자친구가 같은 캠퍼스에요. \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김어진)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I attend the same school as my ex-boyfriend and his new girlfriend. \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김어진)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

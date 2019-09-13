@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 766 |
-| Korean Subtitle | 참선을 하면 마음을 찾을 수 있나요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(박상희)<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Can I Find My Mind by Practicing Dhyana? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(박상희)<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 참선을 하면 마음을 찾을 수 있나요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(박상희; review:미상)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Can I Find My Mind by Practicing Dhyana? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(박상희; review:미상)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

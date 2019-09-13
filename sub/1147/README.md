@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1147 |
-| Korean Subtitle | 욕망은 욕망인줄 알아차리면 된다 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Acknowledge Your Desires as Desires \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 욕망은 욕망인줄 알아차리면 된다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김어진)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Acknowledge Your Desires as Desires \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김어진)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

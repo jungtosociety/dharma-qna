@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 901 |
-| Korean Subtitle | 행복을 멀리서 찾지 마세요, 정토 세상의 진정한 뜻 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Don't Look in the Distance for Happiness; True Meaning of Pure Land \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 행복을 멀리서 찾지 마세요, 정토 세상의 진정한 뜻 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(조미영)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Don't Look in the Distance for Happiness; True Meaning of Pure Land \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(조미영)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
