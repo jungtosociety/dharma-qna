@@ -1,9 +1,9 @@
 | NO | TITLE         | YT | AM | French Subtitle Completed Date | YouTube Date |
 |----| ------------- |----|----|---------|-------------------|
 | [870](https://github.com/jungtosociety/dharma-qna/blob/master/sub/870) |  | [![](img/youtube.png)](https://youtu.be/-SZvlEiFzzA) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) |  | 2019-09-28 |
-| [695](https://github.com/jungtosociety/dharma-qna/blob/master/sub/695) |  | [![](img/youtube.png)](https://youtu.be/) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) |  | 2019-09-21 |
-| [799](https://github.com/jungtosociety/dharma-qna/blob/master/sub/799) |  | [![](img/youtube.png)](https://youtu.be/) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) |  | 2019-09-14 |
-| [762](https://github.com/jungtosociety/dharma-qna/blob/master/sub/762) |  | [![](img/youtube.png)](https://youtu.be/) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |  | 2019-09-07 |
+| [695](https://github.com/jungtosociety/dharma-qna/blob/master/sub/695) |  | [![](img/youtube.png)](https://youtu.be/b4ASwYvp1zc) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) |  | 2019-09-21 |
+| [799](https://github.com/jungtosociety/dharma-qna/blob/master/sub/799) |  | [![](img/youtube.png)](https://youtu.be/Aj92RPtkm0c) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) |  | 2019-09-14 |
+| [762](https://github.com/jungtosociety/dharma-qna/blob/master/sub/762) |  | [![](img/youtube.png)](https://youtu.be/TX3pFPtdPTY) | [![](img/amara.png)](http://amara.org/en/videos/ObQ7k6rxVNfO) |  | 2019-09-07 |
 | [538](https://github.com/jungtosociety/dharma-qna/blob/master/sub/538) |  | [![](img/youtube.png)](https://youtu.be/WgpeWctk5X4) | [![](img/amara.png)](http://amara.org/en/videos/i3OPx50Qg4N2) |  | 2019-08-31 |
 | [1187](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1187) |  | [![](img/youtube.png)](https://youtu.be/mym8XpJhJ-o) | [![](img/amara.png)](http://amara.org/en/videos/SpN77hApWBxT) |  | 2019-08-24 |
 | [1144](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1144) |  | [![](img/youtube.png)](https://youtu.be/um8JGo5reEY) | [![](img/amara.png)](http://amara.org/en/videos/kL4UaE5k1GrL) |  | 2019-08-17 |
