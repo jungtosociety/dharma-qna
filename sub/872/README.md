@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 872 |
-| Korean Subtitle | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(장소윤; review:김원영)<br>on 2019-10-05<br><br>|
-| English Subtitle | I Want to Get Married.  How Should I Approach Marriage? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(장소윤; review:김원영)<br>on 2019-10-05<br><br>|
+| Korean Subtitle | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요? \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(장소윤; review:김원영)<br>on 2019-10-05<br>[872.ko.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872.ko.srt)<br>|
+| English Subtitle | I Want to Get Married.  How Should I Approach Marriage? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(장소윤; review:김원영)<br>on 2019-10-05<br>[872.en.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872.en.srt)<br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
