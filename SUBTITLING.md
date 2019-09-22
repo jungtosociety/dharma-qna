@@ -70,6 +70,8 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   | [![](img/youtube.png)](https://youtu.be/KgXbSjBfiK4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) | 장소윤; review:김원영      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | 2019-10-05      | 2019-08-01 ~  |
 | [743](sub/743) | 종교가 다른 아내   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) | 송명석; review:김원영      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | Religious Differences in Marriage    | 0:12:16 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) | 조미영; review:김원영      | 2019-3차 유튜브 자막 작업 (임희정)    |
@@ -82,8 +84,6 @@
 |    | Coincidence and Inevitability   | 0:09:53 |    |    | yyyy-mm-dd      |  ~  |
 | [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) | 박상희; review:미상      | 2019-4차 유튜브 자막 작업 (임희정)    |
 |    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | yyyy-mm-dd      |  ~  |
-| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) | 장소윤; review:김원영      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | yyyy-mm-dd      | 2019-08-01 ~  |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |

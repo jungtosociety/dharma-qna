@@ -8,7 +8,7 @@
 | [493](https://github.com/jungtosociety/dharma-qna/blob/master/sub/493) | 배우자 선택 Choosing a Mate | (0:08:47) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/493 |
 | [656](https://github.com/jungtosociety/dharma-qna/blob/master/sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요? Coincidence and Inevitability | (0:09:53) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/656 |
 | [766](https://github.com/jungtosociety/dharma-qna/blob/master/sub/766) | 참선을 하면 마음을 찾을 수 있나요? Can I Find My Mind by Practicing Dhyana? | (0:16:15) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/766 |
-| [872](https://github.com/jungtosociety/dharma-qna/blob/master/sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요? I Want to Get Married.  How Should I Approach Marriage? | (0:03:17) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/872 |
+| [872](https://github.com/jungtosociety/dharma-qna/blob/master/sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요? I Want to Get Married.  How Should I Approach Marriage? | (0:03:17) (2019-10-05) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/872 |
 
 ## Published
 

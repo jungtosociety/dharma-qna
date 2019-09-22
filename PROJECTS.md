@@ -14,7 +14,7 @@
 | [493](https://github.com/jungtosociety/dharma-qna/blob/master/sub/493) | Choosing a Mate |  | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | yyyy-mm-dd |  |  |  |  |  |
 | [656](https://github.com/jungtosociety/dharma-qna/blob/master/sub/656) | Coincidence and Inevitability |  | [![](img/amara.png)](http://amara.org/en/videos/Q4jnVckG1Sbc) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) | yyyy-mm-dd |  |  |  |  |  |
 | [766](https://github.com/jungtosociety/dharma-qna/blob/master/sub/766) | Can I Find My Mind by Practicing Dhyana? |  | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | yyyy-mm-dd |  |  |  |  |  |
-| [872](https://github.com/jungtosociety/dharma-qna/blob/master/sub/872) | I Want to Get Married.  How Should I Approach Marriage? |  | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | yyyy-mm-dd |  |  |  |  |  |
+| [872](https://github.com/jungtosociety/dharma-qna/blob/master/sub/872) | I Want to Get Married.  How Should I Approach Marriage? | [![](img/youtube.png)](https://youtu.be/KgXbSjBfiK4) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | 2019-10-05 |  |  |  |  |  |
 
 ## Published
 
