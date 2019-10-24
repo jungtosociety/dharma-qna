@@ -2,8 +2,8 @@
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 15 |
 |  [3. Reviewing](#3-reviewing-review) | 10 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 7|
-|  [5. Published](PROJECTS.md)  | 80|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 5|
+|  [5. Published](PROJECTS.md)  | 82|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 9|
 
 ## 2. Subtitling (sub)
@@ -68,10 +68,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [872](sub/872) | 결혼을 하려고 합니다, 어떤 마음으로 살아야 할까요?   | [![](img/youtube.png)](https://youtu.be/KgXbSjBfiK4) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) | 장소윤; review:김원영      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | I Want to Get Married.  How Should I Approach Marriage?   | 0:03:17 |    |    | 2019-10-05      | 2019-08-01 ~  |
-| [322](sub/322) | 양보하면서 사는 것이 쉽지 않습니다   | [![](img/youtube.png)](https://youtu.be/LzWgT2_na10) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) | 조미영; review:김원영      | 2019-3차 유튜브 자막 작업 (임희정)    |
-|    | Not Easy to Concede   | 0:10:44 |    |    | 2019-10-12      | 2019-03-05 ~  |
 | [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) | 조미영; review:김원영      | 2019-4차 유튜브 자막 작업 (임희정)    |
 |    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | yyyy-mm-dd      |  ~  |
 | [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) | 성미연; review:김원영      | 2019-4차 유튜브 자막 작업 (임희정)    |

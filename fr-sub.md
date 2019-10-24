@@ -1,6 +1,8 @@
 | NO | TITLE         | YT | AM | French Subtitle Completed Date | YouTube Date |
 |----| ------------- |----|----|---------|-------------------|
 | [743](https://github.com/jungtosociety/dharma-qna/blob/master/sub/743) |  | [![](img/youtube.png)](https://youtu.be/ulwDfO1Q2ws) | [![](img/amara.png)](http://amara.org/en/videos/kXBupGnYzz9C) |  | 2019-10-26 |
+| [322](https://github.com/jungtosociety/dharma-qna/blob/master/sub/322) |  | [![](img/youtube.png)](https://youtu.be/LzWgT2_na10) | [![](img/amara.png)](http://amara.org/en/videos/jYe4PwNS6onp) |  | 2019-10-12 |
+| [872](https://github.com/jungtosociety/dharma-qna/blob/master/sub/872) |  | [![](img/youtube.png)](https://youtu.be/KgXbSjBfiK4) | [![](img/amara.png)](http://amara.org/en/videos/kAwjU7YMRRYI) |  | 2019-10-05 |
 | [870](https://github.com/jungtosociety/dharma-qna/blob/master/sub/870) |  | [![](img/youtube.png)](https://youtu.be/-SZvlEiFzzA) | [![](img/amara.png)](http://amara.org/en/videos/iBydFiPjY8C2) |  | 2019-09-28 |
 | [695](https://github.com/jungtosociety/dharma-qna/blob/master/sub/695) |  | [![](img/youtube.png)](https://youtu.be/b4ASwYvp1zc) | [![](img/amara.png)](http://amara.org/en/videos/htOid00N1yAs) |  | 2019-09-21 |
 | [799](https://github.com/jungtosociety/dharma-qna/blob/master/sub/799) |  | [![](img/youtube.png)](https://youtu.be/Aj92RPtkm0c) | [![](img/amara.png)](http://amara.org/en/videos/BakqXqprjzPU) |  | 2019-09-14 |
