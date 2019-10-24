@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 15 |
-|  [3. Reviewing](#3-reviewing-review) | 11 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 7|
+|  [3. Reviewing](#3-reviewing-review) | 10 |
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 8|
 |  [5. Published](PROJECTS.md)  | 79|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 9|
 
@@ -58,8 +58,6 @@
 |    | Do Your Best, but Don't Cling to Results   | 0:08:05 |    |    | yyyy-mm-dd      | 2019-07-10 ~ 2019-09-09 |
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DLO7Pn1QRv0o) | 조미영      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | The Sewol Ferry Tragedy   | 0:17:14 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
-| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) | 조미영      | 2019-7차 유튜브 자막 작업 (임희정)    |
-|    | How do you handle stress?   | 0:11:06 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 | [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | 손동기      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
 | [607](sub/607) | 자기 삶을 풍요롭게   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/607/607-richer-life.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cqfthIYdtThZ) | 김일향      | 2019-7차 유튜브 자막 작업 (임희정)    |
@@ -84,6 +82,8 @@
 |    | Coincidence and Inevitability   | 0:09:53 |    |    | yyyy-mm-dd      |  ~  |
 | [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) | 박상희; review:미상      | 2019-4차 유튜브 자막 작업 (임희정)    |
 |    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | yyyy-mm-dd      |  ~  |
+| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) | 조미영; review:김원영      | 2019-7차 유튜브 자막 작업 (임희정)    |
+|    | How do you handle stress?   | 0:11:06 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
