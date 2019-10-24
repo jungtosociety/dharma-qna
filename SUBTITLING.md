@@ -76,7 +76,7 @@
 |    | Coincidence and Inevitability   | 0:09:53 |    |    | 2019-11-23      |  ~  |
 | [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   | [![](img/youtube.png)](https://youtu.be/IDbHSmX9PU8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) | 박상희; review:미상      | 2019-4차 유튜브 자막 작업 (임희정)    |
 |    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | 2019-11-30      |  ~  |
-| [493](sub/493) | 배우자 선택   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) | 성미연; review:김원영      | 2019-4차 유튜브 자막 작업 (임희정)    |
+| [493](sub/493) | 배우자 선택   | [![](img/youtube.png)](https://youtu.be/6m-MPfJnvoQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) | 성미연; review:김원영      | 2019-4차 유튜브 자막 작업 (임희정)    |
 |    | Choosing a Mate   | 0:08:47 |    |    | 2019-12-07      |  ~  |
 ## 1. Ready to Subtitle (unassigned)
 
