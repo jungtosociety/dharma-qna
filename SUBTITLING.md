@@ -1,10 +1,10 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 16 |
-|  [3. Reviewing](#3-reviewing-review) | 8 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 6|
+|  [3. Reviewing](#3-reviewing-review) | 9 |
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 7|
 |  [5. Published](PROJECTS.md)  | 82|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 9|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 6|
 
 ## 2. Subtitling (sub)
 
@@ -58,6 +58,8 @@
 |    | Do Your Best, but Don't Cling to Results   | 0:08:05 |    |    | yyyy-mm-dd      | 2019-07-10 ~ 2019-09-09 |
 | [1225](sub/1225) | 하늘마저 울어버린 세월호 아이들   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DLO7Pn1QRv0o) | 조미영      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | The Sewol Ferry Tragedy   | 0:17:14 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
+| [895](sub/895) | 희망세상을 만드는 5가지 희망실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SaReVUhcxyTl) | 손동기      | 2019-10차 유튜브 자막 작업 (임희정)    |
+|    | 5 righteous actions to create a world of hope.   | 0:09:30 |    |    | yyyy-mm-dd      | 2019-10-01 ~ 2019-10-30 |
 | [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | 손동기      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
 | [607](sub/607) | 자기 삶을 풍요롭게   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/607/607-richer-life.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cqfthIYdtThZ) | 김일향      | 2019-7차 유튜브 자막 작업 (임희정)    |
@@ -78,24 +80,20 @@
 |    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | 2019-11-30      |  ~  |
 | [493](sub/493) | 배우자 선택   | [![](img/youtube.png)](https://youtu.be/6m-MPfJnvoQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) | 성미연; review:김원영      | 2019-4차 유튜브 자막 작업 (임희정)    |
 |    | Choosing a Mate   | 0:08:47 |    |    | 2019-12-07      |  ~  |
+| [1185](sub/1185) | 불행에 대처하는 자세   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fLHpahoKD9J0) | 강일향; review:임희정      | video bluring required    |
+|    | Coping With Misfortune   | 0:16:10 |    |    | yyyy-mm-dd      | 2019-10-01 ~ 2019-10-30 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [808](sub/808) | 연애는 많이 했는데 결혼은 잘 안됐어요, 어떤 사람을 만나야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/hp8q8gfQMQqY) |       |     |
 |    | In Spite of Dating a Lot, I Have Not Been Able to Get Married Yet. What Sort of Man Shall I Meet?   | 0:23:36 |    |    | yyyy-mm-dd      |  ~  |
-| [895](sub/895) | 희망세상을 만드는 5가지 희망실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SaReVUhcxyTl) |       |     |
-|    | 5 righteous actions to create a world of hope.   | 0:09:30 |    |    | yyyy-mm-dd      |  ~  |
 | [362](sub/362) | 자신을 행복하게 하는 법   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/362/362-how-to-be-happy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/zI5gpG2GEsMx) |       | video bluring required    |
 |    | How to Be Happy   | 0:25:12 |    |    | yyyy-mm-dd      |  ~  |
 | [971](sub/971) | 남과 나를 비교하는 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/971/971-comparing-myself-to-others.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gbBuDAs3DCBu) |       | video bluring required    |
 |    | Comparing Myself to Others   | 0:16:24 |    |    | yyyy-mm-dd      |  ~  |
 | [1156](sub/1156) | 성당에 다니고 있는데 절에 다녀도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1156/1156-catholic-buddhist.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/XcxDGyXRVgEb) |       | video bluring required    |
 |    | Can a Catholic Person Attend a Buddhist Temple?   | 0:17:04 |    |    | yyyy-mm-dd      |  ~  |
-| [1185](sub/1185) | 불행에 대처하는 자세   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fLHpahoKD9J0) |       | video bluring required    |
-|    | Coping With Misfortune   | 0:16:10 |    |    | yyyy-mm-dd      |  ~  |
-| [1201](sub/1201) | 배우자를 잘 고르는 법   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1201/1201-select-life-partner.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/mZ605zw4Yqa9) |       |     |
-|    | How to Select a Life Partner   | 0:12:12 |    |    | yyyy-mm-dd      |  ~  |
 | [1318](sub/1318) | 사랑을 못 받고 자랐어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d15E5gPvlyUe) |       | video bluring required    |
 |    | I Grew up Unloved   | 0:24:26 |    |    | yyyy-mm-dd      |  ~  |
 | [1203](sub/1203) | 행복은 마음먹기에 따라 달라진다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1203/1203-happiness.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/LKelMWSyNCBG) |       | video bluring required    |

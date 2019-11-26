@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1185 |
-| Korean Subtitle | 불행에 대처하는 자세 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Coping With Misfortune \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 불행에 대처하는 자세 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(강일향; review:임희정)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Coping With Misfortune \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(강일향; review:임희정)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
