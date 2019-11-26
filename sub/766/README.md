@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [766-dhyana.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) |
 | Playtime | 0:16:15 |
 | Resolution | 1920x1080|
-| Status | ready |
+| Status | published |
 | Comments | 2019-4차 유튜브 자막 작업 (임희정) |

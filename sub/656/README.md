@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [656-inevitability.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) |
 | Playtime | 0:09:53 |
 | Resolution | 654x480|
-| Status | ready |
+| Status | published |
 | Comments | 2019-4차 유튜브 자막 작업 (임희정) |

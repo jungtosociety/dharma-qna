@@ -1,9 +1,9 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 17 |
-|  [3. Reviewing](#3-reviewing-review) | 13 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 7|
-|  [5. Published](PROJECTS.md)  | 82|
+|  [2. Subtitling](#2-subtitling-sub) | 15 |
+|  [3. Reviewing](#3-reviewing-review) | 11 |
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 1|
+|  [5. Published](PROJECTS.md)  | 86|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 1|
 
 ## 2. Subtitling (sub)
@@ -20,8 +20,6 @@
 |    | Don't Look in the Distance for Happiness; True Meaning of Pure Land   | 0:18:21 |    |    | yyyy-mm-dd      |  ~  |
 | [724](sub/724) | 부모님께 기대어 너무 나약하게 산 것 같아요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jM92tReRhODU) | 강일향      | 2019-9차 유튜브 자막 작업 (임희정)    |
 |    | Recovering the wild and natural quality   | 0:14:18 |    |    | yyyy-mm-dd      |  ~  |
-| [1171](sub/1171) | 짜증 잘내는 성격, 고칠 수 있을까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/A27j77yUdEES) | 성미연      | 2019-7차 유튜브 자막 작업 (임희정) ; 자막번역이 중간에 끊겨서 다시 번역 요청    |
-|    | Can I change my irritable personality?   | 0:12:07 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 | [1192](sub/1192) | 졸업 후 어떻게 살아야 할지 막막해요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/X4kZdZUvkACk) |       | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | I feel lost after graduating college    | 0:16:36 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 | [41](sub/41) | 깨장을 갔다온 후 제 꼴을 보니 괴롭습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/41/41-miserable-after-retreat.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/01KkDXF6q8XU) | 오호산      | 2019-9차 유튜브 자막 작업 (임희정)    |
@@ -42,14 +40,10 @@
 |    | What It Means to Live Like Grass   | 0:11:13 |    |    | yyyy-mm-dd      |  ~  |
 | [1156](sub/1156) | 성당에 다니고 있는데 절에 다녀도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1156/1156-catholic-buddhist.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/XcxDGyXRVgEb) | 성미연      | 2019-11차 유튜브 자막 작업 (임희정)    |
 |    | Can a Catholic Person Attend a Buddhist Temple?   | 0:17:04 |    |    | yyyy-mm-dd      | 2019-11-01 ~  |
-| [1138](sub/1138) | 수행을 통한 긍정적 변화   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cZCjLLljESAb) | 김어진      | 2019-7차 유튜브 자막 작업 (임희정)    |
-|    | Making Positive Changes Through Practice   | 0:15:18 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 ## 3. Reviewing (review)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [557](sub/557) | 불만, 저항 그리고 방황하는 20대 청년   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/OsfZSvYQKKeD) | 김구슬래; review:김원영,김재명      | 2019-3차 유튜브 자막 작업 (임희정), 번역리뷰중    |
-|    | Unhappy, Rebelling 20s   | 0:10:55 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | 박상희      | 2019-3차 유튜브 자막 작업 (임희정)    |
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) | 김어진      | 2019-8차 유튜브 자막 작업 (임희정)    |
@@ -66,8 +60,6 @@
 |    | 5 righteous actions to create a world of hope.   | 0:09:30 |    |    | yyyy-mm-dd      | 2019-10-01 ~ 2019-10-30 |
 | [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | 손동기      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
-| [607](sub/607) | 자기 삶을 풍요롭게   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/607/607-richer-life.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cqfthIYdtThZ) | 김일향      | 2019-7차 유튜브 자막 작업 (임희정)    |
-|    | To Live a Fulfilling Life   | 0:06:56 |    |    | yyyy-mm-dd      | 2019-07-10 ~ 2019-09-09 |
 | [720](sub/720) | 진리에 눈뜨는 시간   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/720/720-open-your-eyes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/CoHQCdHk1rft) | 손동기      | 2019-11차 유튜브 자막 작업 (임희정)    |
 |    | Open Your Eyes to the Truth   | 0:10:16 |    |    | yyyy-mm-dd      | 2019-11-01 ~ 2019-11-25 |
 | [1147](sub/1147) | 욕망은 욕망인줄 알아차리면 된다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1147/1147-ack-desires.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cBg3Q8k0iPvZ) | 김어진      | 2019-10차 유튜브 자막 작업 (임희정)    |
@@ -78,18 +70,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [894](sub/894) | 팔자 소관이라고 하잖아요. 타고난 운명이 정말 있는 건가요?   | [![](img/youtube.png)](https://youtu.be/s7m9fiVw3OU) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/6qMddehJmm2k) | 조미영; review:김원영      | 2019-4차 유튜브 자막 작업 (임희정)    |
-|    | People Often Speak of Fate. Is It Real?   | 0:12:01 |    |    | 2019-11-02      |  ~  |
-| [796](sub/796) | 내가 내 가족의 희망이 되어 화목하게 살겠습니다   | [![](img/youtube.png)](https://youtu.be/zRm9HabCEZo) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/joojsl6IZo2d) | 송명석; review:김원영      | 2019-5차 유튜브 자막 작업 (임희정)    |
-|    | I'll Be the Hope of My Family and Live in Harmony   | 0:19:54 |    |    | 2019-11-09      | 2019-05-01 ~ 2019-09-09 |
-| [833](sub/833) | 법륜스님은 스트레스 받을 때 어떻게 하나요?   | [![](img/youtube.png)](https://youtu.be/wzouEry_V8w) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/jD5ZxxrbRIdB) | 조미영; review:김원영      | 2019-7차 유튜브 자막 작업 (임희정)    |
-|    | How do you handle stress?   | 0:11:06 |    |    | 2019-11-16      | 2019-07-10 ~  |
-| [656](sub/656) | 사람들이 노력한만큼 받는다는데 정말 그런가요?   | [![](img/youtube.png)](https://youtu.be/9y677BWL5-I) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/656/656-inevitability.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/Q4jnVckG1Sbc) | 송명석; review:미상      | 2019-4차 유튜브 자막 작업 (임희정)    |
-|    | Coincidence and Inevitability   | 0:09:53 |    |    | 2019-11-23      |  ~  |
-| [766](sub/766) | 참선을 하면 마음을 찾을 수 있나요?   | [![](img/youtube.png)](https://youtu.be/IDbHSmX9PU8) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/766/766-dhyana.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cAFLHyOOGB1n) | 박상희; review:미상      | 2019-4차 유튜브 자막 작업 (임희정)    |
-|    | Can I Find My Mind by Practicing Dhyana?   | 0:16:15 |    |    | 2019-11-30      |  ~  |
-| [493](sub/493) | 배우자 선택   | [![](img/youtube.png)](https://youtu.be/6m-MPfJnvoQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/3tyqEpgxDWHG) | 성미연; review:김원영      | 2019-4차 유튜브 자막 작업 (임희정)    |
-|    | Choosing a Mate   | 0:08:47 |    |    | 2019-12-07      |  ~  |
 | [1185](sub/1185) | 불행에 대처하는 자세   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fLHpahoKD9J0) | 강일향; review:임희정      | video bluring required    |
 |    | Coping With Misfortune   | 0:16:10 |    |    | yyyy-mm-dd      | 2019-10-01 ~ 2019-10-30 |
 ## 1. Ready to Subtitle (unassigned)

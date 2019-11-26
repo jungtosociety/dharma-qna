@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [607-richer-life.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/607/607-richer-life.xlsx) |
 | Playtime | 0:06:56 |
 | Resolution | 654x480|
-| Status | review |
-| Comments | 2019-7차 유튜브 자막 작업 (임희정) |
+| Status | translate |
+| Comments | 2019-7차 유튜브 자막 작업 (임희정) ;번역수정요청 |

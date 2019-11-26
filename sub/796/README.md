@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [796-hope-of-family.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/796/796-hope-of-family.xlsx) |
 | Playtime | 0:19:54 |
 | Resolution | 1920x1080|
-| Status | ready |
+| Status | published |
 | Comments | 2019-5차 유튜브 자막 작업 (임희정) |
