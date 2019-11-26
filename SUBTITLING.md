@@ -1,7 +1,7 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 16 |
-|  [3. Reviewing](#3-reviewing-review) | 9 |
+|  [2. Subtitling](#2-subtitling-sub) | 15 |
+|  [3. Reviewing](#3-reviewing-review) | 10 |
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 7|
 |  [5. Published](PROJECTS.md)  | 82|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 6|
@@ -38,8 +38,6 @@
 |    | I'm Having a Hard Time in Medical School.   | 0:07:21 |    |    | yyyy-mm-dd      |  ~  |
 | [1125](sub/1125) | 길에 난 풀처럼 산다는 것의 의미   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1125/1125-live-like-grass.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/8SWLK89CIACd) | 김어진      | 2019-9차 유튜브 자막 작업 (임희정)    |
 |    | What It Means to Live Like Grass   | 0:11:13 |    |    | yyyy-mm-dd      |  ~  |
-| [1147](sub/1147) | 욕망은 욕망인줄 알아차리면 된다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1147/1147-ack-desires.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cBg3Q8k0iPvZ) | 김어진      | 2019-9차 유튜브 자막 작업 (임희정)    |
-|    | Acknowledge Your Desires as Desires   | 0:09:14 |    |    | yyyy-mm-dd      |  ~  |
 | [1138](sub/1138) | 수행을 통한 긍정적 변화   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cZCjLLljESAb) | 김어진      | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | Making Positive Changes Through Practice   | 0:15:18 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |
 ## 3. Reviewing (review)
@@ -64,6 +62,8 @@
 |    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
 | [607](sub/607) | 자기 삶을 풍요롭게   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/607/607-richer-life.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cqfthIYdtThZ) | 김일향      | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | To Live a Fulfilling Life   | 0:06:56 |    |    | yyyy-mm-dd      | 2019-07-10 ~ 2019-09-09 |
+| [1147](sub/1147) | 욕망은 욕망인줄 알아차리면 된다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1147/1147-ack-desires.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cBg3Q8k0iPvZ) | 김어진      | 2019-10차 유튜브 자막 작업 (임희정)    |
+|    | Acknowledge Your Desires as Desires   | 0:09:14 |    |    | yyyy-mm-dd      | 2019-10-01 ~ 2019-10-30 |
 ## 4. Ready to Publish (ready)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |

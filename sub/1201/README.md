@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [1201-select-life-partner.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1201/1201-select-life-partner.xlsx) |
 | Playtime | 0:12:12 |
 | Resolution | 1280x720|
-| Status | none |
+| Status | translate |
 | Comments | 번역수정요청 |
