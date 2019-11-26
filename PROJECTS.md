@@ -8,6 +8,9 @@
 
 | NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN | JA |
 |----| ------------- |----|----|-----|---------|----|----|----|----|----|
+| [863](https://github.com/jungtosociety/dharma-qna/blob/master/sub/863) | How to Achieve Emotional Independence from Parents? |  | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | yyyy-mm-dd |  |  |  |  |  |
+| [897](https://github.com/jungtosociety/dharma-qna/blob/master/sub/897) | I can't stay put at one job; I lose interest and keep moving around. |  | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | yyyy-mm-dd |  |  |  |  |  |
+| [832](https://github.com/jungtosociety/dharma-qna/blob/master/sub/832) | Losing Self-Confidence and Feeling Awkward |  | [![](img/amara.png)](http://amara.org/en/videos/M40rsReJMVOd) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/832/832-losing-self-confidence.xlsx) | yyyy-mm-dd |  |  |  |  |  |
 | [1185](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1185) | Coping With Misfortune |  | [![](img/amara.png)](http://amara.org/en/videos/fLHpahoKD9J0) | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) | yyyy-mm-dd |  |  |  |  |  |
 
 ## Published

@@ -1,8 +1,8 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 15 |
-|  [3. Reviewing](#3-reviewing-review) | 11 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 1|
+|  [2. Subtitling](#2-subtitling-sub) | 14 |
+|  [3. Reviewing](#3-reviewing-review) | 9 |
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 4|
 |  [5. Published](PROJECTS.md)  | 86|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 1|
 
@@ -30,8 +30,6 @@
 |    | The Objective Truth   | 0:21:50 |    |    | yyyy-mm-dd      |  ~  |
 | [716](sub/716) | 타인에 대한 미움을 어떻게 없앨 수 있을까요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/716/716-hatred-toward-others.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/m7i4eLLjRnEZ) | 김재우      | 2019-11차 유튜브 자막 작업 (임희정)    |
 |    | How Can I Overcome Hatred Towards Others?   | 0:08:38 |    |    | yyyy-mm-dd      | 2019-11-01 ~  |
-| [832](sub/832) | 자신감이 없어지고 제 자신이 어색하게 느껴져요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/832/832-losing-self-confidence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M40rsReJMVOd) | 강일향; review:임희정      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | Losing Self-Confidence and Feeling Awkward   | 0:10:02 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
 | [896](sub/896) | 의대에 입학했는데, 학교 다니는게 부담되고 힘들어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/896/896-medical-school.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/maRRJEDLCFJ2) | 김민정      | 2019-9차 유튜브 자막 작업 (임희정)    |
 |    | I'm Having a Hard Time in Medical School.   | 0:07:21 |    |    | yyyy-mm-dd      |  ~  |
 | [971](sub/971) | 남과 나를 비교하는 마음   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/971/971-comparing-myself-to-others.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/gbBuDAs3DCBu) | 김어진      | 2019-11차 유튜브 자막 작업 (임희정)    |
@@ -44,8 +42,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | 박상희      | 2019-3차 유튜브 자막 작업 (임희정)    |
-|    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) | 김어진      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | Qualifications for a Good Spouse   | 0:14:31 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
 | [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/muGP4UvvHVj5) | 성미연      | 2019-5차 유튜브 자막 작업 (임희정)    |
@@ -58,8 +54,6 @@
 |    | I attend the same school as my ex-boyfriend and his new girlfriend.   | 0:10:07 |    |    | yyyy-mm-dd      | 2019-11-01 ~ 2019-11-25 |
 | [895](sub/895) | 희망세상을 만드는 5가지 희망실천   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/SaReVUhcxyTl) | 손동기      | 2019-10차 유튜브 자막 작업 (임희정)    |
 |    | 5 righteous actions to create a world of hope.   | 0:09:30 |    |    | yyyy-mm-dd      | 2019-10-01 ~ 2019-10-30 |
-| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | 손동기      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
 | [720](sub/720) | 진리에 눈뜨는 시간   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/720/720-open-your-eyes.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/CoHQCdHk1rft) | 손동기      | 2019-11차 유튜브 자막 작업 (임희정)    |
 |    | Open Your Eyes to the Truth   | 0:10:16 |    |    | yyyy-mm-dd      | 2019-11-01 ~ 2019-11-25 |
 | [1147](sub/1147) | 욕망은 욕망인줄 알아차리면 된다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1147/1147-ack-desires.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cBg3Q8k0iPvZ) | 김어진      | 2019-10차 유튜브 자막 작업 (임희정)    |
@@ -70,6 +64,12 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
+| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | 박상희; review:김원영      | 2019-3차 유튜브 자막 작업 (임희정)    |
+|    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
+| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | 손동기; review:김원영      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
+| [832](sub/832) | 자신감이 없어지고 제 자신이 어색하게 느껴져요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/832/832-losing-self-confidence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M40rsReJMVOd) | 강일향; review:임희정      | 2019-8차 유튜브 자막 작업 (임희정)    |
+|    | Losing Self-Confidence and Feeling Awkward   | 0:10:02 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
 | [1185](sub/1185) | 불행에 대처하는 자세   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fLHpahoKD9J0) | 강일향; review:임희정      | video bluring required    |
 |    | Coping With Misfortune   | 0:16:10 |    |    | yyyy-mm-dd      | 2019-10-01 ~ 2019-10-30 |
 ## 1. Ready to Subtitle (unassigned)
