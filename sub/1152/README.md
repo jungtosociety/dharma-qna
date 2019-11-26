@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1152-enlightment.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1152/1152-enlightment.xlsx) |
 | Playtime | 0:09:41 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments |  |

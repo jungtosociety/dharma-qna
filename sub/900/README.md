@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-900-perfectionism.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/900/en-900-perfectionism.xlsx) |
 | Playtime | 0:04:40 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

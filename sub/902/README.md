@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [902-stingy-husband.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/902/902-stingy-husband.xlsx) |
 | Playtime | 0:10:32 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2018-1차 유튜브 자막 작업 (김혜은) |

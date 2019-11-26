@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [896-medical-school.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/896/896-medical-school.xlsx) |
 | Playtime | 0:07:21 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-9차 유튜브 자막 작업 (임희정) |

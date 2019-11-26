@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1209-biethnic-child-identity.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1209/1209-biethnic-child-identity.xlsx) |
 | Playtime | 0:05:04 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments | None |

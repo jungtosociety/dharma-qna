@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [764-child-education.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/764/764-child-education.xlsx) |
 | Playtime | 0:11:46 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

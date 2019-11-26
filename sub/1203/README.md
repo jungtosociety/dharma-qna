@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1203-happiness.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1203/1203-happiness.xlsx) |
 | Playtime | 0:11:33 |
 | Resolution | 1280x720|
+| Status | unassigned |
+| Comments | video bluring required |

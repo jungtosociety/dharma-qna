@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [855-single-mom.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/855/855-single-mom.xlsx) |
 | Playtime | 0:10:50 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments |  |

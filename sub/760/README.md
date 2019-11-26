@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [760-two-sons.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/760/760-two-sons.xlsx) |
 | Playtime | 0:07:27 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [824-good-teacher.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/824/824-good-teacher.xlsx) |
 | Playtime | 0:18:47 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-3차 유튜브 자막 작업 (임희정) |

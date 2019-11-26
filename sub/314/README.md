@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [314-reincarnation.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/314/314-reincarnation.xlsx) |
 | Playtime | 0:23:57 |
 | Resolution | 480x360|
+| Status | published |
+| Comments | 4h |

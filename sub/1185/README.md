@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1185-coping-with-misfortune.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) |
 | Playtime | 0:16:10 |
 | Resolution | 1280x720|
+| Status | ready |
+| Comments | video bluring required |

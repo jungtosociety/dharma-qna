@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [971-comparing-myself-to-others.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/971/971-comparing-myself-to-others.xlsx) |
 | Playtime | 0:16:24 |
 | Resolution | 1920x1080|
+| Status | unassigned |
+| Comments | video bluring required |

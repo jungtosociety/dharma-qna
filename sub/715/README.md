@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [715-gratitude.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/715/715-gratitude.xlsx) |
 | Playtime | 0:12:51 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments |  |

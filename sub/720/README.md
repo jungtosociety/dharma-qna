@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [720-open-your-eyes.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/720/720-open-your-eyes.xlsx) |
 | Playtime | 0:10:16 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-9차 유튜브 자막 작업 (임희정) |

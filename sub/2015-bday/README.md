@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [2015-bday.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/2015-bday/2015-bday.xlsx) |
 | Playtime | 0:49:23 |
 | Resolution | 854x480|
+| Status | published |
+| Comments |  |

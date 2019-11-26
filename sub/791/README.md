@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [791-own-hope-and-happy.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/791/791-own-hope-and-happy.xlsx) |
 | Playtime | 0:24:48 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

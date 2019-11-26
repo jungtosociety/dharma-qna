@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [493-choosing-a-mate.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/493/493-choosing-a-mate.xlsx) |
 | Playtime | 0:08:47 |
 | Resolution | 654x480|
+| Status | ready |
+| Comments | 2019-4차 유튜브 자막 작업 (임희정) |

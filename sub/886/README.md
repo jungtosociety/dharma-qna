@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [886-desire-to-have-fun.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/886/886-desire-to-have-fun.xlsx) |
 | Playtime | 0:11:08 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments |  |

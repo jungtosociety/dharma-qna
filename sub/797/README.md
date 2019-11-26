@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [797-husband-smoking.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/797/797-husband-smoking.xlsx) |
 | Playtime | 0:09:21 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | subtitling:2h; review:30m |

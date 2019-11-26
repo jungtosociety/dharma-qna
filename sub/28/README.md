@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [28-blame-mother.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/28/28-blame-mother.xlsx) |
 | Playtime | 0:05:51 |
 | Resolution | 480x360|
+| Status | published |
+| Comments | new video 0e2tfDrgpUk |

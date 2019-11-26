@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1097-feeling-cheated.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1097/1097-feeling-cheated.xlsx) |
 | Playtime | 0:15:45 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-4차 유튜브 자막 작업 (임희정) |

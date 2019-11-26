@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [691-my-wounds.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691-my-wounds.xlsx) |
 | Playtime | 0:10:51 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | 2018-1차 유튜브 자막 작업 (김혜은) |

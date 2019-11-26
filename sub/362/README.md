@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [362-how-to-be-happy.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/362/362-how-to-be-happy.xlsx) |
 | Playtime | 0:25:12 |
 | Resolution | 320x240|
+| Status | unassigned |
+| Comments | video bluring required |

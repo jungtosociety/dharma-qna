@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [463-refusing-without-guilt.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/463/463-refusing-without-guilt.xlsx) |
 | Playtime | 0:04:21 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | 4h;리뷰:0.5h |

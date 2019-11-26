@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [343-school-violence.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/343/343-school-violence.xlsx) |
 | Playtime | 0:07:40 |
 | Resolution | 500x334|
+| Status | published |
+| Comments | None |

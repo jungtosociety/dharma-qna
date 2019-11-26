@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1156-catholic-buddhist.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1156/1156-catholic-buddhist.xlsx) |
 | Playtime | 0:17:04 |
 | Resolution | 1280x720|
+| Status | unassigned |
+| Comments | video bluring required |

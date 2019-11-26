@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [385-letting-go.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/385/385-letting-go.xlsx) |
 | Playtime | 0:14:34 |
 | Resolution | 320x240|
+| Status | published |
+| Comments | 2019-1차 유튜브 자막 작업 (김혜은) |

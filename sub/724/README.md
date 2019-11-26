@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [724-natual-quality.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/724/724-natual-quality.xlsx) |
 | Playtime | 0:14:18 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-9차 유튜브 자막 작업 (임희정) |

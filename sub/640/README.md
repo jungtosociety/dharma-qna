@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-640-suicidal-impulse.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/640/en-640-suicidal-impulse.xlsx) |
 | Playtime | 0:09:05 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

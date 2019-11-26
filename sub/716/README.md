@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [716-hatred-toward-others.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/716/716-hatred-toward-others.xlsx) |
 | Playtime | 0:08:38 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-9차 유튜브 자막 작업 (임희정) |

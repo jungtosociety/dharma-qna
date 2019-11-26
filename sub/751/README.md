@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [751-anger-mgmt.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/751/751-anger-mgmt.xlsx) |
 | Playtime | 0:13:41 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 4h;리뷰1h |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [897-job-moving-around.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) |
 | Playtime | 0:08:32 |
 | Resolution | 1920x1080|
+| Status | review |
+| Comments | 2019-8차 유튜브 자막 작업 (임희정) |

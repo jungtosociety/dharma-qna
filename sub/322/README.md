@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [322-to-concede.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/322/322-to-concede.xlsx) |
 | Playtime | 0:10:44 |
 | Resolution | 480x360|
+| Status | published |
+| Comments | 2019-3차 유튜브 자막 작업 (임희정) |

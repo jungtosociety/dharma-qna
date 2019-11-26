@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1119-good-spouse.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) |
 | Playtime | 0:14:31 |
 | Resolution | 1280x720|
+| Status | review |
+| Comments | 2019-8차 유튜브 자막 작업 (임희정) |

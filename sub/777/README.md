@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [777-ex-boyfriend.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/777/777-ex-boyfriend.xlsx) |
 | Playtime | 0:10:07 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-9차 유튜브 자막 작업 (임희정) |

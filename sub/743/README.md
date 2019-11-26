@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [743-religious-differences.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/743/743-religious-differences.xlsx) |
 | Playtime | 0:12:16 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2019-3차 유튜브 자막 작업 (임희정) |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [899-religious-beliefs.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/899/899-religious-beliefs.xlsx) |
 | Playtime | 0:06:34 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2h (reported) |

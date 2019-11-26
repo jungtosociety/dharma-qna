@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [884-scientist-and-game.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/884/884-scientist-and-game.xlsx) |
 | Playtime | 0:07:42 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2019-1차 유튜브 자막 작업 (김혜은) |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [544-foreign-fiance.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/544/544-foreign-fiance.xlsx) |
 | Playtime | 0:08:17 |
 | Resolution | 654x480|
+| Status | published |
+| Comments |  |

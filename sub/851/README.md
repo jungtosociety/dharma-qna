@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [851-card-debt.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/851/851-card-debt.xlsx) |
 | Playtime | 0:08:40 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments |  |

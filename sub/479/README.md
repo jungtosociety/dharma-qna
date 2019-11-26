@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [479-judgements.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/479/479-judgements.xlsx) |
 | Playtime | 0:06:40 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [612-defensive-mind.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/612/612-defensive-mind.xlsx) |
 | Playtime | 0:06:19 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

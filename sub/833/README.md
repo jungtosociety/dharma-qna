@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [833-handle-stress.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/833/833-handle-stress.xlsx) |
 | Playtime | 0:11:06 |
 | Resolution | 1920x1080|
+| Status | ready |
+| Comments | 2019-7차 유튜브 자막 작업 (임희정) |

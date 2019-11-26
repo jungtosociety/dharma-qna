@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1090-avoid-people.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1090/1090-avoid-people.xlsx) |
 | Playtime | 0:09:01 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2019-2차 유튜브 자막 작업 (임희정) |

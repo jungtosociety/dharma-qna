@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [695-argumentive-coworker.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/695/695-argumentive-coworker.xlsx) |
 | Playtime | 0:03:09 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

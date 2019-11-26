@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [852-bad-name.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/852/852-bad-name.xlsx) |
 | Playtime | 0:06:46 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2019-2차 유튜브 자막 작업 (임희정) |

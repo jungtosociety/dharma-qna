@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [762-procrastration.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/762/762-procrastration.xlsx) |
 | Playtime | 0:13:53 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2019-3차 유튜브 자막 작업 (임희정) |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [863-independence.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) |
 | Playtime | 0:13:10 |
 | Resolution | 1920x1080|
+| Status | review |
+| Comments | 2019-3차 유튜브 자막 작업 (임희정) |

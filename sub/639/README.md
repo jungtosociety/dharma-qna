@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [639-accept-myself.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/639/639-accept-myself.xlsx) |
 | Playtime | 0:09:41 |
 | Resolution | 540x360|
+| Status | published |
+| Comments | None |

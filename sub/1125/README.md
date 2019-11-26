@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1125-live-like-grass.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1125/1125-live-like-grass.xlsx) |
 | Playtime | 0:11:13 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-9차 유튜브 자막 작업 (임희정) |

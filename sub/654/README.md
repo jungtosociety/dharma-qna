@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [654-owner.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/654/654-owner.xlsx) |
 | Playtime | 0:16:42 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | subtitling:4h, review:1.5h |

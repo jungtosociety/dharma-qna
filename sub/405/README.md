@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [405-reason-for-precepts.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/405/405-reason-for-precepts.xlsx) |
 | Playtime | 0:21:28 |
 | Resolution | 320x240|
+| Status | published |
+| Comments | None |

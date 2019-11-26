@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [808-date-and-marriage.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/808/808-date-and-marriage.xlsx) |
 | Playtime | 0:23:36 |
 | Resolution | 1920x1080|
+| Status | unassigned |
+| Comments | None |

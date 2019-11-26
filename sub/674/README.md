@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [674-become-a-lawyer.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/674/674-become-a-lawyer.xlsx) |
 | Playtime | 0:17:14 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

@@ -252,7 +252,7 @@ def genReadme(subid=None):
     else:
         whereclause = ''
     for row in c.execute('SELECT v.vid vid, v.title title, v.pubdate pubdate ,\
-                                v.youtube_org youtube_org,v.youtube youtube,v.amara amara, \
+                                v.youtube_org youtube_org,v.youtube youtube,v.amara amara, v.status status, \
                                  v.subworker,v.subbegin subbegin,v.subend subend,v.memo memo,v.playtime playtime, \
                                  v.xdim xdim, v.ydim ydim, \
                                  ko.title as kotitle, ko.contributors || \',subtitle(\' || v.subworker || \')\' as kocon, v.pubdate as kopubdate, \
@@ -281,6 +281,7 @@ def genReadme(subid=None):
         begin   = utf8(row["subbegin"])
         end     = utf8(row["subend"])
         memo    = utf8(row["memo"])
+        status    = utf8(row["status"])
         
         
         curr_fn = 'sub/'+vid+'/README.md'
@@ -300,6 +301,8 @@ def genReadme(subid=None):
         f.write("| Transcript(ko/en) | "+xlslink+" |\n")
         f.write("| Playtime | "+utf8(row["playtime"])+" |\n")
         f.write(utf8("| Resolution | %sx%s|\n" % (row["xdim"],row["ydim"])))
+        f.write(utf8("| Status | %s |\n" % row["status"] ))
+        f.write(utf8("| Comments | %s |\n" % row["memo"] ))
         f.close()
 
         if run_cmd(['git','diff',curr_fn],raise_exception=False) != '':

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [449-father.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/449/449-father.xlsx) |
 | Playtime | 0:08:12 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

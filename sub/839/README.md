@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [839-no-dreams.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/839/839-no-dreams.xlsx) |
 | Playtime | 0:05:15 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2.5h;리뷰:1.5h |

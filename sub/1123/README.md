@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1123-law-of-cause-and-effect.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) |
 | Playtime | 0:12:09 |
 | Resolution | 1280x720|
+| Status | review |
+| Comments | 2019-5차 유튜브 자막 작업 (임희정) |

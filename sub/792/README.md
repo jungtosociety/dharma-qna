@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [792-disability.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/792/792-disability.xlsx) |
 | Playtime | 0:11:27 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments | None |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1192-feel-lost-graduating-college.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1192/1192-feel-lost-graduating-college.xlsx) |
 | Playtime | 0:16:36 |
 | Resolution | 1280x720|
+| Status | sub |
+| Comments | 2019-7차 유튜브 자막 작업 (임희정) |

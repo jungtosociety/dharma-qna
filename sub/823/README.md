@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [823-heaven.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/823/823-heaven.xlsx) |
 | Playtime | 0:05:07 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments | 1h (reported) |

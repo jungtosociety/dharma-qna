@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [894-fate.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/894/894-fate.xlsx) |
 | Playtime | 0:12:01 |
 | Resolution | 1920x1080|
+| Status | ready |
+| Comments | 2019-4차 유튜브 자막 작업 (임희정) |

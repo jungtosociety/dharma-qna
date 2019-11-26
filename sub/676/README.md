@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-676-fairy-tale-author.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/676/en-676-fairy-tale-author.xlsx) |
 | Playtime | 0:06:19 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

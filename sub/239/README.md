@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-239-pessimistic-son.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/239/en-239-pessimistic-son.xlsx) |
 | Playtime | 0:11:17 |
 | Resolution | 640x480|
+| Status | published |
+| Comments | None |

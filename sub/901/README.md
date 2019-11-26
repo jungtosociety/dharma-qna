@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [901-happiness.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/901/901-happiness.xlsx) |
 | Playtime | 0:18:21 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-9차 유튜브 자막 작업 (임희정) |

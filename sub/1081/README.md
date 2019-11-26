@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-1081-buddhism.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1081/en-1081-buddhism.xlsx) |
 | Playtime | 0:08:19 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

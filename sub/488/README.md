@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-488-understand.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/488/en-488-understand.xlsx) |
 | Playtime | 0:12:13 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

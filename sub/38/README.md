@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [38-practice-journal.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38-practice-journal.xlsx) |
 | Playtime | 0:07:56 |
 | Resolution | 540x360|
+| Status | published |
+| Comments | 2019-3차 유튜브 자막 작업 (임희정); 우선배정요청;  |

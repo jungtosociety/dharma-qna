@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-984-crush.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/984/en-984-crush.xlsx) |
 | Playtime | 0:05:58 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

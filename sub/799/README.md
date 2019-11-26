@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [799-school-grade.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/799/799-school-grade.xlsx) |
 | Playtime | 0:08:40 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2019-3차 유튜브 자막 작업 (임희정) |

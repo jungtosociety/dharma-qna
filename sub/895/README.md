@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [895-righteous-actions.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/895/895-righteous-actions.xlsx) |
 | Playtime | 0:09:30 |
 | Resolution | 1920x1080|
+| Status | review |
+| Comments | 2019-10차 유튜브 자막 작업 (임희정) |

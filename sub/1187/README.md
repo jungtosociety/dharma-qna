@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1187-hate-people.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187-hate-people.xlsx) |
 | Playtime | 0:07:40 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments | 2018-1차 유튜브 자막 작업 (김혜은) |

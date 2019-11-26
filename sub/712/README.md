@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [712-funeral.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/712/712-funeral.xlsx) |
 | Playtime | 0:10:14 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [333-indian-children.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/333/333-indian-children.xlsx) |
 | Playtime | 0:16:12 |
 | Resolution | 480x360|
+| Status | published |
+| Comments | None |

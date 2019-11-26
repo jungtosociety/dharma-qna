@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [why108bae.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/why108bae/why108bae.xlsx) |
 | Playtime | 0:10:48 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments | 활동팀 급요청 |

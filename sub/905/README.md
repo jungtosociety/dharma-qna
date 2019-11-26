@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [905-brother.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/905/905-brother.xlsx) |
 | Playtime | 0:11:48 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2019-1차 유튜브 자막 작업 (김혜은) |

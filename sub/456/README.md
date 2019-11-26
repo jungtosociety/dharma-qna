@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [456-addictions.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/456/456-addictions.xlsx) |
 | Playtime | 0:10:04 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | 2hr |

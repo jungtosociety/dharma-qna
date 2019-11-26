@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1171-irritable-personality.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1171/1171-irritable-personality.xlsx) |
 | Playtime | 0:12:07 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-7차 유튜브 자막 작업 (임희정) ; 자막번역이 중간에 끊겨서 다시 번역 요청 |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [574-obsession-beauty.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/574/574-obsession-beauty.xlsx) |
 | Playtime | 0:05:15 |
 | Resolution | 654x480|
+| Status | published |
+| Comments |  |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) |  |
 | Playtime | 0:14:39 |
 | Resolution | 540x360|
+| Status | video |
+| Comments | 녹취중; video bluring required |

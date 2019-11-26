@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1145-meditation.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1145/1145-meditation.xlsx) |
 | Playtime | 0:09:47 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments | None |

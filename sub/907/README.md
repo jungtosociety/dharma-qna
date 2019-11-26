@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [907-childern-religion.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/907/907-childern-religion.xlsx) |
 | Playtime | 0:16:15 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

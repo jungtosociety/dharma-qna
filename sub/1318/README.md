@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1318-grown-up-unloved.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) |
 | Playtime | 0:24:26 |
 | Resolution | 1280x720|
+| Status | unassigned |
+| Comments | video bluring required |

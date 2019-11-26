@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1147-ack-desires.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1147/1147-ack-desires.xlsx) |
 | Playtime | 0:09:14 |
 | Resolution | 1280x720|
+| Status | sub |
+| Comments | 2019-9차 유튜브 자막 작업 (임희정) |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-997-negative-thinking.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/997/en-997-negative-thinking.xlsx) |
 | Playtime | 0:04:05 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

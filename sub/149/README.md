@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [149-relationship.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/149/149-relationship.xlsx) |
 | Playtime | 0:09:33 |
 | Resolution | 480x318|
+| Status | published |
+| Comments | None |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [573-moderation.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/573/573-moderation.xlsx) |
 | Playtime | 0:07:12 |
 | Resolution | 654x480|
+| Status | published |
+| Comments |  |

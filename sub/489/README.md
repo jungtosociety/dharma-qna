@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-489-look-within-yourself.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/489/en-489-look-within-yourself.xlsx) |
 | Playtime | 0:10:30 |
 | Resolution | 654x480|
+| Status | published |
+| Comments |  |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [458-being-different.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/458/458-being-different.xlsx) |
 | Playtime | 0:06:36 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

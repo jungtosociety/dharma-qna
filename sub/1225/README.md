@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1225-sewol-ferry.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1225/1225-sewol-ferry.xlsx) |
 | Playtime | 0:17:14 |
 | Resolution | 1920x1080|
+| Status | review |
+| Comments | 2019-8차 유튜브 자막 작업 (임희정) |

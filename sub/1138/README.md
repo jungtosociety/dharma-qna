@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1138-suhaeng.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) |
 | Playtime | 0:15:18 |
 | Resolution | 1280x720|
+| Status | sub |
+| Comments | 2019-7차 유튜브 자막 작업 (임희정) |

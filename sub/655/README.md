@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-655-good-athelete.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/655/en-655-good-athelete.xlsx) |
 | Playtime | 0:11:12 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | None |

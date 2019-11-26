@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1142-person-dislike.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1142/1142-person-dislike.xlsx) |
 | Playtime | 0:09:59 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments | None |

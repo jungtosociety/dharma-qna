@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [853-pressure-entrance-exam.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/853/853-pressure-entrance-exam.xlsx) |
 | Playtime | 0:04:14 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 1h, review(2h) |

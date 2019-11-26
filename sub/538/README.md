@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [538-single-mom.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/538/538-single-mom.xlsx) |
 | Playtime | 0:07:18 |
 | Resolution | 654x480|
+| Status | published |
+| Comments | 2018-1차 유튜브 자막 작업 (김혜은) |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [782-easily-hurt.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/782/782-easily-hurt.xlsx) |
 | Playtime | 0:13:23 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

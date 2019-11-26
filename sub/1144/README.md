@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [1144-conflict-resolution.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1144/1144-conflict-resolution.xlsx) |
 | Playtime | 0:09:16 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments | 2018-1차 유튜브 자막 작업 (김혜은) |

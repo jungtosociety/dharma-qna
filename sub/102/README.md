@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [102-meaningless-dream.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/102/102-meaningless-dream.xlsx) |
 | Playtime | 0:10:46 |
 | Resolution | 480x360|
+| Status | published |
+| Comments |  |

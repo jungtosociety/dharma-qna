@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [832-losing-self-confidence.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/832/832-losing-self-confidence.xlsx) |
 | Playtime | 0:10:02 |
 | Resolution | 1920x1080|
+| Status | sub |
+| Comments | 2019-8차 유튜브 자막 작업 (임희정) |

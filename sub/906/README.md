@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [en-906-depression.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/906/en-906-depression.xlsx) |
 | Playtime | 0:07:12 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | None |

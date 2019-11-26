@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [113-religions-fight.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/113/113-religions-fight.xlsx) |
 | Playtime | 0:04:40 |
 | Resolution | 540x360|
+| Status | published |
+| Comments | None |

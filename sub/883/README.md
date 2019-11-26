@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [883-exam.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/883/883-exam.xlsx) |
 | Playtime | 0:07:01 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments |  |

@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [377-anguishes.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/377/377-anguishes.xlsx) |
 | Playtime | 0:29:54 |
 | Resolution | 320x240|
+| Status | published |
+| Comments |  |

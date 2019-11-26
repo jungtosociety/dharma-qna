@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [557-unhappy.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/557/557-unhappy.xlsx) |
 | Playtime | 0:10:55 |
 | Resolution | 654x480|
+| Status | review |
+| Comments | 2019-3차 유튜브 자막 작업 (임희정), 번역리뷰중 |

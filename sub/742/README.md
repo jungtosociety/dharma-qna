@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [742-sexual-identity.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/742/742-sexual-identity.xlsx) |
 | Playtime | 0:10:11 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2h, review(1.5h) |

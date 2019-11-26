@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [41-miserable-after-retreat.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/41/41-miserable-after-retreat.xlsx) |
 | Playtime | 0:11:22 |
 | Resolution | 540x360|
+| Status | sub |
+| Comments | 2019-9차 유튜브 자막 작업 (임희정) |

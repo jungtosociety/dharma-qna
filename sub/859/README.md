@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [859-messy-daughter.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/859/859-messy-daughter.xlsx) |
 | Playtime | 0:10:42 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 5h |

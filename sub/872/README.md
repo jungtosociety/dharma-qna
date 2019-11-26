@@ -13,3 +13,5 @@
 | Transcript(ko/en) | [872-approach-marriage.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/872/872-approach-marriage.xlsx) |
 | Playtime | 0:03:17 |
 | Resolution | 1920x1080|
+| Status | published |
+| Comments | 2019-8차 유튜브 자막 작업 (임희정) |

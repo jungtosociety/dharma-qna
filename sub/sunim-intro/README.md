@@ -13,3 +13,5 @@
 | Transcript(ko/en) |  |
 | Playtime | 0:03:39 |
 | Resolution | 1280x720|
+| Status | published |
+| Comments | 1h30m |
