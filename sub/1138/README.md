@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1138 |
-| Korean Subtitle | 수행을 통한 긍정적 변화 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle()<br>on yyyy-mm-dd<br><br>|
-| English Subtitle | Making Positive Changes Through Practice \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle()<br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 수행을 통한 긍정적 변화 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(김어진; 영어자막2차:)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Making Positive Changes Through Practice \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(김어진; 영어자막2차:)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
