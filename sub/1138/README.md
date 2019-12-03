@@ -14,4 +14,4 @@
 | Playtime | 0:15:18 |
 | Resolution | 1280x720|
 | Status | unassigned |
-| Comments | 재번역파일 새로 자막 만들어야 함. |
+| Comments | 재번역완료 |
