@@ -4,7 +4,7 @@
 |  [3. Reviewing](#3-reviewing-review) | 9 |
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 4|
 |  [5. Published](PROJECTS.md)  | 86|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 2|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 1|
 
 ## 2. Subtitling (sub)
 
@@ -78,5 +78,3 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [1318](sub/1318) | 사랑을 못 받고 자랐어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d15E5gPvlyUe) |       | video bluring required    |
 |    | I Grew up Unloved   | 0:24:26 |    |    | yyyy-mm-dd      |  ~  |
-| [1138](sub/1138) | 수행을 통한 긍정적 변화   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/cZCjLLljESAb) | 김어진; 영어자막2차:      | 재번역완료    |
-|    | Making Positive Changes Through Practice   | 0:15:18 |    |    | yyyy-mm-dd      | 2019-07-10 ~  |

@@ -102,7 +102,6 @@
 | NO | TITLE         | PUBDATE PLAYTIME | XLS | KO | EN | FR | DE | CN | JA | link |
 |----| ------------- |---------|-----|----|----|----|----|----|----|------|
 | [1318](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1318) | 사랑을 못 받고 자랐어요 I Grew up Unloved | (0:24:26) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/1318 |
-| [1138](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1138) | 수행을 통한 긍정적 변화 Making Positive Changes Through Practice | (0:15:18) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1138/1138-suhaeng.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/1138 |
 ## 2. Subtitling (sub)
 
 | NO | TITLE         | PUBDATE PLAYTIME | XLS | KO | EN | FR | DE | CN | JA | link |
