@@ -78,7 +78,7 @@
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
 | [1318](sub/1318) | 사랑을 못 받고 자랐어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d15E5gPvlyUe) |       | video bluring required    |
 |    | I Grew up Unloved   | 0:24:26 |    |    | yyyy-mm-dd      |  ~  |
-| [704](sub/704) | 분노 조절이 잘 안되고 아이에게 화와 짜증을 냅니다. 아이에게 따뜻한 엄마가 되려면?현재에 만족하지만 앞으로 무엇을 해야할지 모르겠어요여자친구 몰래 바람을 피웠는데 다시 돌아가야 할지 고민이예요다른사람에게 잘 보이고 싶은 욕심을 어떻게 고칠 수 있을까요인간관계가 잘 안되고 게으름이 있는데, 어떻게 극복할 수 있을까요?나만 배려하고 손해 보는 거 같아요스님의 법문 머리로는 알지만, 실천이 안 돼요나를 사랑하는 방법을 알고 싶습니다홀아버지를 모시고 살아야 할까요?운명의 남자를 만나서 한방에 결혼하고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/704/704.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/sKVTcMzOh7Mt) |       | 한글자막있음    |
+| [704](sub/704) | 분노 조절이 잘 안되고 아이에게 화와 짜증을 냅니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/704/704.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/sKVTcMzOh7Mt) |       | 한글자막있음    |
 |    | Get Upset and Agitated at My Children   | 0:09:15 |    |    | yyyy-mm-dd      |  ~  |
 | [1004](sub/1004) | 현재에 만족하지만 앞으로 무엇을 해야할지 모르겠어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1004/1004.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/XXQyqXt9aHBB) |       |     |
 |    | Concerned About the Future   | 0:12:19 |    |    | yyyy-mm-dd      |  ~  |
