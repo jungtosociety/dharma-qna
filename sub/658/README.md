@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 658 |
-| Korean Subtitle | 다른사람에게 잘 보이고 싶은 욕심을 어떻게 고칠 수 있을까요 \| 법륜스님의 즉문즉설<br>by <br>on <br><br>|
-| English Subtitle | Get Stressed out When People Dislike Me \| Ven. Pomnyun's Dharma Q&A<br>by <br>on <br><br>|
+| Korean Subtitle | 다른사람에게 잘 보이고 싶은 욕심을 어떻게 고칠 수 있을까요 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Get Stressed out When People Dislike Me \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

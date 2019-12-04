@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1484 |
-| Korean Subtitle | 나만 배려하고 손해 보는 거 같아요 \| 법륜스님의 즉문즉설<br>by <br>on <br><br>|
-| English Subtitle | I Feel Like Being Taken Advantage of by My Husband. \| Ven. Pomnyun's Dharma Q&A<br>by <br>on <br><br>|
+| Korean Subtitle | 나만 배려하고 손해 보는 거 같아요 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I Feel Like Being Taken Advantage of by My Husband. \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

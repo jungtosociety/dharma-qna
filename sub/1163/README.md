@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1163 |
-| Korean Subtitle | 나를 사랑하는 방법을 알고 싶습니다 \| 법륜스님의 즉문즉설<br>by <br>on <br><br>|
-| English Subtitle | I Want to Know How to Love Myself \| Ven. Pomnyun's Dharma Q&A<br>by <br>on <br><br>|
+| Korean Subtitle | 나를 사랑하는 방법을 알고 싶습니다 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I Want to Know How to Love Myself \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1004 |
-| Korean Subtitle | 현재에 만족하지만 앞으로 무엇을 해야할지 모르겠어요 \| 법륜스님의 즉문즉설<br>by <br>on <br><br>|
-| English Subtitle | Concerned About the Future \| Ven. Pomnyun's Dharma Q&A<br>by <br>on <br><br>|
+| Korean Subtitle | 현재에 만족하지만 앞으로 무엇을 해야할지 모르겠어요 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Concerned About the Future \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 854 |
-| Korean Subtitle | 인간관계가 잘 안되고 게으름이 있는데, 어떻게 극복할 수 있을까요? \| 법륜스님의 즉문즉설<br>by <br>on <br><br>|
-| English Subtitle | What to Do with My Laziness and Relationship Difficulties? \| Ven. Pomnyun's Dharma Q&A<br>by <br>on <br><br>|
+| Korean Subtitle | 인간관계가 잘 안되고 게으름이 있는데, 어떻게 극복할 수 있을까요? \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | What to Do with My Laziness and Relationship Difficulties? \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

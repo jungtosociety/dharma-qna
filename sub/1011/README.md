@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1011 |
-| Korean Subtitle | 운명의 남자를 만나서 한방에 결혼하고 싶어요 \| 법륜스님의 즉문즉설<br>by <br>on <br><br>|
-| English Subtitle | I Want to Marry the Man of My Destiny \| Ven. Pomnyun's Dharma Q&A<br>by <br>on <br><br>|
+| Korean Subtitle | 운명의 남자를 만나서 한방에 결혼하고 싶어요 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I Want to Marry the Man of My Destiny \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |

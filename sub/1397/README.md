@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1397 |
-| Korean Subtitle | 스님의 법문 머리로는 알지만, 실천이 안 돼요 \| 법륜스님의 즉문즉설<br>by <br>on <br><br>|
-| English Subtitle | Very Hard to Change Myself in Real Life (tentative) \| Ven. Pomnyun's Dharma Q&A<br>by <br>on <br><br>|
+| Korean Subtitle | 스님의 법문 머리로는 알지만, 실천이 안 돼요 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
+| English Subtitle | Very Hard to Change Myself in Real Life (tentative) \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
