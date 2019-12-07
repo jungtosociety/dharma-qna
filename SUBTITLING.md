@@ -2,8 +2,8 @@
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 14 |
 |  [3. Reviewing](#3-reviewing-review) | 9 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 4|
-|  [5. Published](PROJECTS.md)  | 86|
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 3|
+|  [5. Published](PROJECTS.md)  | 87|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 11|
 
 ## 2. Subtitling (sub)
@@ -68,8 +68,6 @@
 |    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
 | [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | 손동기; review:김원영      | 2019-8차 유튜브 자막 작업 (임희정)    |
 |    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
-| [832](sub/832) | 자신감이 없어지고 제 자신이 어색하게 느껴져요.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/832/832-losing-self-confidence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/M40rsReJMVOd) | 강일향; review:임희정      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | Losing Self-Confidence and Feeling Awkward   | 0:10:02 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
 | [1185](sub/1185) | 불행에 대처하는 자세   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fLHpahoKD9J0) | 강일향; review:임희정      | video bluring required    |
 |    | Coping With Misfortune   | 0:16:10 |    |    | yyyy-mm-dd      | 2019-10-01 ~ 2019-10-30 |
 ## 1. Ready to Subtitle (unassigned)
