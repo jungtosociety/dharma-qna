@@ -3,7 +3,7 @@
 | ID            | 38 |
 | Korean Subtitle | 기도 후 수행일지를 쓰려면 막막합니다 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(임희정)<br>on 2019-06-01<br>[38.ko.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38.ko.srt)<br>|
 | English Subtitle | How Should I Write My Practice Journal? \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(임희정)<br>on 2019-06-01<br>[38.en.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38.en.srt)<br>|
-| French Subtitle | N/A |
+| French Subtitle | Comment rédiger le journal de mise en pratique des prières \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on 2019-12-10<br>[38.fr.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/38/38.fr.srt)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
