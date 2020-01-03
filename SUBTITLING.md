@@ -1,9 +1,9 @@
 | Status | Number of Videos |
 |--------| ---------------- |
 |  [2. Subtitling](#2-subtitling-sub) | 14 |
-|  [3. Reviewing](#3-reviewing-review) | 9 |
-|  [4. Ready to Publish](#4-ready-to-publish-ready) | 3|
-|  [5. Published](PROJECTS.md)  | 87|
+|  [3. Reviewing](#3-reviewing-review) | 8 |
+|  [4. Ready to Publish](#4-ready-to-publish-ready) | 0|
+|  [5. Published](PROJECTS.md)  | 91|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 11|
 
 ## 2. Subtitling (sub)
@@ -42,9 +42,7 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [1119](sub/1119) | 좋은 배우자의 조건은 무엇일까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1119/1119-good-spouse.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fFSOm7rHR5x0) | 김어진      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | Qualifications for a Good Spouse   | 0:14:31 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
-| [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/muGP4UvvHVj5) | 성미연      | 2019-5차 유튜브 자막 작업 (임희정)    |
+| [1123](sub/1123) | 인연과를 알면 인생이 자유롭다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1123/1123-law-of-cause-and-effect.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/muGP4UvvHVj5) | 성미연; review:임희정      | 2019-5차 유튜브 자막 작업 (임희정)    |
 |    | Knowing the Law of Cause and Effect Can Free You in Life.   | 0:12:09 |    |    | yyyy-mm-dd      |  ~  |
 | [1205](sub/1205) | 최선을 다하되 결과에 연연하지 않는다.   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1205/1205-cling-to-results.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/9CTJIgqBVEiz) | 성미연      | 2019-7차 유튜브 자막 작업 (임희정)    |
 |    | Do Your Best, but Don't Cling to Results   | 0:08:05 |    |    | yyyy-mm-dd      | 2019-07-10 ~ 2019-09-09 |
@@ -64,12 +62,6 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [863](sub/863) | 부모님으로부터 정신적으로 독립할 수 있는 방법은?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/863/863-independence.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/bOuztxMsRMTQ) | 박상희; review:김원영      | 2019-3차 유튜브 자막 작업 (임희정)    |
-|    | How to Achieve Emotional Independence from Parents?   | 0:13:10 |    |    | yyyy-mm-dd      | 2019-03-05 ~  |
-| [897](sub/897) | 한 직장에 재미를 못 느끼고 계속 옮겨다녀요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/897/897-job-moving-around.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/DBiGUffutaew) | 손동기; review:김원영      | 2019-8차 유튜브 자막 작업 (임희정)    |
-|    | I can't stay put at one job; I lose interest and keep moving around.   | 0:08:32 |    |    | yyyy-mm-dd      | 2019-08-01 ~ 2019-09-09 |
-| [1185](sub/1185) | 불행에 대처하는 자세   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/fLHpahoKD9J0) | 강일향; review:임희정      | video bluring required    |
-|    | Coping With Misfortune   | 0:16:10 |    |    | yyyy-mm-dd      | 2019-10-01 ~ 2019-10-30 |
 ## 1. Ready to Subtitle (unassigned)
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
