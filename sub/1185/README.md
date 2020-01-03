@@ -8,7 +8,7 @@
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
 | Original YouTube Link  | [https://youtu.be/NygRI2gYmM0](https://youtu.be/NygRI2gYmM0) |
-| YouTube Link  |  |
+| YouTube Link  | [https://youtu.be/uYTBZMcUtoc](https://youtu.be/uYTBZMcUtoc) |
 | Amara Link    | [http://amara.org/en/videos/fLHpahoKD9J0](http://amara.org/en/videos/fLHpahoKD9J0) |
 | Transcript(ko/en) | [1185-coping-with-misfortune.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1185/1185-coping-with-misfortune.xlsx) |
 | Playtime | 0:16:10 |
