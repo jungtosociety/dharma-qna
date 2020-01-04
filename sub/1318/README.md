@@ -14,4 +14,4 @@
 | Playtime | 0:24:26 |
 | Resolution | 1280x720|
 | Status | unassigned |
-| Comments | video bluring required |
+| Comments | None |

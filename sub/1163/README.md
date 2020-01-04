@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [1163.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1163/1163.xlsx) |
 | Playtime | 0:10:13 |
 | Resolution | 1280x720|
-| Status | unassigned |
-| Comments | None |
+| Status | sub |
+| Comments | 2019-12차 유튜브 자막 작업 (임희정) |

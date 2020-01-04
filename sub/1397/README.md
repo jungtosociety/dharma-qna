@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [1397.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1397/1397.xlsx) |
 | Playtime | 0:15:20 |
 | Resolution | 1280x720|
-| Status | unassigned |
-| Comments | 영어제목이 없어서 임시로, 번역팀에서 영어제목 보내줄 예정 |
+| Status | sub |
+| Comments | 2019-12차 유튜브 자막 작업 (임희정) - 오류영상 (동영상 재생안됨 - 삭제된영상) |

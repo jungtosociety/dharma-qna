@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [1026.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1026/1026.xlsx) |
 | Playtime | 0:08:37 |
 | Resolution | 1920x1080|
-| Status | unassigned |
-| Comments | None |
+| Status | sub |
+| Comments | 2020-1차 유튜브 자막 작업 (임희정) |
