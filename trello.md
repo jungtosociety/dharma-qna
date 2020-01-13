@@ -102,7 +102,6 @@
 
 | NO | TITLE         | PUBDATE PLAYTIME | XLS | KO | EN | FR | DE | CN | JA | link |
 |----| ------------- |---------|-----|----|----|----|----|----|----|------|
-| [1318](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1318) | 사랑을 못 받고 자랐어요 I Grew up Unloved | (0:24:26) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/1318 |
 ## 2. Subtitling (sub)
 
 | NO | TITLE         | PUBDATE PLAYTIME | XLS | KO | EN | FR | DE | CN | JA | link |
@@ -121,6 +120,7 @@
 | [971](https://github.com/jungtosociety/dharma-qna/blob/master/sub/971) | 남과 나를 비교하는 마음 Comparing Myself to Others | (0:16:24) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/971/971-comparing-myself-to-others.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/971 |
 | [1125](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1125) | 길에 난 풀처럼 산다는 것의 의미 What It Means to Live Like Grass | (0:11:13) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1125/1125-live-like-grass.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/1125 |
 | [1156](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1156) | 성당에 다니고 있는데 절에 다녀도 될까요? Can a Catholic Person Attend a Buddhist Temple? | (0:17:04) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1156/1156-catholic-buddhist.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/1156 |
+| [1318](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1318) | 사랑을 못 받고 자랐어요 I Grew up Unloved | (0:24:26) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/1318 |
 | [704](https://github.com/jungtosociety/dharma-qna/blob/master/sub/704) | 분노 조절이 잘 안되고 아이에게 화와 짜증을 냅니다 Get Upset and Agitated at My Children | (0:09:15) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/704/704.xlsx) | [#ko-sub](https://github.com/jungtosociety/dharma-qna/raw/master/sub/704/704.ko.sbv) |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/704 |
 | [1004](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1004) | 현재에 만족하지만 앞으로 무엇을 해야할지 모르겠어요 Concerned About the Future | (0:12:19) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1004/1004.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/1004 |
 | [1026](https://github.com/jungtosociety/dharma-qna/blob/master/sub/1026) | 여자친구 몰래 바람을 피웠는데 다시 돌아가야 할지 고민이예요 I Cheated on My Girl Friend. Should I Go Back to Her? | (0:08:37) (yyyy-mm-dd) | [#excel](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1026/1026.xlsx) |  |  |  |  |  |  | https://github.com/jungtosociety/dharma-qna/blob/master/sub/1026 |

@@ -1,10 +1,10 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 24 |
+|  [2. Subtitling](#2-subtitling-sub) | 25 |
 |  [3. Reviewing](#3-reviewing-review) | 8 |
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 0|
 |  [5. Published](PROJECTS.md)  | 91|
-|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 1|
+|  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 0|
 
 ## 2. Subtitling (sub)
 
@@ -38,6 +38,8 @@
 |    | What It Means to Live Like Grass   | 0:11:13 |    |    | yyyy-mm-dd      |  ~  |
 | [1156](sub/1156) | 성당에 다니고 있는데 절에 다녀도 될까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1156/1156-catholic-buddhist.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/XcxDGyXRVgEb) | 성미연      | 2019-11차 유튜브 자막 작업 (임희정)    |
 |    | Can a Catholic Person Attend a Buddhist Temple?   | 0:17:04 |    |    | yyyy-mm-dd      | 2019-11-01 ~  |
+| [1318](sub/1318) | 사랑을 못 받고 자랐어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d15E5gPvlyUe) | 성미연      | 2020-1차 유튜브 자막 작업 (임희정)    |
+|    | I Grew up Unloved   | 0:24:26 |    |    | yyyy-mm-dd      | 2019-01-10 ~  |
 | [704](sub/704) | 분노 조절이 잘 안되고 아이에게 화와 짜증을 냅니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/704/704.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/sKVTcMzOh7Mt) | 김어진      | 2020-1차 유튜브 자막 작업 (임희정)    |
 |    | Get Upset and Agitated at My Children   | 0:09:15 |    |    | yyyy-mm-dd      | 2020-01-03 ~  |
 | [1004](sub/1004) | 현재에 만족하지만 앞으로 무엇을 해야할지 모르겠어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1004/1004.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/XXQyqXt9aHBB) | 김재우      | 2019-12차 유튜브 자막 작업 (임희정)    |
@@ -86,5 +88,3 @@
 
 | NO | TITLE / TITLE(EN) | YT / DUR | XLS | AMA | ASSIGNED / PUBDATE | NOTE / WORKINGDATE  |
 |----| ----------------- |----------|-----|-----|--------------------|---------------------|
-| [1318](sub/1318) | 사랑을 못 받고 자랐어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/d15E5gPvlyUe) |       |     |
-|    | I Grew up Unloved   | 0:24:26 |    |    | yyyy-mm-dd      |  ~  |

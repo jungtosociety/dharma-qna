@@ -1,8 +1,8 @@
 |  key  |  value  |
 |-------|---------|
 | ID            | 1318 |
-| Korean Subtitle | 사랑을 못 받고 자랐어요 \| 법륜스님의 즉문즉설<br>by <br>on yyyy-mm-dd<br><br>|
-| English Subtitle | I Grew up Unloved \| Ven. Pomnyun's Dharma Q&A<br>by <br>on yyyy-mm-dd<br><br>|
+| Korean Subtitle | 사랑을 못 받고 자랐어요 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(성미연)<br>on yyyy-mm-dd<br><br>|
+| English Subtitle | I Grew up Unloved \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(성미연)<br>on yyyy-mm-dd<br><br>|
 | French Subtitle | N/A |
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [1318-grown-up-unloved.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1318/1318-grown-up-unloved.xlsx) |
 | Playtime | 0:24:26 |
 | Resolution | 1280x720|
-| Status | unassigned |
-| Comments | None |
+| Status | sub |
+| Comments | 2020-1차 유튜브 자막 작업 (임희정) |
