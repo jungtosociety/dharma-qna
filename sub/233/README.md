@@ -13,5 +13,5 @@
 | Transcript(ko/en) | [233-interfering.xlsx](https://github.com/jungtosociety/dharma-qna/raw/master/sub/233/233-interfering.xlsx) |
 | Playtime | 0:13:30 |
 | Resolution | 654x480|
-| Status | published |
-| Comments | 2019-2차 유튜브 자막 작업 (임희정) |
+| Status | deleted |
+| Comments | 2019-2차 유튜브 자막 작업 (임희정);  질문자 삭제 요청으로 삭제 |

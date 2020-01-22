@@ -3,7 +3,7 @@
 |  [2. Subtitling](#2-subtitling-sub) | 25 |
 |  [3. Reviewing](#3-reviewing-review) | 8 |
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 0|
-|  [5. Published](PROJECTS.md)  | 91|
+|  [5. Published](PROJECTS.md)  | 90|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 0|
 
 ## 2. Subtitling (sub)
