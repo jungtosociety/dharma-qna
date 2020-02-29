@@ -1,9 +1,9 @@
 | Status | Number of Videos |
 |--------| ---------------- |
-|  [2. Subtitling](#2-subtitling-sub) | 25 |
+|  [2. Subtitling](#2-subtitling-sub) | 24 |
 |  [3. Reviewing](#3-reviewing-review) | 8 |
 |  [4. Ready to Publish](#4-ready-to-publish-ready) | 0|
-|  [5. Published](PROJECTS.md)  | 90|
+|  [5. Published](PROJECTS.md)  | 91|
 |  [1. Ready to Subtitle](#1-ready-to-subtitle-unassigned)  | 0|
 
 ## 2. Subtitling (sub)
@@ -54,8 +54,6 @@
 |    | I Feel Like Being Taken Advantage of by My Husband.   | 0:24:03 |    |    | yyyy-mm-dd      | 2020-01-03 ~  |
 | [1397](sub/1397) | 스님의 법문 머리로는 알지만, 실천이 안 돼요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1397/1397.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/R1YlTv2xCMOf) | 강일향      | 2019-12차 유튜브 자막 작업 (임희정) - 오류영상 (동영상 재생안됨 - 삭제된영상)    |
 |    | Very Hard to Change Myself in Real Life (tentative)   | 0:15:20 |    |    | yyyy-mm-dd      |  ~  |
-| [1163](sub/1163) | 나를 사랑하는 방법을 알고 싶습니다   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1163/1163.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/zYxBYHW7WfVN) | 김재우      | 2019-12차 유튜브 자막 작업 (임희정)    |
-|    | I Want to Know How to Love Myself   | 0:10:13 |    |    | yyyy-mm-dd      |  ~  |
 | [1110](sub/1110) | 홀아버지를 모시고 살아야 할까요?   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1110/1110.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/0klgqEQtFXLF) | 강일향      | 2019-12차 유튜브 자막 작업 (임희정) - 수정요청 : 녹취/번역 일부 Missing    |
 |    | Should I Live With My Father?   | 0:18:42 |    |    | yyyy-mm-dd      |  ~  |
 | [1011](sub/1011) | 운명의 남자를 만나서 한방에 결혼하고 싶어요   |  | [![](img/excel.png)](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1011/1011.xlsx) | [![](img/amara.png)](http://amara.org/en/videos/O67s8jwbJjA9) | 손동기      | 2020-1차 유튜브 자막 작업 (임희정)    |
