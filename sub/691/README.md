@@ -3,7 +3,7 @@
 | ID            | 691 |
 | Korean Subtitle | 내 상처 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(성미연;review:김혜은)<br>on 2019-08-03<br>[ko-691-my-wounds.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/ko-691-my-wounds.sbv)<br>|
 | English Subtitle | My Wounds \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(성미연;review:김혜은)<br>on 2019-08-03<br>[en-691-my-wounds.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/en-691-my-wounds.sbv)<br>|
-| French Subtitle | N/A |
+| French Subtitle | Les blessures de ma mère sont devenues les miennes et je ne veux plus voir mes parents \| Le Dharma du Ven. Pomnyun<br>by translation:윤혜정; review:Franck Vautier<br>on 2020-03-15<br>[691.fr.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/691/691.fr.srt)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
