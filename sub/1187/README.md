@@ -3,7 +3,8 @@
 | ID            | 1187 |
 | Korean Subtitle | 싫어하는 사람을 대할 때 \| 법륜스님의 즉문즉설<br>by 한국어녹취:,subtitle(정민규;review:김혜은)<br>on 2019-08-24<br>[ko-1187-hate-people.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/ko-1187-hate-people.sbv)<br>|
 | English Subtitle | Dealing With People I Hate \| Ven. Pomnyun's Dharma Q&A<br>by 번역:,subtitle(정민규;review:김혜은)<br>on 2019-08-24<br>[en-1187-hate-people.sbv](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/en-1187-hate-people.sbv)<br>|
-| French Subtitle | N/A |
+| French Subtitle | Comment agir envers quelqu'un que je déteste \| Le Dharma du Ven. Pomnyun<br>by 번역자: 윤혜정;
+리뷰어: Frank Vautier<br>on 2020-04-08<br>[1187.fr.srt](https://github.com/jungtosociety/dharma-qna/raw/master/sub/1187/1187.fr.srt)<br>|
 | German Subtitle | N/A |
 | Chinese Subtitle | N/A |
 | Japanese Subtitle | N/A |
