@@ -71,17 +71,17 @@ def gentab_fr_sub(f,status='published'):
     f.write('| NO | TITLE         | YT | AM | French Subtitle Completed Date | YouTube Date |\n')
     f.write('|----| ------------- |----|----|---------|-------------------|\n')
 
-    for row in c.execute('SELECT v.vid,fr.title,v.pubdate vpubdate ,v.youtube,v.amara, fr.pubdate frpubdate \
+    for row in c.execute('SELECT v.vid,fr.title frtitle,v.pubdate vpubdate ,v.youtube,v.amara, fr.pubdate frpubdate \
                             FROM video v \
                             LEFT OUTER JOIN fr ON v.vid = fr.vid \
                            WHERE status=\''+status+'\' \
                            ORDER BY v.pubdate DESC \
                              ' ):
-        vid     = utf8(row["v.vid"]) # row["vid"]
-        title   = utf8(row["fr.title"]) #.encode('utf8')
+        vid     = utf8(row["vid"]) # row["vid"]
+        title   = utf8(row["frtitle"]) #.encode('utf8')
         xlsfn   = getxlsfn(vid)
-        youtube = utf8(row["v.youtube"])
-        amara   = utf8(row["v.amara"])
+        youtube = utf8(row["youtube"])
+        amara   = utf8(row["amara"])
         nolink = "[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid)
         utubelink = utf8("[![](img/youtube.png)](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
         amaralink = "[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else ''
@@ -102,18 +102,18 @@ def gentab_published(f,status='published'):
     f.write('| NO | TITLE         | YT | AM | XLS | PUBDATE | EN | FR | DE | CN | JA |\n')
     f.write('|----| ------------- |----|----|-----|---------|----|----|----|----|----|\n')
 
-    for row in c.execute('SELECT v.vid,en.title,v.pubdate,v.youtube,v.amara \
+    for row in c.execute('SELECT v.vid,en.title entitle,v.pubdate,v.youtube,v.amara \
                             FROM video v \
                             LEFT OUTER JOIN en ON v.vid = en.vid \
                            WHERE status=\''+status+'\' \
                            ORDER BY v.pubdate DESC \
                              ' ):
-        vid     = row["v.vid"] # row["vid"]
-        title   = utf8(row["en.title"]) #.encode('utf8')
+        vid     = row["vid"] # row["vid"]
+        title   = utf8(row["entitle"]) #.encode('utf8')
         xlsfn   = getxlsfn(vid)
-        pubdate = row["v.pubdate"]
-        youtube = row["v.youtube"]
-        amara   = row["v.amara"]
+        pubdate = row["pubdate"]
+        youtube = row["youtube"]
+        amara   = row["amara"]
         fn_en   = getsubfn(vid,'en')
         fn_fr   = getsubfn(vid,'fr')
         fn_de   = getsubfn(vid,'de')
@@ -147,17 +147,17 @@ def gentab_subtitling(f,status=None):
                             FROM video v \
                             LEFT OUTER JOIN en ON v.vid = en.vid \
                             '+whereorderby ):
-        vid     = row["v.vid"]
-        title   = utf8(row["v.title"])
+        vid     = row["vid"]
+        title   = utf8(row["title"])
         xlsfn   = getxlsfn(vid)
-        pubdate = utf8(row["v.pubdate"])
-        youtube = row["v.youtube"]
-        amara   = row["v.amara"]
-        worker  = utf8(row["v.subworker"])
-        begin   = utf8(row["v.subbegin"])
-        end     = utf8(row["v.subend"])
-        memo    = utf8(row["v.memo"])
-        playtime  = utf8(row["v.playtime"])
+        pubdate = utf8(row["pubdate"])
+        youtube = row["youtube"]
+        amara   = row["amara"]
+        worker  = utf8(row["subworker"])
+        begin   = utf8(row["subbegin"])
+        end     = utf8(row["subend"])
+        memo    = utf8(row["memo"])
+        playtime  = utf8(row["playtime"])
         entitle   = row["entitle"]
         entitle   = utf8("%s" % (entitle) if entitle is not None else '') 
         nolink = utf8("[%s](sub/%s)" % (vid,vid))
@@ -179,21 +179,21 @@ def gentab_trello(f,status='published'):
                            WHERE status=\''+status+'\' \
                            ORDER BY v.pubdate DESC \
                              ' ):
-        vid     = row["v.vid"] # row["vid"]
+        vid     = row["vid"] # row["vid"]
         kotitle   = utf8(row["kotitle"])
         entitle   = row["entitle"]
         entitle   = utf8("%s" % (entitle) if entitle is not None else '') 
         xlsfn   = getxlsfn(vid)
-        pubdate = utf8(row["v.pubdate"])
-        youtube = row["v.youtube"]
-        amara   = row["v.amara"]
+        pubdate = utf8(row["pubdate"])
+        youtube = row["youtube"]
+        amara   = row["amara"]
         fn_ko   = getsubfn(vid,'ko')
         fn_en   = getsubfn(vid,'en')
         fn_fr   = getsubfn(vid,'fr')
         fn_de   = getsubfn(vid,'de')
         fn_cn   = getsubfn(vid,'cn')
         fn_ja   = getsubfn(vid,'ja')
-        playtime  = utf8(row["v.playtime"])
+        playtime  = utf8(row["playtime"])
         nolink = utf8("[%s](https://github.com/jungtosociety/dharma-qna/blob/master/sub/%s)" % (vid,vid))
         utubelink = utf8("[![](img/youtube.png)](https://youtu.be/%s)" % (youtube) if youtube is not None else '')
         amaralink = utf8("[![](img/amara.png)](http://amara.org/en/videos/%s)" % (amara) if amara is not None else '')
