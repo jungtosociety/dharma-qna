@@ -2,3 +2,4 @@
 *.pyc
 /tags
 .DS_Store
+.vs
